@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 18</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 18</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="308"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e19348"><!-- ld-d18 -->
+            <head xml:id="cv8jk9-e19348-Hd1e106">Distinctio 18</head>
+            <p xml:id="cv8jk9-e19348-d1e109">
+               <lb ed="#G" n="20"/>AD DISTINCT. XVIII 
+      <lb ed="#G" n="21"/>AD CAP. IIII 
+    </p>
+            <p xml:id="cv8jk9-e19348-d1e116">
+               <lb ed="#G" n="22"/>I Ita Spiritui sancto. Mens Augustini eo 
+      spe<lb ed="#G" n="23" break="no"/>ctat, vt doceat voce ipsa Spiritus, sanctus, nullam  
+      <lb ed="#G" n="24"/>proprie ac intelligenter relationem significari, 
+      <lb ed="#G" n="25"/>qua ex Patre &amp; Filio tertia illa diuina Persona 
+      <lb ed="#G" n="26"/>emanare designetur. Nam &amp; Spiritus &amp; sanctus 
+      <lb ed="#G" n="27"/>vocabula etiam Patri &amp; Filio scorsim 
+      conue<lb ed="#G" n="28" break="no"/>niunt. Itaque aliud nomen ipse Augustinus 
+      <lb ed="#G" n="29"/>substituit, illustrandae. tantum rei tam 
+      necessa<lb ed="#G" n="30" break="no"/>riae caussa, ex quo ista emanatio tertiae Per 
+      so<lb ed="#G" n="31" break="no"/>nae, ac relatio ad alias dilucide intelligi possit. 
+      <!--410.xml-->
+      <pb ed="#G" n="309"/>
+      
+               <lb ed="#G" n="1"/>Ergo Spiritum sanctum vocat Donum, quae vox 
+      <lb ed="#G" n="2"/>procul dubio est ἐκ τῶν τ&amp;ς n, &amp; ab alio esse id 
+      si<lb ed="#G" n="3" break="no"/>gnificat, quod donum appellatur. Iste vero 
+      no<lb ed="#G" n="4" break="no"/>dum in scirpo quaerens, ea, quae iξηημνεως id est,  
+      <lb ed="#G" n="5"/>explanationis duntaxat gratia ab Augustino 
+      di<lb ed="#G" n="6" break="no"/>cta sunt tanquam δωλῆς δονματα, &amp; ipsissimos 
+      fi<lb ed="#G" n="7" break="no"/>dei Christianae articulos argute ac seuere 
+      inter<lb ed="#G" n="8" break="no"/>pretatur. Vult enim eadem ratione &amp; eadem  
+      <lb ed="#G" n="9"/>aeternitate tertiam illam diuinam Personam  
+      <lb ed="#G" n="10"/>Spiritum sanctum : &amp; Donum dici. In quo 
+      gra<lb ed="#G" n="11" break="no"/>uissime iste quidem fallitur.
+    </p>
+            <p xml:id="cv8jk9-e19348-d1e168">
+               <lb ed="#G" n="12"/>Spiritus sanctus qui non est. Eodem 
+      perti<lb ed="#G" n="13" break="no"/>net hic quoque Augustini locus, vt ex ipsis 
+      ver<lb ed="#G" n="14" break="no"/>bis apparet. 
+    </p>
+            <p xml:id="cv8jk9-e19348-d1e177">
+               <lb ed="#G" n="15"/>S Semper Spiritus sanctus procedit. Locus est 
+      <lb ed="#G" n="16"/>sumptus ex libro quinto de Trinitate, capite 
+      <lb ed="#G" n="17"/>decimoquinto, qui Lombardum ninis 
+      osci<lb ed="#G" n="18" break="no"/>tanter ista legentem, pueriliter fefellit. Nam  
+      <lb ed="#G" n="19"/>eo ipso in capite satis ostenditur, non esse 
+      ni<lb ed="#G" n="20" break="no"/>mium illud vrgendum, quod Spiritus sanctus 
+      <lb ed="#G" n="21"/>dicitur Donum, tanquam verissima &amp; aeterna 
+      i<lb ed="#G" n="22" break="no"/>psius ex Patre &amp; Filio emanatio commode hoc 
+      <lb ed="#G" n="23"/>vocabulo denotetur, cum ἀποπα quaedam 
+      orian<lb ed="#G" n="24" break="no"/>tur, si quis nimis praefracte &amp; seuere istam ap 
+      <lb ed="#G" n="25"/>pellationem interpretetur. Sequetur enim, vt, 
+      <lb ed="#G" n="26"/>quemadmodum Filius nascendo ex Patre 
+      ha<lb ed="#G" n="27" break="no"/>bet &amp; vt sit, &amp; vt sit Filius: sic Spiritus sanctus 
+      <lb ed="#G" n="28"/>ex eo quod datur, habeat &amp; vt sit, &amp; donum sit. 
+      <lb ed="#G" n="29"/>Quod est omnino absurdum, &amp; a δεκτεoν. 
+    </p>
+            <p xml:id="cv8jk9-e19348-d1e213">
+               <lb ed="#G" n="30"/>AD CAP. VI
+    </p>
+            <p xml:id="cv8jk9-e19348-d1e218">
+               <lb ed="#G" n="31"/>Non tantum vt sit Filius, sed vt essentia. 
+      <lb ed="#G" n="32"/>Videant qui in ipsius Lombardi verba vel per¬ 
+      <!--411.xml-->
+      <pb ed="#G" n="310"/>
+               <lb ed="#G" n="1"/>tinacissime iurarunt, qua ratione hanc ἐκανηωαῳ 
+      <lb ed="#G" n="2"/>manifestissimam ex eo defendent, Filius nascendo 
+      <lb ed="#G" n="3"/>accepit vt esset essentia, quod hoc capite dicitur.  
+      <lb ed="#G" n="4"/>&amp;, Filius natiuitate essentia non est, quod proxime 
+      <lb ed="#G" n="5"/>sequenti capite affirmatur. Sic seipsam euertit 
+      <lb ed="#G" n="6"/>curiositas, &amp; scrutator nimius maiestatis Dei 
+      <lb ed="#G" n="7"/>(qualem se iste in hoc toto argumento ostendit) 
+      <lb ed="#G" n="8"/>ab ipsa illius gloria opprimetur, Prouerb. 2s, &amp;  
+      <lb ed="#G" n="9"/>Bernard. Sermo 2I. in Cant. Canticorum. 
+    </p>
+            <p xml:id="cv8jk9-e19348-d1e249">
+               <lb ed="#G" n="10"/>AD CAP. VII
+    </p>
+            <p xml:id="cv8jk9-e19348-d1e254">
+               <lb ed="#G" n="11"/>I Per defectionem. Lege per desectione, id est,  
+      <lb ed="#G" n="12"/>ανατoubν. Nam &amp; hunc modum recenset Epipha. 
+      <lb ed="#G" n="13"/>in A)vvporu inter eos, quos haeretici afferebant,  
+      <lb ed="#G" n="14"/>vt aeternam generationem Filij ex Patre Deo 
+      <lb ed="#G" n="15"/>calumniarentur, &amp; oppugnarent. Sic autem 
+      a<lb ed="#G" n="16" break="no"/>pud ipsum Hilarium constantissime legitur, 
+      quen<lb ed="#G" n="17" break="no"/>admodum reposuimus, quanquam in omnibus 
+      <lb ed="#G" n="18"/>Lombardi, &amp; recentioribus &amp; vetustioribus 
+      <lb ed="#G" n="19"/>codicibus pertinaciter retentum est defectionem, 
+      <lb ed="#G" n="20"/>quae vox est nihili. Vide Thomam in I. parte, 
+      <lb ed="#G" n="21"/>Quaest. 42. Artic. 2. qui sic quoque emendat.
+    </p>
+            <p xml:id="cv8jk9-e19348-d1e280">
+               <lb ed="#G" n="22"/>Censura.
+    </p>
+            <p xml:id="cv8jk9-e19348-d1e285">
+               <lb ed="#G" n="23"/>Quemadmodum superiori Distinctione in 
+      <lb ed="#G" n="24"/>Theologiam &amp; rem ipsam peccatum est: sic in 
+      <lb ed="#G" n="25"/>hac in duas praestantissimas artes nimirum 
+      Gra<lb ed="#G" n="26" break="no"/>maticam ac Logicam, quam appellant. 
+      Distin<lb ed="#G" n="27" break="no"/>guit enim iste inter donum &amp; datu siue donatum, sed 
+      <lb ed="#G" n="28"/>non eo modo, quo Logici solent ἀηκ ποις παρωνύμως, 
+      <lb ed="#G" n="29"/>vt donum &amp; donatum (quae sunt παράνύμα, 
+      quem<lb ed="#G" n="30" break="no"/>admodum lustitia &amp; lustum, Fortitudo &amp; 
+      For<lb ed="#G" n="31" break="no"/>te, Pater &amp; Paternum) eam inter se compara¬ 
+      <!--412.xml-->
+      <pb ed="#G" n="311"/>
+               <lb ed="#G" n="1"/>tionem habeant, quod donum est denominans. 
+      <lb ed="#G" n="2"/>id est, ipsum ταρωνύμας fundamentum. Donatum 
+      <lb ed="#G" n="3"/>vero est ipsum denominatum vocabulum. Non 
+      <lb ed="#G" n="4"/>etiam sic iste distinguit, 
+      quemadmodumGram<lb ed="#G" n="5" break="no"/>mati faciunt, qui Donum primarium nomen 
+      ap<lb ed="#G" n="6" break="no"/>pellant: Donatum vero secundarium ac 
+      deriua<lb ed="#G" n="7" break="no"/>tum. Non denique, vt periti linguae Latinae 
+      in<lb ed="#G" n="8" break="no"/>terpretes, qui donum a munere &amp; praemio ex 
+      dili<lb ed="#G" n="9" break="no"/>genti scriptorum obseruatione separant (quam  
+      <lb ed="#G" n="10"/>differentiam verborum &amp; Cornelius Fronto, 
+      <lb ed="#G" n="11"/>&amp; Donatus, &amp; Agraetius, &amp; Seruius Honoratus 
+      <lb ed="#G" n="12"/>eleganter annotarunt.) Sed mira prorsus est 
+      i<lb ed="#G" n="13" break="no"/>sta Lombardi definitio, vt donum dicatur 
+      sem<lb ed="#G" n="14" break="no"/>piterne, id est, quod est ab aeterno: donatum 
+      ve<lb ed="#G" n="15" break="no"/>ro temporaliter, id est, quod certo quodam tem:  
+      <lb ed="#G" n="16"/>pore coepit esse datum. Haec Lombard. cap. 4. 
+      <lb ed="#G" n="17"/>huius Distinctionis. Ergo nos primum verba 
+      <lb ed="#G" n="18"/>ista eorumque proprietatem examinemus, qua 
+      <lb ed="#G" n="19"/>tenus ad Grammaticos pertinet: deinde 
+      quate<lb ed="#G" n="20" break="no"/>nus ad Theologos, vt quam longe ab 
+      vtrorun<lb ed="#G" n="21" break="no"/>que scopo discedat omnes intelligant. Aliquam  
+      <lb ed="#G" n="22"/>esse inter donabile ζδωρητικὸν Graeci vocant) &amp;  
+      <lb ed="#G" n="23"/>donatum (δῶρητὸν siue δεδωμὸνὸν iidem illi nominant) 
+      <lb ed="#G" n="24"/>huiusmodi differentiam facile concesserim, quae 
+      <lb ed="#G" n="25"/>est inter id quod δυνάμει &amp; ἐνερyeia Physici dicunt. 
+      <lb ed="#G" n="26"/>Est enim donabile quod nondum actu donatum 
+      <lb ed="#G" n="27"/>est: sed tantum potentia. Donatum uero est,  
+      <lb ed="#G" n="28"/>quod non δυναυε &amp; potentia duntaxat, sed 
+      re<lb ed="#G" n="29" break="no"/>ipsa iam datum est. Sed eandem differentiam  
+      <lb ed="#G" n="30"/>esse inter donum &amp; douatum siue datum nunquam 
+      <lb ed="#G" n="31"/>equidem concesserim. Est enim id donum quod 
+      <lb ed="#G" n="32"/>actu iam donum est, siue qua res iam data est. 
+      <lb ed="#G" n="33"/>Ergo Quidius recte.
+    </p>
+            <p xml:id="cv8jk9-e19348-d1e384">
+               <lb ed="#G" n="34"/>Placatur donis luppiter ipse datis.
+    </p>
+            <p xml:id="cv8jk9-e19348-d1e389">
+      <!--413.xml-->
+               <pb ed="#G" n="312"/>
+               <lb ed="#G" n="1"/>Quod autem inter Datum &amp; Donatum 
+      Lom<lb ed="#G" n="2" break="no"/>bardus distinguit, est plane absurdum. 
+      Confun<lb ed="#G" n="3" break="no"/>dunt enim ista doctissimi Grammatici, &amp; 
+      luris<lb ed="#G" n="4" break="no"/>consulti proprietatis verborum homines 
+      ob<lb ed="#G" n="5" break="no"/>seruantissimi. Donamus, inquit Agraetius, illud 
+      <lb ed="#G" n="6"/>quod damus. Denique &amp; August. ipse (quem 
+      v<lb ed="#G" n="7" break="no"/>num suae istius Distinctionis autorem laudare 
+      <lb ed="#G" n="8"/>voluit Lombardus) alibi seipsum refutat. Qui 
+      <lb ed="#G" n="9"/>enim tam religiose lib. 8. de Trin. cap. I8, 
+      sepa<lb ed="#G" n="10" break="no"/>rat Datum &amp; Donatum, idem eodem lib. cap. 
+      I4<lb ed="#G" n="11" break="no"/>his verbis confundit. Exit enim Spiritus sanctus 
+      <lb ed="#G" n="12"/>non quomodo natus, sed quomodo datus, adeo vt 
+      e<lb ed="#G" n="13" break="no"/>tiam ad aeternam emanationem Sp. S. vocabulo 
+      <lb ed="#G" n="14"/>Datus illic vtatur Aug. Ergo iampridem apud 
+      <lb ed="#G" n="15"/>ipsum Aug. istam spinosam inter Donum &amp; 
+      Do<lb ed="#G" n="16" break="no"/>natum argutiolam inculcantem, haec recte in 
+      mar<lb ed="#G" n="17" break="no"/>gine annotata fuerant, Quomodo in Spiritu 
+      san<lb ed="#G" n="18" break="no"/>cto etiam antequam daretur, possit Doni nomen 
+      in<lb ed="#G" n="19" break="no"/>telligi, vt ei semper non aliud fuerit donum esse, quam 
+      <lb ed="#G" n="20"/>ipsum esse) Haec iampridem istam Lombardi 
+      <lb ed="#G" n="21"/>urammaticam damnabant.  
+    </p>
+            <p xml:id="cv8jk9-e19348-d1e441">
+               <lb ed="#G" n="22"/>Quod autem ad Theologicam pertinet, vult 
+      <lb ed="#G" n="23"/>Lombardus eadem proprietate &amp; ratione Sp. S. 
+      di<lb ed="#G" n="24" break="no"/>ci &amp; Sp. S. &amp; donum, qua procedit ex Patre &amp; 
+      Fi<lb ed="#G" n="25" break="no"/>lio. Haec cap. 4. quae quam sint falsa primum 
+      do<lb ed="#G" n="26" break="no"/>cent ipsius interpretes Durandus, &amp; Occan. Na 
+      <lb ed="#G" n="27"/>Occan negat esse donum proprietatem esse Sp. S. 
+      <lb ed="#G" n="28"/>&amp; merito quidem. Durandus ait, donabilitatem  
+      <lb ed="#G" n="29"/>&amp; donum addere notionem tantum, non esse rem  
+      <lb ed="#G" n="30"/>vllam in diuinis. Ergo Sp. S. esset tantum 
+      no<lb ed="#G" n="31" break="no"/>tio quaedam animi, si quam ratione donum est, 
+      ea<lb ed="#G" n="32" break="no"/>dem esset Spiritus sanctus. Deinde si donum est,  
+      <lb ed="#G" n="33"/>quod potentia tantum donabile est, nondum 
+      au<lb ed="#G" n="34" break="no"/>tem est donatum, vt iste scribit: &amp; Spiritus san¬ 
+      <!--414.xml-->
+      <pb ed="#G" n="313"/>
+      
+               <lb ed="#G" n="1"/>ctus quam donum est, etiam procedens est a 
+      pa<lb ed="#G" n="2" break="no"/>tre &amp; Filio, sequetur Spiritum sanctum 
+      proce<lb ed="#G" n="3" break="no"/>dere de Patre &amp; Filio potentia tantum, no actu, 
+      <lb ed="#G" n="4"/>quod est blasphemu: praeterquam quod sic 
+      po<lb ed="#G" n="5" break="no"/>tentia distinguetur ab actu in diuinis, quod est 
+      <lb ed="#G" n="6"/>&amp; falsissimum, &amp; ab ipsismet Scholasticis 
+      refu<lb ed="#G" n="7" break="no"/>tatum. Denique si Donum esse vel dari (quidam  
+      <lb ed="#G" n="8"/>enim ex istis hominibus haec distinguunt, quidam 
+      <lb ed="#G" n="9"/>vero confundunt) est proprietas, vt ipsi vocant,  
+      <lb ed="#G" n="10"/>Characteristica &amp; constitutiua Sp. S. ergo 
+      pro<lb ed="#G" n="11" break="no"/>prietates plures, quam Tres in diuinis 
+      reperie<lb ed="#G" n="12" break="no"/>tur, nempe Innascibilitas, Filiatio, Processio, 
+      Do<lb ed="#G" n="13" break="no"/>natio. Atque ita iam non tres tantum, sed 
+      qua<lb ed="#G" n="14" break="no"/>tuor Personae diuinae constituentur a 
+      Lombar<lb ed="#G" n="15" break="no"/>do. Illud vero etiam addet quis, Cur magis Sp. 
+      <lb ed="#G" n="16"/>S. donum, quam promissum ab aeterno dicatur,  
+      <lb ed="#G" n="17"/>quum Promissum Dei a Christo nominetur Act. 
+      <lb ed="#G" n="18"/>I. Vers. 4. vti &amp; donum. Quod denique negat 
+      <lb ed="#G" n="19"/>Lombardus Filium dici nostrum &amp; nobis 
+      da<lb ed="#G" n="20" break="no"/>tum, aperte repugnat verbo Dei, vbi datus 
+      no<lb ed="#G" n="21" break="no"/>bis dicitur, Is. 9. Vers. &amp;. suauissimamque nobis 
+      <lb ed="#G" n="22"/>consolationem eripit, quumChristum nostrum 
+      <lb ed="#G" n="23"/>esse negat. Omitto αταξιαν, quae est in hac tota 
+      <lb ed="#G" n="24"/>Distinctione: &amp; curiosas extraneasque 
+      quaestio<lb ed="#G" n="25" break="no"/>nes inuectas, quales capite 7. &amp; 8. continentur, 
+      <lb ed="#G" n="26"/>quas hic ipse alibi, &amp; suis postea locis repetere 
+      <lb ed="#G" n="27"/>cogitur, vt Dist. 39. huius ipsius libri. 
+      <lb ed="#G" n="28"/>Et haec quidem breuiter in 
+      <lb ed="#G" n="29"/>hanc Distinctionem 
+      <lb ed="#G" n="30"/>XVIII. dicta 
+      <lb ed="#G" n="31"/>sint. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

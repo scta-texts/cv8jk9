@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 14</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 14</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="233"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e16306"><!-- ld-d14 -->
+            <head xml:id="cv8jk9-e16306-Hd1e106">Distinctio 14</head>
+            <p xml:id="cv8jk9-e16306-d1e109">
+      <!--334.xml-->
+               <pb ed="#G" n="233"/>
+               <lb ed="#G" n="1"/>AD DISTINCT. XIIII 
+      <lb ed="#G" n="2"/>CAP. II 
+    </p>
+            <p xml:id="cv8jk9-e16306-d1e120">
+               <lb ed="#G" n="3"/>I Insinuat, dicens. Locus iste prorsus est 
+      de<lb ed="#G" n="4" break="no"/>tortus ab Augustini mente. Cum enim de ae 
+      <lb ed="#G" n="5"/>terna Sp. S. ex Patre &amp; Filio processione agat: 
+      i<lb ed="#G" n="6" break="no"/>ta tamen hic citatur, tanquam ad processionem 
+      <lb ed="#G" n="7"/>pertineat temporalem. Sed contra Veterum 
+      o<lb ed="#G" n="8" break="no"/>mnium interpretationem quoque inducitur, 
+      <lb ed="#G" n="9"/>qui locum illum Ioannis 2o, &amp; factum Christi 
+      <lb ed="#G" n="10"/>insuffantis in Apostolos sic explicarunt, vt ex 
+      <lb ed="#G" n="11"/>eo colligerent Spiritum sanctum aeque a Filio 
+      <lb ed="#G" n="12"/>atque a Patre emanare, &amp; spirari processione 
+      il<lb ed="#G" n="13" break="no"/>la aeterna, qua ipse est tertia in diuina Trinitate 
+      <lb ed="#G" n="14"/>Persona. Verba autem Augustini, quae eodem  
+      <lb ed="#G" n="15"/>capite ista praecedunt, nostram sententiam 
+      pla<lb ed="#G" n="16" break="no"/>ne confirmant, Lombardum autem oppugnant. 
+      <lb ed="#G" n="17"/>Et multis alijs, ait Augustinus, diuinorum 
+      eloquio<lb ed="#G" n="18" break="no"/>rum testimonijs comprobatur Patris &amp; Filij esse Spi 
+      <lb ed="#G" n="19"/>ritum, qui proprie dicitur in Trinitate Spiritus 
+      <lb ed="#G" n="20"/>sanctus, &amp;c. 
+    </p>
+            <p xml:id="cv8jk9-e16306-d1e162">
+               <lb ed="#G" n="21"/>AD CAP. III 
+    </p>
+            <p xml:id="cv8jk9-e16306-d1e167">
+               <lb ed="#G" n="22"/>Qui datur hominibus. Hiulca oratio, vel 
+      i<lb ed="#G" n="23" break="no"/>psius Lombardi. (Nam sic scriptum repperi in 
+      <lb ed="#G" n="24"/>variis &amp; vetustioribus &amp; recentioribus ipsius 
+      <lb ed="#G" n="25"/>exemplaribus a me collatis) culpa: yel 
+      librario<lb ed="#G" n="26" break="no"/>rum diuturna negligentia, quae sese tamen pro 
+      <lb ed="#G" n="27"/>germana lectione confirmauit. Aut enim 
+      refe<lb ed="#G" n="28" break="no"/>rens vocabulum, Qui, delendum est: aut verbum, 
+      <lb ed="#G" n="29"/>Datur, geminandum, nempe, vt sic legamus. Et, 
+      <lb ed="#G" n="30"/>vt aiunt, Spiritus sanctus dicitur dari, quum gratia 
+      <lb ed="#G" n="31"/>eius, quae tamen non est ipse. datur hominibus: Vel sic 
+      <lb ed="#G" n="32"/>quum gratia, quae non est ipse qui datur, datur ho¬ 
+      <!--335.xml-->
+      <pb ed="#G" n="234"/>
+      
+               <lb ed="#G" n="1"/>minibus. Eligat quam quisque magis probauerit 
+      <lb ed="#G" n="2"/>lectionem. Nam mendum in omnibus 
+      vulgari<lb ed="#G" n="3" break="no"/>bus codicibus hic inesse vel lippi ipsi vident.
+    </p>
+            <p xml:id="cv8jk9-e16306-d1e205">
+               <lb ed="#G" n="4"/>2 Eundem Spiritum. Et hic quoque 
+      Lom<lb ed="#G" n="5" break="no"/>bardus ab Augustini mente prorsus discedit. 
+      <lb ed="#G" n="6"/>Neque enim illic quaerit Augustinus, vtrum,  
+      <lb ed="#G" n="7"/>quum datur nobis Spiritus sanctus, ipsamet Spi 
+      <lb ed="#G" n="8"/>ritus sancti Persona: an eius tantum dona 
+      den<lb ed="#G" n="9" break="no"/>tur: sed vtrum vnus &amp; idem ille sit Spiritus, qui 
+      <lb ed="#G" n="10"/>a Christo bis datus est, &amp; a Patre semel in die 
+      <lb ed="#G" n="11"/>Pentecostes, ne in Trinitate diuina plures quam  
+      <lb ed="#G" n="12"/>vnus Spiritus sanctus esse credantur: aut ne 
+      a<lb ed="#G" n="13" break="no"/>lius Spiritus dicatur a Filio procedere, alius 
+      a<lb ed="#G" n="14" break="no"/>Patre: atque ita falsum sit quod a Patre &amp; Filio 
+      <lb ed="#G" n="15"/>dicitur procedere vnus &amp; idem Spiritus 
+      san<lb ed="#G" n="16" break="no"/>ctus. Ergo eundem esse docet Augustinus, iste 
+      <lb ed="#G" n="17"/>ne inspecto quidem loco, &amp; vocis, Eundem 
+      Spi<lb ed="#G" n="18" break="no"/>ritum, speciosa quadam ambiguitate cupide ac 
+      <lb ed="#G" n="19"/>pueriliter abusus, ad alienam quaestionem illa 
+      <lb ed="#G" n="20"/>hoc loco transfert. 
+    </p>
+            <p xml:id="cv8jk9-e16306-d1e244">
+               <lb ed="#G" n="21"/>Et quomodo ergo. Ista praetermitti 
+      debue<lb ed="#G" n="22" break="no"/>runt. obscurant enim prorsus ipsius 
+      Lombar<lb ed="#G" n="23" break="no"/>di sententiam, nedum vt eam iuuent, aut 
+      illu<lb ed="#G" n="24" break="no"/>strent.
+    </p>
+            <p xml:id="cv8jk9-e16306-d1e255">
+               <lb ed="#G" n="25"/>Licet multi. Sed neque hic Ambrosij 
+      lo<lb ed="#G" n="26" break="no"/>cus, qui ex lib.I, De S. spiritu. cap. qo neque 
+      se<lb ed="#G" n="27" break="no"/>ques, qui sumpt est ex ca. 4. quicqua ad mentem 
+      <lb ed="#G" n="28"/>quaestionemque huius loci spectant. Quaerit enim 
+      <lb ed="#G" n="29"/>Ambrosius cap. 4. Vtrum vnus &amp; ide sit Spirit, 
+      <lb ed="#G" n="30"/>qui &amp; Dei Spiritus, &amp; S. Sp. in Scriptura 
+      nomi<lb ed="#G" n="31" break="no"/>natur. Respodet autem esse, quia hic κατ eξoνuα¬ 
+      <lb ed="#G" n="32"/>dicitur &amp; Dei Spiritus, &amp; sanctus: non quide vt 
+      <lb ed="#G" n="33"/>Angeli appellatur Spiritus Dei. In cap. g. 
+      dispu<lb ed="#G" n="34" break="no"/>tatur, doceturque Sp. S. eodem modo dici &amp; san¬ 
+      <!--336.xml-->
+      <pb ed="#G" n="235"/>
+               <lb ed="#G" n="1"/>ctum &amp; bonum, quo Pater, &amp; Filius sanctus est 
+      <lb ed="#G" n="2"/>&amp; bonus. Denique esse immutabile, &amp; nos tamen 
+      <lb ed="#G" n="3"/>sanctificantem. Quid igitur ista ad propositum argu 
+      <lb ed="#G" n="4"/>mentum Lombardi, ipsam Spiritus sancti 
+      Perso<lb ed="#G" n="5" break="no"/>nam in nos delabi, quum eum accipimus, non 
+      <lb ed="#G" n="6"/>autem eius dona. 
+    </p>
+            <p xml:id="cv8jk9-e16306-d1e297">
+               <lb ed="#G" n="7"/>Incircumscriptus ergo. Locus hic sumptus 
+      <lb ed="#G" n="8"/>est ex eodem quide Ambrosij libro: sed ex cap. V. 
+      <lb ed="#G" n="9"/>qui mire ab isto deprauatus est. Primum dum 
+      <lb ed="#G" n="10"/>verba ipsa mutat: deinde dum sensum &amp; mentem. 
+      <lb ed="#G" n="11"/>Mes Ambrosij eo spectat, vt doceat Sp. S. vnum &amp;  
+      <lb ed="#G" n="12"/>eunde omnia tamen replere, vbique diffundi, &amp;  
+      <lb ed="#G" n="13"/>hominibus longo interuallo dissitis sese tamen 
+      <lb ed="#G" n="14"/>comunicare. Ergo Deum esse, quia vbique sit, 
+      <lb ed="#G" n="15"/>quod solius Dei proprium est. Quid hoc vero 
+      <lb ed="#G" n="16"/>ad fidem quaestionis a Lombardo hic 
+      proposi<lb ed="#G" n="17" break="no"/>tae faciendam facit, nimirum quum Sp. S. dari 
+      di<lb ed="#G" n="18" break="no"/>citur, ipsam illius Personam dari: non autem 
+      il<lb ed="#G" n="19" break="no"/>lius dona tantum. Verba vero Ambrosij bis ab 
+      <lb ed="#G" n="20"/>isto mutilata sunt, tum detractione: tum ex 
+      La<lb ed="#G" n="21" break="no"/>tina in barbaram orationem commutatione. 
+      <lb ed="#G" n="22"/>Nam verba haec Lombardi, Qui discipulorum 
+      <lb ed="#G" n="23"/>sensus separatorum infudit, plane sunt 
+      longobar<lb ed="#G" n="24" break="no"/>dica: &amp; vox Separatorum omnino est hoc loco 
+      <lb ed="#G" n="25"/>obscura. Verba igitur Ambrosij germana sic 
+      <lb ed="#G" n="26"/>habent, suntque perspicua. Incircumscriptus 
+      igi<lb ed="#G" n="27" break="no"/>tur, &amp; infinitus Spiritus sanctiu, qui se discipulorum 
+      <lb ed="#G" n="28"/>sensibus per separatarum diuortia discreta regionum, 
+      <lb ed="#G" n="29"/>remotosque fines totius orbis infudit, quem nihil 
+      po<lb ed="#G" n="30" break="no"/>test praeterire vel fallere. Ex quibus cur 
+      separa<lb ed="#G" n="31" break="no"/>tos discipulos dixerit Ambrosius intelligitur. 
+      <lb ed="#G" n="32"/>Quid autem non liceat probare, si huiusmodi 
+      <lb ed="#G" n="33"/>&amp; tam aliena testimonia proferre fas est?
+    </p>
+            <p xml:id="cv8jk9-e16306-d1e358">
+      <!--337.xml-->
+               <pb ed="#G" n="236"/>
+               <lb ed="#G" n="1"/>De verbis Apostoli. Restitue de verbis 
+      <lb ed="#G" n="2"/>Domini. Est enim hic locus sumptus ex 
+      sermo<lb ed="#G" n="3" break="no"/>ne ag. de verbis Domini secundum Ioannem, 
+      <lb ed="#G" n="4"/>Si ego testimonium perhibeo de me: quemadmodum 
+      <lb ed="#G" n="5"/>etiam Beda in suis ex Augustino Collectancis,  
+      <lb ed="#G" n="6"/>in epistolam Pauli ad Rom. cap. 2. citat. Distin 
+      <lb ed="#G" n="7"/>cti autem semper fuerunt Augustini sermones, 
+      <lb ed="#G" n="8"/>De verbis Domini: &amp; de verbis Apostoli. Itaque 
+      <lb ed="#G" n="9"/>hoc est Lombardi μνημονικὸν άμάρτημα. Istud 
+      Ve<lb ed="#G" n="10" break="no"/>ro ονικος, &amp; longe grauius, quod quae nihil ad rem 
+      <lb ed="#G" n="11"/>faciunt affert: &amp; loci Augustiniani mentem 
+      pror<lb ed="#G" n="12" break="no"/>sus euertit. Hyperbolicus enim amplisicas 
+      Au<lb ed="#G" n="13" break="no"/>gustinus dona Christi data hominibus, post 
+      il<lb ed="#G" n="14" break="no"/>lius ascensionem in coelum, ait Christum dedisse 
+      <lb ed="#G" n="15"/>donum hominibus sibi aequale, nempe Spiritum 
+      <lb ed="#G" n="16"/>sanctum, qui est Deus Filio. i. Christo aequalis,  
+      <lb ed="#G" n="17"/>quum tamen alibi idem doceat Spiritum sanctum, 
+      <lb ed="#G" n="18"/>qui datur per Christum hominibus, esse 
+      Spiri<lb ed="#G" n="19" break="no"/>tus sancti gratiam tantum: non autem ipsam 
+      Spi<lb ed="#G" n="20" break="no"/>ritus sancti Personam, Augustinus Sermo &amp;I 
+      <lb ed="#G" n="21"/>eiusdem operis. 
+    </p>
+            <p xml:id="cv8jk9-e16306-d1e410">
+               <lb ed="#G" n="22"/>AD CAP. VI 
+    </p>
+            <p xml:id="cv8jk9-e16306-d1e416">
+               <lb ed="#G" n="23"/>I Qui tribuit vobis. Absurda plane obiectio,  
+      <lb ed="#G" n="24"/>&amp; ex magna linguae Graecae (qua scripsit 
+      Pau<lb ed="#G" n="25" break="no"/>lus) ignoratione profecta. Sic enim verba ipsa 
+      <lb ed="#G" n="26"/>habent 8οκῳ δλαορηλῶν ύμν το τυδμα, Oalat. X. V.  
+      <lb ed="#G" n="27"/>και ενερλῶν δυναμεις ἐν ύμν, ἐξ iρφμν voμουM ιξ ακνῆς τ. 
+      <lb ed="#G" n="28"/>ξεως.. Qui igitur sumministrat vobis Spiritum, &amp; 
+      <lb ed="#G" n="29"/>effcit virtutes in vobis, ex operibus Legis, an ex fide 
+      <lb ed="#G" n="30"/>per auditum percepta sun ministrat) Ex quibus 
+      i<lb ed="#G" n="31" break="no"/>psis satis intelligitur, si quis ea ad Paulum &amp; A 
+      <lb ed="#G" n="32"/>postolos referat, de ministerio tantum, non etiam 
+      <lb ed="#G" n="33"/>de ipsa dandi autoritate agi, quae penes vnum 
+      <!--338.xml-->
+      <pb ed="#G" n="237"/>
+               <lb ed="#G" n="1"/>Deum est. Sed quis eam Pauli sententiam de 
+      <lb ed="#G" n="2"/>Paulo ipso interpretetur, &amp; non de Deo, quum  
+      <lb ed="#G" n="3"/>όλαορηλιὸν hoc loco vberrimum fontem ostendat,  
+      <lb ed="#G" n="4"/>&amp; ratio seriesque ipsius orationis Pauli id 
+      po<lb ed="#G" n="5" break="no"/>stulet2 Denique Ambrosius, Hieronymus,  
+      <lb ed="#G" n="6"/>Theophylactus &amp; alij, de Deo ita iam olim 
+      lo<lb ed="#G" n="7" break="no"/>cum illum explicarant. Neque potest alius 
+      hu<lb ed="#G" n="8" break="no"/>ius loci sensus, ex ipsis Augustini verbis erui, 
+      <lb ed="#G" n="9"/>quam a Deo, non ab Apostolis datum esse 
+      Spi<lb ed="#G" n="10" break="no"/>ritum sanctum, quum primum praedicatum est 
+      <lb ed="#G" n="11"/>Euangelium. Hunc tamen locum Pauli iste ad 
+      <lb ed="#G" n="12"/>suum commentum inepte detorquet.
+    </p>
+            <p xml:id="cv8jk9-e16306-d1e473">
+               <lb ed="#G" n="13"/>Censura ad Distinctionem 
+      deci<lb ed="#G" n="14" break="no"/>mamquartam.
+    </p>
+            <p xml:id="cv8jk9-e16306-d1e480">
+               <lb ed="#G" n="15"/>Vel ipsis doctrinae Lombardicae patronis 
+      te<lb ed="#G" n="16" break="no"/>stibus, totus hic locus partim falsus est: partim  
+      <lb ed="#G" n="17"/>etiam ματαιολἰας &amp; λολσμαλας plenus. Ac 
+      Logo<lb ed="#G" n="18" break="no"/>machiam quidem esse aperte Occan his verbis 
+      <lb ed="#G" n="19"/>testatur, Difficultas, ait, istius Distinctionis, &amp; 
+      dua<lb ed="#G" n="20" break="no"/>rum sequentium uidetur mihi magis logicalis esse, 
+      <lb ed="#G" n="21"/>propter significata vocabulorum (quae sunt ad 
+      placi<lb ed="#G" n="22" break="no"/>tum) quam realis. Esse autem falsam Lombardi 
+      <lb ed="#G" n="23"/>definitionem, vtpote qui duas Spiritus sancti 
+      <lb ed="#G" n="24"/>processiones esse sentiat, vnam nimirum 
+      aeter<lb ed="#G" n="25" break="no"/>nam, alteram vero temporalem, omnes huius 
+      <lb ed="#G" n="26"/>loci interpretes manifeste pronuntiant. Itaque 
+      <lb ed="#G" n="27"/>idem Occan Non debet concedi, ait, quod Spiritus 
+      <lb ed="#G" n="28"/>sancti sit duplex processio. Rationem addunt alij, 
+      <lb ed="#G" n="29"/>Ne duae Spiritus sancti processiones esse statuantur, 
+      <lb ed="#G" n="30"/>vti sunt duae Filij generationes, vna aeterna ex 
+      Pa<lb ed="#G" n="31" break="no"/>tre: altera temporalis ex Filio. Ergo etiam, me 
+      ta<lb ed="#G" n="32" break="no"/>cente, satis a suis, iustis huius erroris censoribus,  
+      <lb ed="#G" n="33"/>fagellatur magister iste. Dicam nihilosecius in 
+      <!--339.xml-->
+      <pb ed="#G" n="238"/>
+               <lb ed="#G" n="1"/>piorum, qui Distinctionem istam fortasse legent, 
+      <lb ed="#G" n="2"/>gratiam etia &amp; ipse, quae tria animaduersione 
+      <lb ed="#G" n="3"/>digna hoc loco censeo. 
+    </p>
+            <p xml:id="cv8jk9-e16306-d1e535">
+               <lb ed="#G" n="4"/>Primum male ab isto intelligi eos sacrae scri 
+      <lb ed="#G" n="5"/>pturae locos, quos in suam sententiam profert,  
+      <lb ed="#G" n="6"/>vti iam ex parte docuimus: in primisque omnes 
+      <lb ed="#G" n="7"/>eos, qui de dono Spiritus sancti in Ecclesiam  
+      <lb ed="#G" n="8"/>Dei loquuntur, quod Mittere Spiritum sanctum  
+      <lb ed="#G" n="9"/>dixit Christus, Ioan. 4. Versi 2G. Is. Ver. 3&amp; 
+    </p>
+            <p xml:id="cv8jk9-e16306-d1e551">
+               <lb ed="#G" n="10"/>Secundum, Lombardus magnam aliis, qui se 
+      <lb ed="#G" n="11"/>sequuti sunt, errandi occasionem praebuit: 
+      in<lb ed="#G" n="12" break="no"/>primisque in magnas angustias Thomam inI. 
+      <lb ed="#G" n="13"/>parte tota Quaest. 4. (quae constat v. 
+      quaestio<lb ed="#G" n="14" break="no"/>nibus vel articulis diuersis) coniecit, nedum 
+      a<lb ed="#G" n="15" break="no"/>lios leuiores Scholasticos, quibus crucem fixit, 
+      <lb ed="#G" n="16"/>dum Persona ipsam Spiritus sancti mittie 
+      coe<lb ed="#G" n="17" break="no"/>lo in eos, quibus datur Spiritus sanctus, iste sen 
+      <lb ed="#G" n="18"/>tit, &amp; sentiendum docet. Inde est nata inepta 
+      <lb ed="#G" n="19"/>illa distinctio inter Mitti &amp; Dari Spiritum 
+      san<lb ed="#G" n="20" break="no"/>ctum, apud Thomam artic. 2. Quaestio. 2. in prima 
+      <lb ed="#G" n="21"/>parte. Inde etiam illa operosa &amp; vexata 
+      quae<lb ed="#G" n="22" break="no"/>stio apud eundem artic, 9 Vtrum Spiritus sanctus 
+      <lb ed="#G" n="23"/>visibiliter mittatur, &amp; aliae aliquot similes, &amp; 
+      im<lb ed="#G" n="24" break="no"/>plicatae.
+    </p>
+            <p xml:id="cv8jk9-e16306-d1e586">
+               <lb ed="#G" n="25"/>Tertio, falsa est illa ipsa Lombardi sententia, 
+      <lb ed="#G" n="26"/>Mitti ad nos ipsam Sp. S. Personam, quum nobis 
+      <lb ed="#G" n="27"/>dari dicitur. Paulus enim hanc missionem ad 
+      <lb ed="#G" n="28"/>qανρωοιν τοd τνduαoς refert, docentque fiori, quum 
+      <lb ed="#G" n="29"/>sua ipse in nos tantum dona confert, I. Corinth. 
+      <lb ed="#G" n="30"/>I2. ver. 9. Itaque idem Paulus versi 4. eiusdem  
+      <lb ed="#G" n="31"/>capitis, diserte dona ipsa Spiritus sancti ab 
+      i<lb ed="#G" n="32" break="no"/>psa Sp. Persona distinguit. Nam si quum datur 
+      <lb ed="#G" n="33"/>nobis Sp. S. ipsam illam Personam Trinitatis 
+      <lb ed="#G" n="34"/>tertiam &amp; essentiam diuinam e coelo ad nos ve¬ 
+      <!--340.xml-->
+      <pb ed="#G" n="239"/>
+               <lb ed="#G" n="1"/>nientem &amp; delabentem susciperemus, vel eam  
+      <lb ed="#G" n="2"/>hypostatica vnione haberemus cum nostra 
+      na<lb ed="#G" n="3" break="no"/>tura coalescentem, (quomodo Filius solus de 
+      <lb ed="#G" n="4"/>coelo descendisse dicitur, )vel haberenius eam  
+      <lb ed="#G" n="5"/>quemadmodum continens habet contentum, 
+      <lb ed="#G" n="6"/>&amp; vas capit liquorem infusum: quorum 
+      neu<lb ed="#G" n="7" break="no"/>trum verum est. Quamobrem quod dicitur ad 
+      <lb ed="#G" n="8"/>nos venire, nobis dari, &amp; mitti Sp. S. eodem mo 
+      <lb ed="#G" n="9"/>do &amp; significato est intelligendum, quo dixit 
+      <lb ed="#G" n="10"/>Christus ipse, Se &amp; Patrem ad nos esse venturum, 
+      <lb ed="#G" n="11"/>Ioan. I4. Vers. 2. quod minime de Personarum 
+      <lb ed="#G" n="12"/>ipsarum in nos illapsu: sed ἀκερνειῶν peculiari 
+      quo<lb ed="#G" n="13" break="no"/>dam &amp; extraordinario effecto atque signo 
+      prae<lb ed="#G" n="14" break="no"/>sentiae eius, procul dubio est intelligendum: 
+      <lb ed="#G" n="15"/>Augustinus ipse lib. 2. de Trinitate, capite 2. in 
+      <lb ed="#G" n="16"/>fine, sic ait, Facta est quaedam creaturae species ex 
+      <lb ed="#G" n="17"/>tempore, in qua visibiliter ostenderetur Spiritus 
+      san<lb ed="#G" n="18" break="no"/>ctu, siue quum in ipsum Dominum corporali specie 
+      ve<lb ed="#G" n="19" break="no"/>lut columba descendit: siue quum die Pentecostes 
+      fa<lb ed="#G" n="20" break="no"/>ctus est subito de coelosonus. Haec operatio 
+      visibili<lb ed="#G" n="21" break="no"/>ter expressa, &amp; oculis oblata mortalibus missio 
+      Spi<lb ed="#G" n="22" break="no"/>ritus sancti dicta est: non ita vt appareret ipsa eius 
+      <lb ed="#G" n="23"/>substantia, qua &amp; ipse inuisibilis est: sed vt 
+      exte<lb ed="#G" n="24" break="no"/>rioribus visis hominum corda a temporali 
+      manife<lb ed="#G" n="25" break="no"/>statione venientis ad occultam aeternitatem semper 
+      <lb ed="#G" n="26"/>praesentis conuerterentur. Idem libro quarto, 
+      ca<lb ed="#G" n="27" break="no"/>pite 2o. Nec moueor eo, quod falso Thomas 
+      <lb ed="#G" n="28"/>ait, esse nimirum errorem, si quis non ipsam 
+      Per<lb ed="#G" n="29" break="no"/>sonam Spiritus sancti, sed dona tatum illius 
+      da<lb ed="#G" n="30" break="no"/>ri dicat. Nam &amp; ipse in eo errore est, quem 
+      da<lb ed="#G" n="31" break="no"/>mnat, quum suam sententiam explicans, ait, 
+      <lb ed="#G" n="32"/>Persona diuina mittitur secundum inhabitationem  
+      <lb ed="#G" n="33"/>gratiae, art, &amp; ite, Spiritus sanctus visibiliter dicitur 
+      <!--341.xml-->
+      <pb ed="#G" n="240"/>
+               <lb ed="#G" n="1"/>missus, in quantum fuit monstratus in quibusdam 
+      crea<lb ed="#G" n="2" break="no"/>turis, sicuti in signis ad hoc specialiter factis, artic¬ 
+      <lb ed="#G" n="3"/>. <name xml:id="cv8jk9-e16306-Nd1e696">Arnoldus Vesaliens</name>. in Epitome huius 
+      Se<lb ed="#G" n="4" break="no"/>ctionis, sic ait, Haec missio est gratiae Spiritus sancti 
+      <lb ed="#G" n="5"/>collatio. Ergo sic a se &amp; a suis discipulis 
+      deseri<lb ed="#G" n="6" break="no"/>tur bonus iste magister Thomas. Quum Occan 
+      <lb ed="#G" n="7"/>illam Thomae sententia veram esse deffendit, 
+      <lb ed="#G" n="8"/>ipse se in perplexos laqueos induit, &amp; firmiora 
+      <lb ed="#G" n="9"/>contra se, quam pro se argumenta profert. 
+      De<lb ed="#G" n="10" break="no"/>nique mitti Spiritum sanctum est nouo &amp; 
+      spe<lb ed="#G" n="11" break="no"/>ciali praesentiae ac energiae modo eum 
+      effica<lb ed="#G" n="12" break="no"/>cem sentire, atque habere. Augustinus libro 
+      q<lb ed="#G" n="13" break="no"/>de Trinitate, capite 2o. Ambrosius libro 
+      septi<lb ed="#G" n="14" break="no"/>mo, capite septimo. Is qui habet Spiritum sanctum, 
+      <lb ed="#G" n="15"/>Dei repletus est voluntate. Item, Non possumus 
+      <lb ed="#G" n="16"/>capere plenitudinem Spiritus sancti, sed tantum 
+      ca<lb ed="#G" n="17" break="no"/>pimus, quantum de suo arbiter nostri pro sua 
+      volun<lb ed="#G" n="18" break="no"/>tate diuiserit. Augustinus in libello de 
+      Inquisi<lb ed="#G" n="19" break="no"/>tion. Trinit, Videri potest Deus secundum suae 
+      do<lb ed="#G" n="20" break="no"/>num gratiae, ergo &amp; mitti. Ex quibus 
+      o<lb ed="#G" n="21" break="no"/>mnibus refutatur 
+      apertissi<lb ed="#G" n="22" break="no"/>me Lombardi 
+      inter<lb ed="#G" n="23" break="no"/>pretatio &amp; 
+      <lb ed="#G" n="24"/>
+      senten<lb ed="#G" n="25" break="no"/>tia. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 34</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 34</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="558"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e29490"><!-- ld-d34 -->
+            <head xml:id="cv8jk9-e29490-Hd1e106">Distinctio 34</head>
+            <p xml:id="cv8jk9-e29490-d1e109">
+               <lb ed="#G" n="17"/>AD DISTINCTIONEM 
+      <lb ed="#G" n="18"/>XXXIIII 
+      <lb ed="#G" n="19"/>AD CAP. I.
+    </p>
+            <p xml:id="cv8jk9-e29490-d1e118">
+               <lb ed="#G" n="20"/>I Spiritus Domini. Haec carptim ex 
+      Hila<lb ed="#G" n="21" break="no"/>rio citat Lombardus, in quibus etsi quaedam  
+      <lb ed="#G" n="22"/>commutat, quoad verborum seriem, atque 
+      e<lb ed="#G" n="23" break="no"/>tiam detrahit, nihil tamen de sensu ipsius 
+      auto<lb ed="#G" n="24" break="no"/>ris. Itaque non annotamus.
+    </p>
+            <p xml:id="cv8jk9-e29490-d1e131">
+               <lb ed="#G" n="25"/>Haec idcirco. Quaedam hic sunt &amp; 
+      com<lb ed="#G" n="26" break="no"/>mutata, &amp; omissa non pari momento. Nam in 
+      <lb ed="#G" n="27"/>hac prima sententia, Finibus veritatis conclude¬ 
+      <!--660.xml-->
+      <pb ed="#G" n="559"/>
+               <lb ed="#G" n="1"/>retur, ita habet Hilarius ipse, Finibus tamen at. 
+      <lb ed="#G" n="2"/>que praescripto veritatis Euangelicae concluderetur,  
+      <lb ed="#G" n="3"/>quia supra dixerat se non tantum ex Prophetica, 
+      <lb ed="#G" n="4"/>sed etiam ex Euangelica veritate monstraturum,  
+      <lb ed="#G" n="5"/>quae vera esse contendebat. Itaque vt 
+      promis<lb ed="#G" n="6" break="no"/>sum bona fide repraesentasse intelligatur, 
+      ma<lb ed="#G" n="7" break="no"/>gisque se istis probationibus constringi ipsimet 
+      <lb ed="#G" n="8"/>haeretici sentiant, addiderat, Hilarius 
+      Euangeli<lb ed="#G" n="9" break="no"/>cae veritatis, quae verba tamen iste dictatoria 
+      po<lb ed="#G" n="10" break="no"/>testate omilit &amp; detruncauit. Deinde postea, 
+      <lb ed="#G" n="11"/>quo habitante habitat Deus, Hilarius habet, &amp; 
+      <lb ed="#G" n="12"/>habitante Christo, habitat Deus. Praeterea 
+      ma<lb ed="#G" n="13" break="no"/>gna lacuna ab isto in verbis Hilarij fit, quae 
+      ne<lb ed="#G" n="14" break="no"/>cessario a nobis replenda est. Sic igitur habet 
+      <lb ed="#G" n="15"/>Hilarius, Habitat enim in nobis Christus, &amp; 
+      habi<lb ed="#G" n="16" break="no"/>tante Christo habitat Deus : &amp; cum habitat in 
+      no<lb ed="#G" n="17" break="no"/>bis Spiritus sanctus, habitat tunc in nobis Spiritus 
+      <lb ed="#G" n="18"/>Christi, non alius tamen Spiritus habitat, quam 
+      Spi<lb ed="#G" n="19" break="no"/>nitus Dei. Iste vero primum sciens prudensque 
+      <lb ed="#G" n="20"/>omisit, &amp; cum habitat in nobis Spiritus sanctus,  
+      <lb ed="#G" n="21"/>deinde verba haec non alius tamen mutat in haec, 
+      <lb ed="#G" n="22"/>non aliud. Alius pertinet ad eandem Spiritus 
+      <lb ed="#G" n="23"/>Personam designandam, siue Christi siue Dei 
+      <lb ed="#G" n="24"/>dicatur Spiritus, quod est magni momenti, &amp; 
+      <lb ed="#G" n="25"/>a quibusdam haereticis est negatum, esse eundum 
+      <lb ed="#G" n="26"/>Spiritum, qui a Patre, &amp; Filio procederet. 
+      A<lb ed="#G" n="27" break="no"/>liud, quod substituit Lombardus, eam haeresim  
+      <lb ed="#G" n="28"/>non iugulat. Eandem enim essentiam tantun 
+      <lb ed="#G" n="29"/>esse, ostendit eius Spiritus qui Christi, &amp; qui 
+      <lb ed="#G" n="30"/>Dei diceretur, non autem eandem Personam,  
+      <lb ed="#G" n="31"/>aut ὑφισα μλυoν.
+    </p>
+            <p xml:id="cv8jk9-e29490-d1e212">
+               <lb ed="#G" n="32"/>Deinde praetermisit Lombardus modum illum, 
+      <lb ed="#G" n="33"/>per quem habitat in nobis Sp. Christi, nempe, 
+      <!--661.xml-->
+      <pb ed="#G" n="560"/>
+               <lb ed="#G" n="1"/>quum habitat in nobis ipse Spiritus sanctus, id 
+      <lb ed="#G" n="2"/>quod addidit Hilarius. Sic igitur totum hunc 
+      <lb ed="#G" n="3"/>pulcherrimum Hilarij locum iste corrupit. Vti 
+      <lb ed="#G" n="4"/>intra mutat tempora, &amp; pro habitat, Hilarius 
+      <lb ed="#G" n="5"/>ait, habitet: pro demonstretur, Hilarius, 
+      demonstra<lb ed="#G" n="6" break="no"/>tur. pro &amp; quod Christi est, Dei est, Hilarius, &amp; 
+      <lb ed="#G" n="7"/>cum quod Christi est, Dei sit, &amp;c. quae sigillatim  
+      <lb ed="#G" n="8"/>persequi esset infinitum.
+    </p>
+            <p xml:id="cv8jk9-e29490-d1e242">
+               <lb ed="#G" n="9"/>Comparatio terrenorum. Locus Hilarij pul 
+      <lb ed="#G" n="10"/>cherrimus sic habet, Comparatio enim terrenorum 
+      <lb ed="#G" n="11"/>ad Deum nulla est: sed infirmitas nostrae 
+      intelligen<lb ed="#G" n="12" break="no"/>tiae coegit species quasdam ex inferioribus, tanquam  
+      <lb ed="#G" n="13"/>superiorum indices, quaerere vt rerum familiarium  
+      <lb ed="#G" n="14"/>consuetudine admonente, ex sensus nostri conscientia 
+      <lb ed="#G" n="15"/>ad insoliti sensus opinionem edoceremur. Omnis 
+      igi<lb ed="#G" n="16" break="no"/>tarcomparatio homini vtilis potius habeatur, quam  
+      <lb ed="#G" n="17"/>Deo apta: quia intelligentia magis significet, quam  
+      <lb ed="#G" n="18"/>expleat, &amp;c. 
+    </p>
+            <p xml:id="cv8jk9-e29490-d1e266">
+               <lb ed="#G" n="19"/>AD CAP. IIII 
+    </p>
+            <p xml:id="cv8jk9-e29490-d1e271">
+               <lb ed="#G" n="20"/>Homo aut simile. Multa quoque sunt hic 
+      <lb ed="#G" n="21"/>a Lombardo commutata, sed exigui momenti. 
+      <lb ed="#G" n="22"/>itaque condonentur. 
+    </p>
+            <p xml:id="cv8jk9-e29490-d1e280">
+               <lb ed="#G" n="23"/>Non autem corporali modo. Falsa 
+      dispun<lb ed="#G" n="24" break="no"/>Cio reddit totum hunc locum obscurum, quae 
+      <lb ed="#G" n="25"/>tamen in omnibus Lombardi codicibus 
+      con<lb ed="#G" n="26" break="no"/>stanter retenta est, &amp; abHilariana tamen 
+      diuer<lb ed="#G" n="27" break="no"/>sa. Ergo pro puncto virgulam substitue sic, vt 
+      <lb ed="#G" n="28"/>vbi sua insint, ipse esse intelligatur: non autem Cd 
+      <lb ed="#G" n="29"/>est, non tamen) corporali modo, ne cum alicubi sit, 
+      <lb ed="#G" n="30"/>non &amp; vbique esse credatur. 
+    </p>
+            <p xml:id="cv8jk9-e29490-d1e300">
+               <lb ed="#G" n="31"/>Ad Filium Deus Pater dicitur. 
+      Augusti<lb ed="#G" n="32" break="no"/>nus, vnde iste sumpsit, habet Psal. 68. Nursusque 
+      <!--662.xml-->
+      <pb ed="#G" n="561"/>
+               <lb ed="#G" n="1"/>Pater ad se Deus dicitur, ad Filium Pater dicitur. 
+      <lb ed="#G" n="2"/>iste addidit Deus, vti ex omnibus Lombardi 
+      e<lb ed="#G" n="3" break="no"/>xemplaribus apparet. 
+    </p>
+            <p xml:id="cv8jk9-e29490-d1e318">
+               <lb ed="#G" n="4"/>AD CAP. IX 
+    </p>
+            <p xml:id="cv8jk9-e29490-d1e324">
+               <lb ed="#G" n="5"/>Constantino. Sic habent &amp; veteres &amp; 
+      recen<lb ed="#G" n="6" break="no"/>tiores omnes Lombardi Codices, etiam qui 
+      <lb ed="#G" n="7"/>censentur emendatissimi, Constantino, magno er 
+      <lb ed="#G" n="8"/>rore, &amp; cum insigni in optimos principes 
+      Con<lb ed="#G" n="9" break="no"/>stantinos, Patrem &amp; Filium iniuria. Ergo 
+      re<lb ed="#G" n="10" break="no"/>stituendum est Constantio haeretico imperatore. 
+      <lb ed="#G" n="11"/>Constantinus enim imperator fuit 
+      Orthodo<lb ed="#G" n="12" break="no"/>xus, &amp; Nicenae fidei defensor acerrimus, vt ex 
+      <lb ed="#G" n="13"/>tota historia Ecclesiastica apparet. Pater 
+      Con<lb ed="#G" n="14" break="no"/>stantinus Constantinum filium habuit, &amp; ipsum 
+      <lb ed="#G" n="15"/>quoque Niceni concilij patronum, etiam 
+      pa<lb ed="#G" n="16" break="no"/>tre mortuo. Sed Constantius Constantini 
+      il<lb ed="#G" n="17" break="no"/>lius maioris &amp; primi filius, &amp; Constantini 
+      se<lb ed="#G" n="18" break="no"/>cundi, ac Constantis frater, fuit haereticus &amp;  
+      <lb ed="#G" n="19"/>ab Arianis seductus, aduersus quem etiam 
+      Hi<lb ed="#G" n="20" break="no"/>larius noster pro verae fidei defensione scripsit. 
+      <lb ed="#G" n="21"/>vt ex ipsius opusculis apparet. Vide Socratem  
+      <lb ed="#G" n="22"/>lib. 2. Historiae Ecclesiast. cap. 24
+    </p>
+            <p xml:id="cv8jk9-e29490-d1e366">
+               <lb ed="#G" n="23"/>Censura ad Distinctionem 
+      <lb ed="#G" n="24"/>XXXIIII 
+    </p>
+            <p xml:id="cv8jk9-e29490-d1e373">
+               <lb ed="#G" n="25"/>Habet &amp; haec quoque Distinctio multa vitia. 
+      <lb ed="#G" n="26"/>Primum enim, inseruntur quaedam prorsus a 
+      <lb ed="#G" n="27"/>scopo, &amp; suscepto argumento aliena, veluti 
+      ca<lb ed="#G" n="28" break="no"/>pite &amp;. disputatio de Summo bono, cum hoc vnum 
+      <lb ed="#G" n="29"/>agatur, Vtrum Persona &amp; essentia in diuinis sint 
+      <lb ed="#G" n="30"/>reipsa idem, quemadmodum testantur omnes 
+      <lb ed="#G" n="31"/>huius loci interpretes.
+    </p>
+            <p xml:id="cv8jk9-e29490-d1e391">
+      <!--663.xml-->
+               <pb ed="#G" n="562"/>
+               <lb ed="#G" n="1"/>Secundum, habet quoque multa ex 
+      superio<lb ed="#G" n="2" break="no"/>ribus Distinctionibus repetita, quemadmodum 
+      <lb ed="#G" n="3"/>ex cap. &amp;. huius Distinctionis colligitur, si cum 
+      <lb ed="#G" n="4"/>Distinct. 22. capite g. Dist. 22. capite 2. Dist. 
+      E7<lb ed="#G" n="5" break="no"/>cap. 9. conferatur: idem ex capite decimo 
+      hu<lb ed="#G" n="6" break="no"/>ius Distinctionis collato, cum Distinct. 32 &amp; 
+      <lb ed="#G" n="7"/>28. statini apparebit. 
+    </p>
+            <p xml:id="cv8jk9-e29490-d1e413">
+               <lb ed="#G" n="8"/>Tertio loco, frigide ac imperite admodum 
+      <lb ed="#G" n="9"/>soluit obiectiones contrarias: in primis autem  
+      <lb ed="#G" n="10"/>quod affertur ex Hilario capite primo, non esse 
+      <lb ed="#G" n="11"/>idem naturam, &amp; rem naturae. Quod etiam in 
+      <lb ed="#G" n="12"/>Deo ex mente Hilarij verum est, quicquid iste 
+      <lb ed="#G" n="13"/>respodeat. Sed Natura appellat Hilarius ipsam  
+      <lb ed="#G" n="14"/>essentiam diuinam in persona Patris, vel Filij 
+      consi<lb ed="#G" n="15" break="no"/>deratam, a qua differt illud quod est ab eadem  
+      <lb ed="#G" n="16"/>natura, id est, essentia diuina personata emanas,  
+      <lb ed="#G" n="17"/>veluti non est idem Pater Deus, &amp; Filius. Pater 
+      <lb ed="#G" n="18"/>Deus ab Hilario appellatur Natura: Filius 
+      au<lb ed="#G" n="19" break="no"/>tem Nes naturae. Non est idem Filius, &amp; Spiritus 
+      <lb ed="#G" n="20"/>sanctus. Filius est natura, Spiritus sanctus res 
+      <lb ed="#G" n="21"/>naturae. Ita enim vnitatem essentiae in Patre, &amp; 
+      <lb ed="#G" n="22"/>Filio astruit Hilarius, vt tamen solitudinem cum 
+      <lb ed="#G" n="23"/>Sabellianis non inducat. 
+    </p>
+            <p xml:id="cv8jk9-e29490-d1e450">
+               <lb ed="#G" n="24"/>Praeterea ista solutio, quam Lombardus 
+      af<lb ed="#G" n="25" break="no"/>fert, cur non recte dicatur, unus Deus trium 
+      per<lb ed="#G" n="26" break="no"/>sonarum, est omnino etiam ieiuna. Illa verior. 
+      <lb ed="#G" n="27"/>quod haec phrasis constituit Deum, aut potius 
+      <lb ed="#G" n="28"/>Deitatem velut specie, vel materiam trium 
+      Per<lb ed="#G" n="29" break="no"/>sonarum. Quorum vtrunque est &amp; euitandum, 
+      <lb ed="#G" n="30"/>&amp; falsum. Denique in eo quod scribit de voce, 
+      <lb ed="#G" n="31"/>Homousion, leuiter perstringit difficillimam 
+      ta<lb ed="#G" n="32" break="no"/>men quaestionem, &amp; diu vexatam, quae fusius 
+      <lb ed="#G" n="33"/>tractari debuit, cum sit fueritne tanti in 
+      Eccle<lb ed="#G" n="34" break="no"/>sia momenti, atque adeo parum commode in 
+      <!--664.xml-->
+      <pb ed="#G" n="563"/>
+               <lb ed="#G" n="1"/>concilio Toletano XI. explicata. Neque etiam  
+      <lb ed="#G" n="2"/>satis docet Lombardus, quid vox haec ipsa in 
+      <lb ed="#G" n="3"/>tribus illis diuinis Personis significet. Nam  
+      <lb ed="#G" n="4"/>prius ostendendum erat, quid ἐμονούσιον ab qμνoν¬ 
+      <lb ed="#G" n="5"/>qg, vel quouλῳ differret, in quo Eusebius 
+      Ver<lb ed="#G" n="6" break="no"/>cellensis pius Episcopus (qui tempore Hilarij 
+      <lb ed="#G" n="7"/>vixit) turpissime a Graecis Episcopis Arianis 
+      <lb ed="#G" n="8"/>deceptus est, quemadmodum ex ipso Hilario in 
+      <lb ed="#G" n="9"/>libro de Synodis, &amp; Socrate libro secundo 
+      Hi<lb ed="#G" n="10" break="no"/>stor. capite 26. colligitur. Et ex confusa harum  
+      <lb ed="#G" n="11"/>vocum significatione Anomoiani haeretici 
+      or<lb ed="#G" n="12" break="no"/>ti sunt. 
+    </p>
+            <p xml:id="cv8jk9-e29490-d1e508">
+               <lb ed="#G" n="13"/>Haec pauca ex multis in istam Distinctionem 
+      <lb ed="#G" n="14"/>possunt annotari. Plura vero vitia, atque etiam  
+      <lb ed="#G" n="15"/>grauiora, facile quiuis studiosus &amp; diligens 
+      le<lb ed="#G" n="16" break="no"/>ctor per sese obseruabit. 
+      <lb ed="#G" n="17"/>
+               <!-- line coord error -->
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

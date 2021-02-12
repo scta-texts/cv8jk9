@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 15</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 15</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="250"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e16908"><!-- ld-d15 -->
+            <head xml:id="cv8jk9-e16908-Hd1e106">Distinctio 15</head>
+            <p xml:id="cv8jk9-e16908-d1e109">
+      <!--351.xml-->
+               <pb ed="#G" n="250"/>
+      
+               <lb ed="#G" n="1"/>AD DISTINCT. XV. 
+      <lb ed="#G" n="2"/>AD CAP. III 
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e120">
+               <lb ed="#G" n="3"/>Non fecit sine Spiritu sancto. 
+      Quemadmo<lb ed="#G" n="4" break="no"/>dum in tota hac Distinctione multa perturbar. 
+      <lb ed="#G" n="5"/>Lombardus, ita hoc loco grauissimam 
+      Augu<lb ed="#G" n="6" break="no"/>stini rationem magna negligentia praetermisit,  
+      <lb ed="#G" n="7"/>per quam ex ipso Dei verbo intelligeremus 
+      Fi<lb ed="#G" n="8" break="no"/>lium, nempe Christum, non sine Spiritu sancto 
+      <lb ed="#G" n="9"/>a Patre missum esse, &amp; hominem factum: cum 
+      <lb ed="#G" n="10"/>tamen leuiores rationes, &amp; probationes huius 
+      <lb ed="#G" n="11"/>sententiae iste consectetur hoc, &amp; sequenti 
+      ca<lb ed="#G" n="12" break="no"/>pite. Verba igitur &amp; Scripturae ipsius, &amp; 
+      Augu<lb ed="#G" n="13" break="no"/>stini haec sunt, lib. 2. de Trin. cap. 8. Proinde 
+      Fi<lb ed="#G" n="14" break="no"/>lius mitti a Patre sine Spiritusancto non potuit, non 
+      <lb ed="#G" n="15"/>solum quia intelligitur Pater, quum eum misit, id est,  
+      <lb ed="#G" n="16"/>fecit ex foemina, non vtique sine Spiritu suo fecisse: 
+      <lb ed="#G" n="17"/>verumetiam quod manifistissime, atque apertissime 
+      <lb ed="#G" n="18"/>in Euangelio dicitur Mariae Virgini quaerenti de 
+      <lb ed="#G" n="19"/>Angelo, Quomodo fiet istude Lucae primo, Spiritus 
+      <lb ed="#G" n="20"/>sanctus superueniet in te, &amp; virtus altissimi 
+      obum<lb ed="#G" n="21" break="no"/>brabit tibi: &amp; Mathaeus dicit, Inuenta est in vtero 
+      <lb ed="#G" n="22"/>habens de Spiritu sancto. Math. I. Haec tam certo 
+      <lb ed="#G" n="23"/>saltem, quam Ambrosij autoritas, demonstrant 
+      <lb ed="#G" n="24"/>incarnatione Christi, proptereaque ipsius 
+      mis<lb ed="#G" n="25" break="no"/>Eonem esse opus Patri cum Sp. S. commune. 
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e172">
+               <lb ed="#G" n="26"/>AD CAP. IIII 
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e177">
+               <lb ed="#G" n="27"/>Nunc isit me. Augustinus in superioris 
+      <lb ed="#G" n="28"/>sententiae confirmationem hoc lsaiae 
+      testimo<lb ed="#G" n="29" break="no"/>nium, tanquam tertium argumentum eodem  
+      <lb ed="#G" n="30"/>libro secundo de Trin. capite 1. affert. Ergo 
+      <lb ed="#G" n="31"/>superioribus adiunxit. Quanquam &amp; apud 
+      <!--352.xml-->
+      <pb ed="#G" n="251"/>
+               <lb ed="#G" n="1"/>lsaiam Prophetam ipse Christus intelligitur de ad 
+      <lb ed="#G" n="2"/>uentum suo futuro dicere, &amp; nunc Dominus misit me, 
+      <lb ed="#G" n="3"/>Haec verba Augustini, vt plane eius sententia 
+      <lb ed="#G" n="4"/>&amp; ratio repraesentaretur, praetermittenda non 
+      <lb ed="#G" n="5"/>fuerunt. 
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e206">
+               <lb ed="#G" n="6"/>Quia &amp; a Spiritu. Ambrosius habet cap. 
+      <lb ed="#G" n="7"/>x. Ii. g. de Spiritu sancto Qui, iste vero Quia: 
+      aa<lb ed="#G" n="8" break="no"/>tus est autem, audeo dicere &amp; ab Spiritu, qui missus 
+      <lb ed="#G" n="9"/>ab Spiritu est. Haec leuis est immutatio: ista iam  
+      <lb ed="#G" n="10"/>grauior, quod hic pulcherim: Ambrosij locus a 
+      <lb ed="#G" n="11"/>vera ipsius mente detorquetur logissime. Quod 
+      <lb ed="#G" n="12"/>enim docet, Filium &amp; a Patre &amp; a Spiritu sancto 
+      <lb ed="#G" n="13"/>datum esse, id cur disputet, breuissime his verbis 
+      <lb ed="#G" n="14"/>explicat Ambrosius ipse. Si subiectum in eo putant 
+      <lb ed="#G" n="15"/>fuisse Filium, quia missus est: yratia esse negare non pos 
+      <lb ed="#G" n="16"/>sunt quod datus est. Et postea. Ergo no potuit diui 
+      <lb ed="#G" n="17"/>nae subiectionis esse, quod datus est: Non ergo vt in 
+      <lb ed="#G" n="18"/>has quaestiones intricatas nos coniicerems haec 
+      <lb ed="#G" n="19"/>disputat pius ille doctor, sed vt intelligeremus 
+      <lb ed="#G" n="20"/>missione siue incarnationem Christi esse donum 
+      <lb ed="#G" n="21"/>Dei immensum. Deinde vt haereticorum 
+      Aria<lb ed="#G" n="22" break="no"/>norum delirijs occurreret, qui voculam illam,  
+      <lb ed="#G" n="23"/>Missus, captantes, ex ea Filium esse minorem 
+      Pa<lb ed="#G" n="24" break="no"/>tre colligebant, quam eorum sententiam idem  
+      <lb ed="#G" n="25"/>Ambrosius eiusdem operis cap. I. refutat &amp; a. 
+      <lb ed="#G" n="26"/>Ac primo quidem capite his verbis, Si ergo se 
+      in<lb ed="#G" n="27" break="no"/>uicem Filius &amp; Spiritus mittunt, sicut Pater 
+      misit<lb ed="#G" n="28" break="no"/>non subiectionis iniuria, sed communitas potestatis 
+      <lb ed="#G" n="29"/>est. Secundo autem capite. Cum ergo &amp; Filius 
+      <lb ed="#G" n="30"/>&amp; missus, &amp; datus sit, Spiritus quoque missus &amp; 
+      <lb ed="#G" n="31"/>datus sit, habent vtique vnitatem diuinitatis qui 
+      <lb ed="#G" n="32"/>habent operis vnitate. Haec Ambrosius, quae vt ni 
+      <lb ed="#G" n="33"/>hil commune cum isto loco habeant vident 
+      <lb ed="#G" n="34"/>omnes.
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e271">
+      <!--353.xml-->
+               <pb ed="#G" n="252"/>
+               <lb ed="#G" n="1"/>Dicit enim Filius Dei. Ista iam ex lib. 
+      qui<lb ed="#G" n="2" break="no"/>dem eodem Ambrosij, sed capite I. sunt 
+      descri<lb ed="#G" n="3" break="no"/>pta, ne quis in secundo capite illa frustra 
+      quae<lb ed="#G" n="4" break="no"/>rat, ex quo tamen superiora erant transcripta. 
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e287">
+               <lb ed="#G" n="5"/>AD CAP. V.
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e292">
+               <lb ed="#G" n="6"/>VT etiam ipse Filius. Et hic quoque a 
+      <lb ed="#G" n="7"/>mente Ambrosij discessum est, cuius haec est 
+      <lb ed="#G" n="8"/>tum oratio, tum etiam conclusio: Cum enim non 
+      <lb ed="#G" n="9"/>finierit a quo datus sit Filius, ostendit datum gratiam 
+      <lb ed="#G" n="10"/>Trinitatis: cum autem ipse se Filius dederit, vtique 
+      <lb ed="#G" n="11"/>non potuit ipse sibi secundum diuinitatem esse subie 
+      <lb ed="#G" n="12"/>ctus. Ergo non potuit diuinae subiectionis esse quod 
+      <lb ed="#G" n="13"/>datus est. Ex quo apparet alium prorsus esse 
+      <lb ed="#G" n="14"/>Ambrosij scopum, quam hic sit Lombardi, &amp; 
+      <lb ed="#G" n="15"/>illius verba ab hoc circumscribi, quamquam 
+      ve<lb ed="#G" n="16" break="no"/>rum est tamen Filium a seipso (quatenus &amp;ipse 
+      <lb ed="#G" n="17"/>vnus est cum Patre Deus ) &amp; mitti, &amp; dari. 
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e321">
+               <lb ed="#G" n="18"/>AD CAP. XI 
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e326">
+               <lb ed="#G" n="19"/>Vtantea in Patribus. Aliquid hic a Lom 
+      <lb ed="#G" n="20"/>bardo in verbis Augustini immutatum est: sed 
+      <lb ed="#G" n="21"/>nulla sensus iactura. Sic enim August. Hoc enim 
+      <lb ed="#G" n="22"/>&amp; antea in Patribus &amp; Prophetis erat. Hoc enim 
+      <lb ed="#G" n="23"/>sibi vult alio modo &amp; praestantiore postremis 
+      <lb ed="#G" n="24"/>temporibus missum esse Filium Dei, qui est 
+      <lb ed="#G" n="25"/>ipsa Patris sapientia, quam olim: quia tunc 
+      tan<lb ed="#G" n="26" break="no"/>tum intpyeig, nunc μαοφάνeι: tunc Spiritu suo agens, 
+      <lb ed="#G" n="27"/>nunc ore suo loquens apparuit. Quod 
+      confir<lb ed="#G" n="28" break="no"/>matur Hebraeor. cap. I. Vers. I. 2. 2. 
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e351">
+               <lb ed="#G" n="29"/>AD CAP. XIII 
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e356">
+               <lb ed="#G" n="30"/>I Congruenter autem. Inffexa &amp; detorta est 
+      <lb ed="#G" n="31"/>a germano Augustini sensu haec particula, vt 
+      <!--354.xml-->
+      <pb ed="#G" n="253"/>
+               <lb ed="#G" n="1"/>ex ipsa verborum recitatione perspicue 
+      appa<lb ed="#G" n="2" break="no"/>ret, quae sic habent lib. 2. Trinit. I cap. S. Cum 
+      ita<lb ed="#G" n="3" break="no"/>que hoc a Patre &amp; Filio factum esset, vt in came 
+      <lb ed="#G" n="4"/>Filius appareret, congruenter dictus est missus ille 
+      <lb ed="#G" n="5"/>qui in ea came apparuit: misisse autem ille, qui in 
+      <lb ed="#G" n="6"/>ea non apoaruit. Quod enim de solo Patre &amp; 
+      Fi<lb ed="#G" n="7" break="no"/>lio ἀαοξελικῶς dixit August. hic Sελικῶς &amp; 
+      gene<lb ed="#G" n="8" break="no"/>raliter profert, quasi ad homines quoque 
+      perti<lb ed="#G" n="9" break="no"/>neat, quod esset falsum:
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e387">
+               <lb ed="#G" n="10"/>Censura. 
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e392">
+               <lb ed="#G" n="11"/>Tam est implicata Magistri sententia &amp; 
+      con<lb ed="#G" n="12" break="no"/>ceptio animi hoc loco, vt ne summ quidem &amp; 
+      ac<lb ed="#G" n="13" break="no"/>cutissimi ipsius discipuli assequi eam potuerint. 
+      <lb ed="#G" n="14"/>Occan praeterquam quod ait hic tantum agi 
+      <lb ed="#G" n="15"/>de vocabulis, non de re vlla, etiam aperte pro- 
+      <lb ed="#G" n="16"/>nuntiat sentire Magistrum, Mitti &amp; 
+      mitte<lb ed="#G" n="17" break="no"/>re esse commune tribus Personis diuinis, nimirum  
+      <lb ed="#G" n="18"/>quasi mittere, &amp;mitti couueniat etiam Patri, 
+      <lb ed="#G" n="19"/>&amp; sit attributum essentiale Deitatis, id quod 
+      <lb ed="#G" n="20"/>est falsissimum. Alij dicunt, Mitti, 
+      significa<lb ed="#G" n="21" break="no"/>re &amp; attribuere aliquid essentiale Personae 
+      <lb ed="#G" n="22"/>illi quae mittitur, sic Durandus. Alij id negant, 
+      <lb ed="#G" n="23"/>imo ne respectum quidem vllum rationis 
+      de<lb ed="#G" n="24" break="no"/>notari perMissionem putant. Quae vtraque 
+      sen<lb ed="#G" n="25" break="no"/>tentia certe quidem est quoque falsissima. Alij 
+      <lb ed="#G" n="26"/>quaerunt, vtrum, originis duntaxat ratione, vna 
+      <lb ed="#G" n="27"/>Persona diuina ab alia mitti dicatur, an ratione 
+      <lb ed="#G" n="28"/>&amp; vi imperij, Thomas in I. parte Quaest. 48. art. 
+      <lb ed="#G" n="29"/>I. Sic suos discipulos incertos &amp; miseros 
+      di<lb ed="#G" n="30" break="no"/>mittit iste, dum nihil vel ordine, vel commode 
+      <lb ed="#G" n="31"/>explicat: sed curiosas tantum quaestiones 
+      con<lb ed="#G" n="32" break="no"/>sectans ambitioni suae misere studet, non autem  
+      <lb ed="#G" n="33"/>Ecclesiae aedificationi, &amp; verae Dei gloriae 
+      illu<lb ed="#G" n="34" break="no"/>strandae. 
+      <!--355.xml-->
+      <pb ed="#G" n="254"/>
+               <lb ed="#G" n="1"/>Hoc primum igitur in hac Distinctione 
+      me<lb ed="#G" n="2" break="no"/>rito reprehendendum est, praesertim cum se 
+      <lb ed="#G" n="3"/>dogmata fidei tradere Lombardus profiteatur.
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e457">
+               <lb ed="#G" n="4"/>Secundum, quod ex optimo autore 
+      Augusti<lb ed="#G" n="5" break="no"/>no quaedam colligens, seuiora tantum decerpit, 
+      <lb ed="#G" n="6"/>praetermittit autem vtiliora &amp; magis ardua, 
+      at<lb ed="#G" n="7" break="no"/>que etiam magis necessaria, &amp; scitu digna. 
+      Do<lb ed="#G" n="8" break="no"/>cet igitur ex Augustino iste hoc loco,
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e470">
+               <lb ed="#G" n="9"/>Filium a Patre esse missum: 
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e476">
+               <lb ed="#G" n="10"/>Aseipso quoque esse missum: 
+      <lb ed="#G" n="11"/>Quis vero ista ignorabat? 
+      <lb ed="#G" n="12"/>S Filium a Spiritu sancto esse missum.
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e485">
+               <lb ed="#G" n="13"/>Patrem a nemine mitti, id est, neque 
+      Fi<lb ed="#G" n="14" break="no"/>lio, neque Spiritu sancto. Haec est breuis κυαλ
+      u<lb ed="#G" n="15" break="no"/>nς totius huius Distinctionis. At quaerit Aug. 
+      <lb ed="#G" n="16"/>iisdem in libris &amp; capitibus alia quaedam 
+      maio<lb ed="#G" n="17" break="no"/>ris ad refutandas haereses, quae ex istis 
+      defini<lb ed="#G" n="18" break="no"/>tionibus nascuntur, momenti.
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e501">
+               <lb ed="#G" n="19"/>Vtrum minor sit quae mittitur Persona 
+      <lb ed="#G" n="20"/>mittente. Iste per transennam tam arduam &amp;  
+      <lb ed="#G" n="21"/>difficilem, atque omni seculo agitatam ab 
+      Aria<lb ed="#G" n="22" break="no"/>nis quaestionem leui cubito transigit.
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e512">
+               <lb ed="#G" n="23"/>Quum dicitur Persona vna, aliam 
+      mitten<lb ed="#G" n="24" break="no"/>re, vtrum qui mittit, iubeat, vel roget eum qui 
+      <lb ed="#G" n="25"/>mittitur vt eat, quod Thomas olfecit quidem, 
+      <lb ed="#G" n="26"/>sed non decidit. 
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e523">
+               <lb ed="#G" n="27"/>s Vtrum Persona quae mittitur alio 
+      mitta<lb ed="#G" n="28" break="no"/>tur, quam vbi ia erat, cum qui mittitur sit Deus.  
+      <lb ed="#G" n="29"/>Deus autem sit vbique: in qua postrema 
+      quae<lb ed="#G" n="30" break="no"/>stione vera ratio definitioque istius missionis 
+      <lb ed="#G" n="31"/>est explicanda, ex qua nouum tantum modum ma 
+      <lb ed="#G" n="32"/>nifestationis Spiritus sancti &amp; efficacitatis illius 
+      <lb ed="#G" n="33"/>significari voce Missionis intelligitur, 
+      quem<lb ed="#G" n="34" break="no"/>admodum etiam August. ipse lib 4. Trinitat. 
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e543">
+      <!--356.xml-->
+               <pb ed="#G" n="255"/>
+               <lb ed="#G" n="1"/>cap. 2o, exponit. Hae tam graues quaestiones 
+      <lb ed="#G" n="2"/>sunt ab isto praetermissae, aliae tamen leuioris 
+      <lb ed="#G" n="3"/>momenti perturbate inuectae &amp; tractatae. Atque 
+      <lb ed="#G" n="4"/>hoc est secundum huius Distinctionis vitium, 
+      <lb ed="#G" n="5"/>quaestionum necessariarum praetermissio. 
+      Ter<lb ed="#G" n="6" break="no"/>tium autem, tam longa digressio, qualem iste 
+      <lb ed="#G" n="7"/>in hanc Distinctionem iniecit. Cum enim isti 
+      <lb ed="#G" n="8"/>propositum esset dicere de Spiritu sancto, vtrum  
+      <lb ed="#G" n="9"/>a seipso mittatur, hac quaestione prorsus omissa 
+      <lb ed="#G" n="10"/>quam propterea infra Dist. o, repetit) 
+      excur<lb ed="#G" n="11" break="no"/>rit in extraneas alias disputationes, de Patre, &amp; 
+      <lb ed="#G" n="12"/>Filio, in quibus etiam ipsis non explicat, vtrum  
+      <lb ed="#G" n="13"/>idem sit modus per quem Filius, &amp; per quem 
+      <lb ed="#G" n="14"/>Spiritus sanctus mittuntur etiam inuisibiliter, 
+      <lb ed="#G" n="15"/>an diuersus: De quo ipso Durandus, &amp; recte 
+      <lb ed="#G" n="16"/>quidem, ait diuersum esse missionis seu 
+      datio<lb ed="#G" n="17" break="no"/>nis modum, sed tamen nobis inexplicabilem,  
+      <lb ed="#G" n="18"/>nisi quod huius rei aliquo pacto declarandae 
+      <lb ed="#G" n="19"/>causa, idem ille vult missionem Filij perficere 
+      <lb ed="#G" n="20"/>in nobis intellectum. Missionem autem 
+      Spiri<lb ed="#G" n="21" break="no"/>tus sancti afficere &amp; pertinere ad nostram 
+      vo<lb ed="#G" n="22" break="no"/>luntatem: nam potius in eo diuersus est 
+      mo<lb ed="#G" n="23" break="no"/>dus, quod mittitur vel datur nobis Filius 
+      <lb ed="#G" n="24"/>inuisibiliter, quatenus ille, carne assumpta, 
+      fa<lb ed="#G" n="25" break="no"/>ctus est materia nostrae salutis &amp; renouationis,  
+      <lb ed="#G" n="26"/>tum in intelligentia, tum etiam in mente. 
+      Mitti<lb ed="#G" n="27" break="no"/>tur autem vel datur inuisibiliter Spiritus 
+      san<lb ed="#G" n="28" break="no"/>ctus, quatenus nobis Christum applicat, &amp; 
+      fi<lb ed="#G" n="29" break="no"/>dei in nobis parens est &amp;creator. Sed nequehaec 
+      <lb ed="#G" n="30"/>ipsa satis apte &amp; vere dicuntur.
+    </p>
+            <p xml:id="cv8jk9-e16908-d1e616">
+               <lb ed="#G" n="31"/>Denique quis in hac Distinctione non 
+      repre<lb ed="#G" n="32" break="no"/>hendat &amp; damnet, quod praetermittit iste ex 
+      Au<lb ed="#G" n="33" break="no"/>gustino eam probationem, quae ex ipsa adeo 
+      <lb ed="#G" n="34"/>missione ducitur, vt ostendatur (licet Filius 
+      <!--357.xml-->
+      <pb ed="#G" n="256"/>
+               <lb ed="#G" n="1"/>mittatur, Pater autem mittat) non esse tamen 
+      <lb ed="#G" n="2"/>propterea minorem Patre Filium vel 
+      potesta<lb ed="#G" n="3" break="no"/>te, vel Deitate) Qui locus quoniam est 
+      pulcher<lb ed="#G" n="4" break="no"/>rimus, hic eum ascribam ex lib. Trinitat. 4. cap. 
+      <lb ed="#G" n="5"/>Xo. Quid ergo mirum, si mittitur, no quia inaequalis 
+      <lb ed="#G" n="6"/>est Patri, sed quia est manatio quaedam charitatis 
+      <lb ed="#G" n="7"/>omnipotentis Dei svncera. Ibi autem quod manat, &amp; 
+      <lb ed="#G" n="8"/>de quo manat, vnius eiusdemque substantiae est. 
+      Ne<lb ed="#G" n="9" break="no"/>que enim sicut aqua de foramine terrae, aut lapidis 
+      <lb ed="#G" n="10"/>manat: sed sicut lux de luce. Nam quod dictum est,  
+      <lb ed="#G" n="11"/>sandor est lucis aeternae, Sapient. ). quid aliud 
+      di<lb ed="#G" n="12" break="no"/>ctum est, quam lux est lucis aeternae, &amp;c. Maluit di 
+      <lb ed="#G" n="13"/>cere candor lucis, quam lux lucis, ne obscurior 
+      puta<lb ed="#G" n="14" break="no"/>retur ista quae manat, quam illa de qua manat, &amp;c. 
+      <lb ed="#G" n="15"/>Neque mouere debet, quia dicta est manatio 
+      quae<lb ed="#G" n="16" break="no"/>dam charitatis omnipotentis Dei svncera, tanquam  
+      <lb ed="#G" n="17"/>ipsa non sit omnipotens, sed omnipotentis manatio.  
+      <lb ed="#G" n="18"/>Mox enim de illa dicitur, &amp; cum sit vna, omnia 
+      <lb ed="#G" n="19"/>potest. Quis autem omnipotens, nisi qui omnia poteste 
+      <lb ed="#G" n="20"/>Ex quibus inte lligitur quam vtilis locus sit ab 
+      <lb ed="#G" n="21"/>isto praetermissus. Item August. tractat. 2I. in 
+      <lb ed="#G" n="22"/>Ioan. Euangelio. Missionem audio, non 
+      separa<lb ed="#G" n="23" break="no"/>tionem. Sed hic, inquit, videmus in rebus humanis,  
+      <lb ed="#G" n="24"/>quia maior est qui mittit, quam ille qui mittitur. Sed 
+      <lb ed="#G" n="25"/>res humunae fallunt hominem, res diuinae purgant. 
+      <lb ed="#G" n="26"/>Noli attendere ad res humanas, nam &amp; ipsae res 
+      hu<lb ed="#G" n="27" break="no"/>manae dicunt contra testimonium. Verbi gratiam, si 
+      <lb ed="#G" n="28"/>quis vxorem vellet petere, &amp; per se non posset, 
+      ami<lb ed="#G" n="29" break="no"/>cum maiorem mittit, qui ei petat, &amp;c. Videndus est 
+      <lb ed="#G" n="30"/>est totus ille locus, vt intelligamus quam 
+      per<lb ed="#G" n="31" break="no"/>functorie Lombardus tam grauem 
+      quaestio<lb ed="#G" n="32" break="no"/>nem tractauerit, etsi eidem plura capita 
+      at<lb ed="#G" n="33" break="no"/>tribuit.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

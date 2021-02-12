@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 16</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 16</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="261"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e17459"><!-- ld-d16 -->
+            <head xml:id="cv8jk9-e17459-Hd1e106">Distinctio 16</head>
+            <p xml:id="cv8jk9-e17459-d1e109">
+               <lb ed="#G" n="29"/>AD DISTINCTIONEM XVI 
+      <lb ed="#G" n="30"/>AD CAP. II 
+    </p>
+            <p xml:id="cv8jk9-e17459-d1e116">
+               <lb ed="#G" n="31"/>I Sicut ignis. Aug. codex habet taqua ignis 
+      <lb ed="#G" n="32"/>Hoc leue quidem, sed tamen immutatum. Qua 
+      <lb ed="#G" n="33"/>fider
+    </p>
+            <p xml:id="cv8jk9-e17459-d1e125">
+      <!--363.xml-->
+               <pb ed="#G" n="262"/>
+               <lb ed="#G" n="1"/>AD CAP. III
+    </p>
+            <p xml:id="cv8jk9-e17459-d1e134">
+               <lb ed="#G" n="2"/>Fateamur ergo. Facta est hoc loco &amp; 
+      sen<lb ed="#G" n="3" break="no"/>sus, &amp; verborum Augustini mutatio non leuis 
+      <lb ed="#G" n="4"/>lib. 4. Trinit. cap. I9. Sic enim ille, Si ergo mator 
+      <lb ed="#G" n="5"/>mittit minorem, fatemur &amp; nos factum minorem: &amp; 
+      <lb ed="#G" n="6"/>intantum minorem inquantum factum est, &amp;c. Ergo 
+      <lb ed="#G" n="7"/>est Gορdε λικὸν Augustini argumentum, quod hoc 
+      <lb ed="#G" n="8"/>loco tanquam purum, &amp; καληδῶεικὸν propositum 
+      <lb ed="#G" n="9"/>est a Lombardo. Sed qua hoc fide) Nam aut iste 
+      <lb ed="#G" n="10"/>ex se loquatur: aut sua Augustino relinquat,  
+      <lb ed="#G" n="11"/>quae ipse non interpolet.
+    </p>
+            <p xml:id="cv8jk9-e17459-d1e159">
+               <lb ed="#G" n="12"/>Sapientes, sed quod ipsum. Verba quaedam  
+      <lb ed="#G" n="13"/>Augustini truncata pulcherrimam huius loci 
+      <lb ed="#G" n="14"/>sententiam obscurant. Sic igitur nos illa 
+      reddi<lb ed="#G" n="15" break="no"/>dimus exlibr. 2. Trinitat. cap. 6. Non vi haberer 
+      <lb ed="#G" n="16"/>CChristus) Verbum Dei, sicut alij sapientes sancti,  
+      <lb ed="#G" n="17"/>sed prae participibus suis. Non vtique quod amplius 
+      <lb ed="#G" n="18"/>habebat Verbum Dei vt esset excellentior, quam  
+      <lb ed="#G" n="19"/>caeteri, sapientia: sed quod ipsum verbum erat. Aliud 
+      <lb ed="#G" n="20"/>enim est Verbum in came, aliud verbum caro. Quae 
+      <lb ed="#G" n="21"/>verba nouam quandam hypostaticae vnionis 
+      de<lb ed="#G" n="22" break="no"/>finitionem recenter excusam plane iugulant.  
+      <lb ed="#G" n="23"/>Dicitur enim ab istis vnio deitatis &amp; 
+      humanita<lb ed="#G" n="24" break="no"/>tis in Christo hypostatica esse, quod in Christo 
+      <lb ed="#G" n="25"/>deitas omnes suas proprietates in humanitatem 
+      <lb ed="#G" n="26"/>effuderit, in ceaeteris autem sanctis duntaxat 
+      <lb ed="#G" n="27"/>quasdam. Qu am definitionem aut potius 
+      gra<lb ed="#G" n="28" break="no"/>uissimum errorem refutat quoque 
+      Hierony<lb ed="#G" n="29" break="no"/>mus in explanatione Symboli ad Damasum 
+      <lb ed="#G" n="30"/>August. ipse in Agone Christian. sic scribit. 
+      <lb ed="#G" n="31"/>Deus hunc hominem Christum non regebat, vt alios 
+      <lb ed="#G" n="32"/>Sanctor, sed gerebat. 
+    </p>
+            <p xml:id="cv8jk9-e17459-d1e207">
+      <!--364.xml-->
+               <pb ed="#G" n="263"/>
+               <lb ed="#G" n="1"/>AD CAP. IIII
+    </p>
+            <p xml:id="cv8jk9-e17459-d1e216">
+               <lb ed="#G" n="2"/>Homines ea quae. Quaedam in hoc toto lo 
+      <lb ed="#G" n="3"/>co recitando omissa sunt, quaedam etiam 
+      immu<lb ed="#G" n="4" break="no"/>tata, sed nulla de autoris mente iacturam 
+      facta<lb ed="#G" n="5" break="no"/>Idem quoque ab isto fit in fine huius capitis, in 
+      <lb ed="#G" n="6"/>postremo Augustini dicto transcribendo, quod 
+      <lb ed="#G" n="7"/>ex cap. y. lib. I. de Trinitate, procul dubio 
+      sum<lb ed="#G" n="8" break="no"/>ptum est. 
+    </p>
+            <p xml:id="cv8jk9-e17459-d1e234">
+               <lb ed="#G" n="9"/>Censura ad Distinctionem 
+      <lb ed="#G" n="10"/>decimamsextam.
+    </p>
+            <p xml:id="cv8jk9-e17459-d1e241">
+               <lb ed="#G" n="11"/>Et hic quoque multa perturbate 
+      scribun<lb ed="#G" n="12" break="no"/>tur, vti in superiori Distinctione decimaquinta. 
+      <lb ed="#G" n="13"/>Primum enim a suo titulo &amp; scopo longissime 
+      <lb ed="#G" n="14"/>discedit, vtpote qui de Spiritu sancto pollicitus 
+      <lb ed="#G" n="15"/>acturum se, de Filio tamen potius, quam de Sp. 
+      <lb ed="#G" n="16"/>S. disserit: quod est vitiosissimum. Monet enim 
+      <lb ed="#G" n="17"/>praeclare Plinius lib. I. Histor. Natural. titulum 
+      <lb ed="#G" n="18"/>operis saepe esse ab ipso autore relegendum, ne 
+      <lb ed="#G" n="19"/>quid a proposito alienu afferat: sed iste de tam  
+      <lb ed="#G" n="20"/>bonorum scriptorum numero minime 
+      censen<lb ed="#G" n="21" break="no"/>dus est. Pluribus porro verbis tractata est haec 
+      <lb ed="#G" n="22"/>quaestio, Cur Filius dicatur minor Patre, quae vno 
+      <lb ed="#G" n="23"/>tamen expediri potuit, nimirum ratione oiκoro¬ 
+      <lb ed="#G" n="24"/>μiας &amp; camis humanae a Filio assumptae, &amp; in v¬. 
+      <lb ed="#G" n="25"/>nicae Personae coalitionem vnitae sic appellari. 
+      <lb ed="#G" n="26"/>Quum sit enim ea natura assumpta res creata, 
+      <lb ed="#G" n="27"/>deitate minor est. Itaque &amp; Patre ipso, &amp; 
+      Spi<lb ed="#G" n="28" break="no"/>ritu sancto, ac denique seipso Deo minor est 
+      <lb ed="#G" n="29"/>Filius, quam homo est. Caeterum quod quidam  
+      <lb ed="#G" n="30"/>citant ex Epistola ad Hebraeos capite secundo, 
+      <lb ed="#G" n="31"/>versiculo 9. ιλάλωσας αότον ξρατῳ τι παφ ἀνηιλoς. id 
+      <lb ed="#G" n="32"/>est, Fecisti eum paulisper inferiorem Angelis, alio 
+      <lb ed="#G" n="33"/>pertinet, quam ad hanc quaestionem, quum  
+      <!--365.xml-->
+      <pb ed="#G" n="264"/>
+      
+               <lb ed="#G" n="1"/>non tantum illic dicatur, Filius minor Patre, sed 
+      <lb ed="#G" n="2"/>minor ipsis Angelis. Itaque de illo statu Christi 
+      <lb ed="#G" n="3"/>intelligendus est epistolae ad Hebraeos locus, in 
+      <lb ed="#G" n="4"/>quo tunc fuit, quum grauissimas irae Dei 
+      poe<lb ed="#G" n="5" break="no"/>nas pro nobis pateretur, &amp; quum exclamaret,  
+      <lb ed="#G" n="6"/>Deus mi, Deus mi, quare me dereliquistis Denique 
+      <lb ed="#G" n="7"/>quum per coarctationem, &amp; iudicium (
+      quemad<lb ed="#G" n="8" break="no"/>modum loquitur Isaias 82. V. 8) de mundo 
+      tol<lb ed="#G" n="9" break="no"/>leretur. Alias enim naturam a Christo 
+      assum<lb ed="#G" n="10" break="no"/>ptam, quanuis vere humanam, esse tamen supra 
+      <lb ed="#G" n="11"/>Angelos ipsos dignitate euectam praeclare 
+      do<lb ed="#G" n="12" break="no"/>cet Augustinus lib. 2. contra Maximin. cap. 324. 
+      <lb ed="#G" n="13"/>Sed ad Lombardum redeamus. Is enim 
+      neces<lb ed="#G" n="14" break="no"/>sariis istis quaestionibus praetermissis παpeρνα &amp; 
+      <lb ed="#G" n="15"/>άνξum quaedam perturbate hic tractat.
+    </p>
+            <p xml:id="cv8jk9-e17459-d1e330">
+               <lb ed="#G" n="16"/>Secudum porro Lombardi vitium est, quod 
+      <lb ed="#G" n="17"/>hic quoque suos discipulos dimittit hiantes,  
+      <lb ed="#G" n="18"/>cum nondum explicet, quod illi contentioso 
+      <lb ed="#G" n="19"/>quaerunt, t. Vtrum apparitio diuinae Personae ide 
+      <lb ed="#G" n="20"/>sit, atque missio. X. Vtrum sola ea Persona quae 
+      ori<lb ed="#G" n="21" break="no"/>ginem ab alia habet, vel mitti, vel apparere possit. 
+      <lb ed="#G" n="22"/>S. Vtrum Pater qui nunquam dicitur missus, tamen 
+      <lb ed="#G" n="23"/>apparuerit aliquando. 4. Vtrum apparitio vel 
+      mis<lb ed="#G" n="24" break="no"/>sio(quum sit significatio &amp; ostensio spiritualis &amp; 
+      in<lb ed="#G" n="25" break="no"/>uisibilis illius Personae actionis, incarnationem 
+      Chri<lb ed="#G" n="26" break="no"/>sti excipio )Vtrum, inquam, haec missio differat a 
+      <lb ed="#G" n="27"/>sacramento, &amp;si differt, quomodo differat. 4. 
+      Deni<lb ed="#G" n="28" break="no"/>que cur non sit missus Spiritus sanctus visibiliter 
+      Pa<lb ed="#G" n="29" break="no"/>tribus sub veteri Testamento, quemadmodum 
+      Apo<lb ed="#G" n="30" break="no"/>stolis sub Nouo. Haec &amp; alia quaedam huiusmodi 
+      <lb ed="#G" n="31"/>quaerunt istius magistri discipuli, ex quibus 4¬ 
+      <lb ed="#G" n="32"/>&amp; 8. omnino scitu dignissimum est, &amp; tamen 
+      <lb ed="#G" n="33"/>prorsus ab isto ex professo ista tradente 
+      prae<lb ed="#G" n="34" break="no"/>termissum. Quamobrem hoc quoque in hac 
+      <!--366.xml-->
+      <pb ed="#G" n="265"/>
+               <lb ed="#G" n="1"/>Distinctione damnamus, quod cum iste vellet 
+      <lb ed="#G" n="2"/>esse harum controuersiarum spαξατς, seque 
+      ta<lb ed="#G" n="3" break="no"/>lem profiteretur: litigandi vias potius, quam  
+      <lb ed="#G" n="4"/>iuris:i. contentionum fontes potius, quam 
+      de<lb ed="#G" n="5" break="no"/>cisionum in hoc argumento aperuit, quod est 
+      <lb ed="#G" n="6"/>in Theologo maxime reprehendendum.
+    </p>
+            <p xml:id="cv8jk9-e17459-d1e392">
+               <lb ed="#G" n="7"/>Tertio loco habet Lombardus quaedam in 
+      <lb ed="#G" n="8"/>hac Distinctione partim ἀκυρα a se dicta: partim  
+      <lb ed="#G" n="9"/>a se non intellecta in aliis. Aκυεςν est, quod ait 
+      <lb ed="#G" n="10"/>ipse cap. 2. Sp. S. esse in creaturis, etiam brutis, &amp; 
+      <lb ed="#G" n="11"/>inanimis, &amp; per eas ad homines venire.
+    </p>
+            <p xml:id="cv8jk9-e17459-d1e405">
+               <lb ed="#G" n="12"/>Primum enim facit huiusmodi signa &amp; 
+      sum<lb ed="#G" n="13" break="no"/>bola Sp. S. tanquam vehicula, per quae ipse ad 
+      <lb ed="#G" n="14"/>homines deferatur, quum ait, Et per eas ad 
+      homi<lb ed="#G" n="15" break="no"/>nes veniens. Atqui huiusmodi res omnes sunt 
+      <lb ed="#G" n="16"/>duntaxat signa actionis &amp; energiae ipsius 
+      Spi<lb ed="#G" n="17" break="no"/>ritus inuisibiliter in hominibus agentis: non 
+      au<lb ed="#G" n="18" break="no"/>tem ipsius virtutis Sp. S. yelut arculae, canales,  
+      <lb ed="#G" n="19"/>aut gestationes. Hoc primum est ἀκυόςλόὸν.
+    </p>
+            <p xml:id="cv8jk9-e17459-d1e425">
+               <lb ed="#G" n="20"/>Secundum autem, quum ait Sp. S. esse in 
+      hu<lb ed="#G" n="21" break="no"/>iusmodi rebus, qualis ignis &amp; columba. 
+      Quan<lb ed="#G" n="22" break="no"/>quam enim Scriptura docet Deum vbique 
+      es<lb ed="#G" n="23" break="no"/>se, sitque Spiritus sanctus Deus, &amp; per 
+      conse<lb ed="#G" n="24" break="no"/>quens vbique, hoc tamen ipsum sic nude 
+      effa<lb ed="#G" n="25" break="no"/>tum, Spiritus sanctus in illis creaturis est, prae se 
+      <lb ed="#G" n="26"/>fert, atque animis nostris ingerit alienam 
+      quo<lb ed="#G" n="27" break="no"/>dammodo ab ipsa Spiritus sancti appellatione 
+      <lb ed="#G" n="28"/>notionem. Appellatur enim proprie &amp; idlos Spi 
+      <lb ed="#G" n="29"/>ritus sanctus, &amp; in iis inesse dicitur, quum, &amp; in 
+      <lb ed="#G" n="30"/>quibus virtutem illam suam sanctificantem 
+      exe<lb ed="#G" n="31" break="no"/>rit. Quamobrem quae res istius sanctificationis 
+      <lb ed="#G" n="32"/>nequaquam sunt capaces: vt columba &amp; ignis,  
+      <lb ed="#G" n="33"/>in iis quoque non tam dicitur, nisi 
+      sacramenta<lb ed="#G" n="34" break="no"/>liter, inesse vocabulo ipso, &amp; nomine Spiritus 
+      <!--367.xml-->
+      <pb ed="#G" n="266"/>
+               <lb ed="#G" n="1"/>sancti, quam Dei. Hanc ipsam interpretationem 
+      <lb ed="#G" n="2"/>nostram, &amp; sui refutatione agnoscit esse 
+      verissi<lb ed="#G" n="3" break="no"/>mam ipsemet Lombardus, infra Distinct. I7. 
+      <lb ed="#G" n="4"/>cap. 9. his verbis, Non enim omnes habent Spiritum 
+      <lb ed="#G" n="5"/>sanctum, in quibus est: alioquin &amp; irrationabiles 
+      <lb ed="#G" n="6"/>creaturae haberet Spiritum sanctum, quod fidei 
+      pie<lb ed="#G" n="7" break="no"/>tas non admittit. Ergo interpretatio huius suae 
+      <lb ed="#G" n="8"/>locutionis fuit a Lombardo addenda. Porro 
+      <lb ed="#G" n="9"/>minime intellecta a se habet, quale est illud 
+      <lb ed="#G" n="10"/>quod de Hilario affert cap. 8. huius tractationis.  
+      <lb ed="#G" n="11"/>Sic enim Hilarij mentem proponit, tanquam  
+      <lb ed="#G" n="12"/>euerteret Aug. cum tamen illi optime cum Aug. in 
+      <lb ed="#G" n="13"/>solutione conueniat. Sed duplici respectu &amp; 
+      mo<lb ed="#G" n="14" break="no"/>do Patrem Filio maiorem dici docet Hilarius 
+      <lb ed="#G" n="15"/>lib. 9. Trinitatis, ex recepta sui seculi sententia 
+      <lb ed="#G" n="16"/>&amp; interpretatione aduersus Arianos &amp; 
+      Sabel<lb ed="#G" n="17" break="no"/>lianos. Primo modo, quia Filius homo est 
+      fa<lb ed="#G" n="18" break="no"/>ctus, cuius naturae ratione dicitur Filius minor 
+      <lb ed="#G" n="19"/>Patre. Hanc igitur solutionem affert 
+      Augusti<lb ed="#G" n="20" break="no"/>nus: hanc quoque eandem suo suffragio 
+      com<lb ed="#G" n="21" break="no"/>probat Hilarius his verbis, Pater maior est, dum 
+      <lb ed="#G" n="22"/>gloriam assumpto homini rogatur vt reddat. item, 
+      <lb ed="#G" n="23"/>Nam &amp; Pater, dum &amp; Pater est, &amp; glorificat nunc 
+      <lb ed="#G" n="24"/>Filium hominis, mauor est. item, Patrem matorem  
+      <lb ed="#G" n="25"/>in glorificandi autoritate cognoscimus. Ioan. I2. V. 38. 
+      <lb ed="#G" n="26"/>Secundo modo etiam qua Filius Deus est ex Deo 
+      <lb ed="#G" n="27"/>Patre, docet Hilar. Filium quoque dici minorum 
+      <lb ed="#G" n="28"/>Patre, vtpote a quo Filius habet einus, qua 
+      ratio<lb ed="#G" n="29" break="no"/>ne Filius est: non autem quam ratione est Deus. 
+      <lb ed="#G" n="30"/>Sic enim vetus Ecclesia contra Arianos 
+      dispu<lb ed="#G" n="31" break="no"/>tans concessit Patri quoddam ἀξιωμα, &amp;, vt κατα 
+      <lb ed="#G" n="32"/>Tην τος αἰλας πυον, DNόλον, μειξῶν appellaretur, 
+      que<lb ed="#G" n="33" break="no"/>admodum aperte scribit Basitius sub finem lib. 
+      <lb ed="#G" n="34"/>I. contra Eunomium. Eτtidv7ο, ait, &amp;o τod πατζoς 
+      <!--368.xml-->
+      <pb ed="#G" n="267"/>
+      
+               <lb ed="#G" n="1"/>dἁρότῳ δα τῳ ποότῳ μειξων δπατιφ, ῶς aἰnoς μας άρ
+      o<lb ed="#G" n="2" break="no"/>Neque tamen propterea vel ανόμυιον, Vel ανεωον,  
+      <lb ed="#G" n="3"/>vel non eiusdem, omnino cum Patre &amp; vnius 
+      <lb ed="#G" n="4"/>essentiae Filium concedebant: sed, vt ait 
+      Cyril<lb ed="#G" n="5" break="no"/>lus in Ioan. lib. 2. cap. I4o. Non est Filius minos 
+      <lb ed="#G" n="6"/>eo qui obtulit, etiamsi quod a se Filius habet, id 
+      ho<lb ed="#G" n="7" break="no"/>noris ergo se accepisse a Patre dicit. Haec duo sunt,  
+      <lb ed="#G" n="8"/>quae in scriptis Hilarij perperam confudit 
+      Lon<lb ed="#G" n="9" break="no"/>bardus: neque distinxit. Itaque Hilarium cum 
+      <lb ed="#G" n="10"/>Aug. frustra committit, &amp; pro solutione istius 
+      <lb ed="#G" n="11"/>ξναντoφανας (quod &amp; in ipsilmet verbis Hilarij 
+      <lb ed="#G" n="12"/>apparet, vt nempe dicatur, Pater maior, nec tamen 
+      <lb ed="#G" n="13"/>Filius minor: &amp; in verbis sententiaque August. 
+      <lb ed="#G" n="14"/>&amp; Hilarij inter se collatis) hoc duntaxat affert 
+      <lb ed="#G" n="15"/>Lombardus, Verba Hilarij vbicumque occurrerint. 
+      <lb ed="#G" n="16"/>diligenter nota, pieque intellige, quasi non essent 
+      <lb ed="#G" n="17"/>totius piae, orthodoxae, &amp; veteris Ecclesiae ver 
+      <lb ed="#G" n="18"/>ba: &amp; non vnius Hilarij diuersa responsa. 
+      <lb ed="#G" n="19"/>
+               <!-- line coord error -->
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

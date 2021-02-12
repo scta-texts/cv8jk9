@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prologus</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Prologus</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="3"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e5769a"><!-- ld-prol -->
+            <head xml:id="cv8jk9-e5769a-Hd1e106">Prologus</head>
+            <p xml:id="cv8jk9-e5769a-d1e109">
+               <lb ed="#G" n="23"/>IN P. LOMBARDI 
+      <lb ed="#G" n="24"/>Librum primum Sententiarum. 
+      <lb ed="#G" n="25"/>IN PROLOCVM 
+      <lb ed="#G" n="26"/>Scholium. 
+      <lb ed="#G" n="27"/>I Cupientos. Excusatio autoris, qui tam 
+      ar<lb ed="#G" n="28" break="no"/>duum ac inimensum opus scribere aggrediatur. 
+      <lb ed="#G" n="29"/>Sed se diuini auxilij spe, &amp; fratrum 
+      hagitatio<lb ed="#G" n="30" break="no"/>nibus, quibus ex charitate satisfacere debeat, 
+      <lb ed="#G" n="31"/>impulsum id facere respondet. 
+      <!--103.xml-->
+      <pb ed="#G" n="4"/>
+      
+               <lb ed="#G" n="1"/>2 Quo inardescentes. Vtilitas &amp; finis huius 
+      <lb ed="#G" n="2"/>operis triplex. es, vt sit clypeus, quo aduersus hae 
+      <lb ed="#G" n="3"/>reses studiosi muniantur. 2. Vt difficiles 
+      Theo<lb ed="#G" n="4" break="no"/>logiae quaestiones explicentur. 8. Vt 
+      Sacramen<lb ed="#G" n="5" break="no"/>torum natura enodetur. 
+      <lb ed="#G" n="6"/>s Quanuis. Occurrit improborum 
+      calum<lb ed="#G" n="7" break="no"/>niis, qui, quia suam sententiam, quam ipsam 
+      ve<lb ed="#G" n="8" break="no"/>ritatem sequi &amp; tueri malunt, non sunt horum 
+      <lb ed="#G" n="9"/>librorum doctrinae subscripturi. 
+      <lb ed="#G" n="10"/>A Ex testimoniis. Doctrinam tum ex 
+      aeter<lb ed="#G" n="11" break="no"/>no Dei verbo, tum ex receptis iam &amp; probatis 
+      <lb ed="#G" n="12"/>Patrum scriptis, collectam se traditurum 
+      polli<lb ed="#G" n="13" break="no"/>cetur: quod vtinam praestitisset. 
+      <lb ed="#G" n="14"/>S Libris. Partitio totius operis in quatuor 
+      <lb ed="#G" n="15"/>libros. 
+      <lb ed="#G" n="16"/>&amp; Sicubi vero. Se raro ex sua persona loqui 
+      <lb ed="#G" n="17"/>docet, quod a Patrum sententia nolit discedere. 
+      <lb ed="#G" n="18"/> In hoc autem. Se corrigi patienter feret 
+      <lb ed="#G" n="19"/>Lombardus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

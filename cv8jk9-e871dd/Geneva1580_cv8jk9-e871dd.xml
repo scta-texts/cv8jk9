@@ -1,0 +1,2074 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prolegomena</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Prolegomena</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="f37"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e871dd"><!-- ld-prolegomena -->
+            <head xml:id="cv8jk9-e871dd-Hd1e106">Prolegomena</head>
+            <p xml:id="cv8jk9-e871dd-d1e109">
+      <!--36.xml-->
+               <pb ed="#G" n="f37"/>
+               <lb ed="#G" n="1"/>PROLEGOMENA 
+      <lb ed="#G" n="2"/>IN PETRI 
+      LOMBAR<lb ed="#G" n="3" break="no"/>DI LIBRVM PRIMVM 
+      <lb ed="#G" n="4"/>SENTENTIARVM 
+      <lb ed="#G" n="5"/>Cap. I 
+      <lb ed="#G" n="6"/>De prima Scholastica Theologiae origine. 
+      <lb ed="#G" n="7"/>TA fere vsus, communisque ratio 
+      lo<lb ed="#G" n="8" break="no"/>quendi iam obtinuit, vt qui inter 
+      Pon<lb ed="#G" n="9" break="no"/>tifices homines se in religione profi- 
+      <lb ed="#G" n="10"/>tentur aliorum doctores, citra 
+      con<lb ed="#G" n="11" break="no"/>uitium, aut contumeliam vllam vulgo Doctores 
+      <lb ed="#G" n="12"/>Scholastici vocentur. 
+      <lb ed="#G" n="13"/>Quam appellationem nec ipsi dedignantur, 
+      <lb ed="#G" n="14"/>nec habere ipsam per se ullam probri 
+      signifi<lb ed="#G" n="15" break="no"/>cationem omnes facile concedunt. Huius 
+      au<lb ed="#G" n="16" break="no"/>tem vocis minime est obscura deriuatio. Nam  
+      <lb ed="#G" n="17"/>ἄπο ἤις χολῆς deduci χολασικὸν vel tenuissime 
+      Grae<lb ed="#G" n="18" break="no"/>ce scientibus notum est satis. Scholae autem dictae 
+      <lb ed="#G" n="19"/>sunt (inquit Festus) non ab otio, ac vacatione 
+      ani<lb ed="#G" n="20" break="no"/>mi: sed quod cateris rebus omissis, liberalibus studijs 
+      <lb ed="#G" n="21"/>homines in illis locis, velut Academia Platonis,  
+      <lb ed="#G" n="22"/>Stoa Zenonis, Peripato Aristotelis, vel alio 
+      <lb ed="#G" n="23"/>quouis loco strenue vacarent. Ac primis quidem  
+      <lb ed="#G" n="24"/>Ecclesiae temporibus, quum recte &amp; ex 
+      praece<lb ed="#G" n="25" break="no"/>ptis, &amp; exemplis Apostolorum gubernaretur,  
+      <lb ed="#G" n="26"/>verbum Dei &amp; priuatim &amp; publice, quemad¬ 
+      <!--37.xml-->
+      <pb ed="#G" n="f38"/>
+      
+               <lb ed="#G" n="1"/>modum apparet ex Actis 2o. Vers. 2o. 
+      doceba<lb ed="#G" n="2" break="no"/>tur a veris Pastoribus, ac doctoribus: adeo vt 
+      <lb ed="#G" n="3"/>non modo ipsi Ecclesiae caetus, sed singulorum 
+      <lb ed="#G" n="4"/>quoque fidelium domus scholae 
+      quodammo<lb ed="#G" n="5" break="no"/>do pietatis, &amp; Christianae doctrinae dici 
+      pos<lb ed="#G" n="6" break="no"/>sent: &amp; fideles ipsi promiscue &amp; Mασηsας Vel 
+      <lb ed="#G" n="7"/>Christiani vocabantur. Etsi vero Doctores 
+      <lb ed="#G" n="8"/>a Pastoribus distinguit Paulus in epistola ad 
+      E<lb ed="#G" n="9" break="no"/>phesios, quum functiones Ecclesiasticas 
+      perpe<lb ed="#G" n="10" break="no"/>tuas, &amp; ordinarias recenset: non raro tamen 
+      e<lb ed="#G" n="11" break="no"/>uenit, vt vnus &amp; idem propter egregias animi  
+      <lb ed="#G" n="12"/>dotes, Pastoris &amp; Doctoris munere in Ecclesia 
+      <lb ed="#G" n="13"/>fungeretur. Cuius rei fidem faciunt tum κατυζἰ¬ 
+      <lb ed="#G" n="14"/>ouις, tum alia quoque scripta edita, ex quibus 
+      <lb ed="#G" n="15"/>eosdem vtrumque illud ex imie praestitisse 
+      con<lb ed="#G" n="16" break="no"/>stat. Verum decrescentibus primis illis Dei in 
+      <lb ed="#G" n="17"/>Ecclesiam donis: yel Episcopis ipsis, ac 
+      Pasto<lb ed="#G" n="18" break="no"/>ribus alibi iam occupatis, nimirum, vt 
+      homi<lb ed="#G" n="19" break="no"/>num mores corrigerent, aut etiam vt opes 
+      Ec<lb ed="#G" n="20" break="no"/>clesiae (cui praeerant) iam lautas illas quidem  
+      <lb ed="#G" n="21"/>tuerentur &amp; augerent, coeperunt quotidiano 
+      il<lb ed="#G" n="22" break="no"/>li a docendi munere, non grauatim abstinere. 
+      <lb ed="#G" n="23"/>Satis enim ad tuendam dignitatem officium se 
+      <lb ed="#G" n="24"/>suum facere existimarunt, si vel aliis illum 
+      la<lb ed="#G" n="25" break="no"/>borem demandassent, velut Presbyteris, 
+      Dia<lb ed="#G" n="26" break="no"/>conis, &amp; aliis Ecclesiae suae, quos vocabant, 
+      Cle<lb ed="#G" n="27" break="no"/>ricis: vel ipsi nonnunquam in solenniori 
+      popu<lb ed="#G" n="28" break="no"/>li caetu conciones habuissent. Ex quo factum  
+      <lb ed="#G" n="29"/>est, vt ab Episcoporum, tanquam eminentiore 
+      <lb ed="#G" n="30"/>dignitate, docendi onus separari coeperit, &amp; 
+      a<lb ed="#G" n="31" break="no"/>liis delegari. Paulatim vero Episcopis 
+      pascen<lb ed="#G" n="32" break="no"/>di gregis sui curam omnem etiam 
+      deponenti<lb ed="#G" n="33" break="no"/>bus, doctrina Christiana non tantum tanquam  
+      <lb ed="#G" n="34"/>lucerna sub modio absconsa fuit, Matthis, vers. 
+      <lb ed="#G" n="35"/>is: sed (quod omnino necesse erat euenire) inua¬ 
+      <!--38.xml-->
+      <pb ed="#G" n="f39"/>
+      
+               <lb ed="#G" n="1"/>lescentibus erroribus pene omnis etiam inter 
+      <lb ed="#G" n="2"/>Christianos ipsos extingui coepit. In tanta 
+      igi<lb ed="#G" n="3" break="no"/>tur Pastorum vaecordia exorti sunt quidam,  
+      <lb ed="#G" n="4"/>vt verbis Platonis vtar, homunciones, qui cum  
+      <lb ed="#G" n="5"/>hanc sedem vacuam conspicerent, praeclaris 
+      ta<lb ed="#G" n="6" break="no"/>men nominibus &amp; steminatis speciosam, instar 
+      <lb ed="#G" n="7"/>eorum qui e carceribus ad templa confugiunt,  
+      <lb ed="#G" n="8"/>vltro ex infimis sedibus in illam inuaserunt. Ii 
+      <lb ed="#G" n="9"/>autem fuerunt praesertim Monachi, qui 
+      negle<lb ed="#G" n="10" break="no"/>ctum docendi munus in se suscipere non 
+      recu<lb ed="#G" n="11" break="no"/>sarent. Hi vero quoniam iam doctrina 
+      Chri<lb ed="#G" n="12" break="no"/>stiana, velut incultus iam pridem ager infinitis 
+      <lb ed="#G" n="13"/>erroribus, velut sentibus, obsita, &amp; pene 
+      obru<lb ed="#G" n="14" break="no"/>ta erat, receptas in Ecclesia opiniones, taquam  
+      <lb ed="#G" n="15"/>solae verae fidei dogmata docere, defendere 
+      at<lb ed="#G" n="16" break="no"/>que etiam propagare, habebat satis: adeo vt 
+      re<lb ed="#G" n="17" break="no"/>liquum caelestis Euangelij doctrinae, quae 
+      ma<lb ed="#G" n="18" break="no"/>gna ex parte sepulta iam erat, non tanquam 
+      lan<lb ed="#G" n="19" break="no"/>guentem lucernam effugarent: sed suis, potius 
+      <lb ed="#G" n="20"/>disputationibus &amp; παεαδμαλειξαῆς suffocaret. 
+      Er<lb ed="#G" n="21" break="no"/>go Scholastici dicti sunt, quod eam doctrina 
+      <lb ed="#G" n="22"/>tenerent, quae in Scholis publicis tradebatur 
+      <lb ed="#G" n="23"/>publice, vtvt illi quidam priuatim illi doctrinae 
+      re<lb ed="#G" n="24" break="no"/>pugnarent. Sed cum. difficiles intricatae 
+      infini<lb ed="#G" n="25" break="no"/>taeque de iis rebus quaestiones tunc quoque 
+      ori<lb ed="#G" n="26" break="no"/>rentur, coeperunt in suis illis scholis 
+      concerta<lb ed="#G" n="27" break="no"/>tiones inter se de sua doctrina laboriosissimas 
+      <lb ed="#G" n="28"/>instituere, ac exercere. Vnde &amp; scholae 
+      Theolo<lb ed="#G" n="29" break="no"/>gicae, &amp; Scholasticorum Theologorum nomen 
+      cele<lb ed="#G" n="30" break="no"/>bre factum est: atque haec secta originem 
+      pri<lb ed="#G" n="31" break="no"/>mum habuit. Scholasticos ergo sese peculiari 
+      ap<lb ed="#G" n="32" break="no"/>pellatione nominarunt, &amp; quod quae in Scholis,  
+      <lb ed="#G" n="33"/>vti dixi publicis, quasi ab omnibus probatum 
+      tra<lb ed="#G" n="34" break="no"/>derent, &amp; quod difficilem in suis illis scholis 
+      dis<lb ed="#G" n="35" break="no"/>putandi rationem retinerent: adeo vt aliam  
+      <!--39.xml-->
+      <pb ed="#G" n="f40"/>
+      
+               <lb ed="#G" n="1"/>apud populum docendi rationem sequerentur. 
+      <lb ed="#G" n="2"/>Nam &amp; distinctiones, &amp; locutiones suas, &amp; 
+      <lb ed="#G" n="3"/>quaestiones in scholis retinent, quae sunt reliquis 
+      <lb ed="#G" n="4"/>omnibus Christianis ignotae, &amp; ad συρρετυdῳ, ac 
+      <lb ed="#G" n="5"/>σκοτεικὸν potius disputandi vsum, quam ad 
+      vl<lb ed="#G" n="6" break="no"/>lam conscientiarum aedificationem constitutae. 
+      <lb ed="#G" n="7"/>ltaque quod ea doctrina ad populum minime 
+      <lb ed="#G" n="8"/>pertineret, etiam Scholasticam appellarunt. Ac 
+      <lb ed="#G" n="9"/>vere quidem de ea dici potest, quod scribit 
+      Iul<lb ed="#G" n="10" break="no"/>lius Pollux, το διδωσκαλκὸν δδος ωύκμλξὸν όςι, X 
+      <lb ed="#G" n="11"/>ωρρωκῶpρς, hoc scholasticum dicendi genus est 
+      aspe<lb ed="#G" n="12" break="no"/>rum, &amp; fastidium affert: quanquam ipsi tamen 
+      <lb ed="#G" n="13"/>magnam ex ea voluptatem vtilitatemque 
+      sen<lb ed="#G" n="14" break="no"/>tiunt. Vt quod de Scholastica vita Chrysippus 
+      <lb ed="#G" n="15"/>ampridem scripserat, isti reipsa verum esse 
+      pro<lb ed="#G" n="16" break="no"/>bent, Nempe Scholasticam vitam, nihil a 
+      volupta<lb ed="#G" n="17" break="no"/>ria differre. Ne igitur de istorum Scholasticorum 
+      <lb ed="#G" n="18"/>genere quis dici putet, vel quod de Serapione 
+      <lb ed="#G" n="19"/>scribit Hierony. eum propter elegantiam 
+      inge<lb ed="#G" n="20" break="no"/>nij Scholasticum fuisse nominatum: vel quod 
+      <lb ed="#G" n="21"/>de saeo Rhetore scribit in epistolis Plinius 
+      lu<lb ed="#G" n="22" break="no"/>nior. lib. 2. cap. 2. Scholasticus tantum est (ait) quo 
+      <lb ed="#G" n="23"/>genere hominum nihil aut simplicius, aut soncerius,  
+      <lb ed="#G" n="24"/>aut melius. Imo vero quod ait idem de 
+      causa<lb ed="#G" n="25" break="no"/>rum patronis suae aetatis, hoc ad istos 
+      schola<lb ed="#G" n="26" break="no"/>sticos pertinere potius existimemus. Isti in 
+      ri<lb ed="#G" n="27" break="no"/>xationibus, assiduisque inter se litibus, ac 
+      contentio<lb ed="#G" n="28" break="no"/>nibus sic feruntur, vt multum malitiae &amp; inuidiae 
+      in<lb ed="#G" n="29" break="no"/>de contrahant, atque etiam addiscant. Sed quoniam  
+      <lb ed="#G" n="30"/>(ut ait Tullius) iniqua est in omni re accusanda, 
+      <lb ed="#G" n="31"/>praetermissis bonis, malorum enumeratio, vitiorumd, 
+      <lb ed="#G" n="32"/>selectio, (quando ne bonis quidem aduersariorum 
+      de<lb ed="#G" n="33" break="no"/>trabendum est, (vt recte monet Hieronymus) ista 
+      <lb ed="#G" n="34"/>duo ex horum Scholasticorum scriptis 
+      com<lb ed="#G" n="35" break="no"/>moda certe quidem percipimus, Vnum, quod 
+      <!--40.xml-->
+      <pb ed="#G" n="f41"/>
+      
+               <lb ed="#G" n="1"/>summa, &amp; accurata methodo in iis, quae ipsi 
+      <lb ed="#G" n="2"/>tractant, vtuntur, quae via nobis ad vera 
+      Theo<lb ed="#G" n="3" break="no"/>logiam explicandam facillimam sternit. 
+      Alte<lb ed="#G" n="4" break="no"/>rum, quod quaedam etiam vera in religione 
+      re<lb ed="#G" n="5" break="no"/>tinuerunt, neque prorsus Christianae fidei 
+      no<lb ed="#G" n="6" break="no"/>men obruere, velut Turci &amp; ludaei, voluerunt,  
+      <lb ed="#G" n="7"/>animoque distinarunt. Verum, vt quae 
+      genera<lb ed="#G" n="8" break="no"/>tim, ac fortasse obscurius diximus, iam ordine. 
+      <lb ed="#G" n="9"/>&amp; facilius intelligantur, operaepraetium mihi 
+      <lb ed="#G" n="10"/>facturus videor, si pauca quaedam de toto isto 
+      <lb ed="#G" n="11"/>hominum genere, &amp; illius origine dixero 
+      expli<lb ed="#G" n="12" break="no"/>catius atque distinctius. Ipsi igitur Scholastici 
+      <lb ed="#G" n="13"/>se Theologos appellarunt, quod tenuissimas 
+      <lb ed="#G" n="14"/>Verae lucis, ac Theologiae Christianae scintillas 
+      <lb ed="#G" n="15"/>adhuc conseruarent. Noluit enim Dominus 
+      <lb ed="#G" n="16"/>(ludaeis quidem Euangelium Christi prorsus 
+      <lb ed="#G" n="17"/>ab initio suffocantibus. Mahumetanis autem, &amp;  
+      <lb ed="#G" n="18"/>Turcis magno conatu iam plantatum 
+      eradi<lb ed="#G" n="19" break="no"/>cantibus) illud omnino sepultum esse, &amp; 
+      mane<lb ed="#G" n="20" break="no"/>re obrutam omnem suae veritatis lucem, &amp; 
+      be<lb ed="#G" n="21" break="no"/>neficij in genus humanum sui per Christum 
+      me<lb ed="#G" n="22" break="no"/>moriam. Quamobrem isti Scholastici, 
+      homi<lb ed="#G" n="23" break="no"/>nes Theologi, se Prophetarum quos olim 
+      ha<lb ed="#G" n="24" break="no"/>buit sudaeorum Ecclesia : &amp; Doctorum quos 
+      <lb ed="#G" n="25"/>postea Christiana, successores esse putant. Sed 
+      <lb ed="#G" n="26"/>cum ij sint Prophetarum soli successores, 
+      Hic<lb ed="#G" n="27" break="no"/>ronymo teste, quiProphetarum doctrinam 
+      re<lb ed="#G" n="28" break="no"/>tinent, isti procul dubio neque Dei 
+      Propheta<lb ed="#G" n="29" break="no"/>rum, neque verorum Ecclesiae doctorum filij, 
+      <lb ed="#G" n="30"/>successores, discipuli, aut aemuli sunt 
+      appellan<lb ed="#G" n="31" break="no"/>di. Quare praetermissa illa tam veteri origine 
+      <lb ed="#G" n="32"/>squoniam suae sectae initia repetere ab illa 
+      Pro<lb ed="#G" n="33" break="no"/>phetarum aetate nequaquam possunt) fatemur 
+      <lb ed="#G" n="34"/>quidem circa annum Domini igo Alexandriae 
+      <lb ed="#G" n="35"/>(quae est metropolis AEgypti Tinstitutam fuisse 
+      <!--41.xml-->
+      <pb ed="#G" n="f42"/>
+      
+               <lb ed="#G" n="1"/>Christianorum celebrem praeter caeteras 
+      Scho<lb ed="#G" n="2" break="no"/>lam, vbi de praeceptis verae, Christianaeque fidei 
+      <lb ed="#G" n="3"/>homines adhuc huius mysterij rudes 
+      institue<lb ed="#G" n="4" break="no"/>batur. In hac Schola primus, vt ait Eusebius lib. 
+      <lb ed="#G" n="5"/>Histor. Ecclesiast. 9. cap. 9. Pantaenus docuit: cui 
+      <lb ed="#G" n="6"/>successit Clemens Presbyter Alexandrinus, is,  
+      <lb ed="#G" n="7"/>qui Paedagogi libros duos conscripsit. Clementi 
+      <lb ed="#G" n="8"/>Presbytero Origenes Adamantius, 
+      quemad<lb ed="#G" n="9" break="no"/>modum ex eodem Eusebio lib o. cap. 2. &amp; 
+      Hie<lb ed="#G" n="10" break="no"/>rony. in Epistola de Erroribus Origenis, 
+      colli<lb ed="#G" n="11" break="no"/>gi facile potest: &amp; Origeni Dionvsius, vt 
+      do<lb ed="#G" n="12" break="no"/>cet Hieronymus idem in Catalogo scriptor 
+      Ec<lb ed="#G" n="13" break="no"/>clesiast: &amp; sic deinceps alij: sed quorum 
+      Scho<lb ed="#G" n="14" break="no"/>lastici isti neque doctrinam, neque docendi 
+      ra<lb ed="#G" n="15" break="no"/>tionem secuti sunt, vt eorum successores dici 
+      <lb ed="#G" n="16"/>minime propterea vel possint, vel debeant. 
+      <lb ed="#G" n="17"/>Quare longe recentior est totius huius 
+      homi<lb ed="#G" n="18" break="no"/>num sectae, id est, Theologiae Scholasticae 
+      or<lb ed="#G" n="19" break="no"/>tus. Ergo circa annum temporis vltimi 
+      Mil<lb ed="#G" n="20" break="no"/>lesimum, vigesimum, (vt quam longissime retro 
+      <lb ed="#G" n="21"/>respiciamus) videntur prima istius Philosophig 
+      <lb ed="#G" n="22"/>initia coepisse, nempe tempore Lanfranci 
+      pa<lb ed="#G" n="23" break="no"/>piensis, qui Berengarij Antagonista fuit. Huius 
+      <lb ed="#G" n="24"/>autem tan noui euentus, &amp; tam nouae 
+      Philoso<lb ed="#G" n="25" break="no"/>phiae causacid quod necessarium puto 
+      explica<lb ed="#G" n="26" break="no"/>rolhaec fuit. Certum est ante illud Lanfraci 
+      se<lb ed="#G" n="27" break="no"/>culum, vnius fere Augustini, secundum verbum 
+      <lb ed="#G" n="28"/>Dei scriptum, doctrinam inter Christianos 
+      <lb ed="#G" n="29"/>quosque doctissimos obtinuisse, atque 
+      diligen<lb ed="#G" n="30" break="no"/>tissime tanquam per manus traditam 
+      fuisse<lb ed="#G" n="31" break="no"/>Nam primum ab Egyppio, qui Fulgentio fuit 
+      <lb ed="#G" n="32"/>aetate aequalis, postea etiam ab ipsomet 
+      Fulgen<lb ed="#G" n="33" break="no"/>tio, deinde a Primasio Afris Theologis: postea 
+      <lb ed="#G" n="34"/>autem lsidoro Hispalensi Episcopo: Maximo 
+      <lb ed="#G" n="35"/>Taurinensi: Prospero Gallo. conciliis etiam  
+      <!--42.xml-->
+      <pb ed="#G" n="f43"/>
+      
+               <lb ed="#G" n="1"/>totis, velut Arausiaco, &amp; Constantinopolitano 
+      <lb ed="#G" n="2"/>sexto approbata perpetua quadam temporis 
+      <lb ed="#G" n="3"/>successione semper fuit. Adeo vt cum in 
+      Hi<lb ed="#G" n="4" break="no"/>spania deessent operum Augustini exemplaria 
+      cir<lb ed="#G" n="5" break="no"/>ca annum Domini oo. Taio episcopus Caesar 
+      <lb ed="#G" n="6"/>Augustanus, Romam missus sit qui ea, &amp; 
+      Mo<lb ed="#G" n="7" break="no"/>ralia Gregorij magni ex Bibliotheca Romana 
+      <lb ed="#G" n="8"/>peteret. Denique ante Carolum illum Magnum  
+      <lb ed="#G" n="9"/>lmperatorem a Beda Anglo Saxone defensa est,  
+      <lb ed="#G" n="10"/>atque etiam abs Bedae discipulis diutissime, 
+      ve<lb ed="#G" n="11" break="no"/>lut Alcuino, (quem alij Albinum vocant) 
+      Clau<lb ed="#G" n="12" break="no"/>dio, Rabano. Mauro, &amp; aliis quam plurimis per 
+      <lb ed="#G" n="13"/>annos plusquam quingentos retenta est. Igitur 
+      <lb ed="#G" n="14"/>cum sola diu lecta esset, ac per locos etiam 
+      con<lb ed="#G" n="15" break="no"/>munes tradita, &amp; collecta: coeptum est tamen 
+      <lb ed="#G" n="16"/>paulatim progressu temporis ab Augustini 
+      sen<lb ed="#G" n="17" break="no"/>tentia, cum aliis in rebus, tum vero praesertim  
+      <lb ed="#G" n="18"/>in articulo de Sacramento S. Domini Coenae 
+      <lb ed="#G" n="19"/>discedi, gliscentibus nimirum in Ecclosiam  
+      <lb ed="#G" n="20"/>Dei varus iam erroribus. Nam mysterium 
+      il<lb ed="#G" n="21" break="no"/>lud iniquitatis, &amp; vniuersalis Apostasiae Satan.  
+      <lb ed="#G" n="22"/>iam multum per Romanos Pontifices 
+      pro<lb ed="#G" n="23" break="no"/>mouebat, &amp; immanem illum 
+      Transsubstantia<lb ed="#G" n="24" break="no"/>tionis errorem, fontem aliorum infinitorum, 
+      <lb ed="#G" n="25"/>parturiebat. Huic labi, &amp; sanae doctrinae 
+      cor<lb ed="#G" n="26" break="no"/>ruptelae tam pernitiosae, quae fieri coeperat, 
+      op<lb ed="#G" n="27" break="no"/>posuit sese constanter, pro sui in Dei veritate 
+      <lb ed="#G" n="28"/>tuenda xelo, Berengarius, ille Andegauensis 
+      Ar<lb ed="#G" n="29" break="no"/>chidiaconus, Gallus, vir habitus aetate sua 
+      eru<lb ed="#G" n="30" break="no"/>ditissimus, qui veterem Augustini sententiam  
+      <lb ed="#G" n="31"/>reuocare, &amp; (quanquam ipse durius, 
+      nonnum<lb ed="#G" n="32" break="no"/>quam loquebatur de Sacramentis) ) retinere 
+      stu<lb ed="#G" n="33" break="no"/>duit. Sed Berengario id agenti sese opposuit 
+      <lb ed="#G" n="34"/>altera ex parte Italus quidam nomine 
+      Lanfran<lb ed="#G" n="35" break="no"/>cus, qui Papiae in Italia Theologia profitebatur 
+      <!--43.xml-->
+      <pb ed="#G" n="f44"/>
+      
+               <lb ed="#G" n="1"/>Caeterum Lanfranci ltali, Pontificum 
+      Roma<lb ed="#G" n="2" break="no"/>norum errorem de Transsubstantiatione tuentis 
+      <lb ed="#G" n="3"/>disputationes contra Berengarium Gallum ex 
+      <lb ed="#G" n="4"/>Augustino sua defendentem sustentatae a 
+      Quit<lb ed="#G" n="5" break="no"/>mundo Archiepiscopo, &amp; aliis stalicis homi 
+      <lb ed="#G" n="6"/>nibus pertinacissime confirmatae effecerunt, vt 
+      <lb ed="#G" n="7"/>primum praetermitteretur: post autem etiam 
+      <lb ed="#G" n="8"/>omnino negligeretur, quae tamdiu in Ecclesia 
+      <lb ed="#G" n="9"/>inualuerat, Augustini authoritas, doctrina, ac 
+      <lb ed="#G" n="10"/>sententia. Ex quo euenit, vt, qui se Theologos 
+      <lb ed="#G" n="11"/>profitebantur, deinceps suae doctrinae, &amp; 
+      Theo<lb ed="#G" n="12" break="no"/>logiae fundamenta non eadem sumerent, quae 
+      <lb ed="#G" n="13"/>veteres: sed solum ea, quae iam receptis opinio. 
+      <lb ed="#G" n="14"/>nibus, quamquam erroneis: partim etiam 
+      Philo<lb ed="#G" n="15" break="no"/>sophicis rationibus probatis: partim etiam ipsius 
+      <lb ed="#G" n="16"/>Pontificis Romani, velut irrefragabilibus, 
+      de<lb ed="#G" n="17" break="no"/>cretis constarent. Pro his tam anxie, quam pro 
+      <lb ed="#G" n="18"/>verissimis, ac sanctissimis Dei ipsius aris pugna 
+      <lb ed="#G" n="19"/>bant, acerrimeque dimicabant. Additum est 
+      <lb ed="#G" n="20"/>quoque isti camino oleum. Nam 
+      Lanfranca<lb ed="#G" n="21" break="no"/>norum factio, &amp; studium a Romanis 
+      Pontifi<lb ed="#G" n="22" break="no"/>cibus contra Berengarianos, quos vocabant,  
+      <lb ed="#G" n="23"/>laudabatur: &amp; doctrina Lanfranci, sententiaque 
+      <lb ed="#G" n="24"/>etiam Vercellensi concilio, esunt autem 
+      Ver<lb ed="#G" n="25" break="no"/>cellae oppidum Papiae patriae Laufraci vicinum. 
+      <lb ed="#G" n="26"/>suffragio ltalorum hominum (qui illue 
+      frequen<lb ed="#G" n="27" break="no"/>tes conueneranti&amp; Lanfranci discipulorum 
+      a<lb ed="#G" n="28" break="no"/>perte melior iudicata fuit: adeoque postea 
+      Be<lb ed="#G" n="29" break="no"/>rengarius ipse truculentissimis Nicolai Papae 
+      <lb ed="#G" n="30"/>minis ad Palinodiam coactus est. Quod ita 
+      ho<lb ed="#G" n="31" break="no"/>minum animos commouit, vt ex eo tempore 
+      <lb ed="#G" n="32"/>certatim omnes (verbo Dei spreto, &amp; 
+      ortho<lb ed="#G" n="33" break="no"/>doxorum patrum scriptis neglectis, aut 
+      eate<lb ed="#G" n="34" break="no"/>nus probatis, quatenus opinionibus iam 
+      rece<lb ed="#G" n="35" break="no"/>ptis suffragabantur)in eam doctrinam incum¬ 
+      <!--44.xml-->
+      <pb ed="#G" n="f45"/>
+      
+               <lb ed="#G" n="1"/>berent, quae Lanfracianae simillima esset, id est,  
+      <lb ed="#G" n="2"/>quae Pontificum decreta, receptos iam in 
+      Ec<lb ed="#G" n="3" break="no"/>clesia ritus, &amp; opiniones celebres (quacunque 
+      <lb ed="#G" n="4"/>tandem ratione semelirrepsissent) in Ecclesia 
+      <lb ed="#G" n="5"/>proponebat, ac tuebatur. Haec circa Annum 
+      <lb ed="#G" n="6"/>Domini ioxo. contigerunt. Nec enim temporis 
+      <lb ed="#G" n="7"/>momentum &amp; rationem serupulosius in omni ista 
+      <lb ed="#G" n="8"/>supputatione, &amp; in tanta historicorum varietate, 
+      <lb ed="#G" n="9"/>inquiro. Porro autem ex eo omnia iam in peius 
+      <lb ed="#G" n="10"/>ruere, &amp;, vt ait ille, retro sublapsa referri. Nam  
+      <lb ed="#G" n="11"/>ex hoc fonte innumerabiles disputationes, &amp; 
+      <lb ed="#G" n="12"/>quidem statim, ortae sunt: quaestiones inutiles 
+      ex<lb ed="#G" n="13" break="no"/>tra Dei verbum agitatae, &amp; difficultates ppositae. 
+      <lb ed="#G" n="14"/>Denique Theologicae sententiae ac 
+      definitio<lb ed="#G" n="15" break="no"/>nes omnes ad ritus iam vsitatos &amp; recepta 
+      dun<lb ed="#G" n="16" break="no"/>taxat placita &amp; ἀρισκοντα, non ad verbum 
+      Chri<lb ed="#G" n="17" break="no"/>sti reuocatae sunt, &amp; exigi coeptae. Tandem de 
+      <lb ed="#G" n="18"/>his ipsis rebus regulae, velut κυεlας δεξας &amp; vt Dei 
+      <lb ed="#G" n="19"/>ipsius oracula, traditae, &amp; libri scripti, &amp; 
+      con<lb ed="#G" n="20" break="no"/>tentiones susceptae. Quid amplius) Veterum 
+      e<lb ed="#G" n="21" break="no"/>tiam Patrum scripta, quo iure, quam ve iniuria 
+      <lb ed="#G" n="22"/>ne noua censeretur istiusmodi cogeries, ad 
+      hu<lb ed="#G" n="23" break="no"/>iusmodi consarcinationes fuerunt 
+      accommo<lb ed="#G" n="24" break="no"/>data. Ergo tandem (ut ex his apparet) ea 
+      do<lb ed="#G" n="25" break="no"/>ctrina nata, conftata, constituta, &amp; compilata 
+      <lb ed="#G" n="26"/>est, quae Scholastica Theologia appellatur, &amp; 
+      <lb ed="#G" n="27"/>sola pro vera Theologia habita est. Caeterum illa, 
+      <lb ed="#G" n="28"/>quae breuiter ia narrauimus, fuerunt initia tatum  
+      <lb ed="#G" n="29"/>fraudis istius, &amp; dolorum, qui secuti sunt. Nam  
+      <lb ed="#G" n="30"/>in dies malum hoc &amp; cacoenthes tum inutilia in 
+      <lb ed="#G" n="31"/>Theologicis scribedi &amp; consarcinadi: tum etiam pro 
+      <lb ed="#G" n="32"/>Pontificum decretis, &amp; Ecclesiae placitis acriter,  
+      <lb ed="#G" n="33"/>velut pro salutari animarum nostrarum 
+      doctri<lb ed="#G" n="34" break="no"/>na, decertandi robustius euasit, adeo vt postea 
+      <lb ed="#G" n="35"/>longe lateque serperet, stragem in Ecclesia da¬ 
+      <!--45.xml-->
+      <pb ed="#G" n="f46"/>
+      
+               <lb ed="#G" n="1"/>ret, &amp; reliquas omnes doctrinas aboleret 
+      quam<lb ed="#G" n="2" break="no"/>tumuis veras. Neque tamen id sine colore 
+      quo<lb ed="#G" n="3" break="no"/>dam, &amp; iusta, vt videbatur, aemulatione fiebat, 
+      <lb ed="#G" n="4"/>per quam sane Scholastica Theologia maxima 
+      <lb ed="#G" n="5"/>quoque incrementa accepit. Quis aate fuerit 
+      co<lb ed="#G" n="6" break="no"/>lor iste, &amp; aemulatio, malo omnes ex viri 
+      claris<lb ed="#G" n="7" break="no"/>simi, &amp; eruditis. Gasparis Peuceri Chronicorum 
+      <lb ed="#G" n="8"/>lib. 4ae quam ex me cognoscere. Henrici, ait, 
+      <lb ed="#G" n="9"/>quinti lmperatoris Germanici tempore fuit in 
+      <lb ed="#G" n="10"/>ltalia vir summae authoritatis lrnerius, qui gu 
+      <lb ed="#G" n="11"/>bernauit eas partes, quae tum erant Romani 
+      im<lb ed="#G" n="12" break="no"/>peri. Is quum esset eruditus, fortasse 
+      Constan<lb ed="#G" n="13" break="no"/>tinopoli, aut ab iis, qui audierant 
+      Constantino<lb ed="#G" n="14" break="no"/>politanos, saeperitus barbaricos in 
+      successioni<lb ed="#G" n="15" break="no"/>bus, &amp; aliis negotiis ex iure Romano, aut 
+      cor<lb ed="#G" n="16" break="no"/>rexit, aut moderatus est. Grauiter autem 
+      quas<lb ed="#G" n="17" break="no"/>sarant Italiam bella Henrici quinti, quibus, vt 
+      <lb ed="#G" n="18"/>fit in bellis Ciuilibus, patrimonia multorum 
+      <lb ed="#G" n="19"/>transsata fuerant ad alienos. Ex ea tamen 
+      cala<lb ed="#G" n="20" break="no"/>mitate nonnihil recreauit Italiam prudentia &amp; 
+      <lb ed="#G" n="21"/>moderatio Irnerij, qui quum posteritati 
+      consu<lb ed="#G" n="22" break="no"/>lendum putaret, cupiebat autoritate 
+      imperato<lb ed="#G" n="23" break="no"/>ria proferri rursus ius Romanorum, quo ante 
+      <lb ed="#G" n="24"/>aduentum Longobardorum semper vsa erat 
+      Ita<lb ed="#G" n="25" break="no"/>lia, quemadmodum ex Gregorij Magni epist. 
+      <lb ed="#G" n="26"/>lib. II. Indiction. VI. cap. 82. apparet. Hic vero 
+      <lb ed="#G" n="27"/>Trnerius nactus imperatorem Lotharium 
+      Sa<lb ed="#G" n="28" break="no"/>xonem nimis impeditum bellis Ciuilibus, fuit 
+      <lb ed="#G" n="29"/>huic hortator, vt praeciperet causas diiudicari 
+      <lb ed="#G" n="30"/>ex legibus Romanis: &amp; vt curaret Romae &amp; 
+      Bo<lb ed="#G" n="31" break="no"/>noniae, vbi iam erant Academiae a Carolo 
+      Ma<lb ed="#G" n="32" break="no"/>gno institutae, easdem publice enarrari, sicut 
+      <lb ed="#G" n="33"/>fieret Constantinopoli, &amp; antiquitus Athenis 
+      <lb ed="#G" n="34"/>&amp; in Beryto. Et ne deesset doctrinae copia, 
+      <lb ed="#G" n="35"/>produxit libros scriptos. Fertur &amp; ipse quoque 
+      <!--46.xml-->
+      <pb ed="#G" n="f47"/>
+      
+               <lb ed="#G" n="1"/>Romae ac Bononiae docuisse, &amp; primus ex 
+      lta<lb ed="#G" n="2" break="no"/>lis glossemata textibus addidisse. Haec circa 
+      an<lb ed="#G" n="3" break="no"/>num Domini ioso. vt plerique annotant, gesta 
+      <lb ed="#G" n="4"/>sunt. Sequuti sunt Irnerium auditores ipsius,  
+      <lb ed="#G" n="5"/>Ioannnes Bulgarus, Aao, Ioannes Placentinus, &amp; 
+      <lb ed="#G" n="6"/>alij, qui in schola pariter, &amp; Reip. 
+      administra<lb ed="#G" n="7" break="no"/>tione foruerunt, denique capta admiratione 
+      <lb ed="#G" n="8"/>doctrinae huius, Italia certatim in eam 
+      incum<lb ed="#G" n="9" break="no"/>bere coepit, &amp; prodierunt ex illis scholis 
+      plu<lb ed="#G" n="10" break="no"/>rimi, qui docendo, scribendo, &amp; de iure 
+      re<lb ed="#G" n="11" break="no"/>spondendo, regedis imperiis, de vita hominum 
+      <lb ed="#G" n="12"/>optime meriti sunt. Horum nonnulli, vti 
+      Pla<lb ed="#G" n="13" break="no"/>centinus &amp; Axo, summam luris Ciuilis, id est 
+      <lb ed="#G" n="14"/>capita rerum in toto iureRomano traditarum, 
+      <lb ed="#G" n="15"/>ad locos quosdam communes in studiosorum 
+      <lb ed="#G" n="16"/>gratiam breuiter &amp; methodice reuocarunt. 
+      <lb ed="#G" n="17"/>Feruebat igitur recens excitatum studium 
+      <lb ed="#G" n="18"/>doctrinae legum Romanarum, certatim in id 
+      <lb ed="#G" n="19"/>incumbentibus ingeniis Italicis &amp; Oermanicis.  
+      <lb ed="#G" n="20"/>quod quia lmperatores muniebat, atque 
+      arma<lb ed="#G" n="21" break="no"/>bat, videbatur minitari recenti necdum satis 
+      <lb ed="#G" n="22"/>confirmatae Pontificum Romanorum 
+      tyranni<lb ed="#G" n="23" break="no"/>di. Pericula ergo, quae inde emersura essent, si 
+      <lb ed="#G" n="24"/>inualuisset, vt iuature auerterentur, extolli 
+      coe<lb ed="#G" n="25" break="no"/>pta est Canonum authoritas, &amp; legibus 
+      Ro<lb ed="#G" n="26" break="no"/>manis anteponi. Itaque ferri coeptae sunt leges, 
+      <lb ed="#G" n="27"/>quibus de Romanis aliquid derogaretur, 
+      au<lb ed="#G" n="28" break="no"/>toritate Ecclesiae ceu correctum ac limitatum.  
+      <lb ed="#G" n="29"/>Cumque nouo iuri isti &amp; legibus Pontificiis 
+      <lb ed="#G" n="30"/>nouis patronis &amp; defensoribus opus esset, cito 
+      <lb ed="#G" n="31"/>commouit sese duplex hominum genus 
+      Cano<lb ed="#G" n="32" break="no"/>nistae &amp; Scholastici: quorum illi Canonistae, 
+      <lb ed="#G" n="33"/>hierarchiam &amp; tprannidem Romani pontificis 
+      <lb ed="#G" n="34"/>propugnandam susceperunt ex Canonum 
+      de<lb ed="#G" n="35" break="no"/>cretis, non minore contentione quam caeteri 
+      <!--47.xml-->
+      <pb ed="#G" n="f48"/>
+      
+               <lb ed="#G" n="1"/>imperatoria potestatem ex sacris literis &amp; iure 
+      <lb ed="#G" n="2"/>Romano tuebantur. Hi vero Scholastici 
+      dog<lb ed="#G" n="3" break="no"/>mata noua excogitarunt, ad fascino erroris ac 
+      <lb ed="#G" n="4"/>superstitionis capiendos &amp; irretiendos homi 
+      <lb ed="#G" n="5"/>num animos, quibus laqueis hi vincti 
+      perma<lb ed="#G" n="6" break="no"/>nerent in obedientia erga, sedem Romanam:  
+      <lb ed="#G" n="7"/>lnde Scholasticae Theologiae nomen celebrius 
+      <lb ed="#G" n="8"/>factum est, &amp; reliquae purioris doctrinae de Chri 
+      <lb ed="#G" n="9"/>sti officiis, de peccato originis, de Euangelio, 
+      <lb ed="#G" n="10"/>de Lege, de Gratia, de nostra coram Deo 
+      iustifi<lb ed="#G" n="11" break="no"/>catione, de vero vsu Sacramentorum, de vera Dei 
+      <lb ed="#G" n="12"/>inuocatione, &amp; aliis verae fidei articulis scintil 
+      <lb ed="#G" n="13"/>lulae ab ea sunt exstinctae: pro quibus substitutae 
+      <lb ed="#G" n="14"/>sunt determinationes de Meritis operum, de 
+      <lb ed="#G" n="15"/>inuocatione Sanctorum, de vi operis operati, 
+      <lb ed="#G" n="16"/>de primatum Papae, de Purgatorio, &amp; similibus 
+      <lb ed="#G" n="17"/>nugis.  
+      <lb ed="#G" n="18"/>Cum enim errores &amp; abusus vel recepti 
+      con<lb ed="#G" n="19" break="no"/>suetudine, vel a Pontificibus orti aut 
+      approba<lb ed="#G" n="20" break="no"/>ti, defendi non possent, si exigerentur ad 
+      regu<lb ed="#G" n="21" break="no"/>lam &amp; normam verbi sacri: illo neglecto 
+      quae<lb ed="#G" n="22" break="no"/>sita sunt alia praesidia, &amp; imprimis Philosophia 
+      <lb ed="#G" n="23"/>Aristotelica, id est, humanis somniis straminea 
+      <lb ed="#G" n="24"/>fundamenta sunt substrata, vt haberent nimirum 
+      <lb ed="#G" n="25"/>similes labra lactucas. Haec fuit igitur altera 
+      do<lb ed="#G" n="26" break="no"/>ctrinae sectaeque Scholasticorum Theologorum 
+      <lb ed="#G" n="27"/>probandae, atque etiam maxime inter illos mor 
+      <lb ed="#G" n="28"/>tales commendandae caussa, quae ex studio 
+      op<lb ed="#G" n="29" break="no"/>primendae Ciuilis iurisdictionis, ac potestatis 
+      <lb ed="#G" n="30"/>imperatoriae nata est, quemadmodum prima 
+      <lb ed="#G" n="31"/>ex studio euertendae veritatis verbi Dei, 
+      Augu<lb ed="#G" n="32" break="no"/>stinianaeque doctrinae odio profecta fuerat. 
+      At<lb ed="#G" n="33" break="no"/>que haec fuit Scholasticae doctrinae velut prima 
+      <lb ed="#G" n="34"/>origo: eiusdem uero progressiones &amp; 
+      incre<lb ed="#G" n="35" break="no"/>menta iam videamus. 
+    </p>
+            <p xml:id="cv8jk9-e871dd-d1e1052">
+      <!--48.xml-->
+               <pb ed="#G" n="f49"/>
+      
+               <lb ed="#G" n="1"/>CAP. II 
+      <lb ed="#G" n="2"/>De Scholastica doctrinae progressione, &amp; triplici 
+      <lb ed="#G" n="3"/>eiusdem aetate, ac aifferentia. 
+      <lb ed="#G" n="4"/>Am vero inter Scholasticos ipsos 
+      qui<lb ed="#G" n="5" break="no"/>dam vel audaciores facti, vel certe 
+      eru<lb ed="#G" n="6" break="no"/>ditiores habiti, suae illius doctrinae &amp; 
+      <lb ed="#G" n="7"/>Scholasticae Theologiaecapita, ac velut 
+      funda<lb ed="#G" n="8" break="no"/>menta, studiose collegerunt, illisque maxima 
+      <lb ed="#G" n="9"/>dederunt incrementa. Imprimis autem tres hi 
+      <lb ed="#G" n="10"/>laboriose id praestiterunt, Gratianus, Petrus iste 
+      <lb ed="#G" n="11"/>Lombardus, &amp; Petrus Comestor. Gratianus 
+      <lb ed="#G" n="12"/>enim Decreta Pontificum Romanorum in vnum 
+      <lb ed="#G" n="13"/>volumen primus congessit, circa annum 
+      do<lb ed="#G" n="14" break="no"/>mini nimirum ioao, quod Decretorum opus 
+      <lb ed="#G" n="15"/>etiam num hodie nominatur, opus ad vsum 
+      fo<lb ed="#G" n="16" break="no"/>rensem, ac quaestiones, &amp; lites illo seculo 
+      vexa<lb ed="#G" n="17" break="no"/>tas praesertim accommodatum. Ante 
+      Gratia<lb ed="#G" n="18" break="no"/>num quidam luo Carnotensis Episcopus simi 
+      <lb ed="#G" n="19"/>le quiddam condiderat: &amp; ante Iuonem 
+      Bur<lb ed="#G" n="20" break="no"/>chardus VVormaciensis Episcopus: sed vterqe 
+      <lb ed="#G" n="21"/>ille tenuiori stylo, &amp; argumento scripserat. 
+      Ita<lb ed="#G" n="22" break="no"/>que Gratiani liber vberior habitus est, &amp; 
+      pro<lb ed="#G" n="23" break="no"/>pter luris Ciuilis authoritatem inualescentem,  
+      <lb ed="#G" n="24"/>quam obscurabat, gratissimus Pontificibus 
+      Ro<lb ed="#G" n="25" break="no"/>manis fuit, imo etiam nouis lurisconsultorum 
+      <lb ed="#G" n="26"/>Ttalicorum Summis tanquam locupletior 
+      qui<lb ed="#G" n="27" break="no"/>dam thesaurus illa aetate illustratus, &amp; omnibus 
+      <lb ed="#G" n="28"/>aliis scriptoribus praelatus est. Denique caussam  
+      <lb ed="#G" n="29"/>quoque &amp; argumentum praebuit, vt Pontifices 
+      <lb ed="#G" n="30"/>Romani deinceps infinita quaedam alia 
+      decre<lb ed="#G" n="31" break="no"/>ta conderent, quae &amp; ipsa postea a Gregorio 
+      <!--49.xml-->
+      <pb ed="#G" n="f50"/>
+      
+               <lb ed="#G" n="1"/>Nono Pontifice Romano, circa annum 
+      Do<lb ed="#G" n="2" break="no"/>mini 1230. in vnum quoque corpus, ac 
+      volu<lb ed="#G" n="3" break="no"/>men pluribus libris distinctum sunt collecta, &amp;  
+      <lb ed="#G" n="4"/>Decretalia nominata. Gratiani porro 
+      exem<lb ed="#G" n="5" break="no"/>plum ad imitandum sibi proposuit P. 
+      Lom<lb ed="#G" n="6" break="no"/>bardus, episcopus Parisiensis, sed in dissimili 
+      <lb ed="#G" n="7"/>plane argumento. Nam in Theologia versari 
+      <lb ed="#G" n="8"/>ipse maluit, quam in forensibus, Iitigiosisque 
+      <lb ed="#G" n="9"/>quaestionibus. Itaque Scholasticae Theologiae, 
+      <lb ed="#G" n="10"/>qualis tunc erat, fundamenta in quatuor libros 
+      <lb ed="#G" n="11"/>(qui Sententiarum dicuntur) congessit ordinem 
+      <lb ed="#G" n="12"/>illum in vniuersi operis distributione secutus,  
+      <lb ed="#G" n="13"/>qui in quatuor libris Damasceni de Fide 
+      ortho<lb ed="#G" n="14" break="no"/>doxa nunc quoque apparet. Hi libri quatuor 
+      <lb ed="#G" n="15"/>fuerunt postea totius Scholasticae doctrinae velut 
+      <lb ed="#G" n="16"/>basis &amp; κυρίαι δόξαι. Vnde ipse Magister 
+      Senten<lb ed="#G" n="17" break="no"/>tiarum, vulgo in Scholis est appellatus. Scripsit 
+      <lb ed="#G" n="18"/>autem Lombard. circa annum Domini 1150, 
+      <lb ed="#G" n="19"/>tanti habitus, vt aduersus eum ne hiscere 
+      qui<lb ed="#G" n="20" break="no"/>dem vllis licuerit. Nam quum post annum  
+      <lb ed="#G" n="21"/>Domini 1190. Ioachimus Abbas Florentinus 
+      <lb ed="#G" n="22"/>P. Lombardi sententiam impugnaret, ab 
+      Inno<lb ed="#G" n="23" break="no"/>centio III. statim Lateranensi concilio (ad 
+      <lb ed="#G" n="24"/>quod 1215. Praelati conuenerant) damnatus est. 
+      <lb ed="#G" n="25"/>Iam vero eodem fere tempore P. Comector 
+      <lb ed="#G" n="26"/>historiam vtriusque Testamenti Ecclesiasticam  
+      <lb ed="#G" n="27"/>consarcinauit, eamque glossis illius aetatis tum  
+      <lb ed="#G" n="28"/>falsis. tum insulsissimis referciuit, quae tamen 
+      <lb ed="#G" n="29"/>ita tum vbique obtinuit, vt ipsi Scripturae sacrae 
+      <lb ed="#G" n="30"/>nudae &amp; purae pene praeferretur. Vnde factum  
+      <lb ed="#G" n="31"/>iam aperte, vt ipsum quoque Dei verbum 
+      sa<lb ed="#G" n="32" break="no"/>crosanctum paulatim vilesceret: huiusmodi 
+      au<lb ed="#G" n="33" break="no"/>tem hominum commenta praedicarentur, velut 
+      <lb ed="#G" n="34"/>commodiora docendis hominibus, quam 
+      ipsum<lb ed="#G" n="35" break="no"/>met Dei verbum, &amp; magis ad rudium hominum 
+      <!--50.xml-->
+      <pb ed="#G" n="f51"/>
+      
+               <lb ed="#G" n="1"/>captum accomodata. Denique ne scripta quidem 
+      <lb ed="#G" n="2"/>iuniorum, ac caeterorum orthodoxorum Patrum  
+      <lb ed="#G" n="3"/>Csi quae tum fortem extabant) citabantur, qui 
+      mi<lb ed="#G" n="4" break="no"/>nus cum illis Scholasticis placatis videbantur 
+      <lb ed="#G" n="5"/>consentire. Bernardi enim Clareuallensis veri 
+      <lb ed="#G" n="6"/>suae aetatis luminis, &amp; hominis in vera 
+      Theolo<lb ed="#G" n="7" break="no"/>gia eruditissimi, nunquam tamen vel 
+      Gratia<lb ed="#G" n="8" break="no"/>nus, vel Lombardus iste meminit, quanquam  
+      <lb ed="#G" n="9"/>Lombardus tamen Hugonis de sancto victore 
+      <lb ed="#G" n="10"/>scripta citat, qui Bernardo Clareuallensi 
+      tem<lb ed="#G" n="11" break="no"/>pore fuit aequalis. Vterque enim foruit anno 
+      <lb ed="#G" n="12"/>Domini nioo, sed nimirum oderant isti omnia, 
+      <lb ed="#G" n="13"/>quae a suis Scholasticis determinationibus, ac 
+      <lb ed="#G" n="14"/>dogmatibus, vel tantillum dissentire 
+      videban<lb ed="#G" n="15" break="no"/>tur, qualia sunt Bernardi scripta. Sed quid 
+      am<lb ed="#G" n="16" break="no"/>plius: Circa annum Domini noo. Nouum 
+      <lb ed="#G" n="17"/>Euangelium a Cyrillo quodam monacho 
+      Car<lb ed="#G" n="18" break="no"/>melita cudi coeptum est, atque fabricari, ex 
+      ve<lb ed="#G" n="19" break="no"/>teri Originis errore, in Epistola ad Romanos 
+      <lb ed="#G" n="20"/>quod AEternum Euangelium appellarunt: quasi 
+      <lb ed="#G" n="21"/>Domini nostri lesu Christi, Filij Dei, &amp; Dei ae 
+      <lb ed="#G" n="22"/>terni Euangelium ad tempus tantum, tanquam 
+      <lb ed="#G" n="23"/>lex illa vetus &amp; Ceremonialis (abutentes etiam  
+      <lb ed="#G" n="24"/>pulcherrimo quodam ipsius Apocalypseos loco) 
+      <lb ed="#G" n="25"/>datum esset: sed nimirum, cur nouum istud 
+      Cy<lb ed="#G" n="26" break="no"/>rilli Euangelium vehementer, a Monachis 
+      prae<lb ed="#G" n="27" break="no"/>sertim, probaretur, haec causa erat, quod 
+      dog<lb ed="#G" n="28" break="no"/>mata Scholastica confirmabat, ritus 
+      superstitio<lb ed="#G" n="29" break="no"/>sos Romanae Ecclesiae approbabat, ac 
+      Mona<lb ed="#G" n="30" break="no"/>chorum ordines, regulas, &amp; instituta, ex ipsa, si 
+      <lb ed="#G" n="31"/>Deo placet, Apocalypsi impie deriuabat. Cuius 
+      <lb ed="#G" n="32"/>tamen tam impudentis mendacij ipsummet 
+      <lb ed="#G" n="33"/>etiam Satanam tandem puduit: quando illius 
+      <lb ed="#G" n="34"/>vel excusandi nulla (quantumuis in eo 
+      defen<lb ed="#G" n="35" break="no"/>dendo monachi ipsi, aliique scholastici anxie 
+      <!--51.xml-->
+      <pb ed="#G" n="f52"/>
+      
+               <lb ed="#G" n="1"/>laborarent) ratio afferri poterat. Atque hae 
+      <lb ed="#G" n="2"/>mundi tenebrae, teterrimusque tunc Ecclesiae 
+      <lb ed="#G" n="3"/>status erat, in quo Scholastica doctrina &amp; 
+      <lb ed="#G" n="4"/>Theologia maximos tamen faciebat 
+      progres<lb ed="#G" n="5" break="no"/>sus: sed Dominus tandem tantarum Ecclesiae 
+      <lb ed="#G" n="6"/>suae calamitatum misertus veriss. doctrinam 
+      <lb ed="#G" n="7"/>suam tot erroribus opposuit. Nam Ioannem 
+      <lb ed="#G" n="8"/>Valdonem excitauit, ciuem Lugdunensem, di- 
+      <lb ed="#G" n="9"/>uitem illum quidem: sed qui in pauperes ex ve 
+      <lb ed="#G" n="10"/>ra Christianaque charitate omnia sua erogabat, 
+      <lb ed="#G" n="11"/>quemadmodum etiam Gaguinus, &amp; ipse 
+      Mo<lb ed="#G" n="12" break="no"/>nachus, testatur. Is igitur verum Euangelium 
+      Do<lb ed="#G" n="13" break="no"/>mini nostri lesu Christi ab Euangelistis scriptum 
+      <lb ed="#G" n="14"/>curauit fideliter sibi in Gallicum sermone con 
+      <lb ed="#G" n="15"/>uerti, &amp; conuersum ita assidue, &amp; diligenter &amp; 
+      <lb ed="#G" n="16"/>attente legit, vt veram fidei doctrinam, Dei gra 
+      <lb ed="#G" n="17"/>tia, ex Euangelio Christi consecutus, falsum 
+      il<lb ed="#G" n="18" break="no"/>lud, &amp; blasphemum Cyrilli monachi 
+      Euange<lb ed="#G" n="19" break="no"/>lium primus omnium ipse valdo publice 
+      con<lb ed="#G" n="20" break="no"/>futaret. Caeterum valdoni statim plures, ita 
+      <lb ed="#G" n="21"/>eos impellente Spiritu sancto, sese adiunxerunt,  
+      <lb ed="#G" n="22"/>atque in tam honesto pro Dei veritate 
+      certa<lb ed="#G" n="23" break="no"/>mine succenturiatores accesserunt. Denique a 
+      <lb ed="#G" n="24"/>Quillielmo de sancto Amore, viro pro illa 
+      aeta<lb ed="#G" n="25" break="no"/>te doctissimo anno Domini I284. maledictum 
+      <lb ed="#G" n="26"/>illud Cyrilli monachi suppositumque 
+      Euan<lb ed="#G" n="27" break="no"/>gelium assiduis concionibus oppugnatum est,  
+      <lb ed="#G" n="28"/>&amp; tandem euersum. Atque haec erant 
+      Schola<lb ed="#G" n="29" break="no"/>sticae Theologiae infelicissima incrementa, ac 
+      <lb ed="#G" n="30"/>progressiones, quae postea sub lnnocentio IIII 
+      <lb ed="#G" n="31"/>sic propagata tamen est, vt in summum 
+      di<lb ed="#G" n="32" break="no"/>gnitatis gradum hominum laudibus 
+      euehere<lb ed="#G" n="33" break="no"/>tur, &amp; pene in caelum vsque ipsum extolleretur, 
+      <lb ed="#G" n="34"/>nimirum circa annum Dominij t348. &amp; paulo 
+      <lb ed="#G" n="35"/>ante quam maledictum istud Euagelium Cyrilli, 
+      <!--52.xml-->
+      <pb ed="#G" n="f53"/>
+      
+               <lb ed="#G" n="1"/>vllo edicto publice antiquaretur. 
+      <lb ed="#G" n="2"/>Verum quemadmodum Theologiae istius 
+      <lb ed="#G" n="3"/>Scholasticae primam originem, &amp; 
+      progressio<lb ed="#G" n="4" break="no"/>nes vidimus: sic etiam quae istius disciplinae 
+      aeta<lb ed="#G" n="5" break="no"/>tes, ac differentiae fuerint, age iam breuiter 
+      ex<lb ed="#G" n="6" break="no"/>plicemus, quoniam ea cognitio non modo 
+      iu<lb ed="#G" n="7" break="no"/>cunde est, sed etia necessaria, ad facilem huius 
+      <lb ed="#G" n="8"/>Scholasticae historiam pertexendam.  
+      <lb ed="#G" n="9"/>ln aetate autem &amp; differentia istius 
+      Schola<lb ed="#G" n="10" break="no"/>sticae Theologiae ssemper enim deterior facta 
+      <lb ed="#G" n="11"/>est)distinguenda, nihil mihi videtur aptius dici 
+      <lb ed="#G" n="12"/>posse, quam quod &amp; res ipsa verum esse demon 
+      <lb ed="#G" n="13"/>strat, &amp; ipsa Scholasticorum hominum agendi 
+      <lb ed="#G" n="14"/>ratio docet. Nam quum isti de omnibus 
+      Chri<lb ed="#G" n="15" break="no"/>stianae fidei articulis Academicorum more, sem 
+      <lb ed="#G" n="16"/>per in vtramquem partem disputent, possunt 
+      cer<lb ed="#G" n="17" break="no"/>te cum eorum philosophorum (qui a profanis 
+      <lb ed="#G" n="18"/>scriptoribus Academici dicti sunt) familia 
+      se<lb ed="#G" n="19" break="no"/>cta ve verissime comparari. Ergo 
+      quemadmo<lb ed="#G" n="20" break="no"/>dum illius Academicae sectae fuit triplex aetas,  
+      <lb ed="#G" n="21"/>eaque inter se &amp; methodo quadam, &amp; 
+      dogma<lb ed="#G" n="22" break="no"/>tibus aliquibus diuersa, omnis tamen in eo con 
+      <lb ed="#G" n="23"/>stans, quod omnia etiam certissima quaeque in 
+      <lb ed="#G" n="24"/>dubium reuocabat: sic ipsius Theologiae 
+      Scho<lb ed="#G" n="25" break="no"/>lasticae triplex aetas est obseruanda, Vetus, 
+      Me<lb ed="#G" n="26" break="no"/>dia, Noua. Veteris Scholasticae Theologiae 
+      ini<lb ed="#G" n="27" break="no"/>tia a Lanfranco Papiensi, quemadmodum 
+      an<lb ed="#G" n="28" break="no"/>tea diximus, coeperunt: sed ea durasse postea 
+      <lb ed="#G" n="29"/>videtur vsque ad Albertum Magnum pene per 
+      <lb ed="#G" n="30"/>annos 2oo. videlicet ab anno Domini toxo. 
+      <lb ed="#G" n="31"/>vsque ad annum 12o. quo tempore Lutetiae 
+      <lb ed="#G" n="32"/>Parisiorum ipsum Scholasticorum 
+      Theologo<lb ed="#G" n="33" break="no"/>rum collegium, &amp; lustrum, quod Sorbona 
+      di<lb ed="#G" n="34" break="no"/>citur, aedificari coeptum est, ne non tanta vrbs 
+      <!--53.xml-->
+      <pb ed="#G" n="f54"/>
+      
+               <lb ed="#G" n="1"/>hoc malum venenum mature intra viscera sua 
+      <lb ed="#G" n="2"/>reciporet. Haec aetas habuit Lanfrancum, 
+      Guit<lb ed="#G" n="3" break="no"/>mundum, Anselmum, Hugonem de sancto 
+      Vvi<lb ed="#G" n="4" break="no"/>ctore, Gratianum, Lombardum, Comestorem, 
+      <lb ed="#G" n="5"/>Petr. Clericum, Rupertum, Leonem Tuscum,  
+      <lb ed="#G" n="6"/>Quillielmum Antisiodoresem, Cyrillum(illum 
+      <lb ed="#G" n="7"/>impurum Monachum montis Carmeli, qui 
+      scri<lb ed="#G" n="8" break="no"/>psit nouum Euangelium) Petr. Cluniacensem,  
+      <lb ed="#G" n="9"/>Bernarduin Compostellanum, Hugonem 
+      Bar<lb ed="#G" n="10" break="no"/>cinonensem, Vincentium Gallum, Alexandrum 
+      <lb ed="#G" n="11"/>Alensem, (qui primus in quatuor libros Senten 
+      <lb ed="#G" n="12"/>tiarum P. Lombardi commentatus est)
+      Gualte<lb ed="#G" n="13" break="no"/>rum Pictauiensem. Haec vetus Scholastica 
+      cer<lb ed="#G" n="14" break="no"/>te quidem pudentior adhuc erat: &amp; quanquam  
+      <lb ed="#G" n="15"/>Patrum Ecclesiasticorum. i. hominum 
+      Eccle<lb ed="#G" n="16" break="no"/>siasticorum dicta ipsi verbo diuino aequabar, 
+      <lb ed="#G" n="17"/>tamen verbum Dei tractabat, &amp; commentariis 
+      <lb ed="#G" n="18"/>pro captu illorum hominum, id est, pro 
+      igno<lb ed="#G" n="19" break="no"/>rantia &amp; barbarie illius aetatis explicabat. De 
+      <lb ed="#G" n="20"/>hac igitur ipsa aetate sic in P. Dialectico scribit 
+      <lb ed="#G" n="21"/>lo. Trittenhemius, abbas Sphemhemensis, Ab 
+      <lb ed="#G" n="22"/>hoc tempore philosophia secularis sacram Theologiam  
+      <lb ed="#G" n="23"/>sua curiositate inutili faedare copit. Aristoteles 
+      <lb ed="#G" n="24"/>quidem in ipsius S. Theologiae templi &amp; 
+      sacra<lb ed="#G" n="25" break="no"/>rij simen iam introductus erat: nondum tamen 
+      <lb ed="#G" n="26"/>in ipsum templum, vel illius advtum. In quod 
+      <lb ed="#G" n="27"/>tamen postea perrupit, aut potius a Media 
+      <lb ed="#G" n="28"/>Scholastica, quae secuta est, deductus fuit. 
+      <lb ed="#G" n="29"/>Media Scholastica coepit ab Alberto 
+      ma<lb ed="#G" n="30" break="no"/>gno. i. anno Domini Iaao, &amp; durat vsque ad 
+      <lb ed="#G" n="31"/>Durandum de sancto Porciano, qui vixit anno 
+      <lb ed="#G" n="32"/>Domini isgo. Itaque durat illa fere per annos 
+      <lb ed="#G" n="33"/>centum &amp; decem, qua fsorente Ottomanus ille 
+      <lb ed="#G" n="34"/>Turcarum lmperator, &amp; nominis Christiani 
+      <!--54.xml-->
+      <pb ed="#G" n="f55"/>
+      
+               <lb ed="#G" n="1"/>infestissimus hostis exoritur. Monasteria 
+      inoe<lb ed="#G" n="2" break="no"/>cidente praesertim, vbi haec Sholastica vigebat, 
+      <lb ed="#G" n="3"/>hac eadem aetate furiose exstruuntur, creuit que 
+      <lb ed="#G" n="4"/>hoc locustarum genus in immensum. Habuit 
+      <lb ed="#G" n="5"/>haec media Scholastica Albertum magnum tan 
+      <lb ed="#G" n="6"/>quam primum parentem &amp; authorem, qui 
+      phi<lb ed="#G" n="7" break="no"/>losophiam illam prophanam, Aristotelicam 
+      <lb ed="#G" n="8"/>dico, iam quidem in simen S. Theologiae impu 
+      <lb ed="#G" n="9"/>denter &amp; temere a superioribus introductam  
+      <lb ed="#G" n="10"/>ipse in intima &amp;adyta ipsa sacrarij Christi intro 
+      <lb ed="#G" n="11"/>misit, illique in ipso illo templo principem 
+      lo<lb ed="#G" n="12" break="no"/>cum &amp; primariam sedem collocauit. 
+      Superio<lb ed="#G" n="13" break="no"/>res enim Scholastici Patrum quidem, sed 
+      Ec<lb ed="#G" n="14" break="no"/>clesiasticorum duntaxat, dicta ipsi sacro &amp; 
+      di<lb ed="#G" n="15" break="no"/>uino Verbo exaequabant: (quandoquidem in 
+      <lb ed="#G" n="16"/>toto P. Lombardo ne nomen quidem 
+      Aristo<lb ed="#G" n="17" break="no"/>telis legitur) ipse vero, &amp; qui ab eo profsuxerunt, 
+      <lb ed="#G" n="18"/>omnes scripta Aristolis philosophi diuino ipsi 
+      <lb ed="#G" n="19"/>Verbo vbique compararunt: adeo vt quae 
+      vesti<lb ed="#G" n="20" break="no"/>gia exiguae illius reuerentiae erga Dei verbum 
+      <lb ed="#G" n="21"/>restabant, hoc seculo &amp; a Media Scholastica 
+      <lb ed="#G" n="22"/>prorsus exstincta, &amp; ex hominum animis deleta 
+      <lb ed="#G" n="23"/>perierint. Hinc fit, vt in istius aetatis 
+      scriptori<lb ed="#G" n="24" break="no"/>bus exstet nomen ipsum Aristotelis aut 
+      Pbilo<lb ed="#G" n="25" break="no"/>sopbi primo loco positum, scripta eius 
+      demon<lb ed="#G" n="26" break="no"/>stratione niti censeantur: quae autem verbum Dei 
+      <lb ed="#G" n="27"/>docet, credulitate &amp; probabili potius 
+      opina<lb ed="#G" n="28" break="no"/>tione teneri, quemadmiodum quum alij 
+      plerique<lb ed="#G" n="29" break="no"/>tum uero Occan ille celeberrimus 
+      Scholasti<lb ed="#G" n="30" break="no"/>cus in Centilogio scribit, &amp; saepiss. respondet. 
+      <lb ed="#G" n="31"/>Hinc Metaphysicorum Aristotelicorum libri ipsis 
+      <lb ed="#G" n="32"/>augustiss. sancti Spiritus arcanis &amp; Dei verbo 
+      <lb ed="#G" n="33"/>sunt exaequati. Hinc denique euenit, vt qui illa 
+      <lb ed="#G" n="34"/>aetate in Theologia Scholastica fiorere, cele¬ 
+      <!--55.xml-->
+      <pb ed="#G" n="f56"/>
+      
+               <lb ed="#G" n="1"/>bresque haberi vellent, in Aristotelis scripta vel 
+      <lb ed="#G" n="2"/>physica, vel logica, vel metaphysica 
+      comenta<lb ed="#G" n="3" break="no"/>tiones accuratas ederent, ac in illis scriptis plus 
+      <lb ed="#G" n="4"/>operae &amp; studij, quam in ipsa sacra Scriptura po 
+      <lb ed="#G" n="5"/>nerent. Hanc enim per transennam, vt aiunt. 
+      <lb ed="#G" n="6"/>scripta vero Aristotelis taquam proprium suae 
+      <lb ed="#G" n="7"/>professionis opus &amp; καοκειμλυὸν ex professo 
+      per<lb ed="#G" n="8" break="no"/>tractabant. Ac quidem primus ipse Albertus 
+      <lb ed="#G" n="9"/>summam philosophiae scripsit: &amp; in lib. 8. 
+      Phy<lb ed="#G" n="10" break="no"/>sicor. Aristotelis, lib. 2. de Generat, &amp; corrupt. 
+      <lb ed="#G" n="11"/>lib. de Anima, de somno &amp; vigilia, de insomnijs 
+      <lb ed="#G" n="12"/>commentatus est: itemque scripsit de plantis 
+      <lb ed="#G" n="13"/>&amp; vegetabilibus, ac de motibus animalium: 
+      <lb ed="#G" n="14"/>Thomas Aquinas, qui Albertum praeceptorem 
+      <lb ed="#G" n="15"/>habuit, illius vestigia secutus eodem modo in 
+      <lb ed="#G" n="16"/>Theologia tractanda versatus est, &amp; sic deinceps 
+      <lb ed="#G" n="17"/>alij. Hac aetate farragines illae, de vnitate formae, 
+      <lb ed="#G" n="18"/>de Vnitate intellectus, de Vniuersalibus, de Enti 
+      <lb ed="#G" n="19"/>tate, de Ideis quae sunt in Deo, de realitatibus 
+      <lb ed="#G" n="20"/>sunt consutae. Deinde istae quaestiones, vt 
+      Phi<lb ed="#G" n="21" break="no"/>losophia prophana prorsus in articulis fidei 
+      re<lb ed="#G" n="22" break="no"/>gnaret, &amp; omnia in istorum Christianorum scho 
+      <lb ed="#G" n="23"/>lis moderaretur, fieri coeptae sunt: impiae illae 
+      <lb ed="#G" n="24"/>quidem, sed anxie tamen etianum hodie 
+      quo<lb ed="#G" n="25" break="no"/>que inter istos vexatae, An Deus possit quoduis 
+      <lb ed="#G" n="26"/>malum, etiam odium sui praecipere, &amp; omne bonum 
+      <lb ed="#G" n="27"/>prohibere, etiam amorem &amp; cultum sui: An possit 
+      <lb ed="#G" n="28"/>vniuersalem naturam sine singularibus producere &amp; 
+      <lb ed="#G" n="29"/>conseruare: An potuerit hunc Mundum etiam ab 
+      ae<lb ed="#G" n="30" break="no"/>terno meliorem, quam fecit, condere: An tres personae 
+      <lb ed="#G" n="31"/>possint simul eandem naturam assumere: An haec 
+      <lb ed="#G" n="32"/>propositio, Deus est searabeus aut cucurbita, tam  
+      <lb ed="#G" n="33"/>possibilis sit, quam haec, Deus est homo: An numerus 
+      <lb ed="#G" n="34"/>personarum pertineat ad primam intentionem, an ad 
+      <!--56.xml-->
+      <pb ed="#G" n="f57"/>
+      
+               <lb ed="#G" n="1"/>secundam: Vtrum ideae in Deo sint practica 
+      anspe<lb ed="#G" n="2" break="no"/>culatiuae: An in Deo sit intellectus agens &amp; 
+      passibi<lb ed="#G" n="3" break="no"/>lis: An anima Christi potuerit mentiri: An sibi 
+      me<lb ed="#G" n="4" break="no"/>ritus sit Christus: Vtrum Pontifex Romanus habeat 
+      <lb ed="#G" n="5"/>maiorem potestatem quam Petrus, an parem : &amp; 
+      <lb ed="#G" n="6"/>caetera huiusmodi vel blasphema ipsa per se, 
+      <lb ed="#G" n="7"/>vel quae ad manifestam impietatem fenestram  
+      <lb ed="#G" n="8"/>&amp; viam aperiunt. Hinc quotlibetariae quoque 
+      <lb ed="#G" n="9"/>quaestiones ab istis propositae. Haec fuit igitur 
+      <lb ed="#G" n="10"/>illius aetatis Theologia, &amp; ingeniorum studia 
+      <lb ed="#G" n="11"/>huiusmodi: scriptorum materia &amp; occupatio 
+      <lb ed="#G" n="12"/>talis &amp; tam a vera pietate aliena. Haec aetas 
+      ha<lb ed="#G" n="13" break="no"/>buit Albertum Magnum, Thomam Aquinatem, 
+      <lb ed="#G" n="14"/>Petrum de Tarentesia, Guilielmum episcopum 
+      <lb ed="#G" n="15"/>Parisiensem, Durandum, Egidium Romanum 
+      <lb ed="#G" n="16"/>Hugonium Constantinopolitanum, 
+      Richar<lb ed="#G" n="17" break="no"/>dum de Mediauilla, Ioan. Scotum nomine Duns 
+      <lb ed="#G" n="18"/>qui perpetuus Thomae Aquinatis impugnator 
+      <lb ed="#G" n="19"/>fuit: adeo vt quod de Carneade &amp; Chrysippo 
+      <lb ed="#G" n="20"/>scribit Cic, idem de isto &amp; Thoma possit affr 
+      <lb ed="#G" n="21"/>mari, nihil vel dicturum vel scripturum fuisse 
+      <lb ed="#G" n="22"/>hunc Scotum, si nihil Thomas prius vel dixisset 
+      <lb ed="#G" n="23"/>vel scripsisset: tanta fuit istorum discordia 
+      fra<lb ed="#G" n="24" break="no"/>trum. Habuit quoque haec aetas Alanum de 
+      In<lb ed="#G" n="25" break="no"/>sulis, Alexandrum de Alexandria, Nicolaum de 
+      <lb ed="#G" n="26"/>Lyra, Augustinum de Ancona, Bonauenturam,  
+      <lb ed="#G" n="27"/>Quilielmum Occanum, Durandum de sancto 
+      <lb ed="#G" n="28"/>Porciano, cui postea Thomae doctrina &amp; 
+      so<lb ed="#G" n="29" break="no"/>phistica displicuit, quasi omnis mali fons, &amp;  
+      <lb ed="#G" n="30"/>caussa. 
+      <lb ed="#G" n="31"/>Sequitur Noua scholastica, id est, vltima &amp; 
+      <lb ed="#G" n="32"/>pessima certe quidem istius Theologiae aetas,  
+      <lb ed="#G" n="33"/>quae post Durandum coepit ab Hereno de Boio 
+      <lb ed="#G" n="34"/>gritone &amp; Carmelita, illius Cyrilli nebulonis 
+      <!--57.xml-->
+      <pb ed="#G" n="f58"/>
+      
+               <lb ed="#G" n="1"/>qui Nouum Euangelium scripserat, blasphemo 
+      <lb ed="#G" n="2"/>discipulo, &amp; ad nostra haec tempora, magno 
+      <lb ed="#G" n="3"/>Ecclesiae malo, ppagata est, id est, vsqe ad annum 
+      <lb ed="#G" n="4"/>Domini igia, quo primum a M. Luthero euer 
+      <lb ed="#G" n="5"/>ti coepit, &amp; ab iis qui postea sequuti verum 
+      <lb ed="#G" n="6"/>Euangelium docuerunt. Haec aetas longe fuit 
+      <lb ed="#G" n="7"/>impudentissima. Nam quae modestia in 
+      supe<lb ed="#G" n="8" break="no"/>riori &amp; Media scholastica adhuc manserat, ne 
+      <lb ed="#G" n="9"/>temere de quibusdam ritibus &amp; quaestionibus 
+      <lb ed="#G" n="10"/>adhuc dubiis affimaretur, ista aetate sublata est. 
+      <lb ed="#G" n="11"/>Et de rebus etiam abditissimis &amp; maxime 
+      ar<lb ed="#G" n="12" break="no"/>canis, imo vero soli ipsi Deo notis magistraliter 
+      <lb ed="#G" n="13"/>affrmari coeptum est, iuxta illud vetus, Aμαδια μλ 
+      <lb ed="#G" n="14"/>πάρωος, λσλσμος δδῶυνον φiρα, id est, interprete Hie 
+      <lb ed="#G" n="15"/>ronymo imperitia confidentiam, eruditio 
+      ti<lb ed="#G" n="16" break="no"/>morem creat. Denique impurior quaeuis 
+      do<lb ed="#G" n="17" break="no"/>ctrina, tanquam verissimus articulus fidei, 
+      pu<lb ed="#G" n="18" break="no"/>blice hoc seculo introducta est, priuatim 
+      qui<lb ed="#G" n="19" break="no"/>dem quibusdam reclamantibus, quorum vel 
+      <lb ed="#G" n="20"/>iudicia contemnebantur, vel liberiores voces 
+      <lb ed="#G" n="21"/>Hammis ipsis coercebantur. Ergo pronuntiari 
+      <lb ed="#G" n="22"/>&amp; deffiniri coepit de Papa ipso, quod antea 
+      tan<lb ed="#G" n="23" break="no"/>tum quaerebatur, licet absurde, Vtrum Pontifex 
+      <lb ed="#G" n="24"/>Romanus sit simplex homo, an quasi Deus: an 
+      par<lb ed="#G" n="25" break="no"/>ticipet vtramque naturam cum Christo: de eius 
+      po<lb ed="#G" n="26" break="no"/>testate supra Concilium: de Virginis Mariae 
+      immu<lb ed="#G" n="27" break="no"/>nitate a peccato: de altero signo in S. Domini (aena 
+      <lb ed="#G" n="28"/>laicis interdicendo: &amp; sic de caeteris. Plane enim 
+      <lb ed="#G" n="29"/>&amp; superciliose Magistri isti determinarunt de 
+      <lb ed="#G" n="30"/>istislquaestionibus: sed falsissime, &amp; in Deum ac 
+      <lb ed="#G" n="31"/>Ecclesiam ipsam contumeliosissime. Ergo quod 
+      <lb ed="#G" n="32"/>in Media Scholastica adhuc positum erat velut 
+      <lb ed="#G" n="33"/>in quadam deliberatione seu quaestione, fuit ab 
+      <lb ed="#G" n="34"/>ista decretum pro certissimo fidei Christianae 
+      <!--58.xml-->
+      <pb ed="#G" n="f59"/>
+      
+               <lb ed="#G" n="1"/>articulo. Sic malum malo additum est, vt iam  
+      <lb ed="#G" n="2"/>nihil pene ista postrema Scholastica esse possit 
+      <lb ed="#G" n="3"/>deterius, nisi vniuersa Christiana doctrina 
+      fun<lb ed="#G" n="4" break="no"/>ditus euerteretur. Haec aetas habuit Ioannem 
+      <lb ed="#G" n="5"/>de Regno, Henricum de Vrimaria, Ioannem 
+      <lb ed="#G" n="6"/>Capreolum, Petrum de Aliaco, Ioan. Gersonem, 
+      <lb ed="#G" n="7"/>Bernardinum Senensem, Gabrielem Bielem, 
+      <lb ed="#G" n="8"/>&amp; similes alios: ac tandem Eccium illum 
+      sophi<lb ed="#G" n="9" break="no"/>stam, ac Genebrardum impudentiss. Monachos, 
+      <lb ed="#G" n="10"/>vera eorum, qui in reprobum sensum a 
+      Domi<lb ed="#G" n="11" break="no"/>no traduntur, exempla. Porro in eo Scholastica 
+      <lb ed="#G" n="12"/>omnino omnis consensit, vt quidquid contra 
+      <lb ed="#G" n="13"/>recepta &amp; probata a se dogmata, ritusque a 
+      Ro<lb ed="#G" n="14" break="no"/>mana Ecclesia traditos, &amp; iam inuectas 
+      super<lb ed="#G" n="15" break="no"/>stitiones, in verbo Dei scripto reperitur, omne 
+      <lb ed="#G" n="16"/>illud varijs distinctionibus, sophisinatis atque 
+      <lb ed="#G" n="17"/>oppositionibus obrueret: denique hominum 
+      <lb ed="#G" n="18"/>scripta diuinis exaequaret. Ac tandem 
+      Philoso<lb ed="#G" n="19" break="no"/>phiam humanam, imprimis autemAristotelicam in 
+      <lb ed="#G" n="20"/>supremo suae scholae ac controuersarum quaestionum 
+      <lb ed="#G" n="21"/>diiudicandarum ac decidendarum gradu &amp; chrono 
+      <lb ed="#G" n="22"/>tanquam reginam collocaret. Et tamen illa Pauli 
+      <lb ed="#G" n="23"/>admonitio praecesserat, Videte ne quis sit, qui vos 
+      <lb ed="#G" n="24"/>depraedetur per philosophiam: item &amp; illa 
+      Tertul<lb ed="#G" n="25" break="no"/>liani, Philosophi patriarchae haereticorum: Sed &amp; 
+      <lb ed="#G" n="26"/>Hieronyni ipsius, Mihi videntur 
+      AEgyptiorum<lb ed="#G" n="27" break="no"/>primogenita, dogmata esse Philosophorum, quibus 
+      <lb ed="#G" n="28"/>deceptos homines, atque irretitos tenebant, si modo 
+      <lb ed="#G" n="29"/>ad Dei verbum, vel veteres Patres ista 
+      Schola<lb ed="#G" n="30" break="no"/>stica attendisset. Et haec quidem de Scholasticae 
+      <lb ed="#G" n="31"/>Theologiae progressione, ac varia aetate &amp; 
+      dif<lb ed="#G" n="32" break="no"/>ferentiis dicta sint.
+    </p>
+            <p xml:id="cv8jk9-e871dd-d1e1908">
+      <!--59.xml-->
+               <pb ed="#G" n="f60"/>
+               <lb ed="#G" n="1"/>CAP. III 
+      <lb ed="#G" n="2"/>De Eclogis, ac Summis Theologicis, quae vocantur, 
+      <lb ed="#G" n="3"/>&amp; quando primum colligi coeperunt, tum 
+      <lb ed="#G" n="4"/>Decreta, tum Summa. 
+      <lb ed="#G" n="5"/>Ocorum Communium scribendorum 
+      <lb ed="#G" n="6"/>h fuisse peruetustum morem docent, M. 
+      Ci<lb ed="#G" n="7" break="no"/>cero in libro de Claris oratorib. &amp; 
+      Fa<lb ed="#G" n="8" break="no"/>bius Quintilianus, lib. 2. Institut. Oratoriarum 
+      <lb ed="#G" n="9"/>cap. I. Sed locos Communes scripserunt non 
+      <lb ed="#G" n="10"/>profani modo, sed etiam Ecclesiastici viri, &amp; 
+      <lb ed="#G" n="11"/>Christiani scriptores: qui, vt commodius totam  
+      <lb ed="#G" n="12"/>verae fidei doctrinam traderent, eam &amp; 
+      oratio<lb ed="#G" n="13" break="no"/>nis compendio, &amp; certis quibusdam capitibus 
+      <lb ed="#G" n="14"/>distinctam complexi sunt, posterisque 
+      tradide<lb ed="#G" n="15" break="no"/>runt. Nam vt Symbola illa, velut Apostolicum, 
+      <lb ed="#G" n="16"/>Nicaenum primum, Ephesinum, &amp; huiusmodi 
+      <lb ed="#G" n="17"/>alia praetermittam, quae fuerunt tamen 
+      breuissi<lb ed="#G" n="18" break="no"/>mae &amp; compendiosiss. totius Euangelicae 
+      do<lb ed="#G" n="19" break="no"/>ctrinae quaedam descriptiones, quis nescit 
+      Me<lb ed="#G" n="20" break="no"/>litonem, quemadmodum scribit Hieronymus,  
+      <lb ed="#G" n="21"/>Eclogarum libros sex primum scripsisse, circa 
+      <lb ed="#G" n="22"/>annum Domini I8o, &amp; postea Cyprianum 
+      Epi<lb ed="#G" n="23" break="no"/>scopum Carthaginensem ex variis S. Scripturae 
+      <lb ed="#G" n="24"/>locis testimoniorum libros tres ad Quirinum, 
+      <lb ed="#G" n="25"/>tanquam etiam Eclogas &amp; locos Communes 
+      <lb ed="#G" n="26"/>Theologicos primum Latinorum Patrum col 
+      <lb ed="#G" n="27"/>egisse, circa annum Domini 28o. 
+      <lb ed="#G" n="28"/>Postea a Basilio &amp; Athanasio, sicut nonnulli 
+      <lb ed="#G" n="29"/>volunt, Graecis Theologis AνSoλonae. i. Hores ex 
+      <lb ed="#G" n="30"/>omnibus Origenis opusculis concinnati sunt,  
+      <!--60.xml-->
+      <pb ed="#G" n="f61"/>
+      
+               <lb ed="#G" n="1"/>tanquam vberes &amp; locupletes quidam 
+      Quae<lb ed="#G" n="2" break="no"/>stionum Sententiarumque Theologicarum 
+      the<lb ed="#G" n="3" break="no"/>sauri, circa annum Domini: 2o. Nec vero tem 
+      <lb ed="#G" n="4"/>porum rationemad viuum reseco. 
+      <lb ed="#G" n="5"/>Scripta quoque sunt Enchiridia &amp; 
+      tracta<lb ed="#G" n="6" break="no"/>tus alij, vti de fide &amp; desombolo. Item 
+      commen<lb ed="#G" n="7" break="no"/>tarij in ipsum Apostolorum Symbolum, quasi 
+      <lb ed="#G" n="8"/>loci Communes a Latinis Patribus sut scripti, 
+      <lb ed="#G" n="9"/>velut a Ruffino circa annum domini 2go. Et in 
+      <lb ed="#G" n="10"/>optimo genere interpretandi meminit iam  
+      <lb ed="#G" n="11"/>Hieronymus locorum Communium. A 
+      Grae<lb ed="#G" n="12" break="no"/>cis autem Patribus illibri, qui Thesaurus 
+      or<lb ed="#G" n="13" break="no"/>thodoxae fidei, expositio fidei, de fide, &amp; similibus 
+      <lb ed="#G" n="14"/>aliis titulis insigniebantur, vti a Cyrillo, &amp; aliis 
+      <lb ed="#G" n="15"/>plerisque. Sic a Damasceno editi sunt, tanquam  
+      <lb ed="#G" n="16"/>epitome verae Christianaeque religionis libria. 
+      <lb ed="#G" n="17"/>De orthodoxa fide circa annum Domini V4o. 
+      <lb ed="#G" n="18"/>Postea a Niceta Choniata historico 
+      Ecclesia<lb ed="#G" n="19" break="no"/>stico orthodoxiae libri aliquot, qui temporis in 
+      <lb ed="#G" n="20"/>iuria perierunt. In scriptis autem Augustini, 
+      v<lb ed="#G" n="21" break="no"/>ti diximus, diu acplurimum versatae sunt 
+      Ec<lb ed="#G" n="22" break="no"/>clesiae Latinae, &amp; sequens aetas. Verum quum  
+      <lb ed="#G" n="23"/>inualesceret postea Romanorum Pontificum 
+      <lb ed="#G" n="24"/>authoritas, vel potius tyrannis, Bonifacius 
+      <lb ed="#G" n="25"/>ille, qui primus Archiepiscopus Moguntinus 
+      <lb ed="#G" n="26"/>a Roma. pontifice ex monacho creatus est, 
+      im<lb ed="#G" n="27" break="no"/>perium Romanae sedis &amp; autoritatem apud 
+      <lb ed="#G" n="28"/>Pipinum Regem Francorum maxime 
+      com<lb ed="#G" n="29" break="no"/>mendauit. Ex quo factum est, vt omnia in 
+      o<lb ed="#G" n="30" break="no"/>mnibus Ecclestis per suas tum decretales, tum 
+      <lb ed="#G" n="31"/>comonitorias epistolas in Occidente Romani 
+      <lb ed="#G" n="32"/>Pontisices gubernarent. Ergo Burcuardus 
+      ex<lb ed="#G" n="33" break="no"/>titit, qui &amp; ipse ex monacho quoque 
+      Episco<lb ed="#G" n="34" break="no"/>pus VVormaciensis a Roman. pontifice factus 
+      <!--61.xml-->
+      <pb ed="#G" n="f62"/>
+      
+               <lb ed="#G" n="1"/>Decretorum libros xX. vno volumine, 
+      quem<lb ed="#G" n="2" break="no"/>admodum antea diximus, edidit, taquam 
+      sum<lb ed="#G" n="3" break="no"/>mam omnium quaestionum tum ad fidem Chri 
+      <lb ed="#G" n="4"/>stianam, tum ad forum pertinentium, circa 
+      an<lb ed="#G" n="5" break="no"/>num Domini millesimum. Burchardo successit 
+      <lb ed="#G" n="6"/>luo Carnotensis Episcopus. Sed compendia ista 
+      <lb ed="#G" n="7"/>&amp; collectanea ab istis duobus, vti &amp; in 
+      Panor<lb ed="#G" n="8" break="no"/>mia quaedam, descripta ad vsum forensem potius,  
+      <lb ed="#G" n="9"/>quam ad fidei Christianae doctrinam 
+      accomo<lb ed="#G" n="10" break="no"/>data videbantur, quia propter Romanorum 
+      <lb ed="#G" n="11"/>Pontificum authorrtatem passim quidem 
+      vbi<lb ed="#G" n="12" break="no"/>que: sed in foro praesertim regnantem, omnis 
+      <lb ed="#G" n="13"/>Theologia forensis, &amp; caussaru litiumque 
+      diri<lb ed="#G" n="14" break="no"/>mendarum gratia comparata censebatur. 
+      <lb ed="#G" n="15"/>Coepit tamen forus a Theologia postea 
+      di<lb ed="#G" n="16" break="no"/>uelli, ab iis nimirum, qui annum Domini 
+      mil<lb ed="#G" n="17" break="no"/>lesimum secuti sunt. Nam quae collectiones ex 
+      <lb ed="#G" n="18"/>Romanorum Pontificum decretis aut Patrum  
+      <lb ed="#G" n="19"/>scriptis ad lites sorenses derimendas pertinere 
+      <lb ed="#G" n="20"/>iudicabantur, Decretorum nomine sunt ab iis 
+      <lb ed="#G" n="21"/>appellatae. 
+      <lb ed="#G" n="22"/>Quae autem ex iisdem Pontificum 
+      Roma<lb ed="#G" n="23" break="no"/>norum decretis, &amp; ex Patribus fidei Christianae 
+      <lb ed="#G" n="24"/>articulos spectare aut illustrare videbantur, 
+      <lb ed="#G" n="25"/>Scholastica Theologia, quemadmodum iam 
+      do<lb ed="#G" n="26" break="no"/>cuimus, est nominata. Itaque iam ex eo 
+      tem<lb ed="#G" n="27" break="no"/>pore diuersum iter ingressi sunt vtrique, 
+      nimi<lb ed="#G" n="28" break="no"/>rum Canonistae &amp; Scholastici: &amp; alia fuerunt 
+      vtro<lb ed="#G" n="29" break="no"/>rumque scripta, saepe etiam dissentientia a sese 
+      <lb ed="#G" n="30"/>mutuo, imo etiam contraria. Vtrique tamen 
+      <lb ed="#G" n="31"/>compendia &amp; eclogas seu epitomas suae, quam  
+      <lb ed="#G" n="32"/>quisque profitebatur, artis coponebant. 
+      Sum<lb ed="#G" n="33" break="no"/>mas tamen nondum appellabant. 
+      <lb ed="#G" n="34"/>Primus Hugo de sancto Victore habitus 
+      <!--62.xml-->
+      <pb ed="#G" n="f63"/>
+      
+               <lb ed="#G" n="1"/>sua aetate doctissimus circa annum Domini IIxo. 
+      <lb ed="#G" n="2"/>librum edidit, quem Summam suarum sententia 
+      <lb ed="#G" n="3"/>rum inscripsit, Hinc sane Summae, &amp; summarum  
+      <lb ed="#G" n="4"/>Theologicarum, &amp; summistae theologi, qui &amp; iidem  
+      <lb ed="#G" n="5"/>Scholastici, vocabulum nouum increbrescere 
+      <lb ed="#G" n="6"/>coepit. Petrus Abelardus ad huius 
+      imitatio<lb ed="#G" n="7" break="no"/>nem iisdem temporibus Theologiam suam vno 
+      <lb ed="#G" n="8"/>libro complexus est, quem librum pro summa, 
+      <lb ed="#G" n="9"/>Theologiam appellare maluit. Post Abelardum 
+      <lb ed="#G" n="10"/>Ric hardus Monachus sancti victoris epitomen 
+      <lb ed="#G" n="11"/>Bibliorum scripsit, &amp; inscripsit, circa annum 
+      Do<lb ed="#G" n="12" break="no"/>mini ilao. Deinde Guilielmus Abbas sancti 
+      <lb ed="#G" n="13"/>Theodorici scripsit primus de fide hoc titulo, 
+      <lb ed="#G" n="14"/>Sententiarum sidei liber unus circa annum Domi 
+      <lb ed="#G" n="15"/>ni IIao. Hinc iam &amp; Sententiae &amp; Sententiarum li 
+      <lb ed="#G" n="16"/>bri &amp; Sententiarij Theologi, voces audiri coeperunt 
+      <lb ed="#G" n="17"/>&amp; vsurpari. Quae vti &amp; Summistae &amp; Summarum 
+      <lb ed="#G" n="18"/>percrebuerunt, ac commendari, velut praeclarae 
+      <lb ed="#G" n="19"/>professionis tituli, solitae sunt. Post Quilielmum 
+      <lb ed="#G" n="20"/>Abbate dicitur Bandinus quidem sententias 
+      ea<lb ed="#G" n="21" break="no"/>dem methodo scripsisse, qua postea P. Lombardus: 
+      <lb ed="#G" n="22"/>adeo vt a Gilberto Genebrardo homine istius 
+      <lb ed="#G" n="23"/>ordinis &amp; scholae, sed Monacho 
+      maledicentis<lb ed="#G" n="24" break="no"/>simo, manifeste accusetur plagij turpissimi Ma 
+      <lb ed="#G" n="25"/>gister sententiarum Petrus iste Lombardus,  
+      <lb ed="#G" n="26"/>quasi alienam, id est, Bandini laudem in sese 
+      <lb ed="#G" n="27"/>transtulerit. Sed Bandini istius ne 
+      Trittenhe<lb ed="#G" n="28" break="no"/>mius quidem, diligens alioquin huiusmodi 
+      scri<lb ed="#G" n="29" break="no"/>ptorum nomenclator meminit, vt manifesta in 
+      <lb ed="#G" n="30"/>Lombardum appareat Oenebrardi calumnia. 
+      <lb ed="#G" n="31"/>Verum rabiosa istius monachi intemperies 
+      <lb ed="#G" n="32"/>suos arrodere maluit, quam intactum 
+      quem<lb ed="#G" n="33" break="no"/>quam, nedum me suarum istarum tenebrarum 
+      <lb ed="#G" n="34"/>aduersarium, dimittere. 
+      <!--63.xml-->
+      <pb ed="#G" n="f64"/>
+      
+               <lb ed="#G" n="1"/>Ergo Qulielmi abbatis Theodorici 
+      exem<lb ed="#G" n="2" break="no"/>plum &amp; titulum non suffuratus, sed imitatus 
+      <lb ed="#G" n="3"/>Lombardus scripsit libros quatuor Sententiarum, 
+      <lb ed="#G" n="4"/>in quorum gratiam ista omnia prolegomena 
+      <lb ed="#G" n="5"/>a nobis praemittuntur. Denique in ipsas etiam  
+      <lb ed="#G" n="6"/>summas &amp; Sententias commentarij quoque sunt 
+      <lb ed="#G" n="7"/>conscripti. Nam Rupertus Linconiensis 
+      epi<lb ed="#G" n="8" break="no"/>scopus post Lombardum &amp; ipse quoque Sum. 
+      <lb ed="#G" n="9"/>mam Theologiae scripsit, librum, quem eo no 
+      <lb ed="#G" n="10"/>mine donauit. Qui idem ad imitatione 
+      Lom<lb ed="#G" n="11" break="no"/>bardi edidit in Dionysium illum, quem 
+      appel<lb ed="#G" n="12" break="no"/>lant Areopagitam, commentationum libros 
+      <lb ed="#G" n="13"/>quatuor. Hinc summarum scribendarum 
+      au<lb ed="#G" n="14" break="no"/>dacia creuit, quae nullum finem inter istius ge 
+      <lb ed="#G" n="15"/>neris homines habere adhuc potuit. Post 
+      Ru<lb ed="#G" n="16" break="no"/>pertum enim eodem titulo &amp; argumento librum 
+      <lb ed="#G" n="17"/>edidit Qulielmus Antisiodorensis summam  
+      <lb ed="#G" n="18"/>Theologiae appellans, circa annum Domini. 
+      Ixoo<lb ed="#G" n="19" break="no"/>Primus autem Gualterus episcopus Pictauiesis 
+      <lb ed="#G" n="20"/>librum Quod libetorum edidit, magno orbis 
+      <lb ed="#G" n="21"/>miraculo, circa annum Domini Iago, nisi forte 
+      <lb ed="#G" n="22"/>quis existimet Aracium Arianum, qui primus 
+      <lb ed="#G" n="23"/>inter Christianos συμμλκτυν ζητημάτῶν libros 
+      <lb ed="#G" n="24"/>sex scripsit, quemadmodum Hieronymus in 
+      ca<lb ed="#G" n="25" break="no"/>talogo scriptorum tradit, harum 
+      quodlibeta<lb ed="#G" n="26" break="no"/>riarum quaestionum argumenta suppeditasse 
+      <lb ed="#G" n="27"/>Hunc titulum &amp; argumentum alij ex eade hac 
+      <lb ed="#G" n="28"/>schola postea imitati sunt. Inde quoque Quod 
+      <lb ed="#G" n="29"/>libetariae quaestiones natae. Atque hoc eodem 
+      ten<lb ed="#G" n="30" break="no"/>pore coepit Alexander de Ales siue Alensis ab 
+      <lb ed="#G" n="31"/>tis irrefragabilis doctor appellatus commentari 
+      <lb ed="#G" n="32"/>in hos libros quatuor Sententiarum a P. 
+      Lom<lb ed="#G" n="33" break="no"/>bardo ante istius aetatem annis prope loo. 
+      edi<lb ed="#G" n="34" break="no"/>tos. Hic quidem velut alter Alexander Mace¬ 
+      <!--64.xml-->
+      <pb ed="#G" n="f65"/>
+      
+               <lb ed="#G" n="1"/>do ausus est primus nodos illos Gordianos.  
+      <lb ed="#G" n="2"/>qui sunt apud Lombardum non soluere, sed 
+      <lb ed="#G" n="3"/>disrumpere &amp; secare. Alexandrum tamen istum  
+      <lb ed="#G" n="4"/>in eodem argumento &amp; comentariis in libros 
+      <lb ed="#G" n="5"/>sententiarum scribendis secuti sunt statim Io 
+      <lb ed="#G" n="6"/>hanes de Rupella, &amp; Eusthathius, qui &amp; Bona 
+      <lb ed="#G" n="7"/>uentura dictus est, &amp; alij postea, vti postea 
+      di<lb ed="#G" n="8" break="no"/>cemus, propemodum infiniti. Ex his autem ap 
+      <lb ed="#G" n="9"/>paret, cur, &amp; vnde eclogarum &amp; Summarum 
+      <lb ed="#G" n="10"/>istarum scribendarum initia in rebus 
+      Theolo<lb ed="#G" n="11" break="no"/>gicis primum coeperint, &amp; quo postea 
+      pro<lb ed="#G" n="12" break="no"/>gressu aucta fuerint. 
+      </p>
+            <p xml:id="cv8jk9-e871dd-d1e2322">
+               <lb ed="#G" n="13"/>CAP. IIII 
+      <lb ed="#G" n="14"/>De Petro Lombardo, qui magister Sententiarum 
+      <lb ed="#G" n="15"/>appellatur, &amp; de varijs horum 
+      libro<lb ed="#G" n="16" break="no"/>rum interpretibus. 
+      <lb ed="#G" n="17"/>gῳ Etri Lombardi vita nec breuius, nec 
+      <lb ed="#G" n="18"/>QCa melius perstringi potest, quam est a 
+      <lb ed="#G" n="19"/>Qξν&amp;ς Ioanne Trittenhemio Abbate 
+      Spanhen<lb ed="#G" n="20" break="no"/>mensi descripta his paucis versiculis.  
+      <lb ed="#G" n="21"/>Petrus Lobardus Episcopus Parisiensis ex 
+      schola<lb ed="#G" n="22" break="no"/>stico vir in diuinis scriptis studiosissimus &amp; nobiliter 
+      <lb ed="#G" n="23"/>doctus, ingenio subtilis, &amp; clarus eloquio nomen suum 
+      <lb ed="#G" n="24"/>scribendo cum tanta gloria transmisit ad posteros, vt 
+      <lb ed="#G" n="25"/>usque in hodiernum diem suis opusculis 
+      Theologo<lb ed="#G" n="26" break="no"/>rum schola vbique exercitata singulari veneratione 
+      <lb ed="#G" n="27"/>Magistrum eum nominet, &amp; habeat. Scripsit enim 
+      <lb ed="#G" n="28"/>sa iaci studio ex dictis sanctorum Patrum 
+      commen<lb ed="#G" n="29" break="no"/>dabile opus. 
+      <!--65.xml-->
+      <pb ed="#G" n="f66"/>
+      
+               <lb ed="#G" n="1"/>Sententiarum lib. 4. cupientes aliquid. 
+      <lb ed="#G" n="2"/>ln totum Psalterium li. I. Cum omnes Prophetiae. 
+      <lb ed="#G" n="3"/>ln omnes epistolas Pauli lib. I4. Principia rerum. 
+      <lb ed="#G" n="4"/>Sermones varius lib. I 
+      <lb ed="#G" n="5"/>alia quoque non pauca composuit, quae ad notitiam  
+      <lb ed="#G" n="6"/>meam non venerunt. Claruit sub Conrado Impera. 
+      <lb ed="#G" n="7"/>tore tertio, anno Domini M. CX L. Haec 
+      Trittenhe<lb ed="#G" n="8" break="no"/>mius. Hunc autem Petrum alij Longobardum 
+      <lb ed="#G" n="9"/>vocant a gente Longobardorum, qui &amp; Lom.¬ 
+      <lb ed="#G" n="10"/>bardi dicuntur: vnde &amp; Lombardia nominata. 
+      <lb ed="#G" n="11"/>quae olim lnsubria Gallia, cuius Metropolis 
+      <lb ed="#G" n="12"/>primum fuit Pappia ciuitas, nunc vero est 
+      Me<lb ed="#G" n="13" break="no"/>diolanum. Gentem autem illam a longis, quas 
+      <lb ed="#G" n="14"/>gestabat, barbis Longobardicam appellatam 
+      <lb ed="#G" n="15"/>esse sciunt omnes. Huic postea tamen longae 
+      <lb ed="#G" n="16"/>istae barbae adeo displicuerunt, vt cum esset 
+      Epi<lb ed="#G" n="17" break="no"/>scopus Parisiensis factus (cedente nimirum ei 
+      <lb ed="#G" n="18"/>Philippo Regis ipsius Ludouici lunioris fratre 
+      <lb ed="#G" n="19"/>Archidiacono Parisiensi propter Lombardi 
+      <lb ed="#G" n="20"/>famam Regi Francorum Ludouico (qui est 
+      <lb ed="#G" n="21"/>eius nominis septimus &amp; propter abrasam 
+      bar<lb ed="#G" n="22" break="no"/>ba Tuntor cornominatus)persuaserit, vt omnes 
+      <lb ed="#G" n="23"/>Franci seu Clerici seu Laici barbas abraderent. 
+      <lb ed="#G" n="24"/>Quidam tamen hoc edictum a Ludouico 
+      Sex<lb ed="#G" n="25" break="no"/>to potius promulgatum putant, vt facilius 
+      v<lb ed="#G" n="26" break="no"/>traque gens Francorum nimirum, qui barbati 
+      <lb ed="#G" n="27"/>erant, &amp; veterum Gallorum qui barbas 
+      abra<lb ed="#G" n="28" break="no"/>debant, inter se coalesceret: quoniam Galli 
+      ve<lb ed="#G" n="29" break="no"/>teres ad illud vsque tempus diuisi, id est, cultu &amp;  
+      <lb ed="#G" n="30"/>forma corporis distincti a Francis manserant. 
+      <lb ed="#G" n="31"/>Vtvt sit, postea ex eo imberbes manserunt in 
+      <lb ed="#G" n="32"/>Gallia imprimis Clerici omnes, &amp; nunc quoqi 
+      <lb ed="#G" n="33"/>contra concilium Carthaginense barbas abradunt, 
+      <lb ed="#G" n="34"/>quamuis populariter irrisi fuerint a Graecis sa¬ 
+      <!--66.xml-->
+      <pb ed="#G" n="f67"/>
+      
+               <lb ed="#G" n="1"/>cerdotibus, quod essent imberbes Episcopi, 
+      tan<lb ed="#G" n="2" break="no"/>quam eunuchi quidam essent, &amp; &amp; non mares,  
+      <lb ed="#G" n="3"/>sed foeminae. Nam cum a Francis &amp; Venetis 
+      <lb ed="#G" n="4"/>capta esset Constantinopolis, aegre tamen 
+      epi<lb ed="#G" n="5" break="no"/>scopos Francos imberbes pro episcopis suis 
+      <lb ed="#G" n="6"/>esse passi sunt Graeci, quemadmodum scribit 
+      <lb ed="#G" n="7"/>Nicetas Choniata in fine suae Historiae. Petrum 
+      <lb ed="#G" n="8"/>aute hunc Lombardum potius a Gente 
+      cogno<lb ed="#G" n="9" break="no"/>minatum putant, quam ab vlla certa familia, 
+      <lb ed="#G" n="10"/>quod filius esset spurius e Nonna nimirum, id 
+      <lb ed="#G" n="11"/>id est, Monacha natus, cuius filios alios 
+      quo<lb ed="#G" n="12" break="no"/>que duos fuisse tradunt Petrum Comestore, &amp; 
+      <lb ed="#G" n="13"/>vratianum, magnos alioquin &amp; celebres viros 
+      <lb ed="#G" n="14"/>huius fratres. Itaque cum a confessore 
+      admone<lb ed="#G" n="15" break="no"/>retur Nonna illa mater trium istorum, vt 
+      poeni<lb ed="#G" n="16" break="no"/>teret propter illam scortatione, &amp; votum 
+      vir<lb ed="#G" n="17" break="no"/>ginitatis violatum, respondit, se nec posse nec 
+      <lb ed="#G" n="18"/>debere poenitere, cum tam praeclara orbis 
+      lu<lb ed="#G" n="19" break="no"/>mina edidisset. Denique istius Petri libri 
+      a<lb ed="#G" n="20" break="no"/>Sententiarum sunt κυειας δελἰας χολασικῆς δῶξων 
+      <lb ed="#G" n="21"/>Atque vt quod de hoc scriptore sentio, 
+      inge<lb ed="#G" n="22" break="no"/>nue profitear, iudico, Hominem istum, si in 
+      <lb ed="#G" n="23"/>feliciora tempora incidisset, minusque 
+      corru<lb ed="#G" n="24" break="no"/>ptam fidei Christianae doctrinam didicisset, 
+      po<lb ed="#G" n="25" break="no"/>tuisse multum prodesse Ecclesiae Dei. Fuit enim  
+      <lb ed="#G" n="26"/>diligens, &amp; acutus: Atque etiam huius operis 
+      <lb ed="#G" n="27"/>instituendi scopus non modo honestus, sed 
+      e<lb ed="#G" n="28" break="no"/>tiam necessarius fuit, vt ex Augustini doctrina 
+      <lb ed="#G" n="29"/>sad quem vnum fere prouocat Lombardus.) 
+      <lb ed="#G" n="30"/>receptae opiniones &amp; emendarentur &amp; 
+      iudica<lb ed="#G" n="31" break="no"/>rentur. Porro autem in hos Sententiarum 
+      li<lb ed="#G" n="32" break="no"/>bros ediderunt commentarios infiniti pene, 
+      <lb ed="#G" n="33"/>quos idcirco omnes recensere non est opus, cum 
+      <lb ed="#G" n="34"/>nec omnium etiam commentationes hodie ex¬ 
+      <!--67.xml-->
+      <pb ed="#G" n="f68"/>
+      
+               <lb ed="#G" n="1"/>tent &amp; sint ex illis quidam ineptissimi. Primus 
+      <lb ed="#G" n="2"/>igitur omnium ausus est istos libros 
+      attinge<lb ed="#G" n="3" break="no"/>re, id est, difficultates difficultatibus augere 
+      A<lb ed="#G" n="4" break="no"/>lexander Alesius, dictus de Ales, deinde 
+      Ioan<lb ed="#G" n="5" break="no"/>nes de Rupella, postea Eusthathis qui &amp; 
+      Bona<lb ed="#G" n="6" break="no"/>uentura de balneo dictus est, Albertus Magnus,  
+      <lb ed="#G" n="7"/>Thomas Aquinas, Petrus de Tharantesia, 
+      V<lb ed="#G" n="8" break="no"/>dalricus de Argentina: Haimo Anglus, 
+      Ioan<lb ed="#G" n="9" break="no"/>nes valens, Qulielmus Lugdunensis. 
+      Quliel<lb ed="#G" n="10" break="no"/>mus Lamarensis, Ioannes de Parma, 
+      Hanibal<lb ed="#G" n="11" break="no"/>dus Romanus, Henricus de Gandauo, 
+      Hugoli<lb ed="#G" n="12" break="no"/>nus Patriarcha Constantinopolitanus, 
+      Richar<lb ed="#G" n="13" break="no"/>dus de media villa, Bonauentura, Gulielmus 
+      <lb ed="#G" n="14"/>Parisiensis, Gulielmus varro praeceptor Scoti, 
+      <lb ed="#G" n="15"/>Richardus de noua Villa, Ioannnes Scotus, 
+      Gre<lb ed="#G" n="16" break="no"/>gorius Ariminensis, Franciscus Marronis, 
+      Gu<lb ed="#G" n="17" break="no"/>lielmus Occan, Durandus a sancto Porciano, 
+      <lb ed="#G" n="18"/>Matthaeus de Aqua sponta, Nicolaus Papa 
+      quar<lb ed="#G" n="19" break="no"/>tus, Alanus de lnsulis, Alexander de Alexandria, 
+      <lb ed="#G" n="20"/>Petrus de Verberia, Michael de Cesena, 
+      Ge<lb ed="#G" n="21" break="no"/>rardus de Bononia, Nicolaus de Lyra, &amp; 
+      infi<lb ed="#G" n="22" break="no"/>niti alij, quales Holcot, Tricot &amp; Bricot. 
+      Po<lb ed="#G" n="23" break="no"/>stremus omnino Thomas Caietanus: tot 
+      nimi<lb ed="#G" n="24" break="no"/>rum calami &amp; miserum Lombardum 
+      exagita<lb ed="#G" n="25" break="no"/>runt, &amp; se intricatissimis quaestionibus 
+      crucia<lb ed="#G" n="26" break="no"/>runt. Si quis autem alios interpretes requirat,  
+      <lb ed="#G" n="27"/>Legat Trittenhemium. Hi autem omnes 
+      exa<lb ed="#G" n="28" break="no"/>men ipsius Lombardi doctrinae 
+      praetermitten<lb ed="#G" n="29" break="no"/>tes, &amp; locorum ab illis prolatorum collatione 
+      <lb ed="#G" n="30"/>negligentes, tanquam caeci caecum sunt secuti,  
+      <lb ed="#G" n="31"/>tanta fuit nimirum vel illorum scriptorum 
+      ne<lb ed="#G" n="32" break="no"/>gligentia, &amp; securitas vel istius inter suos 
+      <lb ed="#G" n="33"/>authoritas, vt ex Lombardo, tanquam 
+      Pytha<lb ed="#G" n="34" break="no"/>gorei a suo Pythagora ἀδακειτῶς dependerent,  
+      <!--68.xml-->
+      <pb ed="#G" n="f69"/>
+      
+               <lb ed="#G" n="1"/>statimque, si quis contra mutiret, in promptu 
+      <lb ed="#G" n="2"/>illud, αυτὸς iφα, haberent. 
+      </p>
+            <p xml:id="cv8jk9-e871dd-d1e2605">
+               <lb ed="#G" n="3"/>CAP. V. 
+      <lb ed="#G" n="4"/>Quae, quantaque esse debeat horum 
+      qua<lb ed="#G" n="5" break="no"/>tuor librorum inter Christianos 
+      <lb ed="#G" n="6"/>homines authoritas. 
+      <lb ed="#G" n="7"/>Odestissima est illa August. lib. 2. De 
+      bo<lb ed="#G" n="8" break="no"/>gno perseuerantiae cap. 3I. de fuis scriptis 
+      <lb ed="#G" n="9"/>setentia, quam alij omnes Christiani 
+      scri<lb ed="#G" n="10" break="no"/>ptores certe quidem imitari debent, neminem 
+      <lb ed="#G" n="11"/>velim, ait, sic amplecti omnia mea, vt me sequatur,  
+      <lb ed="#G" n="12"/>nisi in ijs, in quibus me non errare perspexerit. 
+      Prae<lb ed="#G" n="13" break="no"/>terea quid, quantum que aliis scriptoribus, 
+      prae<lb ed="#G" n="14" break="no"/>terquam vni Dei verbo scripto, sit tribuendum, 
+      <lb ed="#G" n="15"/>idem docet suo exemplo, quum in epistola ad 
+      <lb ed="#G" n="16"/>Hierony. ita scribit, Alios aute ita lego, vt 
+      quan<lb ed="#G" n="17" break="no"/>talibet sanctitate, doctrinaque praepolleant, non ideo 
+      <lb ed="#G" n="18"/>verum putem, quia ipsi ita senseruut: sed quia mihi 
+      <lb ed="#G" n="19"/>vel per illos authores canonicos (id est verbum Dei 
+      <lb ed="#G" n="20"/>scriptum )vel probabili ratione, quod a vero non 
+      ab<lb ed="#G" n="21" break="no"/>horreat, persuadere potuerunt. Quae cogitas 
+      Lom<lb ed="#G" n="22" break="no"/>bardus in prooemio huius operis antestatur se 
+      <lb ed="#G" n="23"/>in hoc tractatu non solum pium lectorem, sed etiam  
+      <lb ed="#G" n="24"/>liberum correctorem desiderare, verba Augustini 
+      <lb ed="#G" n="25"/>lib. 2. Trinitat. in prooemio nimirum imitatus. 
+      <lb ed="#G" n="26"/>Ex quibus satis intelligitur, primum authorem  
+      <lb ed="#G" n="27"/>istum &amp; scriptum eius neque esse αἰτατςον, vt per 
+      <lb ed="#G" n="28"/>se fidem mereatur: neque ex librorum 
+      Cano<lb ed="#G" n="29" break="no"/>nicorum &amp; ἐδλαδηκῶν numero, vt pari cum iis 
+      <lb ed="#G" n="30"/>authoritate censeatur. Quo impudentior fuit 
+      <!--69.xml-->
+      <pb ed="#G" n="f70"/>
+      
+               <lb ed="#G" n="1"/>illiusvsiue is Lombardus fuit, qui suo opere 
+      de<lb ed="#G" n="2" break="no"/>lectatus ita sese extulerit: siue alius quispia) 
+      au<lb ed="#G" n="3" break="no"/>dacia, ne dicam blasphemia, qui ad calcem lib. 
+      <lb ed="#G" n="4"/>q. istus operis adiecit, quae in his libris 
+      conti<lb ed="#G" n="5" break="no"/>nentur, ea ex pedibus sedentis super solium 
+      excel<lb ed="#G" n="6" break="no"/>sum, quos seraphim duabus alis velabant. I. ex 
+      pedi<lb ed="#G" n="7" break="no"/>bus ipsius Dei commemorata &amp; dictata fuisse. 
+      <lb ed="#G" n="8"/>Quae vero, obsecro, ista est impudentia¬ Nam 
+      <lb ed="#G" n="9"/>quae sunt a Deo dictata, licet ex pedibus, tamen 
+      <lb ed="#G" n="10"/>sunt ἐψευςα &amp; omnino credenda &amp; αυd ταἰῆς 
+      <lb ed="#G" n="11"/>δακεινεως absque vlla haesitatione animi aut 
+      exa<lb ed="#G" n="12" break="no"/>nimis credenda. Nec enim aliud ex capite, aliud 
+      <lb ed="#G" n="13"/>ex pedibus Dei dictatur, nisi forte verum &amp; 
+      ae<lb ed="#G" n="14" break="no"/>ternum illum sehouam similem profano 
+      cui<lb ed="#G" n="15" break="no"/>dam loui facimus, qui ex capite Mineruam 
+      edi<lb ed="#G" n="16" break="no"/>dit: ex foemore aute &amp; pedibus suis Herculem:  
+      <lb ed="#G" n="17"/>Ergo nimirum arrogans &amp; blasphema est laus 
+      <lb ed="#G" n="18"/>ista, siue sibi ab hoc vsurpata: siue ab alio 
+      tribu<lb ed="#G" n="19" break="no"/>ta, nempe scriptum hoc a Deo dictatum esse, 
+      <lb ed="#G" n="20"/>cum etiam ipsi illi huius scriptionis summi 
+      pa<lb ed="#G" n="21" break="no"/>troni Scholastici varios in singulis harum 
+      sen<lb ed="#G" n="22" break="no"/>tentiarum libris errores agnouerint: &amp; alijs, vt 
+      <lb ed="#G" n="23"/>cauerentur, annotarint, qui tractatus etiam ad 
+      <lb ed="#G" n="24"/>calcem horum librorum addi solet. Quare 
+      de<lb ed="#G" n="25" break="no"/>trahatur isti fides illa vel authoritas, quae solis 
+      <lb ed="#G" n="26"/>Canonicis libris debetur, de quorum albo &amp; 
+      nu<lb ed="#G" n="27" break="no"/>mero nequaquam, vel ipsis scholasticis 
+      testi<lb ed="#G" n="28" break="no"/>bus, scriptor iste censendus est. Quaenam 
+      igi<lb ed="#G" n="29" break="no"/>tur illi relinquenda est fides aut authoritas, 
+      di<lb ed="#G" n="30" break="no"/>cet quispiam Respondeo, cum grauissimi 
+      erro<lb ed="#G" n="31" break="no"/>res in hoc scriptore a discipulis etiam ipsis sint 
+      <lb ed="#G" n="32"/>non tantum leuiter animaduersi, sed grauiter 
+      <lb ed="#G" n="33"/>notati: &amp; cum saepe istorum librorum margines 
+      <lb ed="#G" n="34"/>habeant, Hic non tenetur Magister Sententiarum, 
+      <!--70.xml-->
+      <pb ed="#G" n="f71"/>
+      
+               <lb ed="#G" n="1"/>apparet omnino dubiam esse huius scriptoris 
+      au<lb ed="#G" n="2" break="no"/>choritatem &amp; fide. In quo non a me, sed ab ipsis 
+      <lb ed="#G" n="3"/>scholasticis eleuatam esse huius scripti fidem &amp;  
+      <lb ed="#G" n="4"/>in dubium reuocatam omnes vident. Equidem  
+      <lb ed="#G" n="5"/>antestari licet, &amp; ea ipsa verba, Deo teste, 
+      vsur<lb ed="#G" n="6" break="no"/>pare, quae Hilarius contra Constantium 
+      lm<lb ed="#G" n="7" break="no"/>peratorem scribens habet. Nunc mibi non alia ad 
+      <lb ed="#G" n="8"/>dicendum caussa quam Christi est, cui &amp; hoc debui 
+      <lb ed="#G" n="9"/>quod usque nunc tacui: &amp; ex reliquo me intelligo 
+      <lb ed="#G" n="10"/>debere ne taceam: vlterius enim tacere diffidentiae 
+      si<lb ed="#G" n="11" break="no"/>gnum est, non modestiae ratio. quia non minus 
+      pe<lb ed="#G" n="12" break="no"/>riculi est semper tacuisse, quam nunquam. Ergo 
+      pri<lb ed="#G" n="13" break="no"/>mum authorem istum, &amp; quidem saepius legere 
+      <lb ed="#G" n="14"/>antea volui, &amp; eognoscere, quam quicquam in 
+      <lb ed="#G" n="15"/>eum meditari. Sed cum tot, tamque 
+      multipli<lb ed="#G" n="16" break="no"/>ces vbique errores a me in his libris 
+      depraehen<lb ed="#G" n="17" break="no"/>derentur, temporum fortasse iniuria corruptae 
+      <lb ed="#G" n="18"/>que iam verae doctrinae potius quam ipsius 
+      Lon<lb ed="#G" n="19" break="no"/>bardi vitio, non potui non cohorrescere, &amp; 
+      <lb ed="#G" n="20"/>saltem in illo tam necessario &amp;, augusto fidei 
+      <lb ed="#G" n="21"/>Christianae articulo qui est de sancta 
+      Trini<lb ed="#G" n="22" break="no"/>tate, &amp; ab isto huius operis primo libro 
+      tra<lb ed="#G" n="23" break="no"/>ctatur, errores istius non commonstrare. Nam  
+      <lb ed="#G" n="24"/>verissima mihi semper visa est haec 
+      Augusti<lb ed="#G" n="25" break="no"/>ni sententia libr. 2. contra Cresco. capit. 2. 
+      Si<lb ed="#G" n="26" break="no"/>cut laudabile est a vera sententia non amoueri, Ita 
+      <lb ed="#G" n="27"/>culpabile est persistere in falsa, quam nunquam 
+      te<lb ed="#G" n="28" break="no"/>mere prima laus est, secunda mutare: vt aut ex 
+      ini<lb ed="#G" n="29" break="no"/>tio vera permaneat, aut mutata falsa vera succedat. 
+      <lb ed="#G" n="30"/>Ergo istius hominis discipuli recte sentire de 
+      <lb ed="#G" n="31"/>tato Dei arcano tande aliquando discant. 
+      Ti<lb ed="#G" n="32" break="no"/>mendum est enim, ait Hieronym. ne 
+      Magistro<lb ed="#G" n="33" break="no"/>rum nostrorum mulsum &amp; venena pariter bibamus: 
+      <lb ed="#G" n="34"/>aut ne quos duces recti itineris habere nos credi¬ 
+      <!--71.xml-->
+      <pb ed="#G" n="f72"/>
+      
+               <lb ed="#G" n="1"/>mus, eos comites habeamus erroris, Praesertim cum 
+      <lb ed="#G" n="2"/>idem Hieron. alibi Verissime scribat. Fateor, 
+      <lb ed="#G" n="3"/>Miratus sum, quod quantumuis aliquis male scri 
+      <lb ed="#G" n="4"/>pserit, inuenit similem lectorem sui. Ait quidem  
+      <lb ed="#G" n="5"/>Chrysostomus Homis. &amp;7. in Ioa. Mendacium,  
+      <lb ed="#G" n="6"/>etsi veritatem oppugnare videtur, seipsum tamen 
+      <lb ed="#G" n="7"/>detegit, &amp; veritatem reddit clariorem, sed illud 
+      ve<lb ed="#G" n="8" break="no"/>rum esse tum demum experimur, quum a nobis 
+      <lb ed="#G" n="9"/>caecis mendacium pro veritate non sumitur, &amp; 
+      <lb ed="#G" n="10"/>laudatur. Vbi enim semel inhaesit hominum 
+      a<lb ed="#G" n="11" break="no"/>nimis ista sententia, quae de re aliqua dicuntur, 
+      <lb ed="#G" n="12"/>ea esse vera, tum certe (quae vis est 
+      consuetudi<lb ed="#G" n="13" break="no"/>nis &amp; receptae semel iam opintonis) difficile 
+      <lb ed="#G" n="14"/>mendacium detegitur. Sed cum nox esse nox 
+      <lb ed="#G" n="15"/>a nobis nullo praeiudicio praeoccupatis 
+      iudi<lb ed="#G" n="16" break="no"/>cari potest, cum Sol verbi Dei cum tenebris 
+      con<lb ed="#G" n="17" break="no"/>fertur, tum vero facillime omnis in fidei 
+      do<lb ed="#G" n="18" break="no"/>ctrina impostura, &amp; mendacium deprehendi 
+      <lb ed="#G" n="19"/>potest. Quod praeclare nobiscum sentit his 
+      ver<lb ed="#G" n="20" break="no"/>bis Cyprianus lib. I. epist. S. Mendacia non diu 
+      <lb ed="#G" n="21"/>fallunt. Nox est, quousque dies illuxerit. Postquam  
+      <lb ed="#G" n="22"/>autem dies aduenerit, &amp; Sol ortusfuerit, &amp; luci 
+      te<lb ed="#G" n="23" break="no"/>nebrae cedunt, &amp; noctis latrocinia cessant. Imo vero 
+      <lb ed="#G" n="24"/>saepe fit, vt, quemadmodum ex Augustino 
+      scri<lb ed="#G" n="25" break="no"/>bit Clithoneus, &amp; ipse Scolasticus, vt per quae 
+      <lb ed="#G" n="26"/>insidias patitur veritas, per ea fortior euadat. 
+      Quen<lb ed="#G" n="27" break="no"/>admodum nobis in hoc examine Lombardi 
+      <lb ed="#G" n="28"/>contigit. Ex iis enim ipsis locis, quos citat ipse 
+      <lb ed="#G" n="29"/>pro se, deprehendimus falsam esse eius 
+      senten<lb ed="#G" n="30" break="no"/>tiam. Interim tamen etiam per eius vestigia 
+      ve<lb ed="#G" n="31" break="no"/>ritatem eorum locorum inuestigauimus. 
+      Quam<lb ed="#G" n="32" break="no"/>obrem vitio nobis verti non potest, si hanc 
+      o<lb ed="#G" n="33" break="no"/>peram toti Ecclesiae Dei impendimus, vt quae 
+      <lb ed="#G" n="34"/>sit horum scriptorum authoritas &amp; fides, sal¬ 
+      <!--72.xml-->
+      <pb ed="#G" n="f73"/>
+      
+               <lb ed="#G" n="1"/>tem in hoc libro primo demonstraremus. 
+      <lb ed="#G" n="2"/>Paradoxum fortasse, sed tamen id, quod est 
+      <lb ed="#G" n="3"/>verum, dicam, Autorem istum omnino nullam  
+      <lb ed="#G" n="4"/>per se fidem mereri. Primum enim eam non 
+      <lb ed="#G" n="5"/>meretur, quam Canonici scriptores: sed nec eam, 
+      <lb ed="#G" n="6"/>quam alij Patres Ecclesiastici, quoniam, vt ipse 
+      <lb ed="#G" n="7"/>testatur, in his libris non suam, sed aliena voce 
+      sona<lb ed="#G" n="8" break="no"/>re voluit. Itaque sic contexta est tota ista scriptio,  
+      <lb ed="#G" n="9"/>vt aliena potius, quam Lombardi ipsius scri 
+      <lb ed="#G" n="10"/>pta &amp; sententiam in ea legamus: iam vero qui 
+      <lb ed="#G" n="11"/>aliena verba refert &amp; transcribit, eatenus fidem  
+      <lb ed="#G" n="12"/>meretur, quatenus ab eius mente, &amp; verbis,  
+      <lb ed="#G" n="13"/>quem autorem profert, non discedit. Quod si 
+      <lb ed="#G" n="14"/>abeo discesserit, iam nullam omnino fidem  
+      <lb ed="#G" n="15"/>meretur, quia fallitur. Quisquis enim, ait Aug. 
+      <lb ed="#G" n="16"/>lib. 8o. Quaestion. 2I. ullam re aliter, quam est, 
+      in<lb ed="#G" n="17" break="no"/>telligit, fallitur: &amp;. omnis qui fallitur, id, in quo 
+      fal<lb ed="#G" n="18" break="no"/>litur, non recte intelligit. Quisquis igitur vllam  
+      <lb ed="#G" n="19"/>rem aliter intelligit, quam est, non intelligit. Tria 
+      <lb ed="#G" n="20"/>enim genera sunt erroris, inquit idem 
+      Augusti<lb ed="#G" n="21" break="no"/>nus lib. de Vtilitate credendi cap. 4. in quibus 
+      ho<lb ed="#G" n="22" break="no"/>mines errant, quum aliquid legunt, atque etiam 
+      ci<lb ed="#G" n="23" break="no"/>tant. Primum genus est, in quo, quod falsum est, 
+      ve<lb ed="#G" n="24" break="no"/>rum putatur, cu aliud, qui scripsit, putauerit. 
+      Exen<lb ed="#G" n="25" break="no"/>pli caussa, si Lucretium legens putes nulla esse 
+      <lb ed="#G" n="26"/>corpuscula, quae Atomi dicantur. Verum 
+      qui<lb ed="#G" n="27" break="no"/>dem sentis ratione rei, sed erras &amp; falleris in 
+      <lb ed="#G" n="28"/>mente Lucretij, id est, authoris, quem legis, 
+      in<lb ed="#G" n="29" break="no"/>terpretanda. Alterum est quamuis non tam late 
+      <lb ed="#G" n="30"/>patens, non tamen minus noxium, quum id, quod 
+      fal<lb ed="#G" n="31" break="no"/>sum est, verum putatur: id tamen putatur, quod etiam  
+      <lb ed="#G" n="32"/>ille, qui scripsit, putauit. Vtputa legens Lucretium 
+      <lb ed="#G" n="33"/>putas vere esse corpora illa ab Epicureis 
+      de<lb ed="#G" n="34" break="no"/>fensa, quae Atomi dicuntur. Falsum putas ratio¬  
+      <!--73.xml-->
+      <pb ed="#G" n="f74"/>
+      
+               <lb ed="#G" n="1"/>ne rei: sed verum ratione mentis autoris ipsius. 
+      <lb ed="#G" n="2"/>Ergo &amp; hic quoque erratur: Tertium est, addit 
+      <lb ed="#G" n="3"/>Augustinus, cum ex alieno scripto intelligitur 
+      ali<lb ed="#G" n="4" break="no"/>quid veri, cum hoc ille, qui scripsit, non intellexerit. 
+      <lb ed="#G" n="5"/>Veluti si quis eundem Lucretium legens vbi 
+      <lb ed="#G" n="6"/>mortem docet contemnendam, sentiat mortem 
+      <lb ed="#G" n="7"/>non esse propter nostram cum Deo 
+      reconci<lb ed="#G" n="8" break="no"/>liationem per Christum metuendam, sed 
+      con<lb ed="#G" n="9" break="no"/>temnendam, verum intelliget: sed tamen non 
+      <lb ed="#G" n="10"/>sensum autoris &amp; rationem capit. Qui cum tot 
+      <lb ed="#G" n="11"/>modi sint errandi in alienis scriptis legendis &amp; 
+      <lb ed="#G" n="12"/>citandis, certe ex nostris in hunc primum librum 
+      <lb ed="#G" n="13"/>scholiis &amp; collationibus omnes cognoscet 
+      Lon<lb ed="#G" n="14" break="no"/>bardum triplici illo modo, &amp; quidem 
+      saepissi<lb ed="#G" n="15" break="no"/>me, errasse: &amp; aliter rem, quam est vel in ipsa 
+      ve<lb ed="#G" n="16" break="no"/>ritate, vel in ipso, quem citat, autore, 
+      intellexis<lb ed="#G" n="17" break="no"/>se. Ex quo iam ex priori illa Augustini regula 
+      <lb ed="#G" n="18"/>concludo, illum igitur deceptum &amp; falsum 
+      fuis<lb ed="#G" n="19" break="no"/>se. Quis autem neget ei qui fallitur fidem non 
+      <lb ed="#G" n="20"/>esse habendam, quia falsus est, &amp; praeter 
+      <lb ed="#G" n="21"/>verba, vel mentem eius, de quo testatur, 
+      depo<lb ed="#G" n="22" break="no"/>nit, id est, quia sermonem &amp; mentem illius 
+      pro<lb ed="#G" n="23" break="no"/>ferre se dicit, ac testatur, cuius tamen bona fide 
+      <lb ed="#G" n="24"/>mentem, vel verba non referte lntelligent vero 
+      <lb ed="#G" n="25"/>postea omnes, quam multa vel in vno hoc 
+      li<lb ed="#G" n="26" break="no"/>bro primo, addita, detracta, &amp; comittata sint 
+      <lb ed="#G" n="27"/>a Lombardo, in citandis alienis scriptis, vt eum 
+      <lb ed="#G" n="28"/>crimine falsi teneri ne ipsi quidem illisqui eum  
+      <lb ed="#G" n="29"/>in delituis habent scholastici) negare vel audeant, 
+      <lb ed="#G" n="30"/>vel possint. Nam iide illi Distinct. 29. cap. 4. in 
+      <lb ed="#G" n="31"/>margine annotant quaedam ab eo mutari. 
+      Qua<lb ed="#G" n="32" break="no"/>re cur huic autori &amp; scripto fidem, &amp; merito 
+      <lb ed="#G" n="33"/>quidem, detrahamus iam bona, quemadmodum 
+      <lb ed="#G" n="34"/>opinor, piorum omnium venia perpendendum 
+      <!--74.xml-->
+      <pb ed="#G" n="f75"/>
+      
+               <lb ed="#G" n="1"/>est, ne temere iudicare videamur. 
+      <lb ed="#G" n="2"/>Sunt autem tres caussae ex plurimis, propter quas 
+      <lb ed="#G" n="3"/>id fieri oportere aequi iudices omnes 
+      pronun<lb ed="#G" n="4" break="no"/>tiabunt, Nempe quod sit Lombardus 
+      <lb ed="#G" n="5"/>Testis falsus,  
+      <lb ed="#G" n="6"/>2 Scriptor perniciosus,  
+      <lb ed="#G" n="7"/>S Denique, vt verum dicam, etiam ridiculus. 
+      <lb ed="#G" n="8"/>Priusquam autem harum trium accusationum 
+      <lb ed="#G" n="9"/>aut grauissimorum criminum tractatione 
+      in<lb ed="#G" n="10" break="no"/>stituam, fidem facere aggrediar, eandem 
+      oratio<lb ed="#G" n="11" break="no"/>ne &amp; praefatione vt lectorem admonere mihi 
+      li<lb ed="#G" n="12" break="no"/>ceat, &amp; me tutari, qua aduersus Ioannis 
+      Hiero<lb ed="#G" n="13" break="no"/>solymitae. Episc. plurimos errores scripturus 
+      <lb ed="#G" n="14"/>Hieronym: seipsum muniuit. Quaeso Lector ait, 
+      <lb ed="#G" n="15"/>vt memor tribunalis Domini, &amp; de iudicio tuo te 
+      in<lb ed="#G" n="16" break="no"/>telligens iudicandum, nec mihi, nec aduersario meo 
+      <lb ed="#G" n="17"/>faueas, neue personas loquentium, sed caussam 
+      con<lb ed="#G" n="18" break="no"/>sideres. Iterum atque iterum te commoneo, vt 
+      pa<lb ed="#G" n="19" break="no"/>tientiam teneas, &amp; discas, quod ego quoque per 
+      pa<lb ed="#G" n="20" break="no"/>tientiam didici. Nam liberum correctorem etiam  
+      <lb ed="#G" n="21"/>Lombardus ipse postulauit. 
+      <lb ed="#G" n="22"/>Ergo ad primum crimen iam accedamus, &amp;  
+      <lb ed="#G" n="23"/>Petrum Lombardum falsi testimonij reum 
+      co<lb ed="#G" n="24" break="no"/>ram vniuerso rerrarum orbe peragamus, ne 
+      no<lb ed="#G" n="25" break="no"/>stra haec oratio non ta accusatio, quam calumnia 
+      <lb ed="#G" n="26"/>alioquin existimetur. Falsi sunt testes, inquit.  
+      <lb ed="#G" n="27"/>Hierony. in Matthae. cap. 2o Qui non eodem sensu 
+      <lb ed="#G" n="28"/>dicta proferunt, quo dicuntur. Nam qui haec 
+      Chri<lb ed="#G" n="29" break="no"/>sti de templo loquentis verba, Destruite templum 
+      <lb ed="#G" n="30"/>hoc, &amp; tribus diebus erigam illud, audierant Ioan. 
+      <lb ed="#G" n="31"/>2. Vers: I9. apud Caiapham pontificem non 
+      eo<lb ed="#G" n="32" break="no"/>dem sensu referunt, Matth. 2o. Vers. 6. quo a 
+      <lb ed="#G" n="33"/>Christo dicta fuerant, vnde merito falsi testes 
+      <lb ed="#G" n="34"/>appellantur ab ipso Spiritu sancto Matth. 3o 
+      <!--75.xml-->
+      <pb ed="#G" n="f76"/>
+      
+               <lb ed="#G" n="1"/>vers. Go. De templo enim corporis sui 
+      loqueba<lb ed="#G" n="2" break="no"/>tur Christus, Ioan. 2. Vers. 2t. Illi vero 
+      detem<lb ed="#G" n="3" break="no"/>plo lapideo Hierosolymis aedificato intellexe 
+      <lb ed="#G" n="4"/>rant: &amp; tamen verba ipsa Destruendi &amp; Templi, 
+      <lb ed="#G" n="5"/>retinuerant, κυtiν. καταλύειν, vαoς. Ex quo fit, vt 
+      <lb ed="#G" n="6"/>recte tum ex ipsius Spir. sancti sententia, tum ex 
+      <lb ed="#G" n="7"/>Hieronymi annotatione falss testis is esse 
+      dica<lb ed="#G" n="8" break="no"/>tur, qui etia verba ipsa autorum, quos citat, 
+      reti<lb ed="#G" n="9" break="no"/>nens, mentem tamen eorundem non retinet, 
+      <lb ed="#G" n="10"/>sed eam vel euertit sciens &amp; prudens: yel 
+      impru<lb ed="#G" n="11" break="no"/>dens ac erras mutat. Quod si sciens &amp; dolo 
+      ma<lb ed="#G" n="12" break="no"/>lo, id est, ex professo id facit, non modo flagris 
+      <lb ed="#G" n="13"/>&amp; fustuario dignus est, sed etiam ex iure 
+      Ro<lb ed="#G" n="14" break="no"/>mano lege Cornelia De falsis est in vltimas 
+      or<lb ed="#G" n="15" break="no"/>bis terrarum oras, tanquam ciuiliter mortuus,  
+      <lb ed="#G" n="16"/>deportandus. Ex iure autem Canonico non 
+      tan<lb ed="#G" n="17" break="no"/>tum in Monasterium velut miserum carcerem  
+      <lb ed="#G" n="18"/>detrudendus, cano. Quia S. Praesbyteri seu 
+      Dia<lb ed="#G" n="19" break="no"/>coni, v. quaest. VI: sed etiam ab omni honore 
+      <lb ed="#G" n="20"/>officij deiciendus est, maxime si erit Presbyter, 
+      <lb ed="#G" n="21"/>ait Canon. Si Episcopus aut Presbyter, Distin. 
+      <lb ed="#G" n="22"/>go. 9I. Si Episcopus, ait Concilium Agathense, aut 
+      <lb ed="#G" n="23"/>Presbyter, aut Diaconus capitale crimen 
+      commise<lb ed="#G" n="24" break="no"/>rit, aut chartam falsauerit, aut falsum testimonium 
+      <lb ed="#G" n="25"/>dixerit, ab officij bonore depositus in monasterium 
+      <lb ed="#G" n="26"/>detrudatur, &amp; ibi, quandiu vixerit, laicalem 
+      tan<lb ed="#G" n="27" break="no"/>tummodo communionem accipiat. Quod idem 
+      ca<lb ed="#G" n="28" break="no"/>non. 28. Apostolorum traditum est, &amp; Leonis 
+      Con<lb ed="#G" n="29" break="no"/>stantinopolitani lmperatoris constitutione vo¬ 
+      <lb ed="#G" n="30"/>&amp; 4. de Sacerdote falsum testimonium dicente 
+      con<lb ed="#G" n="31" break="no"/>frmatum, vt de eo pluribus disputandum a 
+      no<lb ed="#G" n="32" break="no"/>bis minime sit. Lege autem Dei, vltimum 
+      sup<lb ed="#G" n="33" break="no"/>plicium seu Mors ipsa falsi testis poena 
+      consti<lb ed="#G" n="34" break="no"/>tuta est, Deutero. I9. versi i9. Et hae quidem poe¬ 
+      <!--76.xml-->
+      <pb ed="#G" n="f77"/>
+      
+               <lb ed="#G" n="1"/>nae sunt in falsos testes positae &amp; scriptae, praeter 
+      <lb ed="#G" n="2"/>quam quod eorum testimonio quoque ex I. 
+      Scri<lb ed="#G" n="3" break="no"/>ptura. C. De side instrumentorum, minime 
+      cre<lb ed="#G" n="4" break="no"/>dendum est. 
+      <lb ed="#G" n="5"/>Quod si Lombardus ipse errans &amp; 
+      impru<lb ed="#G" n="6" break="no"/>dens, eius, quem legit aut citat, mentem euertit, 
+      <lb ed="#G" n="7"/>vel immutat, saltem meretur hanc poenam eius 
+      <lb ed="#G" n="8"/>error &amp; imprudentia, vt ipsi erranti nequaquam  
+      <lb ed="#G" n="9"/>credatur, quoniam errat, vt vel leuissime cum 
+      <lb ed="#G" n="10"/>eo agi possit. dd I. Scriptura C. De fide 
+      Instrumen<lb ed="#G" n="11" break="no"/>torum, &amp; hoc ipsum ex Augustino quoque 
+      su<lb ed="#G" n="12" break="no"/>pra demonstrauimus. Imo vero in eo praeclara 
+      <lb ed="#G" n="13"/>est ista lex Platonis lib. 2. de legibus, Eαν τς, ait, 
+      <lb ed="#G" n="14"/>ἁλῶdiς ψευδωμάρτυρων, τοότον μλκότι νωμος αύανηαCετυ 
+      <lb ed="#G" n="15"/>μαδεiς μαρτυρόιν: μεανδε τζις, μνκότ ιξερῶ δετo μαρτυρενν, 
+      <lb ed="#G" n="16"/>Quae ita conuertit vir doctissimus Ioan. 
+      Serra<lb ed="#G" n="17" break="no"/>nus: Si quis falsi bis conuictus fuerit, ad dandum 
+      te<lb ed="#G" n="18" break="no"/>stimonium lex eum in posterum minime cogito: Si ter, 
+      <lb ed="#G" n="19"/>ne ei quidem vllo modo fas esto testimonium 
+      perhi<lb ed="#G" n="20" break="no"/>bere. Atqui non ter duntaxat, aut quater 
+      Lom<lb ed="#G" n="21" break="no"/>bardum falsi conuincemus, sed pene millies. 
+      <lb ed="#G" n="22"/>Ergo haec est vna falsi testis definitio, ex qua 
+      <lb ed="#G" n="23"/>Lombardum aequi iudices omnes 
+      damna<lb ed="#G" n="24" break="no"/>bunt. 
+      <lb ed="#G" n="25"/>Altera est, Dum, qui testimonium perhibet, 
+      <lb ed="#G" n="26"/>Verba ipsa primaria mutat, nimirum vel adden 
+      <lb ed="#G" n="27"/>do, vel detrahendo, vel etiam quaedam in iis 
+      con<lb ed="#G" n="28" break="no"/>mutando. Namque ea debet afferri in his 
+      prae<lb ed="#G" n="29" break="no"/>sertim rebus Theologicis svnceritas, vt ne 
+      tan<lb ed="#G" n="30" break="no"/>tillum quidem in S. scripturae, aut Patrum 
+      or<lb ed="#G" n="31" break="no"/>thodoxorum verbis &amp; oratione mutetur: ne 
+      <lb ed="#G" n="32"/>alienus illis sensus affingatur, non autem suus, &amp;  
+      <lb ed="#G" n="33"/>proprius retineatur. Irenaeus Pater, vt &amp; ex eius 
+      <lb ed="#G" n="34"/>operibus, &amp; ex Hieronymo apparet, ita scripsit, 
+      <!--77.xml-->
+      <pb ed="#G" n="f78"/>
+      
+               <lb ed="#G" n="1"/>Adiuro te, qui transcribis librum istum, per D.N. 
+      <lb ed="#G" n="2"/>lesum Christum, &amp;c. vt conferas posteaquam 
+      tran<lb ed="#G" n="3" break="no"/>scripseris, &amp; emendes illum ad exemplar vnde 
+      de<lb ed="#G" n="4" break="no"/>scripsisti, diligentissime, tanti esse momenti 
+      iudi<lb ed="#G" n="5" break="no"/>cauit ille, falsi quippiam etiam in hominum 
+      scri<lb ed="#G" n="6" break="no"/>pta admittere. Si tanti est vitrum, quanti 
+      marga<lb ed="#G" n="7" break="no"/>ritum. ei. Dei ipsius verbum:Hoc idem Ruffinus 
+      <lb ed="#G" n="8"/>in Prologo suae transsationis libris Origenis 
+      <lb ed="#G" n="9"/>De Principiis postulat. Nota est Spiridonis 
+      <lb ed="#G" n="10"/>historia, quam refert Hermius Soxomen. lib. I. 
+      <lb ed="#G" n="11"/>cap. II. qui cum Triphyllium Episcopum 
+      Le<lb ed="#G" n="12" break="no"/>dranum concionantem audiret, &amp; verba illa 
+      <lb ed="#G" n="13"/>Christi ex Ioan. 8. Vers. 8. Tolle grabbatum tuum, &amp; 
+      <lb ed="#G" n="14"/>ambula, Thriphyllius vir eloquens comutasset,  
+      <lb ed="#G" n="15"/>proque grabbato dixisset scimpoda, id est, pro 
+      <lb ed="#G" n="16"/>grabbato lectum substituisset, exclamauit 
+      Spiri<lb ed="#G" n="17" break="no"/>don, Tune eo meliores, qui grabbatum dixit, vt 
+      <lb ed="#G" n="18"/>verbis eius vti dedigneriss Notum quoque est 
+      <lb ed="#G" n="19"/>Augustini cum Hieronymo certamen de voce 
+      <lb ed="#G" n="20"/>Ficcaion vel Cucurbita apud lonam Propheta 
+      <lb ed="#G" n="21"/>a Hieronymo mutata. Quanquam autem 
+      no<lb ed="#G" n="22" break="no"/>lim veram Theologiam Aοκυιδαλῶν quandam  
+      <lb ed="#G" n="23"/>&amp; certis svllabis astrictam scientiam censeri 
+      <lb ed="#G" n="24"/>(quod Magicarum duntaxat artium proprium 
+      <lb ed="#G" n="25"/>est) tamen vbi quid ex Dei verbo aut Patribus 
+      <lb ed="#G" n="26"/>recte ac ordine probandum est, verba ipsa 
+      pri<lb ed="#G" n="27" break="no"/>maria neque detrahenda sunt, neque 
+      mutanda<lb ed="#G" n="28" break="no"/>neque iis quicquam addendum, quo in tuam 
+      sen<lb ed="#G" n="29" break="no"/>tentiam facilius ea contorqueas, aut inclines,  
+      <lb ed="#G" n="30"/>Ne addite, inquit Dominus, ad verbum illud quod 
+      <lb ed="#G" n="31"/>praecipio vobis, neque dotrabite de eo. Patrum 
+      au<lb ed="#G" n="32" break="no"/>tem scripta quanquam non sunt eiusdem 
+      mo<lb ed="#G" n="33" break="no"/>menti, aut tam sacrosancta: tamen quia non nisi 
+      <lb ed="#G" n="34"/>ex verbis svncere recitatis potest mens autorum 
+      <!--78.xml-->
+      <pb ed="#G" n="f79"/>
+      
+               <lb ed="#G" n="1"/>percipi, idem quoque a vero teste (qui sibi fide 
+      <lb ed="#G" n="2"/>adhiberi vult, quique probare recte &amp; vere 
+      <lb ed="#G" n="3"/>quidpiam ex iis cupib)est obseruandum, vt nihil 
+      <lb ed="#G" n="4"/>Patrum scriptis &amp; verbis, vel addat, vel 
+      detra<lb ed="#G" n="5" break="no"/>hat, aut in iis immutet. Nam, vt etiam preclare 
+      <lb ed="#G" n="6"/>Hilarius lib 8. Trinitat, scribit, ex verbis 
+      inordi<lb ed="#G" n="7" break="no"/>nate prolatis, addo ego &amp; recitatis, haeresis oritur: 
+      <lb ed="#G" n="8"/>atque idem lib. I. eiusdem operis, Optimus est 
+      le<lb ed="#G" n="9" break="no"/>ctor, ait, qui dictorum intelligentiam exspectat ex 
+      <lb ed="#G" n="10"/>dictis potius, quam imponat, id est, vt ipsemet Lom 
+      <lb ed="#G" n="11"/>bardus lib. I. Sentent. Distinct. 22. cap. 9. 
+      inter<lb ed="#G" n="12" break="no"/>pretatur, qui ex dictis, &amp; verbis eius autoris,  
+      <lb ed="#G" n="13"/>quem profert intelligentiam retulerit magis,  
+      <lb ed="#G" n="14"/>quam attulerit: neque cogat id videri dictis 
+      conti<lb ed="#G" n="15" break="no"/>neri, quod ante lectionem praesumpserit 
+      intelligen<lb ed="#G" n="16" break="no"/>dum. Ergo licet, ait idem Hilarius lib. S. Trinit. 
+      <lb ed="#G" n="17"/>ipsum intelligentiae suae sensum impietas demutet, 
+      <lb ed="#G" n="18"/>non tamen potest intelligentia non extare dictorum. 
+      <lb ed="#G" n="19"/>Adeo vt prope furor sit, vt ad tuam sententiam  
+      <lb ed="#G" n="20"/>aliquem veterum inuitum pertrahas, mutare 
+      <lb ed="#G" n="21"/>illius verba, eanque corrumpere addendo quidpia, 
+      <lb ed="#G" n="22"/>vel detrahendo, quod certe quidem iste saepius 
+      <lb ed="#G" n="23"/>(quemadmodum tum ex Elencho nostro, tum  
+      <lb ed="#G" n="24"/>ex collatione apparebit) manifestissime facit. 
+      <lb ed="#G" n="25"/>Ex quo fit, vt etiam ex hac secunda falsi testis 
+      <lb ed="#G" n="26"/>definitione Reus falsi merito, &amp; citra calumniam  
+      <lb ed="#G" n="27"/>peragatur a nobis Lombardus: ideoqe fide illi, 
+      <lb ed="#G" n="28"/>illiusque scriptis esse detrahendam contendimus. 
+      <lb ed="#G" n="29"/>Tertia denique falsi testis, falsique 
+      testimo<lb ed="#G" n="30" break="no"/>nij ratio &amp; nota in eo posita est, si ratio 
+      dicto<lb ed="#G" n="31" break="no"/>rum scriptorumque alienorum, vel omnino 
+      prae<lb ed="#G" n="32" break="no"/>termittitur, vel mutatur. Fit enim hac ratione, 
+      <lb ed="#G" n="33"/>vt quod verum &amp; solidum in ipsis autoribus 
+      <lb ed="#G" n="34"/>extat, euadat ieiunum, aut dubium, dum absque 
+      <!--79.xml-->
+      <pb ed="#G" n="f80"/>
+      
+               <lb ed="#G" n="1"/>ratione recitatur: ideoque nutet illius totius 
+      <lb ed="#G" n="2"/>conclusionis firmitas. Saepe etiam sit, vt in 
+      alie<lb ed="#G" n="3" break="no"/>num sensum detorqueatur, &amp; incommode di- 
+      <lb ed="#G" n="4"/>ctum collectumque appareat, quod detracto 
+      <lb ed="#G" n="5"/>conclusionis fundamento, tanquam basi sua, 
+      <lb ed="#G" n="6"/>proponitur, aut aedificatur. Praeclare enim 
+      Hi<lb ed="#G" n="7" break="no"/>larius lib. 4. (quod etiam Lombardus ipse lib.I. 
+      <lb ed="#G" n="8"/>Sentent. Distinct. 24g. cap. 8. Velut auream plane 
+      <lb ed="#G" n="9"/>sententiam transcripsit) sntelligentia dictorum, 
+      <lb ed="#G" n="10"/>ait, ex caussis est assumenda dicendi. Ideoque, idem  
+      <lb ed="#G" n="11"/>Hilarius conqueritur de haereticis, lib. 9. 
+      Tri<lb ed="#G" n="12" break="no"/>nit, quod adimplerent aures ignorantium sola haec 
+      <lb ed="#G" n="13"/>(quae citant) &amp; nuda memorantes, aut 
+      absolutioni<lb ed="#G" n="14" break="no"/>bus eorum tacitis, aut caussis: cum dictorum 
+      intelli<lb ed="#G" n="15" break="no"/>gentia, aut ex propositis, aut ex consequentibus 
+      exspe<lb ed="#G" n="16" break="no"/>ctetur. Atqui infinitis locis hoc modo vel in 
+      <lb ed="#G" n="17"/>vno hoc primo Sententiarum libro peceat 
+      Lom<lb ed="#G" n="18" break="no"/>bardus, vt merito fides ei propterea sit 
+      de<lb ed="#G" n="19" break="no"/>trahenda. Quod si quemadmodum leges ipsae 
+      <lb ed="#G" n="20"/>Romanorum sanciunt, qui priuati hominis 
+      te<lb ed="#G" n="21" break="no"/>stamentum interleuit, lege Cornelia de falsis,  
+      <lb ed="#G" n="22"/>falsarius est, &amp; falsi crimine tenetur, I. 2. D. ad 
+      I<lb ed="#G" n="23" break="no"/>Cornel. de falsi quid de eo sentiemus, qui in 
+      pu<lb ed="#G" n="24" break="no"/>plicis illis tum S. scripturae, tum veterum Patrum  
+      <lb ed="#G" n="25"/>scriptis aliquid deleuit, aut adiecit, aut 
+      interle<lb ed="#G" n="26" break="no"/>uito Si qui nummos aureos raserit, vel 
+      instru<lb ed="#G" n="27" break="no"/>menta, quae probari non possunt, produxerit: 
+      <lb ed="#G" n="28"/>vel falsas constitutiones protulerit, falsarius est,  
+      <lb ed="#G" n="29"/>&amp; lege Cornelia damnatur: qualis, obsecro, 
+      <lb ed="#G" n="30"/>censendus est, qui sancta Patrum scripta 
+      ra<lb ed="#G" n="31" break="no"/>sit, qui falso eorum dicta protulit, &amp; in 
+      quae<lb ed="#G" n="32" break="no"/>stione tam augusta, (qualis est omnis, quae 
+      <lb ed="#G" n="33"/>de vera fide, &amp; Christiana religione 
+      institui<lb ed="#G" n="34" break="no"/>tur disputatio) proposuito Plus etiam dicam,  
+      <!--80.xml-->
+      <pb ed="#G" n="f81"/>
+      
+               <lb ed="#G" n="1"/>non modo Lombardum ipsum falsi 
+      teneri<lb ed="#G" n="2" break="no"/>sed eos quoque omnes, qui illis falsis 
+      scien<lb ed="#G" n="3" break="no"/>tes prudentesque iam vtuntur, aut in 
+      poste<lb ed="#G" n="4" break="no"/>rum vtentur, reos esse &amp; ipsos falsi 
+      pronun<lb ed="#G" n="5" break="no"/>tio. I. Si vteris instrumento, C. De fide 
+      Instru<lb ed="#G" n="6" break="no"/>mentorum. Atque haec quidem de prima 
+      ho<lb ed="#G" n="7" break="no"/>rum Petri Lombardi scriptorum, 
+      abrogando<lb ed="#G" n="8" break="no"/>rum, &amp; damnandorum caussa dicta sunto: quam 
+      <lb ed="#G" n="9"/>praetermitti a me debuisse, nec ipsa Dei 
+      glo<lb ed="#G" n="10" break="no"/>ria sinebat: nec Patrum orthodoxorum, qui ab 
+      <lb ed="#G" n="11"/>isto tam faaede mutilantur, reuerentia &amp; 
+      auto<lb ed="#G" n="12" break="no"/>ritas patiebatur: nec ipsa denique conscientiae 
+      <lb ed="#G" n="13"/>meae quies concedebat. Praetermitto vero, 
+      <lb ed="#G" n="14"/>quod doctissimus ille Antonius Sadeel, 
+      ami<lb ed="#G" n="15" break="no"/>cus meus, in loco communi De Verbo Dei 
+      to<lb ed="#G" n="16" break="no"/>tam Scholasticorum istorum agendi rationem 
+      <lb ed="#G" n="17"/>dubiam, incertam, &amp; Academicam, minimeque 
+      <lb ed="#G" n="18"/>Christianae fidei consentaneam esse luculenter 
+      <lb ed="#G" n="19"/>demonstrauit. 
+      <lb ed="#G" n="20"/>Venio igitur ad secundam istius scriptionis 
+      <lb ed="#G" n="21"/>exautorandae caussam, quae in eo est, quod sit 
+      <lb ed="#G" n="22"/>hic idem Lombardus, in hoc praesertim opere, 
+      <lb ed="#G" n="23"/>scriptor, vt ego quidem iudico, perniciosus. 
+      <lb ed="#G" n="24"/>Sputis fortasse me cooperient propterea 
+      Scho<lb ed="#G" n="25" break="no"/>lastici Philolombardi: sed (vt illi coelum terrae 
+      <lb ed="#G" n="26"/>misceant) Dei veritas, etiam ipsis rumpentibus,  
+      <lb ed="#G" n="27"/>est tuenda, quando ludaeorum &amp; Pharisaeorum 
+      <lb ed="#G" n="28"/>primoribus corde frendentibus, &amp; dentibus 
+      <lb ed="#G" n="29"/>etiam suis stridentibus, Stephanus tamen puram 
+      <lb ed="#G" n="30"/>Christi doctrinam confessus est. Scio quid 
+      <lb ed="#G" n="31"/>loanni Scoto Bedae discipulo acciderit, qui cum  
+      <lb ed="#G" n="32"/>Ludouici pij seculo libellum Dionysij de 
+      Hie<lb ed="#G" n="33" break="no"/>rarchia enarraret, &amp; opinionem tunc receptam 
+      <lb ed="#G" n="34"/>in Ecclesia, de Oblatione Camis Dominicae 
+      <!--81.xml-->
+      <pb ed="#G" n="f82"/>
+      
+               <lb ed="#G" n="1"/>pro viuis &amp; mortuis taxaret, a discipulis suis in 
+      <lb ed="#G" n="2"/>media ipsa schola graphiis confosss est. Sed quia 
+      <lb ed="#G" n="3"/>&amp; in vita, &amp; in morte Christus mihi lucrum est,  
+      <lb ed="#G" n="4"/>quicquid tandem omnes veritatis Dei hostes 
+      <lb ed="#G" n="5"/>in me sint machinaturi, dicam quod ad Dei 
+      <lb ed="#G" n="6"/>aeterni &amp; omnipotentis gloriam, illiusque 
+      veri<lb ed="#G" n="7" break="no"/>tatem sartam tectam tuendam pertinet, pro qua 
+      <lb ed="#G" n="8"/>sum vita ipsam profundere, si Dominus 
+      volue<lb ed="#G" n="9" break="no"/>rit, mihique affuerit, paratus. 
+      <lb ed="#G" n="10"/>Esse vero haec scripta Petri Lombardi 
+      perni<lb ed="#G" n="11" break="no"/>ciosa fidem faciunt, vel haec duo, vt pauca e 
+      plu<lb ed="#G" n="12" break="no"/>rimis, breuitatis gratia, commemorem: Vnum. 
+      <lb ed="#G" n="13"/>quod totam de S. Trinitate, &amp; reliquis 
+      Chri<lb ed="#G" n="14" break="no"/>stianae fidei partibus doctrinam, quae 
+      conscien<lb ed="#G" n="15" break="no"/>tiarum aedificandarum gratia a Spiritu sancto 
+      <lb ed="#G" n="16"/>dictata est, in quandam inanem Mataeologiam,  
+      <lb ed="#G" n="17"/>&amp; curiositatem commutauit. Alterum, quod 
+      <lb ed="#G" n="18"/>ex Patrum. i. hominum scriptis potius, quam  
+      <lb ed="#G" n="19"/>ex ipso Sacrosancto Dei verbo scripto pendere 
+      <lb ed="#G" n="20"/>nos suo exemplo docet, cum de sacra Scriptura 
+      <lb ed="#G" n="21"/>citet omnino paucissima quaedam: de Patribus 
+      <lb ed="#G" n="22"/>autem pleraque fere omnia sua. De vtroque 
+      <lb ed="#G" n="23"/>igitur hoc pernicioso exemplo aeque breuiter 
+      <lb ed="#G" n="24"/>aliquid dicamus. Ac primum huius scriptionis 
+      <lb ed="#G" n="25"/>curiosam Mataeologiam esse periculosam, quis 
+      <lb ed="#G" n="26"/>dubitat: Finis Scripturae, inquit Paulus, imo 
+      <lb ed="#G" n="27"/>verae omnis Theologiae, est, vt perfectus sit homo 
+      <lb ed="#G" n="28"/>Dei, ad omne opus bonum perfecte instructus, 2. 
+      Ti<lb ed="#G" n="29" break="no"/>moth. 2. Versi iy. Ex quo fit, vt idem cap. 2. 
+      Vers<lb ed="#G" n="30" break="no"/>22. aperte damnet stultas illas quaestiones, quae 
+      <lb ed="#G" n="31"/>pugnas gignunt, &amp;, vt alibi idem loquitur. 
+      <lb ed="#G" n="32"/>λoνoμαMας. Vnde damnantur, quicunque carnis 
+      <lb ed="#G" n="33"/>&amp; prudentiae suae sensu turgentes ingerunt sese 
+      <lb ed="#G" n="34"/>in ea, quae non viderunt, nec ex Dei verbo sa¬ 
+      <!--82.xml-->
+      <pb ed="#G" n="f83"/>
+      
+               <lb ed="#G" n="1"/>pere sunt edocti, Colossi 2. Verssig. 
+      <lb ed="#G" n="2"/>Finis denique omnium Theologicorum 
+      scri<lb ed="#G" n="3" break="no"/>ptorum, vti &amp; ipsius Scripturae, hic est, Charitas 
+      <lb ed="#G" n="4"/>ex puro corde, &amp; conscientia bona, &amp; fide non 
+      simu<lb ed="#G" n="5" break="no"/>lata. I. Timoth. I. Versig. Ergo qui ab hoc fine 
+      <lb ed="#G" n="6"/>recedunt, &amp; pro conscientiarum pace, 
+      pertur<lb ed="#G" n="7" break="no"/>bationem afferunt: pro charitate, pugnas &amp; ri 
+      <lb ed="#G" n="8"/>xas inter seipsos serunt: pro fidei luce, 
+      in<lb ed="#G" n="9" break="no"/>tricatas &amp; inexplicabiles quaestiones: denique 
+      <lb ed="#G" n="10"/>pro vero cognitionis Dei vsu, curiosas tan 
+      <lb ed="#G" n="11"/>tum, &amp; ωεξρξαδῶρας εννoας: sunt sane perniciosi 
+      <lb ed="#G" n="12"/>scriptores, &amp; merito a Christiana simplicitate 
+      <lb ed="#G" n="13"/>damnadi. TisMp, ait Isocrates in oratione contra 
+      <lb ed="#G" n="14"/>Sophistas, ικ αν μισμισεμεν δμα, κ καταφάονμνειε, σξτον  
+      <lb ed="#G" n="15"/>μόν τυν τε τας εμιδως δεωτζιξοντυν: σ ωξοοτοtμντας μῖν 
+      <lb ed="#G" n="16"/>τον αλῆσεεαν ζητυιι, ενπῶς δε ιν αXῳ τῶν επαδMεRμάτυν 
+      <lb ed="#G" n="17"/>Qeusm κeκe &amp;κipuσ. Quis non oderit, &amp; simul 
+      con<lb ed="#G" n="18" break="no"/>tempserit primum quidem eos, qui circa rixationes 
+      <lb ed="#G" n="19"/>versantur, qui profitentur quidem se veritatem 
+      quae<lb ed="#G" n="20" break="no"/>rerere, sed in ipso statim rerum a se promissarum 
+      ini<lb ed="#G" n="21" break="no"/>tio falsa dicere aggrediuntur, Sed &amp; praeclare 
+      Ho<lb ed="#G" n="22" break="no"/>milia iI. Ex ameri sui docet Basilius, quod 
+      Ec<lb ed="#G" n="23" break="no"/>clesia Dei, vel scripta Theologica legens, vel 
+      <lb ed="#G" n="24"/>conciones audiens non exspectat audire res 
+      <lb ed="#G" n="25"/>inanes, &amp; curiosas: sed eas, quae ad suam ipsius 
+      <lb ed="#G" n="26"/>aedificationem pertineant, &amp; quaestionum 
+      vti<lb ed="#G" n="27" break="no"/>lium tractationem. Melior est enim, vel ipso 
+      <lb ed="#G" n="28"/>Lombardo teste lib. I. Sentent. Dist. 4I. cap. 
+      a<lb ed="#G" n="29" break="no"/>fidelis ignorantia, quam temeraria scientia. Ergo 
+      <lb ed="#G" n="30"/>omnis in vere Theologicis scriptis (qualia haec 
+      <lb ed="#G" n="31"/>esse dicuntur)curiositas, &amp; quaestio, quae extra 
+      <lb ed="#G" n="32"/>pietatis vsum est, damnatur, tanquam 
+      perni<lb ed="#G" n="33" break="no"/>ciosa. At vero in quonam vllo scriptore, vel plu 
+      <lb ed="#G" n="34"/>res, vel manifestiores sunt huiusmodi quaestio¬ 
+      <!--83.xml-->
+      <pb ed="#G" n="f84"/>
+      
+               <lb ed="#G" n="1"/>nes, quam in istor Id quod nostrorum 
+      Scholio<lb ed="#G" n="2" break="no"/>rum in hunc librum primum lectio verissimum 
+      <lb ed="#G" n="3"/>esse comprobabit. 
+      <lb ed="#G" n="4"/>Quod ad alterum autem, nempe, quod 
+      ad<lb ed="#G" n="5" break="no"/>modum raro ad ipsum verbum Dei, aut 
+      nun<lb ed="#G" n="6" break="no"/>quam: ad hominum autem scripta vtplurimum in 
+      <lb ed="#G" n="7"/>his scriptis reuocemur, de eo ambigere nemo 
+      <lb ed="#G" n="8"/>potest, si quis vel ipsum horum librorum 
+      pro<lb ed="#G" n="9" break="no"/>oemium solum a simine salutarit, vbi Patrum  
+      <lb ed="#G" n="10"/>authoritates pro fundamento totius suae 
+      do<lb ed="#G" n="11" break="no"/>ctrinae se prolaturum profitetur. In quo a seipso 
+      <lb ed="#G" n="12"/>refutatur aperte, qui lib. I. Sentent. Dist. II. 
+      cap<lb ed="#G" n="13" break="no"/>2. ait, Euangelium continere integram fidem. Ergo 
+      <lb ed="#G" n="14"/>extra illud, nihil erat quaerendum homini 
+      Theo<lb ed="#G" n="15" break="no"/>logo, quod nos docere vellet. Itaque cum ait 
+      <lb ed="#G" n="16"/>idem lib. I. in difficillima quaestione Distinct. 
+      <lb ed="#G" n="17"/>24. cap. I2. Ex autoritatibus Sanctorum ostendi 
+      o<lb ed="#G" n="18" break="no"/>portet, ne coniecturis nostris aliquid ausi dicere 
+      vi<lb ed="#G" n="19" break="no"/>deamur, fallitur. Dicendum enim erat, Ex autbo 
+      <lb ed="#G" n="20"/>ritate S. Scripturae. Chrysostom. in Ioan. io. 
+      Ho<lb ed="#G" n="21" break="no"/>mis. 98. Qui sacra, inquit, non vtitur scriptura: sed 
+      <lb ed="#G" n="22"/>aliunde ascendit, &amp; non concessa via, is fur est. Ideo 
+      <lb ed="#G" n="23"/>ludais dicebat, Scrutamini Scripturas. Sed iam  
+      <lb ed="#G" n="24"/>hic erat istorum Theologorum perniciosus 
+      <lb ed="#G" n="25"/>mos, vt hominum scriptis, non autem Dei 
+      ver<lb ed="#G" n="26" break="no"/>bo vellent inniti. Ergo ex his perniciosa esse 
+      <lb ed="#G" n="27"/>ista scripta, facile omnes aequi iudices iam 
+      me<lb ed="#G" n="28" break="no"/>cum intelligunt. 
+      <lb ed="#G" n="29"/>Restat vt hunc eundem in hoc eodem opere 
+      <lb ed="#G" n="30"/>ridiculum scriptorem esse ostendamus. In quo 
+      <lb ed="#G" n="31"/>sane praetermittam linguae Latinae inelegantia. 
+      <lb ed="#G" n="32"/>vel styli, ineptias: imo etiam soloecismos &amp; 
+      <lb ed="#G" n="33"/>barbarismos condonabo. Sunt haec vitia illius 
+      <lb ed="#G" n="34"/>aetatis. Sed quod intelligo, facile vel Oecan¬ 
+      <!--84.xml-->
+      <pb ed="#G" n="f85"/>
+      
+               <lb ed="#G" n="1"/>ipse huius comentator verum esse ostendet. 
+      <lb ed="#G" n="2"/>Primum quum perpendens quae quaestiones 
+      vt<lb ed="#G" n="3" break="no"/>plurimum ab isto proponantur, ait, Istae difficul. 
+      <lb ed="#G" n="4"/>tater vocales sunt, i. de sullabis: non autem reales, 
+      <lb ed="#G" n="5"/>de re vlla. Est autem illud ridiculum hominem 
+      <lb ed="#G" n="6"/>Theologum svllabas &amp; verba consectari, quibus 
+      <lb ed="#G" n="7"/>aihil subsit rei aut doctrine, quae vtiliter edisci 
+      <lb ed="#G" n="8"/>possit. Deinde idem saepe Methodum 
+      probatio<lb ed="#G" n="9" break="no"/>nesque istius scriptoris examinans, tandem 
+      re<lb ed="#G" n="10" break="no"/>spondet, Quanuis conclusio sit vera, tamen ille 
+      mo<lb ed="#G" n="11" break="no"/>dus ponendi accipit aliqua fulsa. Quid autem est 
+      <lb ed="#G" n="12"/>magis ineptum aut ridiculum, quam ex falsis 
+      <lb ed="#G" n="13"/>verum, in S. Theologia praesertim, astruere 
+      velle<lb ed="#G" n="14" break="no"/>Denique illud quoque pro colophone 
+      adden<lb ed="#G" n="15" break="no"/>dum est, quod Thomas ipse in I. parte quaest. 
+      <lb ed="#G" n="16"/>8g2. Artic. I. in responsione, grauiter &amp; vere 
+      ani<lb ed="#G" n="17" break="no"/>maduertit, vt ostendatur, quam ridiculam Lom 
+      <lb ed="#G" n="18"/>bardus faciat ipsam Theologiam, quum 
+      proba<lb ed="#G" n="19" break="no"/>tiones dogmatum suorum prorsus ineptas af 
+      <lb ed="#G" n="20"/>fert, quales certe sunt pleraeque huius autores 
+      <lb ed="#G" n="21"/>omnes, Derogatur, ait Thomas, fidei Christianae, 
+      <lb ed="#G" n="22"/>quum aliquis ad probandam fidem inducitrationes,  
+      <lb ed="#G" n="23"/>quae non sunt cogentos. Cedit enim in irrisionem 
+      infi<lb ed="#G" n="24" break="no"/>delium. Credunt enim quod huiusmodi rationibus 
+      <lb ed="#G" n="25"/>innitamur, &amp; propter eas credamus. Et haec 
+      qui<lb ed="#G" n="26" break="no"/>dem ostendunt quae iam autoritas sit istis 
+      scri<lb ed="#G" n="27" break="no"/>ptis relinquenda: quibus tamen solis, velut 
+      iu<lb ed="#G" n="28" break="no"/>stis fundamentis, innititur &amp; incumbit tota 
+      <lb ed="#G" n="29"/>Scholastica, quae dicitur Theologia. 
+</p>
+            <p xml:id="cv8jk9-e871dd-d1e3905">
+      <!--85.xml-->
+               <pb ed="#G" n="f86"/>
+      
+               <lb ed="#G" n="1"/>CAP. VI 
+      <lb ed="#G" n="2"/>Quae pro tuendis istis P. Lombardi scriptis afferri 
+      <lb ed="#G" n="3"/>soleant: &amp; breuis ad ea responsio. 
+      <lb ed="#G" n="4"/>vae cum vera sint, conantur tamen 
+      non<lb ed="#G" n="5" break="no"/>gBnulli Lombardum vel defendere, vel 
+      <lb ed="#G" n="6"/>excusare. Quorum certe quidem 
+      ratio<lb ed="#G" n="7" break="no"/>nibus, ne quem fortasse moueant, est hic 
+      quo<lb ed="#G" n="8" break="no"/>que a nobis respondendum. Neque enim, vt ait 
+      <lb ed="#G" n="9"/>Hieronymus, ita debemus bona recipere, vt mala 
+      <lb ed="#G" n="10"/>quo que recipere cogamur. Imprimis autem illi istas 
+      <lb ed="#G" n="11"/>rationes afferunt, quarum est haec. 
+      <lb ed="#G" n="12"/>Vna, quod quae in Lombardo pro 
+      grauissi<lb ed="#G" n="13" break="no"/>mis erroribus, aut etiam falsis testimoniis, &amp;  
+      <lb ed="#G" n="14"/>corruptis locis annotamus, ea sunt tantum  
+      <lb ed="#G" n="15"/>μνημονικα quaedam ἀμαρληματα, qualia etiam 
+      opti<lb ed="#G" n="16" break="no"/>mis quibusque, &amp; fidelissimis scriptoribus 
+      ple<lb ed="#G" n="17" break="no"/>runque accidunt, quod nemo, qui multa 
+      lege<lb ed="#G" n="18" break="no"/>rit, tam sit memoriosus, vt omnium sigillatim  
+      <lb ed="#G" n="19"/>recordari queat. Praeclara sane defensio: imo 
+      <lb ed="#G" n="20"/>grauissimorum Lombardi criminum confessio 
+      <lb ed="#G" n="21"/>potius, quam eleuatio. Quomodo enimpossunt 
+      <lb ed="#G" n="22"/>censeri ἀμαρληματα μνημονιμα, cum ad manum essent 
+      <lb ed="#G" n="23"/>Lombardo ipsi authorum codices, quos 
+      profe<lb ed="#G" n="24" break="no"/>rebato Sic enim, quae citat affert, vt eum ex ipsis 
+      <lb ed="#G" n="25"/>codicibus descripsisse, non ex veteri quadam  
+      <lb ed="#G" n="26"/>memoria repetiisse &amp; recitasse satis appareat. 
+      <lb ed="#G" n="27"/>Deinde quomodo in singulis, quae producit, 
+      te<lb ed="#G" n="28" break="no"/>stimoniis sic memoria laberetur, vti eum fecisse 
+      <lb ed="#G" n="29"/>demonstrauimuss Cur non saltem vel in vno 
+      <lb ed="#G" n="30"/>quopiam loco memoriae suae infirmitatem 
+      ex<lb ed="#G" n="31" break="no"/>cusaret, aut de penuria codicum sua conquere¬ 
+      <!--86.xml-->
+      <pb ed="#G" n="f87"/>
+      
+               <lb ed="#G" n="1"/>retur) Quid quod Lombardo μνημονις illa ἀμαν¬ 
+      <lb ed="#G" n="2"/>Tηματα condonanimus, &amp; alia esse docemus,  
+      <lb ed="#G" n="3"/>quam haec ἀπαφαἰτατα &amp; ἀνατολἰῆnuα. Denique si 
+      <lb ed="#G" n="4"/>haec sunt Lombardi memoriae duntaxat lapsus,  
+      <lb ed="#G" n="5"/>cur non sunt a tot secutis postea interpretibus 
+      <lb ed="#G" n="6"/>emendati, &amp; pro illis ipsa autorum verba 
+      resti<lb ed="#G" n="7" break="no"/>tuta: Nam si exceperint, Bonos illos discipulos 
+      <lb ed="#G" n="8"/>noluisse detegere pudenda sui Patris. Ergo ista 
+      <lb ed="#G" n="9"/>in Lombardo fatentur esse pudenda, sed a se 
+      <lb ed="#G" n="10"/>eandem negligentia postea fuisse praetermissa, 
+      <lb ed="#G" n="11"/>quam ab ipso primum fuerunt admissa. Deinde 
+      <lb ed="#G" n="12"/>respondebo, hoc illis ipsis (qui toties 
+      Aristote<lb ed="#G" n="13" break="no"/>lis nomen in ore habent) saltem venire in 
+      men<lb ed="#G" n="14" break="no"/>tem debuisse, Amicus Plato, magis tamen amica 
+      <lb ed="#G" n="15"/>veritas, ne videlicet vitia ista, quae tam multos 
+      <lb ed="#G" n="16"/>postea in errorem induxerunt, in Lombardo 
+      <lb ed="#G" n="17"/>inemendata relinquerent. Erat sane hominum 
+      <lb ed="#G" n="18"/>Theologorum, &amp; Dei gloria tueri, se 
+      profiten<lb ed="#G" n="19" break="no"/>tium, dicere etiam patri suo, non Noui te, vt Dei 
+      <lb ed="#G" n="20"/>veritas sarta tecta, &amp; illibata permaneret, Deut. 
+      <lb ed="#G" n="21"/>S2. Versio. Haec igitur est nostra ad primam 
+      eo<lb ed="#G" n="22" break="no"/>rum excusationem responsio. 
+      <lb ed="#G" n="23"/>Altera defensio, quae ab ipsius patronis 
+      pro<lb ed="#G" n="24" break="no"/>fertur, est haec: Ab Aquila non cerni muscas, &amp; quae 
+      <lb ed="#G" n="25"/>nos, reprehendimus esse minutula quaedam &amp; 
+      exi<lb ed="#G" n="26" break="no"/>gua, que ab ipso sunt merito neglecta. 
+      Respon<lb ed="#G" n="27" break="no"/>deo vero neque istum esse tam eminentem 
+      Aqui<lb ed="#G" n="28" break="no"/>lam, vt in haec, quae obseruauimus, descendere 
+      <lb ed="#G" n="29"/>non debuerit: neque etiam muscas, aut res leuis 
+      <lb ed="#G" n="30"/>momenti esse ea, quae in eo annotauimus. Quae 
+      <lb ed="#G" n="31"/>enim erant huiusimodi, vt incolumi autoris 
+      sen<lb ed="#G" n="32" break="no"/>su praetermitti possent, nequaquam 
+      reprehen<lb ed="#G" n="33" break="no"/>dimus. Nec enim, vt ait Hieronymus nobis cura 
+      <!--87.xml-->
+      <pb ed="#G" n="f88"/>
+      
+               <lb ed="#G" n="1"/>est de vocabulo, vbi sensus est in tuto) Et recte. 
+      <lb ed="#G" n="2"/>Verum audiant ipsi Scholastici &amp; discant, in 
+      <lb ed="#G" n="3"/>rebus tanti momenti, qualis est religionis Chri 
+      <lb ed="#G" n="4"/>stianae constitutio, esse quantumuis exigua, 
+      ta<lb ed="#G" n="5" break="no"/>men diligenter perpendenda. Id quod eos ex 
+      <lb ed="#G" n="6"/>Chrysostomo potius, quam ex me audire malo, 
+      <lb ed="#G" n="7"/>Sic enim idem Homil. i9. ad populum 
+      Antio<lb ed="#G" n="8" break="no"/>chenum: Hoc exiguum, ait, neglectum &amp; omne, 
+      <lb ed="#G" n="9"/>quod est reliquum, destruit. Saepius nanque qui 
+      do<lb ed="#G" n="10" break="no"/>mos aedificant, &amp; tectum imponunt, unius tegulae 
+      ex<lb ed="#G" n="11" break="no"/>cussae curam non habentes: totam domum per 
+      dide<lb ed="#G" n="12" break="no"/>runt: &amp; in vestimentis hoc ipsam euenire quis 
+      cer<lb ed="#G" n="13" break="no"/>nere possit. Etenim parua in illis facta scissura, nec 
+      <lb ed="#G" n="14"/>resarcita, magnam facit discuptionem. Hoc &amp; in 
+      tor<lb ed="#G" n="15" break="no"/>rentibus multoties euenit. Scio quid Hieronymus 
+      <lb ed="#G" n="16"/>de optimo genere interpretadi ad Pannachiu  
+      <lb ed="#G" n="17"/>scripserit: non se interpretem, imo ipsorummet 
+      <lb ed="#G" n="18"/>alienorum verborum recitatorem duntaxat 
+      <lb ed="#G" n="19"/>profitetur, adeo vt pene nusquam suam ipse 
+      vo<lb ed="#G" n="20" break="no"/>cem sonare voluerit. Scio quid de vo. 
+      interpre<lb ed="#G" n="21" break="no"/>tibus idem scribat, a quibus sunt multa ex sacris 
+      <lb ed="#G" n="22"/>Bibliis praetermissa. Sed nec in eo laudandi sunt 
+      <lb ed="#G" n="23"/>illi vo, nec eos, quos citat, autores conuertit iste 
+      <lb ed="#G" n="24"/>in aliena linguam, vt, illi S. Scripturam. Itaque 
+      <lb ed="#G" n="25"/>minime, vt illi est, excusandus Lombardus. 
+      <lb ed="#G" n="26"/>Tertio loco dicunt Lombardum olim sic in 
+      <lb ed="#G" n="27"/>suo Codice legisse, quemadmodum profert. In 
+      <lb ed="#G" n="28"/>quo primum illi ipsi strenue sibi aduersantur,  
+      <lb ed="#G" n="29"/>cum antea dixerint hos fuisse lapsus memoriae. 
+      <lb ed="#G" n="30"/>Deinde falsum est, Autorum, quos citat, eodices 
+      <lb ed="#G" n="31"/>illo tempore fuisse tam dissimiles &amp; diuersos 
+      <lb ed="#G" n="32"/>ab iis, quos sequens aetas habuit, &amp; nostra haec 
+      <lb ed="#G" n="33"/>quoque legit. Nam &amp; ipse Lombardus eundem  
+      <lb ed="#G" n="34"/>locum saepe bis citans illic recte transcribit, vbi 
+      <!--88.xml-->
+      <pb ed="#G" n="f89"/>
+      
+               <lb ed="#G" n="1"/>eum ad suum propositum non torquet: alibi 
+      <lb ed="#G" n="2"/>eundem corrumpit, dum vim illi facit, &amp; ad suam  
+      <lb ed="#G" n="3"/>sententiam accommodat. 
+      <lb ed="#G" n="4"/>Praeterea eruditissimi viri plerique 
+      Augusti<lb ed="#G" n="5" break="no"/>num &amp; alios veteres ex plurimorum &amp; 
+      diuer<lb ed="#G" n="6" break="no"/>sissimorum codicum collatione saepe 
+      emenda<lb ed="#G" n="7" break="no"/>runt, &amp; quidem diuersis temporibus, atqe etiam 
+      <lb ed="#G" n="8"/>hoc nostro seculo: nulli tamen Lombardi 
+      lectio<lb ed="#G" n="9" break="no"/>nem vel retinent, vel vnquam fuisse ostendunt. 
+      <lb ed="#G" n="10"/>ac ne Monachi quidem ipsi &amp; lesuitae postremi 
+      <lb ed="#G" n="11"/>operum Augustini emendatores. Denique etiam 
+      <lb ed="#G" n="12"/>plurima vel addita vel detracta cernuntur, quae 
+      <lb ed="#G" n="13"/>cum ipsamet autorum &amp; locorum, quos 
+      Lom<lb ed="#G" n="14" break="no"/>bardus affert, mente manifeste pugnant, vt hac 
+      <lb ed="#G" n="15"/>audacia excusari minime possit, nisi fortasse 
+      a<lb ed="#G" n="16" break="no"/>pud eos, qui, vt ait Hieronymus, Hiberas nenias 
+      <lb ed="#G" n="17"/>libris authenticis praeferunt. 
+      <lb ed="#G" n="18"/>Quartam defensionem pro Lombardo hanc 
+      <lb ed="#G" n="19"/>afferunt: nimirum eam, quam habet nunc 
+      Lombar<lb ed="#G" n="20" break="no"/>dus, lectionem logi iam temporis praescriptione 
+      <lb ed="#G" n="21"/>tuta esse, ac eam quoque, quam ex iis locis 
+      col<lb ed="#G" n="22" break="no"/>ligit, doctrinam in Ecclesia longa iam consue 
+      <lb ed="#G" n="23"/>tudine &amp; assensu hominum esse comprobatam,  
+      <lb ed="#G" n="24"/>vt de ea, aut aduersus eam ne mutire quidem vlli 
+      <lb ed="#G" n="25"/>mortalium iam fas sit. Quid igitur) Equidem  
+      <lb ed="#G" n="26"/>illud respondeo, quod Chrysostomus Hom il 
+      <lb ed="#G" n="27"/>t9. ad Populum Antiochen. de vitiis 
+      grauissi<lb ed="#G" n="28" break="no"/>mis, sed iam longo vsu inueteratis agens, ait, 
+      <lb ed="#G" n="29"/>Ne mibi iam aliquis consuetudinem praetendat. 
+      <lb ed="#G" n="30"/>propterea enim indignor &amp; irascor, quoniam 
+      consue<lb ed="#G" n="31" break="no"/>tudinem vincere non possumus. Hicronum. in 2. 
+      <lb ed="#G" n="32"/>praefatione in lobum: Tanta est vetustatis 
+      con<lb ed="#G" n="33" break="no"/>suetudo, vt etiam confessa plerisque vitia placeant,  
+      <lb ed="#G" n="34"/>dum magis pulchros habere volunt eodices, quam¬ 
+      <!--89.xml-->
+      <pb ed="#G" n="f90"/>
+      
+               <lb ed="#G" n="1"/>emendatos. Ergo quid mihi, obsecro, 
+      consuetu<lb ed="#G" n="2" break="no"/>dinem pro veritatis munimento profers, cum  
+      <lb ed="#G" n="3"/>ea sit tam rerum malarum falsaeque doctrinae 
+      <lb ed="#G" n="4"/>autor &amp; custos: quam bonae &amp; verae, 
+      quemad<lb ed="#G" n="5" break="no"/>modum ait idem Chrysost. Homil. 28 ad Popul. 
+      <lb ed="#G" n="6"/>Antiochens lllud potius Augustuni ad 
+      Casula<lb ed="#G" n="7" break="no"/>num sequamur, Censuetudinem laudamus, quae 
+      ta<lb ed="#G" n="8" break="no"/>men contra Catholicam fidem nihil vsurpare 
+      digno<lb ed="#G" n="9" break="no"/>scitur. Nam ait idem in lib. de Baptismo 
+      Paruu<lb ed="#G" n="10" break="no"/>lorum, Qui contempta veritate praesumit 
+      consue<lb ed="#G" n="11" break="no"/>tudinem sequi, aut circa fratres inuidus est &amp; 
+      ma<lb ed="#G" n="12" break="no"/>lignus, quibus veritas reuelatur: aut circa 
+      Deum<lb ed="#G" n="13" break="no"/>ingratus est, inspiratione cuius Ecclesia eius 
+      instrui<lb ed="#G" n="14" break="no"/>tur. Nam Dominus in Euangelio, EGO SVM, 
+      <lb ed="#G" n="15"/>inquit, VERITAS, non dixit. Ego sum 
+      consue<lb ed="#G" n="16" break="no"/>tudo. Itaque veritate manifestata, cedat consuetudo 
+      <lb ed="#G" n="17"/>veritati. Denique, vt ex ipsis Pontificibus 
+      Ro<lb ed="#G" n="18" break="no"/>manis aduersus Pontificiae doctrinae &amp; 
+      Roma<lb ed="#G" n="19" break="no"/>nae Theologiae patronos aliquid adferamus, 
+      ve<lb ed="#G" n="20" break="no"/>rissimam esse contendimus illa InnocentiI III 
+      <lb ed="#G" n="21"/>sententiam, qui ait, Malam consuetudinem, quae 
+      <lb ed="#G" n="22"/>vetus est, esse veterem errorem, qui idcirco 
+      nequa<lb ed="#G" n="23" break="no"/>quam sit excusandus. Ex quibus fit, vt nec ex 
+      <lb ed="#G" n="24"/>longi temporis praescriptione, quonia aduersus 
+      <lb ed="#G" n="25"/>Dei veritatem nulla est temporis praescriptio: nec 
+      <lb ed="#G" n="26"/>diuturno hominum assensu confirmetur istorum 
+      <lb ed="#G" n="27"/>scriptorum autoritas, si ab ipsa Dei veritate 
+      op<lb ed="#G" n="28" break="no"/>pugnari demonstrabitur. 
+      <lb ed="#G" n="29"/>Verum quinto loco fortassis excipient, nec 
+      <lb ed="#G" n="30"/>ab ipsis Euangelistis &amp; Apostolis verba Veteris 
+      <lb ed="#G" n="31"/>Testamenti, quod citant, religiose fuisse seper 
+      ob<lb ed="#G" n="32" break="no"/>seruata. Sed huic excusationi facilisest resposiot 
+      <lb ed="#G" n="33"/>Apostolos &amp; Euangelistas eodem omnino 
+      Spi<lb ed="#G" n="34" break="no"/>ritu in illis citandis, quae ex Prophetis afferunt,  
+      <!--90.xml-->
+      <pb ed="#G" n="f91"/>
+      
+               <lb ed="#G" n="1"/>fuisse impulsos, quo ipsimet Prophetae, dum illa 
+      <lb ed="#G" n="2"/>scriberent. Idem enim Dei spiritus vtrisque 
+      <lb ed="#G" n="3"/>dictauit. Ergo quod quaedam verba mutant 
+      <lb ed="#G" n="4"/>nonnunquam Euangelistae aut Apostoli, id 
+      fa<lb ed="#G" n="5" break="no"/>ciunt interpretationis tantum facilioris gratia. 
+      <lb ed="#G" n="6"/>interea tamen sensum verum &amp; mentem 
+      sequun<lb ed="#G" n="7" break="no"/>tur, atque retinent. Itaque, quemadmodum ait 
+      <lb ed="#G" n="8"/>Hieronymus de optimo genere interpret. Tan 
+      <lb ed="#G" n="9"/>ta sermonum. varietas Spiritus vnitate concordat. 
+      <lb ed="#G" n="10"/>Deinde Apostoli non sunt nudi alienorum ver 
+      <lb ed="#G" n="11"/>borum recitatores, quemadmodum iste: sed 
+      <lb ed="#G" n="12"/>etiam eorum suo iure interpretes, vtpote qui 
+      <lb ed="#G" n="13"/>Dei Spiritu sensum non verba olim 
+      loqueban<lb ed="#G" n="14" break="no"/>tur: ergo sensum, non verba quaesiuerunt. 
+      <lb ed="#G" n="15"/>Et ista quidem de Lombardo &amp; 
+      Lombar<lb ed="#G" n="16" break="no"/>dicis scriptis hactenus. Sequitur Elenchus 
+      no<lb ed="#G" n="17" break="no"/>ster, quem vt verum esse probemus, ipsummet 
+      <lb ed="#G" n="18"/>Lombardum postea audiemus loquetem. Vnum 
+      <lb ed="#G" n="19"/>modo Lectorem admonemus, adiunctam esse 
+      <lb ed="#G" n="20"/>ad huius libri calcem Synopsin Veteris, &amp; or¬. 
+      <lb ed="#G" n="21"/>thodoxae fidei de S. Trinitate, quae ex receptis 
+      <lb ed="#G" n="22"/>Symbolis &amp; Conciliis a nobis collecta est, quam  
+      <lb ed="#G" n="23"/>breuissimam longissimae Lombardi scriptioni, 
+      <lb ed="#G" n="24"/>&amp; toti ipsius libro primo Sententiarum in 
+      stu<lb ed="#G" n="25" break="no"/>diosorum gratiam opposuimus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

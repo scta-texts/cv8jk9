@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 32</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 32</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="525"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e28326"><!-- ld-d32 -->
+            <head xml:id="cv8jk9-e28326-Hd1e106">Distinctio 32</head>
+            <p xml:id="cv8jk9-e28326-d1e109">
+               <lb ed="#G" n="20"/>AD DISTINCT. XXXII 
+      <lb ed="#G" n="21"/>AD CAP. I. 
+    </p>
+            <p xml:id="cv8jk9-e28326-d1e116">
+               <lb ed="#G" n="22"/>Quicquid secundum. Primum detorquet 
+      <lb ed="#G" n="23"/>verba Augustini. Loquitur enim Augustinus,  
+      <lb ed="#G" n="24"/>de ipsis attributis in se consideratis, non autem  
+      <lb ed="#G" n="25"/>quatenus ea in rebus singulis spectantur &amp; 
+      ap<lb ed="#G" n="26" break="no"/>plicantur, veluti non est idem Deo esse, &amp; hunc 
+      <lb ed="#G" n="27"/>hominem diligere. Deinde quaestio Augustini 
+      <lb ed="#G" n="28"/>atque adeo verba ipsa pertinent ad 
+      simplicita<lb ed="#G" n="29" break="no"/>tem diuinae essentiae probandam: ista 
+      Lombar<lb ed="#G" n="30" break="no"/>dica ad Personarum distinctionem, quae 
+      pror<lb ed="#G" n="31" break="no"/>sus alia quaestio est. Denique etiam quaedam  
+      <lb ed="#G" n="32"/>addit, vti hoc Diligens, nimirum vt suo propo¬ 
+      <!--627.xml-->
+      <pb ed="#G" n="526"/>
+               <lb ed="#G" n="1"/>sito inseruiat, &amp; melius Augustinum intorqueat. 
+      <lb ed="#G" n="2"/>quaedam detrahit vt Spiritus &amp; Substantiam, quae 
+      <lb ed="#G" n="3"/>magis videbantur huic quaestioni tamen 
+      qua<lb ed="#G" n="4" break="no"/>drare. Locus est Trinit. Is. cap. 2. quem pius ac 
+      <lb ed="#G" n="5"/>diligens lector cum isto conferet. Verba 
+      au<lb ed="#G" n="6" break="no"/>tem haec, Ideoque si Pater, &amp;c. sunt Lombardi, 
+      <lb ed="#G" n="7"/>non Augustini. 
+    </p>
+            <p xml:id="cv8jk9-e28326-d1e162">
+               <lb ed="#G" n="8"/>AD CAP. II 
+    </p>
+            <p xml:id="cv8jk9-e28326-d1e167">
+               <lb ed="#G" n="9"/>Vnitatem pacis. Augustinus habet, 
+      Serua<lb ed="#G" n="10" break="no"/>tes vnitatem Spiritus in vinculo pacis, quae verba 
+      <lb ed="#G" n="11"/>sumpta sunt ex Paulo in epistola ad Ephes. cap. 
+      <lb ed="#G" n="12"/>4. Versic. 8, sed iste truncauit suo more: vti in 
+      <lb ed="#G" n="13"/>posteriore etiam sententia ex eodem 
+      Augusti<lb ed="#G" n="14" break="no"/>no transcripta quaedam detracta sunt. 
+    </p>
+            <p xml:id="cv8jk9-e28326-d1e184">
+               <lb ed="#G" n="15"/>AD CAP. IIII
+    </p>
+            <p xml:id="cv8jk9-e28326-d1e189">
+               <lb ed="#G" n="16"/>Sapiens ea, quae est ipse Pater. Sic &amp; hic, &amp; 
+      <lb ed="#G" n="17"/>infra constanter, non tantum in recentioribus,  
+      <lb ed="#G" n="18"/>sed &amp; vetustioribus Lombardi codicibus 
+      legi<lb ed="#G" n="19" break="no"/>tur, quae: habet tamen Augustinus qua, his 
+      ver<lb ed="#G" n="20" break="no"/>bis, Estergo Deus Pater sapiens ea, qua ipse sua est 
+      <lb ed="#G" n="21"/>sapientia: &amp; Filius sapientia Patris de sapientia, 
+      <lb ed="#G" n="22"/>quod est Pater, de quo genitus est Filius. Sic &amp; ali 
+      <lb ed="#G" n="23"/>bi pro que Lombardico, habet Augustinus quae. 
+      <lb ed="#G" n="24"/>Nec vero res ista, quanquam ex vocabuli 
+      ra<lb ed="#G" n="25" break="no"/>tione videtur exigua, sensu tamen exilis est. 
+      <lb ed="#G" n="26"/>Nam vocabulum Que, Personam cum causa 
+      <lb ed="#G" n="27"/>confundit. Vox autem qua, distincte causam  
+      <lb ed="#G" n="28"/>denotat, &amp; non proprie Personam. Ergo qui 
+      <lb ed="#G" n="29"/>sic ait, Pater est sapiens sapientia, quae ipse est, &amp; 
+      <lb ed="#G" n="30"/>barbare, &amp; obscure, &amp; circulatoria phrasi lo¬ 
+      <!--628.xml-->
+      <pb ed="#G" n="527"/>
+               <lb ed="#G" n="1"/>quitur. Qui vero sic ait, Pater est sapiens ea, qua 
+      <lb ed="#G" n="2"/>ipse sua est sapientia, Personam distinguit a causa 
+      <lb ed="#G" n="3"/>&amp; circulatoriam illam, id est, obscuram 
+      oratio<lb ed="#G" n="4" break="no"/>nem effugit.
+    </p>
+            <p xml:id="cv8jk9-e28326-d1e237">
+               <lb ed="#G" n="5"/>De qua &amp; intelligens est. Verba haec, De 
+      <lb ed="#G" n="6"/>qua &amp; intelligens est, sunt addita. Sic enim 
+      ha<lb ed="#G" n="7" break="no"/>bet Augustinus libro decimoquinto 
+      Trinita<lb ed="#G" n="8" break="no"/>tis, capite septimo. Quocirca conse quenter est &amp; 
+      <lb ed="#G" n="9"/>intelligens Pater ea, qua ipse sua est intelligentia. 
+      <lb ed="#G" n="10"/>neque enim esset sapiens, qui non esset intellioens. 
+      <lb ed="#G" n="11"/>Filius autem intelligentia Patris de 
+      intelligen<lb ed="#G" n="12" break="no"/>tia genitus, quod est Pater Hactenus ille, 
+      <lb ed="#G" n="13"/>Lombardus addidit de qua &amp; intelligens est (
+      Fi<lb ed="#G" n="14" break="no"/>lius nempe) Primum, pessima fide in autoribus 
+      <lb ed="#G" n="15"/>recitandis: deinde obscuro sensu, &amp; nulla 
+      simi<lb ed="#G" n="16" break="no"/>li occurrente in Scriptura phrasi
+    </p>
+            <p xml:id="cv8jk9-e28326-d1e266">
+               <lb ed="#G" n="17"/>Censura vd Distinctionem 
+      <lb ed="#G" n="18"/>XXXI I
+    </p>
+            <p xml:id="cv8jk9-e28326-d1e273">
+               <lb ed="#G" n="19"/>Vel ipsius Lombardi apertum testimonium 
+      <lb ed="#G" n="20"/>ostendit, totam hanc Distinctionem esse partim  
+      <lb ed="#G" n="21"/>inanem eorum, quae supra Distinctione decima 
+      <lb ed="#G" n="22"/>dicta sunt, repetitionem: partim etiam argu 
+      <lb ed="#G" n="23"/>tas &amp; inextricabiles quasdam quaestiones 
+      con<lb ed="#G" n="24" break="no"/>tinere. Nam capit. tum secundo, tum octauo 
+      <lb ed="#G" n="25"/>huius sectionis repetitionem agnoscit: capite 
+      <lb ed="#G" n="26"/>vero nono inexplicabilem quaestionem esse 
+      fa<lb ed="#G" n="27" break="no"/>tetur, quam hic proponit. Quam igitur &amp; 
+      con<lb ed="#G" n="28" break="no"/>siderate &amp; vtiliter haec scripta sint, ex ipsamet 
+      <lb ed="#G" n="29"/>confessione Lombardi apparet.
+    </p>
+            <p xml:id="cv8jk9-e28326-d1e299">
+               <lb ed="#G" n="30"/>Adduntur autem duobus superioribus vitiis 
+      <!--629.xml-->
+      <pb ed="#G" n="528"/>
+               <lb ed="#G" n="1"/>alia duo, primum confusio perturbatioque 
+      hun<lb ed="#G" n="2" break="no"/>ius argumenti &amp; tractationis. Nam quae cap. I 
+      <lb ed="#G" n="3"/>proponitur quaestio, ea statim totis septem 
+      ca<lb ed="#G" n="4" break="no"/>pitibus interiectis abrumpitur, deinde 
+      repeti<lb ed="#G" n="5" break="no"/>tur, vt ex ipso Distinctionis artificio a nobis 
+      ad<lb ed="#G" n="6" break="no"/>dito facile quiuis intelliget.. Secundum autem  
+      <lb ed="#G" n="7"/>vitium ex duobus posterioribus in eo est, quod 
+      <lb ed="#G" n="8"/>a capite sexto ad finem vsque Distinctionis, id 
+      <lb ed="#G" n="9"/>est, per tria capita integra (vbi difficillima illa 
+      <lb ed="#G" n="10"/>quaestio tractatur) neque S. Scripturae 
+      autorita<lb ed="#G" n="11" break="no"/>te vtitur, quod istius scriptoris perpetuum vi 
+      <lb ed="#G" n="12"/>tium est: neque vllius Patris sententiam affert, 
+      <lb ed="#G" n="13"/>ex qua obscurae illius quaestionis illustratio 
+      ali<lb ed="#G" n="14" break="no"/>qua siat. Quare quam sit vitiosa tota haec 
+      Di<lb ed="#G" n="15" break="no"/>stinctio apparet. Neque vero hunnc excusare 
+      <lb ed="#G" n="16"/>potest, quod Augustini vestigia in his 
+      quaestio<lb ed="#G" n="17" break="no"/>nibus repetendis secutus videtur. Cum enim 
+      <lb ed="#G" n="18"/>Augustinus ipse fateatur, &amp; quidem ingenue 
+      <lb ed="#G" n="19"/>has quaestiones esse inextricabiles, lib. 9. &amp; lib. 
+      <lb ed="#G" n="20"/>IS. capite, septimo Trinitatis, aut omnino 
+      prae<lb ed="#G" n="21" break="no"/>termittendae erant: aut aliquo modo 
+      explican<lb ed="#G" n="22" break="no"/>dae. Eo certe valere debuit Augustini admoni 
+      <lb ed="#G" n="23"/>tio, vt iis abstinendum esse saltem intelligeret 
+      <lb ed="#G" n="24"/>Lombardus. Haec est illa difficilis quaestio, lseui ta 
+      <lb ed="#G" n="25"/>men cubito ab isto tractata, vtrum attributa 
+      pro<lb ed="#G" n="26" break="no"/>pria Deitatis distinguantur Personalibus 
+      diffe<lb ed="#G" n="27" break="no"/>rentiis, veluti, vtrum dicatur sapientia quaedam  
+      <lb ed="#G" n="28"/>vel omnipotentia ingenita: quaedam ingenita 
+      <lb ed="#G" n="29"/>in diuinis, quaedam procedens, de qua mox 
+      di<lb ed="#G" n="30" break="no"/>cturi sumus. Hinc etiam ortae sunt 
+      interpre<lb ed="#G" n="31" break="no"/>tum, non modo inter se contentiones, sed etiam 
+      <lb ed="#G" n="32"/>erroneae sententiae, qualis est illa quum aint,  
+      <lb ed="#G" n="33"/>concedi posse Filium esse sapientem sapientia 
+      in<lb ed="#G" n="34" break="no"/>genita: sed negandum Patrem esse sapientem sa¬ 
+      <!--630.xml-->
+      <pb ed="#G" n="529"/>
+               <lb ed="#G" n="1"/>pientia genita. Nam etsi ait Occan sapientiam  
+      <lb ed="#G" n="2"/>qua omnes illae Personae sunt sapientes, esse 
+      in<lb ed="#G" n="3" break="no"/>genitam : &amp; ingenitam sapientiam hic 
+      distin<lb ed="#G" n="4" break="no"/>guit, &amp; ingenitam accipit pro essentia diuina: 
+      <lb ed="#G" n="5"/>tamen in hoc argumento tam ineptum est 
+      di<lb ed="#G" n="6" break="no"/>cere Filium esse sapientem sapientia Patris, id est,  
+      <lb ed="#G" n="7"/>Sapientia ingenita: quam velle Patrem esse 
+      sapien<lb ed="#G" n="8" break="no"/>tem sapientia Filijd est, sapientia genita. Geniti 
+      <lb ed="#G" n="9"/>enim &amp; ingeniti voces hic ad Personas 
+      referum<lb ed="#G" n="10" break="no"/>tur, neque in diuinis essentiam significant. Ergo 
+      <lb ed="#G" n="11"/>Pater seipso sapiens est: Filius seipso sapiens est,  
+      <lb ed="#G" n="12"/>quia &amp; Deus est. Ac omnino verius dici sic 
+      o<lb ed="#G" n="13" break="no"/>portuit, Patrem esse sapientiam ingenita, quam  
+      <lb ed="#G" n="14"/>sapientem sapientia ingenita: item Filium esse 
+      <lb ed="#G" n="15"/>sapientiam tenitam, quam sapientem sapientia 
+      <lb ed="#G" n="16"/>genita, ne lapientiam vel Patri, vel Filio, 
+      tan<lb ed="#G" n="17" break="no"/>quam qualitatem quandam eius essentiae, vel 
+      <lb ed="#G" n="18"/>Personae accidentem, non autem essentialem,  
+      <lb ed="#G" n="19"/>vtrique tribuere videamur. Quare sic a nobis 
+      <lb ed="#G" n="20"/>tota haec quaestio de verbis est definienda, vt 
+      di<lb ed="#G" n="21" break="no"/>camus, quia qua ratione Filius essentia est, eandem 
+      <lb ed="#G" n="22"/>quoque est &amp; sapientia, &amp; potentia, &amp; imago, 
+      <lb ed="#G" n="23"/>&amp;c. quemadmodum Filius vere &amp; orthodoxe 
+      <lb ed="#G" n="24"/>dicitur essentia genita: Sp. S. essentia procedes: 
+      <lb ed="#G" n="25"/>sic recte &amp; orthodoxe nominari Filium 
+      sapien<lb ed="#G" n="26" break="no"/>tiam genitam, potentiam genitam, imaginem 
+      <lb ed="#G" n="27"/>genitam : &amp; Spiritum sanctum sapientiam 
+      pro<lb ed="#G" n="28" break="no"/>cedentem, potentiam procedentem, &amp;c. Sic enim 
+      <lb ed="#G" n="29"/>Aug. lib. 9, &amp; I8. Tri. cap. 9. Sic Basil. lib. 2. contra 
+      <lb ed="#G" n="30"/>Eunomium, appellat Filium ἐεκονα δυρητις, &amp; ait 
+      <lb ed="#G" n="31"/>Damascen. lib. I. de Orthodoxa fde, capite is, 
+      <lb ed="#G" n="32"/>oωῆς, δoς, λουος, coφiα, δυύάυς, δευῶν, αττανμμσμα, 9αpαn¬ 
+      <lb ed="#G" n="33"/>πuρτodπατρoς, κας ἐκ τοO πατζoς. Ergo ex Patre 
+      sa<lb ed="#G" n="34" break="no"/>pientia est Filius, quare est genita sapientia, &amp;c. 
+      <!--631.xml-->
+      <pb ed="#G" n="530"/>
+               <lb ed="#G" n="1"/>Quod autem Filius Patris sapientia dicitur, 
+      it<lb ed="#G" n="2" break="no"/>nominatur nostri ratione, quia nobis Patrem  
+      <lb ed="#G" n="3"/>manifestauit, non quod Patrem sapientem 
+      fa<lb ed="#G" n="4" break="no"/>ciat. Scripsit quidem libro primo Orthod. fides 
+      <lb ed="#G" n="5"/>capite ig. Damascen. Deum και σoφεαν και σοξον 
+      <lb ed="#G" n="6"/>dici posse (quod tribus Personis aeque conue 
+      <lb ed="#G" n="7"/>nit) sed in alio argumento, nempe vt 
+      intelliga<lb ed="#G" n="8" break="no"/>tur esse autor omnis sapientiae: &amp; illius quadam 
+      <lb ed="#G" n="9"/>participatione &amp; efficacitate reliqua, quae 
+      sa<lb ed="#G" n="10" break="no"/>piunt, esse sapientia praedita. Sed quid diutius 
+      <lb ed="#G" n="11"/>hic immoramur?
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

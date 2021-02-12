@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 10</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 10</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="189"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e14479"><!-- ld-d10 -->
+            <head xml:id="cv8jk9-e14479-Hd1e106">Distinctio 10</head>
+            <p xml:id="cv8jk9-e14479-d1e109">
+               <lb ed="#G" n="17"/>AD DISTINCTIONEM X 
+      <lb ed="#G" n="18"/>AD CAP. II 
+    </p>
+            <p xml:id="cv8jk9-e14479-d1e116">
+               <lb ed="#G" n="19"/>ET ideo quaerendum est. Dele Est. Nam  
+      <lb ed="#G" n="20"/>&amp; sic in Augustino ipso, &amp; melius, eo 
+      exturba<lb ed="#G" n="21" break="no"/>to (quod hic importune incubat) fuit sic 
+      o<lb ed="#G" n="22" break="no"/>ratio, incertum est, &amp; ideo quaerendum, Vtrum 
+      <lb ed="#G" n="23"/>Deus Pater, &amp;c. nisi fortasse quis malit in 
+      vtro<lb ed="#G" n="24" break="no"/>que, &amp; apud Augustinum, &amp; hic quoque esse 
+      <lb ed="#G" n="25"/>glossema verba haec, Et ideo quaerendum.
+    </p>
+            <p xml:id="cv8jk9-e14479-d1e134">
+               <lb ed="#G" n="26"/>Simul omnes. Augnstinus Et simul omnes 
+      <lb ed="#G" n="27"/>vna charitas, &amp; melius. 
+    </p>
+            <p xml:id="cv8jk9-e14479-d1e141">
+               <lb ed="#G" n="28"/>AD CAP. VI 
+    </p>
+            <p xml:id="cv8jk9-e14479-d1e147">
+               <lb ed="#G" n="29"/>PATER. in Filium. Hieronv. habet 
+      <lb ed="#G" n="30"/>Pater in Filio &amp; Filius in Patre. Res minimi 
+      <lb ed="#G" n="31"/>momenti, nisi hoc ipsum minimu esset no leue 
+      <lb ed="#G" n="32"/>vel inscitiae, vel audaciae Lombardi in corrum¬ 
+      <!--291.xml-->
+      <pb ed="#G" n="190"/>
+               <lb ed="#G" n="1"/>pendis Patrum dictis testimonium.
+    </p>
+            <p xml:id="cv8jk9-e14479-d1e165">
+               <lb ed="#G" n="2"/>2 In omnibus est aequalis. Hic habet locum 
+      <lb ed="#G" n="3"/>vetus illud, ἐδον κρoς iπoς. Frustra enim, atque 
+      e<lb ed="#G" n="4" break="no"/>tiam praeter sensum Augustini, haec ipsius verba 
+      <lb ed="#G" n="5"/>citantur. Iste vtrum sit Spiritus sanctus charitas 
+      <lb ed="#G" n="6"/>illa mutua Patris &amp; Filij, quaerit: Augustinus,  
+      <lb ed="#G" n="7"/>vtrum quae diuinam essentiam designant,  
+      <lb ed="#G" n="8"/>aeque de Patre &amp; Filio dicantur. charitas 
+      ve<lb ed="#G" n="9" break="no"/>ro neque essentiae diuinae significatio, neque 
+      <lb ed="#G" n="10"/>nomen est. 
+    </p>
+            <p xml:id="cv8jk9-e14479-d1e187">
+               <lb ed="#G" n="11"/>AD CAP. VII 
+    </p>
+            <p xml:id="cv8jk9-e14479-d1e192">
+               <lb ed="#G" n="12"/>VNITATEM Spiritus in vinculo. 
+      <lb ed="#G" n="13"/>Locus sumptus ex Augustini libro &amp;. de 
+      Tri<lb ed="#G" n="14" break="no"/>nitate, capite s. vbi quaedam addit idem 
+      Au<lb ed="#G" n="15" break="no"/>gustinus. Sic enim habet Seruantes vnitatem  
+      <lb ed="#G" n="16"/>Spiritus in vinculo pacis. Quod imitari per 
+      gra<lb ed="#G" n="17" break="no"/>tiam, &amp; ad Deum ipsum, &amp; ad nos ipsos 
+      iube<lb ed="#G" n="18" break="no"/>mur. Caeterum verba haec, Seruantes 
+      vnita<lb ed="#G" n="19" break="no"/>tem Spiritus in vinculo pacis, sunt ex epistola 
+      <lb ed="#G" n="20"/>Pauli ad Ephescos, capite 4. Versic. s. Quae ex 
+      <lb ed="#G" n="21"/>Augustino Lombardus ad hoc inducit, vt 
+      Pa<lb ed="#G" n="22" break="no"/>ter, &amp; Filius inter se concordes esse 
+      intelligan<lb ed="#G" n="23" break="no"/>tur interuentum Spiritus sancti: quemadmodum 
+      <lb ed="#G" n="24"/>homines pij inter se vnitatem &amp; concordiam  
+      <lb ed="#G" n="25"/>veram colunt ac retinent eiusdem Spiritus 
+      san<lb ed="#G" n="26" break="no"/>cti vi &amp; inspiratione. Verumtamen non 
+      tan<lb ed="#G" n="27" break="no"/>tum aliena est a mente Pauli haec istius loci 
+      in<lb ed="#G" n="28" break="no"/>terpretatio, sed etiam omnino periculosam  
+      <lb ed="#G" n="29"/>quoque esse, quum ad vnitatem eam, quae est in 
+      <lb ed="#G" n="30"/>ter Patrem &amp; Filium, refertur, docet idem 
+      Au<lb ed="#G" n="31" break="no"/>gusti. qui in sermo de Blasphem. Spirit. sancti,  
+      <lb ed="#G" n="32"/>germanum huius loci sensum afferens, sic 
+      ex<lb ed="#G" n="33" break="no"/>plicat, vt ad eam societate pertineat, quae inter 
+      <!--292.xml-->
+      <pb ed="#G" n="191"/>
+               <lb ed="#G" n="1"/>homines ipsos est, non autem inter personas 
+      <lb ed="#G" n="2"/>diuinas, id est, quae nobis cum vniuersa primum 
+      <lb ed="#G" n="3"/>ecclesia esse debet: deinde quae mutua est 
+      singu<lb ed="#G" n="4" break="no"/>lorum inter nos. Vt enim in vno Spiritu omnes 
+      <lb ed="#G" n="5"/>in vnum corpus baptixati sumus, vt omnes vna 
+      <lb ed="#G" n="6"/>potatione potati sumus in vnum Spiritum: ita 
+      <lb ed="#G" n="7"/>vnum inter nos esse debemus, fide, consensu, 
+      <lb ed="#G" n="8"/>charitate, affectu, vt docet Paulus Philip. 2. &amp; 
+      <lb ed="#G" n="9"/>Colossia2. Ver. I4. Quae consensio &amp; animorum 
+      <lb ed="#G" n="10"/>coniunctio vt inter nos conseruetur, pacem  
+      <lb ed="#G" n="11"/>quoque inter nos retinere oportet, quoniam pax 
+      <lb ed="#G" n="12"/>est istius tantae concordiae vinculum. Quia 
+      ve<lb ed="#G" n="13" break="no"/>ro huiusmodi animarum vnitas ac consensus a 
+      <lb ed="#G" n="14"/>Spiritu sancto in nobis efficitur, dicitur Vnitas 
+      <lb ed="#G" n="15"/>Spiritus, idiotismo Hebraico, quia huius amoris 
+      <lb ed="#G" n="16"/>causa &amp; fons est ipse Spiritus Dei. Quanquam alij 
+      <lb ed="#G" n="17"/>vocem Spiritus apud Paulum pro animo 
+      sim<lb ed="#G" n="18" break="no"/>pliciter accipiunt, vt Vnitas Spiritus perinde 
+      so<lb ed="#G" n="19" break="no"/>net atque Vnitas seu coniunctio animorum. Hunc 
+      <lb ed="#G" n="20"/>igitur ex Ephes: epistola locum ad hominum 
+      <lb ed="#G" n="21"/>piorum inter se concordiam: non autem ad 
+      <lb ed="#G" n="22"/>Patris &amp; Filij pacem referendum esse etiam  
+      <lb ed="#G" n="23"/>in eo ipso capite g. lib. 6. de Trinitate, admonuit 
+      <lb ed="#G" n="24"/>diserte Augustin. quum addidit, Quod imitari 
+      <lb ed="#G" n="25"/>iubemur. Neque confirmat hanc Lombardi 
+      in<lb ed="#G" n="26" break="no"/>terpretationem, quod ait Christus Ioan 17. 
+      Ver<lb ed="#G" n="27" break="no"/>XI. Nos sic inter nos vnum esse debere, 
+      quemad<lb ed="#G" n="28" break="no"/>modum ipse &amp; Pater vnum sunt. Alio enim 
+      spe<lb ed="#G" n="29" break="no"/>ctat ille Ioannis locus, quam vt sic, eodemque 
+      <lb ed="#G" n="30"/>modo consensionem inter Patrem &amp; Filium 
+      <lb ed="#G" n="31"/>ipsum effici existimemus, quo inter nos pios 
+      <lb ed="#G" n="32"/>gignitur. Nullo enim interueniente, nullo 
+      <lb ed="#G" n="33"/>conciliante, nullo alio pacificante: sed ob 
+      <lb ed="#G" n="34"/>vnitatem identitatemque essentiae Pater &amp; 
+      <!--293.xml-->
+      <pb ed="#G" n="192"/>
+               <lb ed="#G" n="1"/>Filis sunt ἐν, σύμρρωνες, σύμάμυοι, qμoλμμῶ, denique 
+      <lb ed="#G" n="2"/>vna est vtriusqne voluntas. Hinc igitur 
+      appa<lb ed="#G" n="3" break="no"/>ret, quam aberret a mente Panli haec 
+      interpre<lb ed="#G" n="4" break="no"/>tatio. Porro quam sit eadem periculosa quoque 
+      <lb ed="#G" n="5"/>ex eo colligitur, quod sic dispescitur, 
+      diuiditur<lb ed="#G" n="6" break="no"/>que vnica illa &amp; simplicissima diuina essentia. 
+      <lb ed="#G" n="7"/>Nam si Pater dicatur diligere Filium, &amp; Filius 
+      <lb ed="#G" n="8"/>Patrem per Spiritum sanctum: si inter se pacem 
+      <lb ed="#G" n="9"/>feruare credantur per vnitatem &amp; consensum, 
+      <lb ed="#G" n="10"/>quem conciliat inter eos Spiritus sanctus, 
+      quo<lb ed="#G" n="11" break="no"/>nam modo Pater &amp; Filius a sese &amp; animo &amp; 
+      lo<lb ed="#G" n="12" break="no"/>co non separantur, vti nos pij alius ab alio 
+      di<lb ed="#G" n="13" break="no"/>uersi sumus: Atque sic multiplicatur diuina 
+      <lb ed="#G" n="14"/>essentia in plures deos. Denique postquam sex 
+      <lb ed="#G" n="15"/>huius sententiae non tantum diuersas, sed 
+      con<lb ed="#G" n="16" break="no"/>trarias explicationes comemorauit Thomas 
+      <lb ed="#G" n="17"/>in I. par. quaest, x artic. 2. eo tandem delabitur, 
+      <lb ed="#G" n="18"/>vt potius obscuret &amp; inuoluat hanc, quam ipse 
+      <lb ed="#G" n="19"/>vocat difficultatem, quam euoluat &amp; enodet. 
+      <lb ed="#G" n="20"/>Sed homo iste receptas suo seculo &amp; vexatas 
+      <lb ed="#G" n="21"/>iam quaestiones augere, id este oleum camino 
+      <lb ed="#G" n="22"/>addere, gloriosum existimauit, neqe quid recte, 
+      <lb ed="#G" n="23"/>quid non: quid accommodate, quid perperam 
+      <lb ed="#G" n="24"/>diceretur, pili fecit, id quod etiam apparet infr. 
+      <lb ed="#G" n="25"/>cap. 9. hac ipsa sectione.
+    </p>
+            <p xml:id="cv8jk9-e14479-d1e379">
+               <lb ed="#G" n="26"/>2 Que si nihil est. Locus ex perspicuo obscu 
+      <lb ed="#G" n="27"/>rus a Lombardo redditus ex sententiae 
+      verbo<lb ed="#G" n="28" break="no"/>rumque Augustini mutilatione. Ecquae enim 
+      <lb ed="#G" n="29"/>est ista consecutio, Si dilectio nibil est, quomodo 
+      <lb ed="#G" n="30"/>Deus substantia est: Nam &amp; dilectio in 
+      homi<lb ed="#G" n="31" break="no"/>ne est, nec tamen sequitur, vt homo non sit 
+      <lb ed="#G" n="32"/>substantia si dilectio nihil est. Est ergo istud 
+      <lb ed="#G" n="33"/>ατῳ τe συμλεςnκότος προς τν ξσμαν παεα λονινεξως 
+      <lb ed="#G" n="34"/>Sic autem &amp; quidem dilucida eonclusione ha¬ 
+      <!--294.xml-->
+      <pb ed="#G" n="193"/>
+               <lb ed="#G" n="1"/>bet Augustinus: Quae (dilectio) si nibil est, 
+      quo<lb ed="#G" n="2" break="no"/>modo Deus dilectio estesi non est substantia, quomodo 
+      <lb ed="#G" n="3"/>Deus substantia est: Nam Deus dicitur esse 
+      di<lb ed="#G" n="4" break="no"/>lectio.  
+    </p>
+            <p xml:id="cv8jk9-e14479-d1e414">
+               <lb ed="#G" n="5"/>AD CAP. IX 
+    </p>
+            <p xml:id="cv8jk9-e14479-d1e420">
+               <lb ed="#G" n="6"/>I TRANSTVLIT in regnum. 
+      Om<lb ed="#G" n="7" break="no"/>nino addendum id erat, quod apud eundem  
+      <lb ed="#G" n="8"/>Augusti. (vnde hic locus exscriptus est) extat 
+      <lb ed="#G" n="9"/>Quod autem dictum est, Filij charitatis 
+      suaecColo<lb ed="#G" n="10" break="no"/>I. Vers. is.)nihil aliud intelligatur, quam Filij sui 
+      <lb ed="#G" n="11"/>dilecti. Quis enim ferat istam interpretationem 
+      <lb ed="#G" n="12"/>Christus est Filius charitatis. i. Filius Spiritus sancti. 
+      <lb ed="#G" n="13"/>Et certe tatus tamque faedus naeuus 
+      relinquen<lb ed="#G" n="14" break="no"/>dus, aut affingendus non fuit Augustino, vt ita 
+      <lb ed="#G" n="15"/>explicasse illum Pauli locum extra feruorem 
+      <lb ed="#G" n="16"/>contentionemque semel susceptae argutationis 
+      <lb ed="#G" n="17"/>crederetur. Sed iste, dum Patrum dicta 
+      trunca<lb ed="#G" n="18" break="no"/>ta, suo more refert, eos potius flagellat, &amp; 
+      de<lb ed="#G" n="19" break="no"/>turpat, quam cohonestet.
+    </p>
+            <p xml:id="cv8jk9-e14479-d1e453">
+               <lb ed="#G" n="20"/>Censura.
+    </p>
+            <p xml:id="cv8jk9-e14479-d1e458">
+               <lb ed="#G" n="21"/>Quid aliud dicam, quam totam hanc 
+      dispu<lb ed="#G" n="22" break="no"/>tationem esse plane &amp; curiosam, &amp; falsam :Ac 
+      <lb ed="#G" n="23"/>curiosam quidem, quoniam hic certe, si vsquam  
+      <lb ed="#G" n="24"/>alibi, homo iste insanit circa quaestiones, &amp; 
+      vo<lb ed="#G" n="25" break="no"/>cabuli charitas pugnas. Idquod fieri a vero 
+      <lb ed="#G" n="26"/>Theologo vetat Paulus i. Timoth. &amp;. Vers. 
+      A<lb ed="#G" n="27" break="no"/>Atque adeo tota haec tam longa &amp; tam 
+      intrica<lb ed="#G" n="28" break="no"/>ta disceptatio ex eo nata est, quod genus ipsum 
+      <lb ed="#G" n="29"/>loquendi (quo Spiritus Dei vtitur Targati isti 
+      <lb ed="#G" n="30"/>&amp; subtiles disputatores nequaquam 
+      intellexe<lb ed="#G" n="31" break="no"/>runt. Figuratum enim dicendi genus est, &amp; 
+      pla<lb ed="#G" n="32" break="no"/>ne metonymicum istud o ῶεῆς ωκααn es. I. Ioan¬ 
+      <!--295.xml-->
+      <pb ed="#G" n="194"/>
+               <lb ed="#G" n="1"/>4. Vers. 8. propterea quod eausa pro effecto 
+      <lb ed="#G" n="2"/>sumitur. Est enim Deus charitas, quonia omnis 
+      <lb ed="#G" n="3"/>verae charitatis causa, &amp; fons est: imo vero 
+      ne<lb ed="#G" n="4" break="no"/>mo Deum vere nouit, eumqe gestat in pectore 
+      <lb ed="#G" n="5"/>(gestant autem omnes vere pij &amp; fideles, 
+      Ioan<lb ed="#G" n="6" break="no"/>4. Vers. 2g.) quin idem &amp; Deum ipsum ament 
+      <lb ed="#G" n="7"/>&amp;proximum. Item Deus est charitas, quia nos,  
+      <lb ed="#G" n="8"/>id est, suam ecclesiam immense diligit. Cum 
+      <lb ed="#G" n="9"/>igitur sit tantus Dei erga nos affectus, tamque 
+      <lb ed="#G" n="10"/>infinitus, ad vim magnitudinemque istius 
+      di<lb ed="#G" n="11" break="no"/>uini erga nos amoris iμφάλικῶ τερως 
+      exprimen<lb ed="#G" n="12" break="no"/>dam, dixit Ioannes non tantum, Deus diligit nos,  
+      <lb ed="#G" n="13"/>sed, Deus est charitas. Est igitur haec Charitas 
+      at<lb ed="#G" n="14" break="no"/>tributum Dei, quemadmodum &amp; sapientia, &amp; 
+      <lb ed="#G" n="15"/>misericordia, &amp; caetera huiusmodi, quae ab 
+      hu<lb ed="#G" n="16" break="no"/>mano loquondi &amp; cogitandi more Deo 
+      tribu<lb ed="#G" n="17" break="no"/>untur. Id docuerunt viri nostrae aetatis 
+      doctis<lb ed="#G" n="18" break="no"/>simi, clarissimique Theologi. Porro charitas,  
+      <lb ed="#G" n="19"/>vti &amp; fortitudo, &amp; sapientia, &amp; consolatio, &amp;
+      c<lb ed="#G" n="20" break="no"/>tribuitur Spiritui sancto κο iξοον, quod istas 
+      <lb ed="#G" n="21"/>virtutes Spiritus sanctus praecipue in nobis effi 
+      <lb ed="#G" n="22"/>ciat, ac creet. Quanquam enim omnia 
+      Trinita<lb ed="#G" n="23" break="no"/>tis opera(quae dicuntur ad extra) fint indiuisa: 
+      <lb ed="#G" n="24"/>est tamen in illis ipsis operibus propria &amp; 
+      tan<lb ed="#G" n="25" break="no"/>quam peculiaris quaedam cuiusque personae 
+      di<lb ed="#G" n="26" break="no"/>uinae actio quemadmodum docet Petrus t. 
+      E<lb ed="#G" n="27" break="no"/>pist I. Versi. 2. Apparet igitur vt ex inconcinna &amp;  
+      <lb ed="#G" n="28"/>inepta phrasis istius interpretatione magna 
+      cu<lb ed="#G" n="29" break="no"/>riosae disputationum moles erecta sit a 
+      Lombar<lb ed="#G" n="30" break="no"/>do ingenioso in huiusmodi Aολοαιδαλ αις &amp; Aoo¬ 
+      <lb ed="#G" n="31"/>μακιας artifice. Atque hanc ipsam tam alienam  
+      <lb ed="#G" n="32"/>questionem omnino praetermiserunt qui huius 
+      <lb ed="#G" n="33"/>Distinctionis vel doctiores, vel accuratiores cae 
+      <lb ed="#G" n="34"/>teris habentur interpretes, Durandus, &amp; Oc¬ 
+      <!--296.xml-->
+      <pb ed="#G" n="195"/>
+               <lb ed="#G" n="1"/>canus. Thomas in I. parte quaest. Sy. quaedam  
+      <lb ed="#G" n="2"/>agitat, sed in quibus argutatur prorsus, ac 
+      tan<lb ed="#G" n="3" break="no"/>dem eo redit, vt quum Spiritus sanctus dicitur 
+      <lb ed="#G" n="4"/>amor &amp; charitas, propter vocabulorum inopiam 
+      <lb ed="#G" n="5"/>fieri fateatur. Praeclare enim Augustinus in 
+      Ioam<lb ed="#G" n="6" break="no"/>Euangelio, tract. Is. Omnia possunt dici de Deo, 
+      <lb ed="#G" n="7"/>&amp; nibil digne dicitur de Deo: Nibil latius hac 
+      ino<lb ed="#G" n="8" break="no"/>pia. Basilius libr. de Spiritu sancto ad 
+      Amphil<lb ed="#G" n="9" break="no"/>capite 19 &amp; li. 8. contra Eunomium, ceterique Graeci 
+      <lb ed="#G" n="10"/>Theologi nullam huiusmodi quaestionem 
+      ha<lb ed="#G" n="11" break="no"/>bent, quanquam tum ex Is. &amp;t. tum ex Ioan. 
+      I4<lb ed="#G" n="12" break="no"/>varia Spiritus sancti epitheta recensent. Primus 
+      <lb ed="#G" n="13"/>hanc de voce Charitatis &amp; amoris 
+      controuer<lb ed="#G" n="14" break="no"/>siam mouit homo male feriatus Dionysius lib. 
+      <lb ed="#G" n="15"/>de Diuinis Nominibus par. I. capite 4. qui Chri 
+      <lb ed="#G" n="16"/>stiana Theologiam ad Platonicorum dogmata 
+      <lb ed="#G" n="17"/>reuocas, Deum etiam tpωτα vocari debere 
+      con<lb ed="#G" n="18" break="no"/>tendit: quanquam tamen eum honestiore 
+      vo<lb ed="#G" n="19" break="no"/>cabulo αλατυν appellari idem fatetur. Hanc litem 
+      <lb ed="#G" n="20"/>breuiter ante Lombardum decidisse videbatur 
+      An<lb ed="#G" n="21" break="no"/>selmus in Monolog. cap. 4g. his verbis, 
+      Nul<lb ed="#G" n="22" break="no"/>la res amatur sine eius memoria, &amp; intelligentia: 
+      <lb ed="#G" n="23"/>&amp; multa tenentur memoria, &amp; intelliguntur, quae non 
+      <lb ed="#G" n="24"/>amantur. Patet igitur amorem summi Spiritus ex eo 
+      <lb ed="#G" n="25"/>procedere, quia ui memor est, &amp; se intelligit. Quod si 
+      <lb ed="#G" n="26"/>in memoria summi Spiritus intelligitur Pater, in 
+      in<lb ed="#G" n="27" break="no"/>telligentia Filius, manifestum est, quia a Patre 
+      pa<lb ed="#G" n="28" break="no"/>riter &amp; a Filio summi Spiritus amor procedit. Vbi 
+      <lb ed="#G" n="29"/>etiam ratio redditur quamobrem Spiritus 
+      <lb ed="#G" n="30"/>sanctus amor vel charitas appelletur. Auxit 
+      <lb ed="#G" n="31"/>tamen eandem quaestionem post 
+      Lombar<lb ed="#G" n="32" break="no"/>dum Thomas Aquinas, dum amorem, 
+      <lb ed="#G" n="33"/>non vt Dei attributum: sed velut essentiam  
+      <!--297.xml-->
+      <pb ed="#G" n="196"/>
+               <lb ed="#G" n="1"/>ipsam diuina, &amp; Personam Spiritus sancti 
+      con<lb ed="#G" n="2" break="no"/>siderandam esse contendit, Amoris enim nomen 
+      <lb ed="#G" n="3"/>&amp; essentialiter &amp; personaliter in diuinis sumi, ait. 
+      <lb ed="#G" n="4"/>Sed quis ferat istos homines tam otiose de 
+      sa<lb ed="#G" n="5" break="no"/>crosancta illa essentia diuina, &amp; vane nugantes) 
+      <lb ed="#G" n="6"/>&amp; ex his, quae iam dicta sunt, quis non videat,  
+      <lb ed="#G" n="7"/>totum hoc certamen de verbis esse, &amp; ἀδoλςχαν 
+      <lb ed="#G" n="8"/>potius, quam iεραν εoλολαν nominandam
+    </p>
+            <p xml:id="cv8jk9-e14479-d1e662">
+               <lb ed="#G" n="9"/>Porro falsam esse hanc ipsam 
+      interpretatio<lb ed="#G" n="10" break="no"/>nem, nempe charitatem hanc esse substantiam,  
+      <lb ed="#G" n="11"/>satis apparet, ex eo quod Dist. IV. infra hic idem  
+      <lb ed="#G" n="12"/>disputat (cuius sententia communi totius 
+      scho<lb ed="#G" n="13" break="no"/>lae calculo repudiatur) &amp; ex iis quae diximus su 
+      <lb ed="#G" n="14"/>pra in cap. y. N.i. Item quod iste de Spiritu S. 
+      <lb ed="#G" n="15"/>scribit, eum charitatem peculiariter appellari, 
+      <lb ed="#G" n="16"/>quomodo verum esse probat, quum vel in vno 
+      <lb ed="#G" n="17"/>S. scripturae loco reperiendo laboret, vnde 
+      ali<lb ed="#G" n="18" break="no"/>quid huiusmodi aperte demonstrare 
+      possit<lb ed="#G" n="19" break="no"/>Quod si quis excipiat, Augustinum idem 
+      sensis<lb ed="#G" n="20" break="no"/>se, Respondemus ita legendum ac sequendum 
+      <lb ed="#G" n="21"/>esse Augustinum ipsum, vt non quid dicat, sed 
+      <lb ed="#G" n="22"/>quid ex Dei verbo probet, spectemus. Deinde 
+      <lb ed="#G" n="23"/>rationem quoque aliam affert idem 
+      Augusti<lb ed="#G" n="24" break="no"/>nus, cur Spiritus sanctus nominetur charitas,  
+      <lb ed="#G" n="25"/>nempe, quod postquam homini datus est, 
+      Ac<lb ed="#G" n="26" break="no"/>cendit in eo dilectionem Dei, &amp; proximi, cap. Iy. 
+      <lb ed="#G" n="27"/>libro i8. de Trinitate. Nam non habet homo vnde 
+      <lb ed="#G" n="28"/>diligat Deum, nisi a Deo. Dilectio enim Dei 
+      diffu<lb ed="#G" n="29" break="no"/>sa est in cordibus nostris per Spiritumsanctum, qui 
+      <lb ed="#G" n="30"/>datus est nobis. Rom. S. quod ipsum 
+      Augusti<lb ed="#G" n="31" break="no"/>nus idem cap. rs in fine sequitur. Illa vero 
+      ra<lb ed="#G" n="32" break="no"/>tio, dici Spiritu sanctum charitatem, Quod 
+      pa<lb ed="#G" n="33" break="no"/>ter Filium, contraque Filius Patrem per Spiritum 
+      <lb ed="#G" n="34"/>sanctum diligat, Ab eodem Augustino plane re¬ 
+      <!--298.xml-->
+      <pb ed="#G" n="197"/>
+               <lb ed="#G" n="1"/>futatur lib. 2. de Trinitate, his verbis. Quis audet 
+      <lb ed="#G" n="2"/>dicere Patrem nec se, nec Filium, nec Spiritum 
+      san<lb ed="#G" n="3" break="no"/>ctum diligere, nisi per Spiritum sanctum: Quamob. 
+      <lb ed="#G" n="4"/>rem erant hae tam variae eiusdem Augustini sen 
+      <lb ed="#G" n="5"/>tentiae inter se conferendae ac diiudicandae, non 
+      <lb ed="#G" n="6"/>autem ἀπλῶς &amp; αδμακρλως vna quaedam illius sen 
+      <lb ed="#G" n="7"/>tentia obtrudenda piis, quam etiam ab ipsomet 
+      <lb ed="#G" n="8"/>Augustino fuisse retractata ex paribus locis alij 
+      <lb ed="#G" n="9"/>ante me, &amp; recte quidem, collegerunt, 
+      quemad<lb ed="#G" n="10" break="no"/>modum tradit Thomas I. parte quaestionis 7. 
+      <lb ed="#G" n="11"/>articuloI 
+      <lb ed="#G" n="12"/>
+               <!-- line error -->
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

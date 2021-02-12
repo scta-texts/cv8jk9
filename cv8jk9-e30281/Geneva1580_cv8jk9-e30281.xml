@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 36</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 36</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="580"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e30281"><!-- ld-d36 -->
+            <head xml:id="cv8jk9-e30281-Hd1e106">Distinctio 36</head>
+            <p xml:id="cv8jk9-e30281-d1e109">
+               <lb ed="#G" n="11"/>AD DISTINCT XXXVI 
+      <lb ed="#G" n="12"/>AD CAP. I. 
+    </p>
+            <p xml:id="cv8jk9-e30281-d1e116">
+               <lb ed="#G" n="13"/>Nondum erant. Haec tota sententia 
+      addi<lb ed="#G" n="14" break="no"/>ta est ad Augustinum: a cuius tamen senso 
+      <lb ed="#G" n="15"/>non discrepat. Sic autem hic refertur, quasi 
+      es<lb ed="#G" n="16" break="no"/>set ipsius. 
+    </p>
+            <p xml:id="cv8jk9-e30281-d1e127">
+               <lb ed="#G" n="17"/>AD CAP. IIII 
+    </p>
+            <p xml:id="cv8jk9-e30281-d1e132">
+               <lb ed="#G" n="18"/>I Omnia vnum esse. Pessime &amp; 
+      truculentis<lb ed="#G" n="19" break="no"/>sime tractatus est a Lombardo hoc quidem 
+      lo<lb ed="#G" n="20" break="no"/>co Ambrosius, &amp; quoad verba ipsa: &amp; quoad 
+      <lb ed="#G" n="21"/>mentem. Sumptus est autem ex lib. secundo de 
+      <lb ed="#G" n="22"/>Spiritu sancto ad Gratianum Augustum cap. 
+      <lb ed="#G" n="23"/>II. Et quidem quoad verba, nihil minus quam  
+      <lb ed="#G" n="24"/>de istis verbis, Ex Deo, per ipsum, &amp; in ipso intel 
+      <lb ed="#G" n="25"/>ligi debet haec sententia, Omnia vnum esse 
+      su<lb ed="#G" n="26" break="no"/>pra diximus: sed de his, In Spiritu, &amp; cum Spiritu 
+      <lb ed="#G" n="27"/>de quibus antea luculenter egerat Ambrosius. 
+      <lb ed="#G" n="28"/>Non igitur cum us, de quibus nunc iste disserit,  
+      <lb ed="#G" n="29"/>congruit Ambrosij locus Sunt enim, ait Ambro 
+      <lb ed="#G" n="30"/>sius, qui hinc putent faciendam esse distantiam,  
+      <!--682.xml-->
+      <pb ed="#G" n="581"/>
+               <lb ed="#G" n="1"/>quod dicant non in Spiritu Deum, sed cum 
+      Spi<lb ed="#G" n="2" break="no"/>ritu praedicandum: &amp; ex vna sullaba, vel vsu 
+      quo<lb ed="#G" n="3" break="no"/>dam diuinitatis aestimandum putent esse 
+      momen<lb ed="#G" n="4" break="no"/>rum. Aduersus hos: igitur postquam copiose &amp;  
+      <lb ed="#G" n="5"/>accurate disputasset Ambrosius, sic tandem  
+      <lb ed="#G" n="6"/>concludit. Nam istae svllabae, sicut illae, de quibus 
+      su<lb ed="#G" n="7" break="no"/>perius diximus seinuicem sionant. Ergo apparet 
+      <lb ed="#G" n="8"/>Ambrosij verba esse ab isto commutata. 
+      Men<lb ed="#G" n="9" break="no"/>tem autem &amp; scopum praestantissimi illius 
+      scri<lb ed="#G" n="10" break="no"/>ptoris, iste quoque peruertit. Eo enim spectat 
+      <lb ed="#G" n="11"/>Ambtosij de his vocibus, Ex ipso, per ipsum, &amp; in 
+      <lb ed="#G" n="12"/>ipso disserentis oratio, vt ex his ipsis doceat esse 
+      <lb ed="#G" n="13"/>aequalem Patris, Filij, &amp; Spiritus sancti 
+      potesta<lb ed="#G" n="14" break="no"/>tem ac maiestatem, cum peraeque singulis a Scri 
+      <lb ed="#G" n="15"/>ptura ista tribuantur. 
+    </p>
+            <p xml:id="cv8jk9-e30281-d1e201">
+               <lb ed="#G" n="16"/>Ex illis enim τυεμμαλομακὸς haeretici &amp; 
+      sepa<lb ed="#G" n="17" break="no"/>rabilem, &amp; inaequalem esse Patris, Filij, &amp; Spiritus 
+      <lb ed="#G" n="18"/>sancti essentiam colligebant. Id quod &amp; ex 
+      <lb ed="#G" n="19"/>iosomet Ambrosio, &amp; apertius ex Basilio lib. 
+      <lb ed="#G" n="20"/>de Spiritu Sancto ad Amphilochium capite y. 
+      <lb ed="#G" n="21"/>&amp; capite 28, &amp; 26 (nde procul dubio sua 
+      pe<lb ed="#G" n="22" break="no"/>ne etiam ad verbum sumpsit Ambrosius)
+      colli<lb ed="#G" n="23" break="no"/>gi potest. i Quod autem de scopo Ambrosij 
+      dici<lb ed="#G" n="24" break="no"/>mus, id ex ipsius verbis, quae huc trascripsimus,  
+      <lb ed="#G" n="25"/>clarissime apparebit. Sunt autem haec, Non 
+      e<lb ed="#G" n="26" break="no"/>nim ita dixit Apostolus ex Deo omnia, &amp; per 
+      Fi<lb ed="#G" n="27" break="no"/>lium omnia, vt separabilem substantiam Patris, 
+      Fi<lb ed="#G" n="28" break="no"/>liique signaret: sed vt inconfusibili distinctione, quod 
+      <lb ed="#G" n="29"/>alius sit Pater, alius Filius, edoceret. Non igitur 
+      <lb ed="#G" n="30"/>tanquam compugnantes sullabae iste, sed 
+      tan<lb ed="#G" n="31" break="no"/>quam sociae, atque concordes sunt, vt etiam uni 
+      <lb ed="#G" n="32"/>saepe conueniant, sicut scriptum est, QV I A 
+      <lb ed="#G" n="33"/>RXIPSO. ET PER IPSVM ET 
+      <lb ed="#G" n="34"/>INIPSO OMNIA. Quod si vere con¬ 
+      <!--683.xml-->
+      <pb ed="#G" n="582"/>
+               <lb ed="#G" n="1"/>sideres, vnde tractatum sit, de Filio dictum esse 
+      <lb ed="#G" n="2"/>non ambiges. Quid autem ista ad 
+      quaestio<lb ed="#G" n="3" break="no"/>nem, &amp; solutionem Lombardi, ex Ambrosio 
+      <lb ed="#G" n="4"/>confirmare conantis idem significarem has 
+      phra<lb ed="#G" n="5" break="no"/>ses: Ex ipso, per ipsum, in ipso: &amp; tamen sola bena 
+      <lb ed="#G" n="6"/>esse ex ipso: Non magis certe suam sententiam  
+      <lb ed="#G" n="7"/>ex hoc Ambrosij dicto probauerit iste, quam  
+      <lb ed="#G" n="8"/>ex cacabo ligonem effecerit. Imo vero etiam,  
+      <lb ed="#G" n="9"/>apertissima Ambrosij ibidem sententia 
+      refu<lb ed="#G" n="10" break="no"/>tatur Lombardus, quia haec distinguit 
+      significa<lb ed="#G" n="11" break="no"/>tu Ambrosius, Ex ipso, per ipsum, in ipso. Sic enim 
+      <lb ed="#G" n="12"/>ille postea subiicit. Quid est ex ipso: Quod 
+      <lb ed="#G" n="13"/>ex ipsius voluntate natura sit omnium: &amp; ipse sit 
+      <lb ed="#G" n="14"/>author omnium, quae esse coeperunt. Per ipsum quid 
+      <lb ed="#G" n="15"/>est: Quia per ipsum constitutio, &amp; perseuerantia 
+      <lb ed="#G" n="16"/>omnibus impertita videatur. In ipso quid este Quia 
+      <lb ed="#G" n="17"/>omnia admirabili quodam desiderio, &amp; 
+      inenarra<lb ed="#G" n="18" break="no"/>bili amore autorem uitae &amp; ministratorem gratiae 
+      <lb ed="#G" n="19"/>suae, ac muneris intuentur, secundum quod 
+      scri<lb ed="#G" n="20" break="no"/>ptum est, OCVLI omnium in te sperant. 
+      Hacte<lb ed="#G" n="21" break="no"/>nus Ambrosius, qui quam crudeliter ab isto vul 
+      <lb ed="#G" n="22"/>neratus fuerit, iam apparet. Sed nos, vt 
+      spera<lb ed="#G" n="23" break="no"/>mus, tantis vulneribus pharmacum salutare 
+      <lb ed="#G" n="24"/>attulimus. 
+    </p>
+            <p xml:id="cv8jk9-e30281-d1e301">
+               <lb ed="#G" n="25"/>AD CAP. V. 
+    </p>
+            <p xml:id="cv8jk9-e30281-d1e306">
+               <lb ed="#G" n="26"/>I Augustinus in primo libro de Trinitate. Ica 
+      <lb ed="#G" n="27"/>constanter omnes codices habent Libro primo 
+      <lb ed="#G" n="28"/>de Trinitate, cum tameu cuiuis, (qui ad ipsum 
+      <lb ed="#G" n="29"/>Augustini codicem recurret) facile constare 
+      <lb ed="#G" n="30"/>possint ista, quae citat Lombardus, ex libro sexto 
+      <lb ed="#G" n="31"/>capite to, in h. libri transcribi. Ex libro primo 
+      <lb ed="#G" n="32"/>de Trinitate capite sexto, explicatio duntaxat,  
+      <!--684.xml-->
+      <pb ed="#G" n="583"/>
+               <lb ed="#G" n="1"/>quae hic affertur, descripta est, Augustinus 
+      au<lb ed="#G" n="2" break="no"/>tem, &amp; Patres Latini ex Graecis, praesertim auteum 
+      <lb ed="#G" n="3"/>ex Basilio lib. de Spir. sancto capite 8. 6 &amp; 9. &amp;  
+      <lb ed="#G" n="4"/>ex illis duobus Pauli locis Roma. II. Versi 88, &amp; 
+      <lb ed="#G" n="5"/>I. Corinth. 8. Versic. &amp;. harum vocum 
+      significa<lb ed="#G" n="6" break="no"/>tiones distinxerunt. 
+    </p>
+            <p xml:id="cv8jk9-e30281-d1e341">
+               <lb ed="#G" n="7"/>AD CAP. VI 
+    </p>
+            <p xml:id="cv8jk9-e30281-d1e346">
+               <lb ed="#G" n="8"/>Significat penitus. Addidit iste suo more, 
+      <lb ed="#G" n="9"/>penitus, quod non est apud Augustinum : &amp; 
+      quae<lb ed="#G" n="10" break="no"/>dam etiam hic perturbat.
+    </p>
+            <p xml:id="cv8jk9-e30281-d1e355">
+               <lb ed="#G" n="11"/>Censura ad Distinctionem 
+      <lb ed="#G" n="12"/>XXXVI 
+    </p>
+            <p xml:id="cv8jk9-e30281-d1e363">
+               <lb ed="#G" n="13"/>Cumulat Lombardus, quo longius 
+      progre<lb ed="#G" n="14" break="no"/>ditur, maiores quoque errores, magna 
+      ignoran<lb ed="#G" n="15" break="no"/>tia, &amp; quadam futilitate, qua scriptor iste tam  
+      <lb ed="#G" n="16"/>curiosas quaestiones, vtilibus omissis, sectatur. 
+      <lb ed="#G" n="17"/>tum etiam in hoc tam graui &amp; diuino argumen 
+      <lb ed="#G" n="18"/>to, pueriliter ludit. Denique se &amp; in aqua 
+      haere<lb ed="#G" n="19" break="no"/>re, &amp; tamen nonnunquam in plano salebras 
+      <lb ed="#G" n="20"/>quaerere ostendit, tam est sui dissimilis. Huius 
+      <lb ed="#G" n="21"/>ergo tam alienae a vera Theologia tradenda 
+      me<lb ed="#G" n="22" break="no"/>thodi, vel vna haec Distinctio locupleti ssimum 
+      <lb ed="#G" n="23"/>argumentum nobis esse potest. In hac enim  
+      <lb ed="#G" n="24"/>hoc solum quaeritur, Quomodo res creatae in Deo 
+      <lb ed="#G" n="25"/>esse dicantur, iste tamen nodum in scirpo labo 
+      <lb ed="#G" n="26"/>riose &amp; inaniter quaerit, ac in plana &amp; facili 
+      hu<lb ed="#G" n="27" break="no"/>ius quaestionis solutione, &amp; se, &amp; alios 
+      inuol<lb ed="#G" n="28" break="no"/>uit. Cum enim vno verbo respoderi debuisset 
+      <lb ed="#G" n="29"/>(quod eum sequuti alij eiusdem scholae Magi¬  
+      <!--685.xml-->
+      <pb ed="#G" n="584"/>
+               <lb ed="#G" n="1"/>stri, &amp; in primis <name xml:id="cv8jk9-e30281-Nd1e408">Gulielmus Occan</name> docent) 
+      quae<lb ed="#G" n="2" break="no"/>stionem hanc esse tantum de Verbis, non de 
+      <lb ed="#G" n="3"/>Re: iste manifestissima deprauatione huius 
+      sen<lb ed="#G" n="4" break="no"/>tentiae, Omnia sunt in Deo, diuidit conexum 
+      hu<lb ed="#G" n="5" break="no"/>ius orationis, quasi haec illius mens esset, Omnia 
+      <lb ed="#G" n="6"/>existunt seu sunt: &amp; sunt seu subsistunt in ipso Deo, 
+      <lb ed="#G" n="7"/>seu in diuina essentia. Itaque paralogismum 
+      con<lb ed="#G" n="8" break="no"/>mittit a composito sensu ad diuisum, 
+      quemad<lb ed="#G" n="9" break="no"/>modum in scholis loquuntur. Ergo ita, &amp; 
+      re<lb ed="#G" n="10" break="no"/>cte quidem, <name xml:id="cv8jk9-e30281-Nd1e431">Occan</name>. In praedicta quaestione non est 
+      <lb ed="#G" n="11"/>difficultas, nisi propter modum loquendi. Nam 
+      San<lb ed="#G" n="12" break="no"/>cti dicunt omnia esse in Deo, &amp; accipiunt ab 
+      Apo<lb ed="#G" n="13" break="no"/>stolo. Esse autem sn videtur importare aliud esse in 
+      <lb ed="#G" n="14"/>alio, tanquam ibi realiter existens: &amp; ita quod 
+      crea<lb ed="#G" n="15" break="no"/>turae &amp; perfectiones creaturarum fuerunt in Deo, 
+      tan<lb ed="#G" n="16" break="no"/>quam aliqua ibi vere existentia. Sed isto modo 
+      essen<lb ed="#G" n="17" break="no"/>di ln non vtuntur Sancti, qui dicunt omnia esse in 
+      <lb ed="#G" n="18"/>Deo. Sed Esse n apud eos in tali propositione 
+      signi<lb ed="#G" n="19" break="no"/>ficat idem quod cognosci: vel idem quod produci, &amp; 
+      <lb ed="#G" n="20"/>posse produci. Haec discipulus iste, qui longe 
+      me<lb ed="#G" n="21" break="no"/>lius suo praeceptore hanc totam quaestionem 
+      <lb ed="#G" n="22"/>vidit: &amp; breuiter, non autem exaggeratis 
+      quae<lb ed="#G" n="23" break="no"/>stionibus, vt iste, soluit. Nimirum a Thoma 
+      di<lb ed="#G" n="24" break="no"/>dicerat, qui in prima parte quaestio ra. sic 
+      scri<lb ed="#G" n="25" break="no"/>bit, Omnia sunt in Deo per modum intelligibilem:  
+      <lb ed="#G" n="26"/>Omne enim quod est in altero, in eo est secundum 
+      mo<lb ed="#G" n="27" break="no"/>dum eius, in quo est. Res autem creatae in Dei 
+      es<lb ed="#G" n="28" break="no"/>sentia subsistere non possunt. Ergo omnia esse in 
+      <lb ed="#G" n="29"/>Deo, non est res ipsas subsistere aut substitisse 
+      <lb ed="#G" n="30"/>formaliter in Deo, ne confusionem 
+      Anaxago<lb ed="#G" n="31" break="no"/>ricam inducamus. Vnde Durandus ait, Per esse 
+      <lb ed="#G" n="32"/>virtuale sunt res creatae, &amp; creandae in Deo, 
+      quem<lb ed="#G" n="33" break="no"/>admodum effecta sunt in suis caussis: non 
+      au<lb ed="#G" n="34" break="no"/>tem per esse sormale. Ex quo fit, vt illae res non 
+      <!--686.xml-->
+      <pb ed="#G" n="585"/>
+      
+               <lb ed="#G" n="1"/>fubstiterintabaeterno in ipso Deo, etsi ab 
+      aeter<lb ed="#G" n="2" break="no"/>no Deus sua praescientia futuras esse nouit, &amp; 
+      <lb ed="#G" n="3"/>fic erant in Deo. Haec igitur &amp; intricatio, &amp; 
+      fal<lb ed="#G" n="4" break="no"/>sa interpretatio huius sententiae, Omnia sunt in 
+      <lb ed="#G" n="5"/>Deo, est primum huius Distinctionis vitium.
+    </p>
+            <p xml:id="cv8jk9-e30281-d1e502">
+               <lb ed="#G" n="6"/>Ex hoc autem Lombardi scopulo, plurima 
+      <lb ed="#G" n="7"/>postea naufragia sunt consecuta, quoniam 
+      qui<lb ed="#G" n="8" break="no"/>dam eum euitare, aut animaduertere non 
+      po<lb ed="#G" n="9" break="no"/>tuerunt. Et ne omnia illa (quoniam esset 
+      infi<lb ed="#G" n="10" break="no"/>nitum) persequamur, tria tantum 
+      commemo<lb ed="#G" n="11" break="no"/>rabimus. Vnum quod a quibusdam factum est,  
+      <lb ed="#G" n="12"/>quicontendebant, res creatas verius subsistere 
+      <lb ed="#G" n="13"/>in Deo, quam in seipsis. Quamobrem quum  
+      <lb ed="#G" n="14"/>dicuntur esse in Deo, intelligunt eas existere 
+      <lb ed="#G" n="15"/>formaliter in ipsa Dei essentia. Hoc merito &amp; 
+      <lb ed="#G" n="16"/>Durandus, &amp; Occan refutant: quanquam 
+      Au<lb ed="#G" n="17" break="no"/>gustinus tract. 8y. in Ioannis Euangel. ait, 
+      do<lb ed="#G" n="18" break="no"/>mum, quam aedificat structor, prius esse &amp; melius 
+      <lb ed="#G" n="19"/>esse in arte sine vetustate, sine ruina: sed tamen 
+      <lb ed="#G" n="20"/>huic sententiae non fauens. 
+    </p>
+            <p xml:id="cv8jk9-e30281-d1e537">
+               <lb ed="#G" n="21"/>Secundum naufragium est eorum, qui reipsa 
+      <lb ed="#G" n="22"/>constituunt Ideas in Deo existentes: quod &amp;  
+      <lb ed="#G" n="23"/>sensit, &amp; scripsit Plato, vtut alij alitereum 
+      in<lb ed="#G" n="24" break="no"/>interpretentur variis in locis. Hi vt tuerentur, 
+      <lb ed="#G" n="25"/>atque explicarent illam suam interpretationem, 
+      <lb ed="#G" n="26"/>Res sunt in Deo, id est, Res ipsae existunt in ipso 
+      <lb ed="#G" n="27"/>Deo, Ideas in Deo fingunt. Huius erroris ne 
+      <lb ed="#G" n="28"/>
+               <name xml:id="cv8jk9-e30281-Nd1e556">Durandus</name> quidem ipse videtur fuisse immunis.
+    </p>
+            <p xml:id="cv8jk9-e30281-d1e560">
+               <lb ed="#G" n="29"/>Tertium naufragium, quod ad Lombardi 
+      <lb ed="#G" n="30"/>saxa &amp; scopulum accidit, ab ipso Thoma 
+      fa<lb ed="#G" n="31" break="no"/>ctum est in prima parte, quaest. I4, Artic. 4, vbi 
+      <lb ed="#G" n="32"/>ait, Ipsum intelligere, intellectum, rem intellectam,  
+      <lb ed="#G" n="33"/>&amp; speciem intelligibilem esse vnum omnino &amp; idem  
+      <lb ed="#G" n="34"/>in Deo, &amp; eius essenniam. Vt omittam illum te¬ 
+      <!--687.xml-->
+      <pb ed="#G" n="586"/>
+               <lb ed="#G" n="1"/>terrimum errorem (quem tamen ex hoc 
+      Loni<lb ed="#G" n="2" break="no"/>bardi loco tueri volunt) &amp; quem ex Anselmo 
+      <lb ed="#G" n="3"/>sic referunt, Creatura in Deo non est, nisi creatrix 
+      <lb ed="#G" n="4"/>essentia. Ergo quot &amp; quanti ex vno isto 
+      Lom<lb ed="#G" n="5" break="no"/>bardi tetro fonte riui foetidi prossuxerint, 
+      ap<lb ed="#G" n="6" break="no"/>paret. 
+    </p>
+            <p xml:id="cv8jk9-e30281-d1e593">
+               <lb ed="#G" n="7"/>Secundum Lombardi vitium, in hac Distinct. 
+      <lb ed="#G" n="8"/>est alia intricatio inuolutioque suae sententiae, 
+      <lb ed="#G" n="9"/>cum negat, Mala esse in Deo. Distinguendum 
+      <lb ed="#G" n="10"/>enim fuit vocabulu vtrunque, Esse in. Nam Esse 
+      <lb ed="#G" n="11"/>in si, p praesciri accipiatur, sut in Deo mala, quia 
+      <lb ed="#G" n="12"/>a Deo Mala praesciuntur. Si pro effici, &amp; 
+      open<lb ed="#G" n="13" break="no"/>rari, &amp; emanare sumuntur, non sunt Aalae &amp; 
+      <lb ed="#G" n="14"/>Deo, quoniam a mala hominum aut Diabolorum 
+      <lb ed="#G" n="15"/>agentium voluntate est malum, non autem a 
+      <lb ed="#G" n="16"/>Deo: quanquam actum ipsum etiam Deus (sed 
+      <lb ed="#G" n="17"/>non sub ratione mali) vult. Nos enim de malo 
+      <lb ed="#G" n="18"/>culpae, non de malo poenae nunc agimus. 
+    </p>
+            <p xml:id="cv8jk9-e30281-d1e622">
+               <lb ed="#G" n="19"/>Tertium Lombardi vitium, &amp; nic quoque, est 
+      <lb ed="#G" n="20"/>inepta locorum S. Scripturae ad suum scopum 
+      <lb ed="#G" n="21"/>accommodatio, aut potius eorum deprauatio,  
+      <lb ed="#G" n="22"/>quod certe in Magistro Theologiae peccatum 
+      <lb ed="#G" n="23"/>est minime ferendum. Quod dicimus, apparet 
+      <lb ed="#G" n="24"/>esse verum ex Psal. I8. 94. &amp; I99. ab isto citatis 
+      <lb ed="#G" n="25"/>cap. 2. sed mirum in modum detortis, &amp; a suo 
+      <lb ed="#G" n="26"/>sensu eluxatis. 
+    </p>
+            <p xml:id="cv8jk9-e30281-d1e643">
+               <lb ed="#G" n="27"/>Quarta animaduersio nostra in eo est, 
+      qupul<lb ed="#G" n="28" break="no"/>cherrimam &amp; planissimam Aug, sententia, iste 
+      <lb ed="#G" n="29"/>falsa sua glossa cap. I. corrumpit, dum haec illius 
+      <lb ed="#G" n="30"/>verba, Natura sua, torquet.
+    </p>
+            <p xml:id="cv8jk9-e30281-d1e654">
+               <lb ed="#G" n="31"/>Quinta denique, ac vltima est, quod iste 
+      sei<lb ed="#G" n="32" break="no"/>psum imprudens cap. 2. euertit. Nam vt probet 
+      <lb ed="#G" n="33"/>peceata non esse in Deo, affert illud ex Actis 
+      A<lb ed="#G" n="34" break="no"/>postolicis cap. Iy. In ipso viuimus. Hoc uero do¬ 
+      <!--688.xml-->
+      <pb ed="#G" n="587"/>
+      
+               <lb ed="#G" n="1"/>cet omnes homines siue bonos, siue malos a 
+      <lb ed="#G" n="2"/>Deo esse &amp; viuere, ex eoque potius 
+      ostendere<lb ed="#G" n="3" break="no"/>tur malos, &amp; eorum peccata a Deo esse (quod 
+      <lb ed="#G" n="4"/>vel cogitare est nefas) quam non esse. Sed iste 
+      <lb ed="#G" n="5"/>quid scribat, non attendit.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

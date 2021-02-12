@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alia</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Alia</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="758"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e37651"><!-- alia -->
+            <head xml:id="cv8jk9-e37651-Hd1e106">Alia</head>
+            <p xml:id="cv8jk9-e37651-d1e109">
+      <!--859.xml-->
+               <pb ed="#G" n="758"/>
+               <lb ed="#G" n="1"/>ISTI SVNT ARTICVII 
+      <lb ed="#G" n="2"/>in quibus Magister sententiarum non 
+      <lb ed="#G" n="3"/>tenetur communiter ab 
+      <lb ed="#G" n="4"/>omnibus: &amp; 
+      <lb ed="#G" n="5"/>primo. 
+      <lb ed="#G" n="6"/>PRIMI LIBRI 
+    </p>
+            <p xml:id="cv8jk9-e37651-d1e129">
+               <lb ed="#G" n="7"/>Primo, quod charitas qua diligimus Deum 
+      <lb ed="#G" n="8"/>&amp; proximum, est Spiritus sanctus. Dist. I. 9. 
+      ca<lb ed="#G" n="9" break="no"/>2. vel quod charitas quae est amor Dei &amp; 
+      pro<lb ed="#G" n="10" break="no"/>ximi, non est aliquid creatum. 
+    </p>
+            <p xml:id="cv8jk9-e37651-d1e140">
+               <lb ed="#G" n="11"/>Secundo, quod nomina numeralia dicta de 
+      <lb ed="#G" n="12"/>Deo dicuntur solum relatiue distin. 34. cap. Et 
+      <lb ed="#G" n="13"/>si diligenter. vel haec nomina numeralia trinus 
+      <lb ed="#G" n="14"/>&amp;trinitas non dicunt positionem, sed priuatio 
+      <lb ed="#G" n="15"/>nem tantum. 
+    </p>
+            <p xml:id="cv8jk9-e37651-d1e153">
+               <lb ed="#G" n="16"/>Tertio, quod sumile &amp; aequale similiter 
+      di<lb ed="#G" n="17" break="no"/>cuntur de Deo priuatiue. Dist. II. c &amp; hoc idem:  
+      <lb ed="#G" n="18"/>Quarto, quod Deus semper potest quicquid 
+      <lb ed="#G" n="19"/>aliquado potuit: &amp; vult quicquid voluit: &amp; scit 
+      <lb ed="#G" n="20"/>quicquid sciuit. Distin. 44.c. Praeterea quaeri 
+      <lb ed="#G" n="21"/>solet.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 43</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 43</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="689"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e34875"><!-- ld-d43 -->
+            <head xml:id="cv8jk9-e34875-Hd1e106">Distinctio 43</head>
+            <p xml:id="cv8jk9-e34875-d1e109">
+               <lb ed="#G" n="12"/>AD DISTINCTIONEM 
+      <lb ed="#G" n="13"/>XLIII 
+      <lb ed="#G" n="14"/>AD CAP. III
+    </p>
+            <p xml:id="cv8jk9-e34875-d1e118">
+               <lb ed="#G" n="15"/>I Quod poterat quidem. Ista verba non sunt 
+      <lb ed="#G" n="16"/>Augustini, sed ipsius Lombardi, nec tam 
+      qui<lb ed="#G" n="17" break="no"/>dem addita, vt superiorem sententiam 
+      explica<lb ed="#G" n="18" break="no"/>rent, quam vt prorsus euerterent. Quod enim  
+      <lb ed="#G" n="19"/>dixit Augustinus, Non poterat, iste contra ait, 
+      Po<lb ed="#G" n="20" break="no"/>terat, sed nolebit. Illud etiam annotasse fuerit 
+      <lb ed="#G" n="21"/>operaepretium, totum illum Augustini locum 
+      <lb ed="#G" n="22"/>non magis probare Deum plura posse, quam  
+      <lb ed="#G" n="23"/>velit aut efficiat: quam lobum, &amp; Galatas 
+      ho<lb ed="#G" n="24" break="no"/>mines fuisse. Sic enim ibidem Augustinus scri 
+      <lb ed="#G" n="25"/>bit, Potestas vtique aderat, sed iustitia non 
+      desere<lb ed="#G" n="26" break="no"/>bat. Secund m hoc enim dicit, AT VE 
+      VTI<lb ed="#G" n="27" break="no"/>NAM possem me occidere: aut rogare alium, vt 
+      fu<lb ed="#G" n="28" break="no"/>ceret mihi. Hoc negauit se posse, quod per iustitiam  
+      <lb ed="#G" n="29"/>feri non poterat. Eo loquendi modo &amp; Apostolus 
+      <!--791.xml-->
+      <pb ed="#G" n="690"/>
+               <lb ed="#G" n="1"/>ad Galatas dicit, Testimonium vobis perhibeo 
+      <lb ed="#G" n="2"/>quia si fieri posset, oculos effodissetis, &amp;lc. Ergo a 
+      <lb ed="#G" n="3"/>lius quispiam locus singularis quaerendus erar 
+      <lb ed="#G" n="4"/>vbi de omnipotentia Dei, &amp; de discrimine eius 
+      <lb ed="#G" n="5"/>voluntatis a potestate ageret Augustinus, 
+      qua<lb ed="#G" n="6" break="no"/>lis ille est, qui extat lib. de Spiritu &amp; Litera 
+      ca<lb ed="#G" n="7" break="no"/>pite primo, 
+    </p>
+            <p xml:id="cv8jk9-e34875-d1e173">
+               <lb ed="#G" n="8"/>AD CAP. V.
+    </p>
+            <p xml:id="cv8jk9-e34875-d1e178">
+               <lb ed="#G" n="9"/>I. Hoc soluim. Prorsus aberrat &amp; a verbis &amp; 
+      <lb ed="#G" n="10"/>a mente Augustini Lombardus. A mente 
+      qui<lb ed="#G" n="11" break="no"/>dem, quoniam non censet hanc solum esse 
+      o<lb ed="#G" n="12" break="no"/>mnipotaentiam Dei, vt possit quod velit: a 
+      ver<lb ed="#G" n="13" break="no"/>bis autem, quoniam plane ab Augustinianis 
+      i<lb ed="#G" n="14" break="no"/>sta Lombardica recedunt. Sic igitur 
+      Augusti<lb ed="#G" n="15" break="no"/>nus libro primo de Symbolo ad 
+      Catechume<lb ed="#G" n="16" break="no"/>nos capite primo, Prorsus omnipotens Pater 
+      no<lb ed="#G" n="17" break="no"/>ster peccare non potest. Facit quicquid vult, ipsa est 
+      <lb ed="#G" n="18"/>omnipotentia: facit quicquid bene vult, quicquid 
+      <lb ed="#G" n="19"/>iuste vult. Nemo resistit omnipotenti, vt non, quod 
+      <lb ed="#G" n="20"/>vult, faciat. Haec quid tum Lombardicis 
+      con<lb ed="#G" n="21" break="no"/>mune habent. Fortasse memoria lapsus est, &amp; 
+      <lb ed="#G" n="22"/>ad cap. 9. Enchiridij, respiciebat potius 
+      Lom<lb ed="#G" n="23" break="no"/>bardus, qui tamen locus vocem Solum, non 
+      <lb ed="#G" n="24"/>habet. 
+    </p>
+            <p xml:id="cv8jk9-e34875-d1e216">
+               <lb ed="#G" n="25"/>Quae non vult. Locus obscurus, quem sic 
+      <lb ed="#G" n="26"/>vel restituendum, vel explanandum puto. 
+      Fa<lb ed="#G" n="27" break="no"/>teamur itaque Deum plura posse facere, quam quae 
+      <lb ed="#G" n="28"/>vult: &amp; posse dimittere quae facit. Verba autem,  
+      <lb ed="#G" n="29"/>posse facere quae non vult, suntque in omnibus 
+      ex<lb ed="#G" n="30" break="no"/>emplaribus, requirunt saltem correlatiua 
+      par<lb ed="#G" n="31" break="no"/>ticulam, quam : vel falsam habent sententiam, 
+      <lb ed="#G" n="32"/>Nec enim facit quicquam Deus, quod nolit fa¬ 
+      <!--792.xml-->
+      <pb ed="#G" n="691"/>
+               <lb ed="#G" n="1"/>cere. Neque ista tam diligenter annotassem, 
+      ni<lb ed="#G" n="2" break="no"/>si viderem verba haec ipsa tam corrupta tamen. 
+      <lb ed="#G" n="3"/>retineri ab omnibus, qui δτομλῳ huius libri 
+      <lb ed="#G" n="4"/>scripserunt.
+    </p>
+            <p xml:id="cv8jk9-e34875-d1e249">
+               <lb ed="#G" n="5"/>Omnipotentis voluntas. Tota haec 
+      senten<lb ed="#G" n="6" break="no"/>tia, Omnipotentis voluntas multa potest facere, quae 
+      <lb ed="#G" n="7"/>non vult, nec facit, nusquam ita extat in 
+      Enchiri<lb ed="#G" n="8" break="no"/>dio Augustinus, quanquam ex capite Ioo, &amp; 
+      <lb ed="#G" n="9"/>tox, &amp; seq. Itemque ex capite 99. &amp; 96. 
+      vide<lb ed="#G" n="10" break="no"/>tur collecta: sed aliud est verba ipsa 
+      oratio<lb ed="#G" n="11" break="no"/>nemque Augustini polliceri, quod iste facit: 
+      <lb ed="#G" n="12"/>aliud autem sensum &amp; mentem duntaxat 
+      pro<lb ed="#G" n="13" break="no"/>ferre velle. Addidit igitur totam hanc 
+      oratio<lb ed="#G" n="14" break="no"/>nem Lombardus, tanquam ex Augustino, vt 
+      <lb ed="#G" n="15"/>suo proposito melius inseruiret, videreturque 
+      <lb ed="#G" n="16"/>apertissime niti tanti viri &amp; verbis &amp; 
+      autorita<lb ed="#G" n="17" break="no"/>te. Quod tamen falsi genus esse nemo 
+      diffite<lb ed="#G" n="18" break="no"/>bitur.
+    </p>
+            <p xml:id="cv8jk9-e34875-d1e282">
+               <lb ed="#G" n="19"/>Censura ad Distinctionem 
+      <lb ed="#G" n="20"/>XLIIII
+    </p>
+            <p xml:id="cv8jk9-e34875-d1e289">
+               <lb ed="#G" n="21"/>Quoniam iam in superiori Censura multa 
+      <lb ed="#G" n="22"/>iu. totum hoc argumentum diximus, illaque 
+      <lb ed="#G" n="23"/>Lombardi vitia notauimus, quae in 
+      Methodi<lb ed="#G" n="24" break="no"/>ca tanti arcani tractatione sunt admissa, 
+      eri<lb ed="#G" n="25" break="no"/>mus hoc loco breuiores. Duo igitur 
+      dunta<lb ed="#G" n="26" break="no"/>xat animaduertimus hic in Lombardo 
+      repre<lb ed="#G" n="27" break="no"/>hendenda. 
+    </p>
+            <p xml:id="cv8jk9-e34875-d1e307">
+               <lb ed="#G" n="28"/>Primum, quod huius quaestionis, Vtrum 
+      <lb ed="#G" n="29"/>Deus plura efficere possit, quam faciat, aut iam 
+      es<lb ed="#G" n="30" break="no"/>fecerit, scopum ac vsum omnino 
+      praetermit<lb ed="#G" n="31" break="no"/>tit: quam tamen ita verbose tractat, vt nulla 
+      <!--793.xml-->
+      <pb ed="#G" n="692"/>
+               <lb ed="#G" n="1"/>alia quaestio vna tot verbis vsquam sit ab isto 
+      <lb ed="#G" n="2"/>tradita. Ne igitur tota haec tam longa 
+      disputa<lb ed="#G" n="3" break="no"/>tio vel ματαιολἰα quaedam esse videretur, vel 
+      o<lb ed="#G" n="4" break="no"/>stentationis tantum caussa inuehi, vtilitas illius 
+      <lb ed="#G" n="5"/>fuit certe explicanda. Est autem duplex. Prima, 
+      <lb ed="#G" n="6"/>ne in magnis periculis, &amp; rebus omnino καr αν¬ 
+      <lb ed="#G" n="7"/>Sοἰπῶς desperatis, spem tamen fiduciamque 
+      <lb ed="#G" n="8"/>diuini auxilij abiiciamus. Quanquam enim is 
+      <lb ed="#G" n="9"/>est saepe status Ecclesiae, vt ne, si vel salus ipsa 
+      <lb ed="#G" n="10"/>vellet, seruare, &amp; eripere tamen nos posse 
+      vi<lb ed="#G" n="11" break="no"/>deatur, nullumque in toto rerum naturalium 
+      <lb ed="#G" n="12"/>genere opus extet, cui simile sit pro nobis effi- 
+      <lb ed="#G" n="13"/>ciendum, quo in tuto collocemur: tamen 
+      infi<lb ed="#G" n="14" break="no"/>nitam illam Dei omnipotentiam tunc serio 
+      me<lb ed="#G" n="15" break="no"/>ditari debemus, quae longe plura efficere 
+      po<lb ed="#G" n="16" break="no"/>test, quam quae ab ea videmus iam effecta. 
+      Mo<lb ed="#G" n="17" break="no"/>do igitur Dei promissionibus &amp; verbo 
+      innita<lb ed="#G" n="18" break="no"/>mur, securi simus, &amp; aduersus omne carnis aut 
+      <lb ed="#G" n="19"/>Dhilosophiae profanae iudicium &amp; ἀξιῶματα 
+      pu<lb ed="#G" n="20" break="no"/>gnemus: atque in spem contra spem, 
+      Abraha<lb ed="#G" n="21" break="no"/>mi illius Patris nostri exemplo, speremus. Sic 
+      <lb ed="#G" n="22"/>articulus de Resurrectione, de corporum 
+      no<lb ed="#G" n="23" break="no"/>strorum immutatione, de liberatione, de 
+      crea<lb ed="#G" n="24" break="no"/>tione rerum mundi, de rerum omnium 
+      instau<lb ed="#G" n="25" break="no"/>ratione futura defenditur aduersus profanas 
+      <lb ed="#G" n="26"/>argutias, quae eo solo validae censentur, quasi 
+      <lb ed="#G" n="27"/>Deus non possit plura facere aut alia, quam quae 
+      <lb ed="#G" n="28"/>iam fecit, aut quae quotidie facit.
+    </p>
+            <p xml:id="cv8jk9-e34875-d1e383">
+               <lb ed="#G" n="29"/>Secundus huius quaestionis vsus est in 
+      refu<lb ed="#G" n="30" break="no"/>tandis haereticis, quorum alij infinitam illam  
+      <lb ed="#G" n="31"/>Dei omnipotentiam astringunt legibus huius 
+      <lb ed="#G" n="32"/>naturae iam creatae. Alij ordini ipsi caussarum  
+      <lb ed="#G" n="33"/>inferiorum a Deo constitutarum eam alligant,  
+      <lb ed="#G" n="34"/>adeo vt nihil iam agere posse Deum velint, nisi 
+      <!--794.xml-->
+      <pb ed="#G" n="693"/>
+               <lb ed="#G" n="1"/>quod &amp; ex legibus harum rerum creatarum, &amp; ex 
+      <lb ed="#G" n="2"/>ordinis naturalis ratione fieri cernimus. Quare 
+      <lb ed="#G" n="3"/>alli omnia Dei miracula negent necesse est: aut 
+      <lb ed="#G" n="4"/>inania quaedam oculorum spectra &amp; illusiones 
+      <lb ed="#G" n="5"/>fuisse putent: non autem vera quaedam Dei 
+      o<lb ed="#G" n="6" break="no"/>mnipotentiae opera &amp; effecta. Vnde fit, vt 
+      eo<lb ed="#G" n="7" break="no"/>rum quidam etiam manifeste dicant, Deum 
+      <lb ed="#G" n="8"/>quidem esse causam rerum, sed naturalem: quo 
+      <lb ed="#G" n="9"/>nihil magis blasphemum fingi potest. Alij 
+      au<lb ed="#G" n="10" break="no"/>tem, vt omnes istorum tot errorum praecipitia 
+      <lb ed="#G" n="11"/>effugerent, Dei potentiam duplicem 
+      consti<lb ed="#G" n="12" break="no"/>tuerunt,  
+      <lb ed="#G" n="13"/>Aliam nempe S Ordinariam, &amp; notam  
+      <lb ed="#G" n="14"/>Extraordinariam, &amp; absolutas 
+      <lb ed="#G" n="15"/>Hac Deum posse, quae nondum tamen 
+      effece<lb ed="#G" n="16" break="no"/>rit. Illa ordinaria nihil posse, quod non iam 
+      fe<lb ed="#G" n="17" break="no"/>cerit. Quasi vero in Deo sit duplex essentia, 
+      sa<lb ed="#G" n="18" break="no"/>pientia, natura, &amp;c. Vna ordinaria, altera 
+      extra<lb ed="#G" n="19" break="no"/>ordinaria. Id quod sequi necesse est, si duplex 
+      <lb ed="#G" n="20"/>in eo potentia statuatur, cum potentia &amp; 
+      essen<lb ed="#G" n="21" break="no"/>tia &amp; sapientia Dei sit ipse Deus. Opus quidum 
+      <lb ed="#G" n="22"/>ipsum a Deo effectum, extraordinarium saepe 
+      <lb ed="#G" n="23"/>dici potest, vti Miraculum: ipsa vero Dei illud 
+      <lb ed="#G" n="24"/>operantis potentia in eo est ea ipsa, per quam  
+      <lb ed="#G" n="25"/>opera illa, quae vocantur, ordinaria efficit. 
+      De<lb ed="#G" n="26" break="no"/>nique quid ad illum Hieronymi locum in libro 
+      <lb ed="#G" n="27"/>de Custodia Virginitatis respondebunt, Cum 
+      <lb ed="#G" n="28"/>omnia possit Deus, suscitare Virginem non potest, 
+      <lb ed="#G" n="29"/>post ruinam. Atque hunc duplicem huius 
+      quae<lb ed="#G" n="30" break="no"/>stionis fructum omisit Lombardus, vt nos 
+      mi<lb ed="#G" n="31" break="no"/>seris obiectionibus vexaret. 
+    </p>
+            <p xml:id="cv8jk9-e34875-d1e471">
+               <lb ed="#G" n="32"/>Secundum vero huius Distinctionis vitium  
+      <!--795.xml-->
+      <pb ed="#G" n="694"/>
+               <lb ed="#G" n="1"/>est, quod vel obscure, vel falso loquitur, dum 
+      <lb ed="#G" n="2"/>ait, Deum plura posse, quam velit. Obscura enim  
+      <lb ed="#G" n="3"/>est haec phrasis, quod Dei voluntatem (quae 
+      du<lb ed="#G" n="4" break="no"/>plex, docendi gratia, statuitur, vna nempe 
+      si<lb ed="#G" n="5" break="no"/>gni: altera ἀρρητος ἀκαταλητλιις &amp; beneplaciti) no 
+      <lb ed="#G" n="6"/>distinguit Lombardus. Falsa vero erit haec 
+      sen<lb ed="#G" n="7" break="no"/>tentia, si sentit, Deum plura posse, quam illa acpro 
+      <lb ed="#G" n="8"/>voluntate velit, &amp; decreuerit. In eo enim 
+      vtra<lb ed="#G" n="9" break="no"/>que, omnipotentia nimirum, &amp; illa voluntas 
+      <lb ed="#G" n="10"/>est aequalis. Sed quum dicimus, Deum plura 
+      <lb ed="#G" n="11"/>posse, quam velit, de patefacta eius 
+      voluntatelo<lb ed="#G" n="12" break="no"/>quimur ac intelligimus: non de altera &amp; tora 
+      <lb ed="#G" n="13"/>illa voluntate Dei, quae nobis omnique 
+      creatu<lb ed="#G" n="14" break="no"/>rae ignota est, quanquam tamen eadem est 
+      iu<lb ed="#G" n="15" break="no"/>stissima. Et haec in 4g. Distinctionem 
+      <lb ed="#G" n="16"/>obseruatione digna visa 
+      <lb ed="#G" n="17"/>sunt.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

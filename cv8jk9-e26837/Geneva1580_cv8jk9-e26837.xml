@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 29</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 29</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="484"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e26837"><!-- ld-d29 -->
+            <head xml:id="cv8jk9-e26837-Hd1e106">Distinctio 29</head>
+            <p xml:id="cv8jk9-e26837-d1e109">
+               <lb ed="#G" n="5"/>AD DISTINCTIONEM XXIX 
+      <lb ed="#G" n="6"/>AD CAP. I. 
+    </p>
+            <p xml:id="cv8jk9-e26837-d1e116">
+               <lb ed="#G" n="7"/>Pater est principium. Etsi alia est 
+      Augusti<lb ed="#G" n="8" break="no"/>ni mens, quam istius loci:tamen quoniam 
+      ali<lb ed="#G" n="9" break="no"/>quatenus tolerari potest huius sententiae ad 
+      <lb ed="#G" n="10"/>hoc argumentum accommodatio, ipse id 
+      fie<lb ed="#G" n="11" break="no"/>ri patiar. Verba autem ista, Quia ipsea nudo 
+      <lb ed="#G" n="12"/>est, sunt quidem ex eodem capite, sed alio ex 
+      lo<lb ed="#G" n="13" break="no"/>eo, nimirum vbi docet Augustinus Spiritum san 
+      <lb ed="#G" n="14"/>ctum esse a Patre: Patrem autem nequaquam a 
+      <lb ed="#G" n="15"/>Spiritu sancto. 
+    </p>
+            <p xml:id="cv8jk9-e26837-d1e138">
+               <lb ed="#G" n="16"/>Non enim habet. Haec quae sequuntur 
+      <lb ed="#G" n="17"/>iam non sunt Augustini, sed ipsius 
+      Lombardi
+    </p>
+            <p xml:id="cv8jk9-e26837-d1e145">
+               <lb ed="#G" n="18"/>AD CAP. II 
+    </p>
+            <p xml:id="cv8jk9-e26837-d1e151">
+               <lb ed="#G" n="19"/>Ex ipso. Ex epistola ad Ramanos capite 
+      <lb ed="#G" n="20"/>II. Versu. 9. Quae verba sic Patres quidam, 
+      im<lb ed="#G" n="21" break="no"/>primis autem Basilius in libro de Spiritu 
+      san<lb ed="#G" n="22" break="no"/>cto ad Amphiloch. &amp; Hilarius libro 4. Trinit. 
+      <lb ed="#G" n="23"/>interpretantur, vt per has voces, Ex ipso, Patrem 
+      <lb ed="#G" n="24"/>designari velint: per has, Per ipsum, Filium: per 
+      <lb ed="#G" n="25"/>postremas, In ipso, Spiritum sanctum. Atque ita 
+      <lb ed="#G" n="26"/>tota Trinitas comprehendetur. 
+    </p>
+            <p xml:id="cv8jk9-e26837-d1e171">
+               <lb ed="#G" n="27"/>Quae naturalia sunt. Augustinus habet, 
+      <lb ed="#G" n="28"/>Quae naturaliter sunt: &amp; postea pro Nascuntur.  
+      <lb ed="#G" n="29"/>Augustinus habet, esse, praeterquam quod ratio 
+      <lb ed="#G" n="30"/>ab Augustino allata praetermissa est, quae tamen 
+      <!--586.xml-->
+      <pb ed="#G" n="485"/>
+               <lb ed="#G" n="1"/>est magni momenti. Sumpta sunt ista ex libro de 
+      <lb ed="#G" n="2"/>Natura Boni. cap. 28. Sententia vero ista, 
+      Om<lb ed="#G" n="3" break="no"/>nium ergo, &amp;c. est ipsius Lombardi, non autem  
+      <lb ed="#G" n="4"/>Augustini. 
+    </p>
+            <p xml:id="cv8jk9-e26837-d1e195">
+               <lb ed="#G" n="5"/>Dicitur relatiue Pater. Multa in hoc 
+      testi<lb ed="#G" n="6" break="no"/>monio sunt &amp; immutata, &amp; praetermissa, quae ex 
+      <lb ed="#G" n="7"/>ipsorum Augustini verborum recitatione 
+      faci<lb ed="#G" n="8" break="no"/>le quiuis deprehendetitamen ad subleuandum 
+      <lb ed="#G" n="9"/>aliorum laborem nos ea maiusculis literis 
+      de<lb ed="#G" n="10" break="no"/>scripsimus. Haec sunt igitur ipsissima Augustini 
+      <lb ed="#G" n="11"/>Verba lib. S. Trinit. cap. is, Dicitur ER GO 
+      rela<lb ed="#G" n="12" break="no"/>tiue Pater, idemque relatiue dicitur principium, 
+      Ex<lb ed="#G" n="13" break="no"/>SI QVID. FORTEALIVD:sed Pater ad 
+      Pi<lb ed="#G" n="14" break="no"/>lium dicitur. Principium uero ad omnia, quae ab ipso 
+      <lb ed="#G" n="15"/>sunt 
+      ITEMRELATIVEDICITVR
+      FI<lb ed="#G" n="16" break="no"/>LIVS,RELATIVEDICITVRBT VER 
+      <lb ed="#G" n="17"/>BVM, ETIMACO ETIN OMNIBVS 
+      <lb ed="#G" n="18"/>HIS VOCABVLIS AD PATREM 
+      RE<lb ed="#G" n="19" break="no"/>PERTVR. NIHII AVTEM HORVM 
+      <lb ed="#G" n="20"/>PATER DICITVR. Et Principium dicitur 
+      Fi<lb ed="#G" n="21" break="no"/>lius. Cum enim diceretur ei, tu quis est Respodit, P in 
+      <lb ed="#G" n="22"/>cipium, qui &amp; loquor vobis. Sed nunquid Patris 
+      Prin<lb ed="#G" n="23" break="no"/>cipium est) CREATOREM SE &amp;VIPD E 
+      <lb ed="#G" n="24"/>ostendere voluit, cum se dixit esse Principiu, sicut &amp; 
+      <lb ed="#G" n="25"/>Pater principium est creaturae Eo &amp; OD ab ipso 
+      <lb ed="#G" n="26"/>sunt omnia. NAMET CREATOR 
+      DICI<lb ed="#G" n="27" break="no"/>TVRAD CREATVRAM,SICVT 
+      Do<lb ed="#G" n="28" break="no"/>MINVS AD SERVVM ET IDEO cum di¬- 
+      <lb ed="#G" n="29"/>cimus &amp; Patrem principium, &amp; Filium Principium non 
+      <lb ed="#G" n="30"/>duo principia creaturae dicimus, quia &amp; Pater, &amp; 
+      <lb ed="#G" n="31"/>Filius simul ad creaturam vnum principium est, sicut 
+      <lb ed="#G" n="32"/>unus creator,SICVT VNVSD κVs, &amp;c. vbi 
+      <lb ed="#G" n="33"/>quam bona fide hic locus a Lombardo citetur. 
+      <lb ed="#G" n="34"/>vident omnes. 
+    </p>
+            <p xml:id="cv8jk9-e26837-d1e263">
+      <!--587.xml-->
+               <pb ed="#G" n="486"/>
+               <lb ed="#G" n="1"/>Vnum ergo. Iam insignis quoque mutatio 
+      <lb ed="#G" n="2"/>Verborum Augustini, qui sic habet, vnum ergo 
+      <lb ed="#G" n="3"/>principium ad creaturam dicitur, Deus, non duo, 
+      <lb ed="#G" n="4"/>vel tria principia. Quod enim ex essentiae ratione 
+      <lb ed="#G" n="5"/>colligit Augustinus, iste ex. Personarum 
+      ratio<lb ed="#G" n="6" break="no"/>ne effici putat, &amp; ita diuersa confundit in vnum. 
+      <lb ed="#G" n="7"/>&amp; seipsum fallit. 
+    </p>
+            <p xml:id="cv8jk9-e26837-d1e285">
+               <lb ed="#G" n="8"/>AD CAP. III
+    </p>
+            <p xml:id="cv8jk9-e26837-d1e290">
+               <lb ed="#G" n="9"/>Si ergo quod datur. Augustinus aliter: sed 
+      <lb ed="#G" n="10"/>res est minimi momenti.
+    </p>
+            <p xml:id="cv8jk9-e26837-d1e298">
+               <lb ed="#G" n="11"/>2 Ipso quo Pater. Haec sumpta est ex lib. 
+      4<lb ed="#G" n="12" break="no"/>Hilarij, quae posteriora sunt apud ipsum 
+      auto<lb ed="#G" n="13" break="no"/>rem, quam illa quae sequuntur, Nouit Ecclesia.
+    </p>
+            <p xml:id="cv8jk9-e26837-d1e307">
+               <lb ed="#G" n="14"/>Nouit Ecclesia. Haec posteriora apud Lom 
+      <lb ed="#G" n="15"/>bardum, priora sunt apud Hilarium. Caeterum 
+      <lb ed="#G" n="16"/>quod torquetur Lombardus in explicandis his 
+      <lb ed="#G" n="17"/>verbis Hilarij, Filij originem esse ab initio, &amp; non 
+      <lb ed="#G" n="18"/>ipsum esse ab initio, monstrum sibi fingit iste, 
+      <lb ed="#G" n="19"/>quod nullum est apud ipsum autorem. Itaque 
+      <lb ed="#G" n="20"/>mire faedatus ac corruptus est a Lombardo 
+      <lb ed="#G" n="21"/>iste Hilarij locus, qui sic in ipso prototypo 
+      ha<lb ed="#G" n="22" break="no"/>bet, &amp; est perspicuus Nouit (Ecclesia) vnum 
+      in<lb ed="#G" n="23" break="no"/>nascibilem Deum: nouit &amp; vnum vnigenitum Dei 
+      <lb ed="#G" n="24"/>Filium. Confitetur Patrem aeternum, &amp; ab origine 
+      <lb ed="#G" n="25"/>liberum: confitetur &amp; Filij originem ab aeterno. Non 
+      <lb ed="#G" n="26"/>ipsum initiabilem, sed ab initiabili. Non per 
+      seip<lb ed="#G" n="27" break="no"/>sum, sed ab eo, qui a nemine semper est, natum ab 
+      ae<lb ed="#G" n="28" break="no"/>terno. Haec Hilarius, pro quibus iste substituit,  
+      <lb ed="#G" n="29"/>Confitetur &amp; Filij originem ab initio, &amp; non ipsum 
+      <lb ed="#G" n="30"/>ab initio, sed ab initiabili quae arlideom manifestam  
+      <lb ed="#G" n="31"/>habent, nimirum alicuius originem confiteri esse 
+      <lb ed="#G" n="32"/>ab initio, &amp; eam tamen negare esse ab inino. 
+      Ita<lb ed="#G" n="33" break="no"/>que ipse Lombardus in illo grypho a se conficto 
+      <!--588.xml-->
+      <pb ed="#G" n="487"/>
+               <lb ed="#G" n="1"/>soluendo laborat, &amp; alios ista legentes vexat, 
+      <lb ed="#G" n="2"/>qui omni ista molestia carere potuit, si ipsum 
+      <lb ed="#G" n="3"/>Hilarij codicem vel limis tantum oculis 
+      inspe<lb ed="#G" n="4" break="no"/>xisset.
+    </p>
+            <p xml:id="cv8jk9-e26837-d1e366">
+               <lb ed="#G" n="5"/>Censura.
+    </p>
+            <p xml:id="cv8jk9-e26837-d1e371">
+               <lb ed="#G" n="6"/>Praeter ea, quae in superioribus capitibus 
+      an<lb ed="#G" n="7" break="no"/>notauimus, occurrunt multa, quae in hac 
+      Di<lb ed="#G" n="8" break="no"/>stinctione graui censura &amp; animaduersione 
+      di<lb ed="#G" n="9" break="no"/>gna sunt, e quibus pauca tantum 
+      perstrin<lb ed="#G" n="10" break="no"/>gemus. 
+    </p>
+            <p xml:id="cv8jk9-e26837-d1e384">
+               <lb ed="#G" n="11"/>Primum quidem, quod haec tota nihil aliud 
+      <lb ed="#G" n="12"/>est, quam eorum repetitio fastidiosa, quae 
+      par<lb ed="#G" n="13" break="no"/>tim Distinctio. Is. capite secundo, partim etiam  
+      <lb ed="#G" n="14"/>Distinct. I8. capite 6. 9. &amp; 8. iam tractata sunt, si 
+      <lb ed="#G" n="15"/>modo recte intelligantur. Itaque aut ista non 
+      <lb ed="#G" n="16"/>suo loco hic ponuntur: aut quae supra tradita 
+      <lb ed="#G" n="17"/>sunt ab istis abscinduntur, reddunntque illa 
+      prio<lb ed="#G" n="18" break="no"/>ra manca &amp; obscura. Hic agitur de origine 
+      Fi<lb ed="#G" n="19" break="no"/>lij &amp; Spiritus sancti a Patre: &amp; illic quoque. 
+      <lb ed="#G" n="20"/>Hic principium vnum dicitur esse Spiritus 
+      san<lb ed="#G" n="21" break="no"/>cti Pater &amp; Filius, &amp; illic. Hic denique de 
+      rela<lb ed="#G" n="22" break="no"/>tione Patris ad Filium, &amp; Spiritum sanctum, &amp;  
+      <lb ed="#G" n="23"/>illic, &amp; in toto hoc libro pene millies. 
+    </p>
+            <p xml:id="cv8jk9-e26837-d1e415">
+               <lb ed="#G" n="24"/>Secundum, obscura est tota huius 
+      Distinctio<lb ed="#G" n="25" break="no"/>nis disputatio, ac quidem ita, vt quorsum, aut 
+      <lb ed="#G" n="26"/>quid hic de vocabulo Principium dicere 
+      Lom<lb ed="#G" n="27" break="no"/>bardus instituerit, ignorent istius autoris 
+      inter<lb ed="#G" n="28" break="no"/>pretes etiam perspicacissimi, Angelicissimi, &amp;  
+      <lb ed="#G" n="29"/>Seraphinicissimi. Itaque marginales 
+      annota<lb ed="#G" n="30" break="no"/>tiones, quae ab illis additae sunt, ad rationem 
+      <lb ed="#G" n="31"/>huius loci cum superioribus coiungendi 
+      expli<lb ed="#G" n="32" break="no"/>candam, falsae sunt. Hic enim simpliciter agit de 
+      <lb ed="#G" n="33"/>voce hac Principium, quae cum Patri tribui soleat, 
+      <!--589.xml-->
+      <pb ed="#G" n="488"/>
+               <lb ed="#G" n="1"/>ambiguum est quo significato. (Dicitur enim 
+      <lb ed="#G" n="2"/>&amp; Personarum ipsarum diuinarum ratione, &amp;  
+      <lb ed="#G" n="3"/>creaturarum quoque respectu, Pater princi 
+      <lb ed="#G" n="4"/>pium) ltem, vtrum soli Patri tribuatur. Vnde 
+      <lb ed="#G" n="5"/>Occan in hac vna re totam doctrina huius 
+      Di<lb ed="#G" n="6" break="no"/>stinctionis positam esse putat, vt explicetur 
+      v<lb ed="#G" n="7" break="no"/>trum vniuoce, an vero aequiuoce Pater appelle 
+      <lb ed="#G" n="8"/>tur principium, quum reliquarum diuinarum 
+      Per<lb ed="#G" n="9" break="no"/>sonarum, &amp; creatarum rerum ratione 
+      princi<lb ed="#G" n="10" break="no"/>pium dicitur. Alij de variis Principij 
+      significa<lb ed="#G" n="11" break="no"/>tis agi, malunt: ita nimirum obscura est huius 
+      <lb ed="#G" n="12"/>autoris mens. Id quod vel ex eo quoque 
+      maxi<lb ed="#G" n="13" break="no"/>me apparet, quod cum esset hoc vnum 
+      Lombar<lb ed="#G" n="14" break="no"/>do propositum (quemadmodum &amp; ex lndice 
+      <lb ed="#G" n="15"/>capitum initio libri descriptorum, &amp; ex δπρωον 
+      <lb ed="#G" n="16"/>huius Distinctionis colligitur) vt de vocabulo 
+      <lb ed="#G" n="17"/>Principium ageret, varia tamen illius significata 
+      <lb ed="#G" n="18"/>praetermisit: &amp; ea prae sertim, quae ad huius 
+      ar<lb ed="#G" n="19" break="no"/>gumenti explicationem omnino 
+      commemora<lb ed="#G" n="20" break="no"/>ri oportebat.
+    </p>
+            <p xml:id="cv8jk9-e26837-d1e488">
+               <lb ed="#G" n="21"/>Primum enim, vt docet Basilius in Homil. 
+      <lb ed="#G" n="22"/>ad primum caput Euangelij Ioannis, &amp; 
+      Dama<lb ed="#G" n="23" break="no"/>scenus in Dialogo contra Manichaeos, &amp; 
+      Tho<lb ed="#G" n="24" break="no"/>mas in prima parte Quaest. 22. Artic. I. Quaestio. 
+      <lb ed="#G" n="25"/>42. Articul. 2. in Responsione, principu Latine: 
+      <lb ed="#G" n="26"/>άρλῆς Graece significatio varia est, &amp; multiplex. 
+      <lb ed="#G" n="27"/>Nam &amp; de loco, &amp; de tempore, &amp; de via, &amp; de 
+      <lb ed="#G" n="28"/>re, &amp; de causa dicitur Principij vox.
+    </p>
+            <p xml:id="cv8jk9-e26837-d1e508">
+               <lb ed="#G" n="29"/>Deinde confundunt Graeci Theologi in hac 
+      <lb ed="#G" n="30"/>disputatione ἀἰτον μαό άφάbα, id est, Caussam, &amp;  
+      <lb ed="#G" n="31"/>Principium: Latini vero etiam ad scrupulum 
+      <lb ed="#G" n="32"/>vsque distinguunt. Graeci dicunt Filium esse 
+      <lb ed="#G" n="33"/>αἰτατὸν. Patre αinoν. Filium ινμροον, Patrem ἀνωροαον. 
+      <lb ed="#G" n="34"/>Latini nunquam sine quodam honore Filium a 
+      <!--590.xml-->
+      <pb ed="#G" n="489"/>
+               <lb ed="#G" n="1"/>Patre Caussatum, &amp; Initiatum dixerunt, ne vide 
+      <lb ed="#G" n="2"/>rentur aliquid in diuinis Personis statuere 
+      tem<lb ed="#G" n="3" break="no"/>pore prius &amp; posterius: vel etiam essentia 
+      di<lb ed="#G" n="4" break="no"/>uersum. Denique ἀλυηητὸν ita interpretantur 
+      <lb ed="#G" n="5"/>Graeci Patres, &amp; quidem orthodoxi, vt Basilius 
+      <lb ed="#G" n="6"/>lib. 2. contra Eunomium, vt &amp; αἰταν &amp; ωρκὸν 
+      exclu<lb ed="#G" n="7" break="no"/>dat: τυηητὸν autem sic, vt quod genitum est, &amp; 
+      <lb ed="#G" n="8"/>αἰταν &amp; ἀρλλῳ ab alio habeat. Sed scrupulosiores 
+      <lb ed="#G" n="9"/>Latini fuerunt, dum quod Graeci μοναἰτατὸν 
+      vo<lb ed="#G" n="10" break="no"/>cant in suam linguam vertere recusant, 
+      Caussa<lb ed="#G" n="11" break="no"/>tum &amp; Initiatum, eodem nimirum sensu, quo 
+      <lb ed="#G" n="12"/>Filium a Patre esse concedunt, non temporis, 
+      <lb ed="#G" n="13"/>non creationis, non potestatis inferioris 
+      ratio<lb ed="#G" n="14" break="no"/>ne: sed comparationis, relationis, &amp; ὑπάρξεως 
+      re<lb ed="#G" n="15" break="no"/>spectu, modo, &amp; ratione tantum. Ergo 
+      perso<lb ed="#G" n="16" break="no"/>naliter, non essentialiter Filius est a Patre, &amp; 
+      Spi<lb ed="#G" n="17" break="no"/>ritus sanctus ab vtroque. Haec tamen omnia hic 
+      <lb ed="#G" n="18"/>negligentissime praetermissa sunt, vnde 
+      Cimme<lb ed="#G" n="19" break="no"/>riae tenebrae in hanc Distinctionem incubue 
+      <lb ed="#G" n="20"/>runt. Sed &amp; haec ipsa tam bona fortasse 
+      igno<lb ed="#G" n="21" break="no"/>rauit ipsemet Lombardus. 
+      <lb ed="#G" n="22"/>Tertium, habet haec eadem Distinctio 
+      quae<lb ed="#G" n="23" break="no"/>dam falsa, qualia haec sunt. 
+      <lb ed="#G" n="24"/>Primum quod dicitur cap. 4. hanc notionem, 
+      <lb ed="#G" n="25"/>qua Pater &amp; Filius dicuntur vnum principium 
+      Spi<lb ed="#G" n="26" break="no"/>ritus, sancti non habere nomen impositum. Imo 
+      <lb ed="#G" n="27"/>habet. Appellatur enim Communis spiratio.  
+      <lb ed="#G" n="28"/>Deinde quod nullo modo probat Patrem &amp; Fi 
+      <lb ed="#G" n="29"/>lium dici duo principia, siue creaturarum, siue 
+      Spi<lb ed="#G" n="30" break="no"/>ritus sancti rationem habeas &amp; discrimen 
+      con<lb ed="#G" n="31" break="no"/>stituas. Spiritus sancti ratione Pater &amp; Filius 
+      <lb ed="#G" n="32"/>possunt dici duo spirantes, propter distincta 
+      <lb ed="#G" n="33"/>ὑπιςάμλα. Non autem propter modum 
+      actio<lb ed="#G" n="34" break="no"/>nemque vtriusque in producendo Spiritu san¬ 
+      <!--591.xml-->
+      <pb ed="#G" n="490"/>
+               <lb ed="#G" n="1"/>sancto diuersam. In rebus creatis, possunt 
+      <lb ed="#G" n="2"/>Pater &amp; Filius, dici duo principia non ἀτρολυεα, 
+      <lb ed="#G" n="3"/>non imparia, non δαἰρετα: sed tamen &amp; 
+      Perso<lb ed="#G" n="4" break="no"/>nae, &amp; actionis, quae cuiusque Personae est 
+      pro<lb ed="#G" n="5" break="no"/>pria, ratione duo. Vnde tertium illud falsum 
+      <lb ed="#G" n="6"/>huius Distinctionis emergit, quod est capite 
+      se<lb ed="#G" n="7" break="no"/>cundo, Patrem, &amp; Filium, &amp; Spiritum sanctum,  
+      <lb ed="#G" n="8"/>esse vnum principium rerum creatarum, id est, uno 
+      <lb ed="#G" n="9"/>eodemque modo esse principium. Vti enim in 
+      o<lb ed="#G" n="10" break="no"/>pere redemptionis nostrae, sic in opere 
+      creatio<lb ed="#G" n="11" break="no"/>nis Mundi distinctae sunt cuiusque Personae 
+      <lb ed="#G" n="12"/>diuinae propriae actiones, etsi opera totius 
+      Tri<lb ed="#G" n="13" break="no"/>nitatis sunt, vt. praeclare docet Augustinus, 
+      in<lb ed="#G" n="14" break="no"/>separabilia, &amp; indiuidua: &amp; vna operante, 
+      al<lb ed="#G" n="15" break="no"/>tera quoque operetur. Ergo praeclare 
+      Tho<lb ed="#G" n="16" break="no"/>mas in prima parte Quaestione so. Articulo 
+      <lb ed="#G" n="17"/>quarto, reiicit eorum sententiam, qui volunt 
+      <lb ed="#G" n="18"/>Creaturas procedere a Patre, &amp; Filio, &amp; 
+      Spiri<lb ed="#G" n="19" break="no"/>tu sancto, non quatenus sunt distinctae 
+      Perso<lb ed="#G" n="20" break="no"/>nae: sed vt sunt vnum in essentia. Etsi enim, 
+      <lb ed="#G" n="21"/>quam Deus vnus sunt, sunt caussa rerum omnium 
+      <lb ed="#G" n="22"/>creatrix &amp; conseruatrix: tamen, vt docet 
+      Mo<lb ed="#G" n="23" break="no"/>ses ipse, Oenes. cap. primo, diuersum est &amp; 
+      di<lb ed="#G" n="24" break="no"/>distinctum cuiusque Personae opus in 
+      <lb ed="#G" n="25"/>creatione. Et haec quidem  
+      <lb ed="#G" n="26"/>in hanc 
+      Distinctio<lb ed="#G" n="27" break="no"/>nem dicta 
+      <lb ed="#G" n="28"/>sunto. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

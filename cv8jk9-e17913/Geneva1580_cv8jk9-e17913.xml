@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 17</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 17</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="281"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e17913"><!-- ld-d17 -->
+            <head xml:id="cv8jk9-e17913-Hd1e106">Distinctio 17</head>
+            <p xml:id="cv8jk9-e17913-d1e109">
+               <lb ed="#G" n="19"/>AD DISTINCT. XVII 
+      <lb ed="#G" n="20"/>AD CAP. II 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e116">
+               <lb ed="#G" n="21"/>I Ipsa dilectio Deus est, id est, Spiritus 
+      san<lb ed="#G" n="22" break="no"/>ctus. Alludit Lombardus ad lecum, qui est I. 
+      <lb ed="#G" n="23"/>Ioan. 4. Versic. 8. Oμο άκατῶν, ἐκ μνω τον Gεον, &amp;n o 
+      <lb ed="#G" n="24"/>Oεως αλατm iςsς. Qui non diligit (proximum) Deum 
+      <lb ed="#G" n="25"/>non nouit: nam Deus est charitas. Sed hunc locum 
+      <lb ed="#G" n="26"/>mire ipse deprauat. Primum, quod essentiam ipsam  
+      <lb ed="#G" n="27"/>Dei significari putat voce ἐατας, quum tamen 
+      do<lb ed="#G" n="28" break="no"/>num, effectum, vel attributum Dei tantum ostendatur,  
+      <lb ed="#G" n="29"/>vti quum appellatur Deus iustitia, &amp; miscricor. 
+      <lb ed="#G" n="30"/>dia. Quoniam igitur Deus est perennis ille 
+      <!--383.xml-->
+      <pb ed="#G" n="282"/>
+               <lb ed="#G" n="1"/>charitatis nostrae fons, &amp; ipse incredibili 
+      quo<lb ed="#G" n="2" break="no"/>dam affectu nos dilexit, dicitur esse non 
+      dunta<lb ed="#G" n="3" break="no"/>xat causa charitatis: sed, vt esset iμφαταoνtpa 
+      o<lb ed="#G" n="4" break="no"/>ratio, ipsa charitas. Deinde peccat in eo 
+      Lom<lb ed="#G" n="5" break="no"/>bardus, quod hoc ipsum de solo Spiritu sancto 
+      <lb ed="#G" n="6"/>docet esse intelligendum, quum tamen de tota 
+      <lb ed="#G" n="7"/>Trinitate dictum appareat, id est, de tribus 
+      Per<lb ed="#G" n="8" break="no"/>sonis diuinis, quoniam vna &amp; eadem essentia, &amp; 
+      <lb ed="#G" n="9"/>natura constant. Itaque &amp; Filius ipse Dominus 
+      <lb ed="#G" n="10"/>noster Iesus Christus, dicitur a Paulo, Filius 
+      di<lb ed="#G" n="11" break="no"/>lectionis, Colossi I. Versic. is: &amp; in Distinctione 
+      <lb ed="#G" n="12"/>illa accurata attributorum atque operum, quae 
+      <lb ed="#G" n="13"/>singulis Personis diuinis tribuuntur, Paulus 
+      <lb ed="#G" n="14"/>ἁκάτιν ad Patrem retulit: quemadmodum καξιν  
+      <lb ed="#G" n="15"/>ad Filium : &amp; κυινωνιαν ad Spiritum sanctum. 2. 
+      <lb ed="#G" n="16"/>Corinth. Is. Versicul. Is. Denique Ioannnes ipse 
+      <lb ed="#G" n="17"/>hoc eodem loco illam suam sententiam, Deus  
+      <lb ed="#G" n="18"/>est charitas, duplici modo exponit. Primum 
+      <lb ed="#G" n="19"/>id dici, quia Deus summe dilexit, vtpote 
+      <lb ed="#G" n="20"/>qui miserit Filium suum vnigenitum in 
+      mun<lb ed="#G" n="21" break="no"/>dum pro nobis. Ioan. 4. vers. &amp;, quod ad Patrem  
+      <lb ed="#G" n="22"/>procul dubio pertinet. Secundum, quod 
+      chari<lb ed="#G" n="23" break="no"/>tas, qua &amp; Deum ipsum, &amp; proximum 
+      diligi<lb ed="#G" n="24" break="no"/>mus, est a Deo. Ergo quisquis diligit proximum, 
+      <lb ed="#G" n="25"/>is ex Deo natus est, Ioan. 4. Ver. V. Nec 
+      Augusti<lb ed="#G" n="26" break="no"/>nus ipse aliud sensit lib. I8. de Trinitate, cap. 
+      Iy<lb ed="#G" n="27" break="no"/>Deus Pater, ait, &amp; Deus Filius potest charitas 
+      nun<lb ed="#G" n="28" break="no"/>cupari. Et quae ab isto affertur infra cap. 8. ratio,  
+      <lb ed="#G" n="29"/>enuntiationem istam, Deus est charitas, esse 
+      ean<lb ed="#G" n="30" break="no"/>dem, atque haec est, Deus est Spiritus, 
+      idcirco<lb ed="#G" n="31" break="no"/>que esse ipsius diuinae essentiae σημειωτκb, plane 
+      <lb ed="#G" n="32"/>inepta ratio, atque etiam falsa est. Ostenditenim 
+      <lb ed="#G" n="33"/>haec enuntiatio attributum &amp; opus Dei: non auteum 
+      <lb ed="#G" n="34"/>ipsius ἀσiας diuinae 8por, notionem, &amp; συσμαν.
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e218">
+      <!--384.xml-->
+               <pb ed="#G" n="283"/>
+               <lb ed="#G" n="1"/>AD CAP. III 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e227">
+               <lb ed="#G" n="2"/>I Qui proximu diligit. Insignis iam Lombardi 
+      <lb ed="#G" n="3"/>vel temeritas, vel impudentia: temeritas si locum 
+      <lb ed="#G" n="4"/>Aug. non attendit: impudentia, si sciens corrupit. 
+      <lb ed="#G" n="5"/>Haec istius hominis obstinata sententia est, 
+      Spi<lb ed="#G" n="6" break="no"/>ritum sanctum esse ipsam dilectionem, id est, esse 
+      qua<lb ed="#G" n="7" break="no"/>litate &amp; eum ipsum affectum, quo &amp; Deum, &amp;  
+      <lb ed="#G" n="8"/>proximos diligimus. Ergo qui ipsum suum 
+      affe<lb ed="#G" n="9" break="no"/>ctum cordis motum diligit, is Deum ipsum 
+      <lb ed="#G" n="10"/>diligit, quoniam ille animi nostri motus 
+      quali<lb ed="#G" n="11" break="no"/>tas &amp; affectus (quam δiωdεῶν Graeci vocant) sit 
+      <lb ed="#G" n="12"/>Deus. Hac sententia, vt suo loco 
+      demonstra<lb ed="#G" n="13" break="no"/>bitur, nihil potest dici tum absurdius, tum etiam  
+      <lb ed="#G" n="14"/>magis falsum: ad sui tamen huius erroris 
+      con<lb ed="#G" n="15" break="no"/>firmationem praeclaros Augustini locos detor 
+      <lb ed="#G" n="16"/>quet, audacissime, ac pessima fide. Inter quos 
+      <lb ed="#G" n="17"/>hic primus est, qui iam ab isto citatur ex lib. 8. 
+      <lb ed="#G" n="18"/>Trinitat. cap. V. Augustini mens est toto eo 
+      ca<lb ed="#G" n="19" break="no"/>pite, vt doceat veram dilectionem esse eam, qua 
+      <lb ed="#G" n="20"/>&amp; proximum, &amp; Deum ipsum diligimus: non 
+      <lb ed="#G" n="21"/>autem improbitatem, aut res turpes. Adeo 
+      qui<lb ed="#G" n="22" break="no"/>dem, vt nunquam sit vera proximi dilectio,  
+      <lb ed="#G" n="23"/>quin cum eadem coiuncta sit dilectio Dei, quia 
+      <lb ed="#G" n="24"/>ille fons est dilectionis proximi. Hoc ipsum 
+      o<lb ed="#G" n="25" break="no"/>stendunt verba ipsa Augustini ab isto transcri 
+      <lb ed="#G" n="26"/>pta. Qui proximum diligit consequens est, vt ipsam  
+      <lb ed="#G" n="27"/>dilectionem diligat, Id est, ipsum dilectionis 
+      fon<lb ed="#G" n="28" break="no"/>tem. Is autem est Deus, ergo consequens est, vt 
+      <lb ed="#G" n="29"/>qui proximum diligit, Deum etiam diligat. Haec 
+      <lb ed="#G" n="30"/>est &amp; tota, &amp; vera Augustini ratiocinatio &amp; col 
+      <lb ed="#G" n="31"/>lectio. Iste vero ex ea efficit(alio plane mentem 
+      <lb ed="#G" n="32"/>Augustini traducens) ergo Spiritum sanctum  
+      <lb ed="#G" n="33"/>esse ipsammet dilectionem, id est, ipsummet 
+      af<lb ed="#G" n="34" break="no"/>fectum in nobis a Spiritu sancto creatum quo 
+      <!--385.xml-->
+      <pb ed="#G" n="284"/>
+               <lb ed="#G" n="1"/>proximum diligimus, vel Deum. Atque vt 
+      ma<lb ed="#G" n="2" break="no"/>iorem fraudem hominibus ipsos fontes, id est,  
+      <lb ed="#G" n="3"/>ipsum autorem Augustinum non adeuntibus 
+      <lb ed="#G" n="4"/>faceret, subticuit, suppressitque magno dolo 
+      <lb ed="#G" n="5"/>expressiss ima verba, quae totum hunc locum 
+      fla<lb ed="#G" n="6" break="no"/>gitiose detorqueri demonstrabunt. Sic igitur 
+      <lb ed="#G" n="7"/>August. Et pleraque alia reperimus in literis 
+      san<lb ed="#G" n="8" break="no"/>ctis, in quibus sola dilectio proximi ad perfectionem 
+      <lb ed="#G" n="9"/>praecipi videtur, &amp; taceri de dilectione Dei, cum in 
+      <lb ed="#G" n="10"/>vtroque lex pendeat, &amp; Prophetae. Sed &amp; hoc ideo, 
+      <lb ed="#G" n="11"/>quia &amp; qui proximum diligit, consequens est, vt ipsam  
+      <lb ed="#G" n="12"/>praecipue dilectionem diligat, id est, Deum. 
+      Praete<lb ed="#G" n="13" break="no"/>rea eo ipso loco citat August. illud Pauli 
+      di<lb ed="#G" n="14" break="no"/>ctum ex Roman. 8. Ver. 8. Quoniam charitas Dei 
+      <lb ed="#G" n="15"/>diffusa est in cordibus nostris per Spiritum sanctum  
+      <lb ed="#G" n="16"/>qui datus est nobis. Ex quo perspicue 
+      intelligi<lb ed="#G" n="17" break="no"/>tur Spiritum sanctum esse non ipsam illam 
+      cha<lb ed="#G" n="18" break="no"/>ritatem, sed illius in nobis autorem, creatorem 
+      <lb ed="#G" n="19"/>ac patrem. Confundit ergo Lombardus 
+      mani<lb ed="#G" n="20" break="no"/>festissime charitatem illam quae in nobis est, &amp;  
+      <lb ed="#G" n="21"/>est qualitas creata, cum ipso creatore illius 
+      Spi<lb ed="#G" n="22" break="no"/>ritu sancto qui est Deus, id est, pessime, neque 
+      <lb ed="#G" n="23"/>absque blasphemia effectum cum sua causa, 
+      <lb ed="#G" n="24"/>Deum cum suo dono, eoque creato ineptus 
+      i<lb ed="#G" n="25" break="no"/>ste magister miscet.
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e361">
+               <lb ed="#G" n="26"/>2 Dilectionem quantum. Non magis ista, 
+      <lb ed="#G" n="27"/>quam superior sententia, Lombardum iuuat. 
+      <lb ed="#G" n="28"/>in quam recitanda robusta fraude vsus est, &amp; 
+      sco<lb ed="#G" n="29" break="no"/>pum ipsum Augustini (qui inter praecisas ab 
+      <lb ed="#G" n="30"/>isto sententias medius iacet) astute dissimulat. 
+      <lb ed="#G" n="31"/>Sic igitur August. Cum ergo de dilectione 
+      diligi<lb ed="#G" n="32" break="no"/>mus fratrem, de Deo diligimus fratrem. Nec fieri 
+      <lb ed="#G" n="33"/>potest, vt eandem dilectionem non praecipue 
+      diliga<lb ed="#G" n="34" break="no"/>mus, qua fratrem diligimus, Vnde colligitur (&amp; hoc 
+      <!--386.xml-->
+      <pb ed="#G" n="285"/>
+               <lb ed="#G" n="1"/>iam sciens prudensque praetermisit Lombard. 
+      <lb ed="#G" n="2"/>sed qua fide) duo illa praecepta non posse esse sine 
+      <lb ed="#G" n="3"/>inuicem, quoniam quippe Deus dilectio est. Deum 
+      <lb ed="#G" n="4"/>certe diligit, qui diligit dilectionem. Dilectionem 
+      <lb ed="#G" n="5"/>autem necesse est diligat, qui diligit fratrem. Ex 
+      <lb ed="#G" n="6"/>quibus intelligitur alio prorsus pertinere haec 
+      <lb ed="#G" n="7"/>Augustini, quam doceat Deum esse ipsum 
+      af<lb ed="#G" n="8" break="no"/>fectum nostrum, quo diligimus. i. esse rem 
+      crea<lb ed="#G" n="9" break="no"/>tam. Et quod ait August. dilectionem non 
+      tan<lb ed="#G" n="10" break="no"/>tum ex Deo esse, sed etiam Deum esse, eo 
+      per<lb ed="#G" n="11" break="no"/>tinet vt indissolubilem esse doceat nexum 
+      ve<lb ed="#G" n="12" break="no"/>rae charitatis &amp; Dei, quemadmodum non potest 
+      <lb ed="#G" n="13"/>auelli splendor a Sole. Ergo non tantum efficit 
+      <lb ed="#G" n="14"/>in nobis charitatem &amp; dilectionem Deus velut 
+      <lb ed="#G" n="15"/>vitam, motum, sensum, aliosve animi nostri 
+      <lb ed="#G" n="16"/>affectus &amp; facultates, a quibus abesse potest,  
+      <lb ed="#G" n="17"/>quia cum eo non sunt αδιαλύλως coniuncti: sed 
+      <lb ed="#G" n="18"/>ita efficit &amp; creat veram dilectionem in nobis 
+      <lb ed="#G" n="19"/>Deus, vt cum ea, tanquam fons cum riuo suo, 
+      <lb ed="#G" n="20"/>necessario atque indiuulse coniunctus conne 
+      <lb ed="#G" n="21"/>xusque maneat. Haec igitur Augustini phrasis 
+      <lb ed="#G" n="22"/>tam elegauns miserum istum magistrum 
+      pessi<lb ed="#G" n="23" break="no"/>me fefellit, ac in istum errorem induxit vt 
+      dile<lb ed="#G" n="24" break="no"/>ctionem quae in nobis est, &amp; qua proximum 
+      di<lb ed="#G" n="25" break="no"/>ligimus, existimaret esse ipsummet Spiritum 
+      san<lb ed="#G" n="26" break="no"/>ctum. Itaque corda nostra Deum ipsum 
+      face<lb ed="#G" n="27" break="no"/>ret. Verum hanc suam phrasim idem August. 
+      <lb ed="#G" n="28"/>in Ioan. Euang. tract. 6. explicarat, si modo 
+      <lb ed="#G" n="29"/>iste attendisset ad eum locum, In hoc cognoscent,  
+      <lb ed="#G" n="30"/>ait, omnes, quia mei estis discipuli, si dilectione 
+      ha<lb ed="#G" n="31" break="no"/>bueritis adinuicem, tanquam diceret, Alia 
+      mune<lb ed="#G" n="32" break="no"/>ra mea habent vobiscum etiam non mei, non solum 
+      <lb ed="#G" n="33"/>naturam, vitam, sensus, rationem: verum etiam 
+      lin<lb ed="#G" n="34" break="no"/>guas, sacramenta, prophetiam: sed quoniam charita¬ 
+      <!--387.xml-->
+      <pb ed="#G" n="286"/>
+      
+               <lb ed="#G" n="1"/>tem non habent, vt cymbala concrepant nihil sunt, 
+      <lb ed="#G" n="2"/>&amp;c.
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e470">
+               <lb ed="#G" n="3"/>Scilicet Ioannis. Puto esse glossema, &amp; ex 
+      <lb ed="#G" n="4"/>margine in contextum irrepsisse, quanquam  
+      <lb ed="#G" n="5"/>tamen &amp; in veteribus omnibus, &amp; 
+      recentiori<lb ed="#G" n="6" break="no"/>bus codicibus constanter reperi. 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e481">
+               <lb ed="#G" n="7"/>AD CAP. IIII 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e486">
+               <lb ed="#G" n="8"/>Et paulo post. Ioannes nimirum, non 
+      au<lb ed="#G" n="9" break="no"/>tem Augustinus. Haec enim duo, nempe quod 
+      <lb ed="#G" n="10"/>Dilectio ex Deo sit, &amp; quod Dilectio sit Deus, sunt 
+      <lb ed="#G" n="11"/>ex loanne. Extant autem in priore ipsius epist. 
+      <lb ed="#G" n="12"/>cap. 4. Vers. 7. &amp;&amp;: sed hic ita confufe &amp; 
+      per<lb ed="#G" n="13" break="no"/>turbate recitantur atque miscentur, vt nescias,  
+      <lb ed="#G" n="14"/>scintne verba Augustini, an Ioannis.  
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e504">
+               <lb ed="#G" n="15"/>2 Quod Spiritus sanctus sit charitas. Eodem  
+      <lb ed="#G" n="16"/>nimirum significato, quo supra dixinius, id est,  
+      <lb ed="#G" n="17"/>Spiritus sanctus est fons, &amp; causa sanctissimi 
+      il<lb ed="#G" n="18" break="no"/>lius affectus, quo &amp; Deum &amp; proximos vere, &amp; 
+      <lb ed="#G" n="19"/>vt Christianos decet, diligimus. Illam autem  
+      <lb ed="#G" n="20"/>Augustini sententiam: quae est lib. Ig. Trinit. 
+      ca<lb ed="#G" n="21" break="no"/>XM. In illa Trinitatis simplici, summaque natura non 
+      <lb ed="#G" n="22"/>est aliud substantia, aliud charitas: sed substantia 
+      <lb ed="#G" n="23"/>ipsa est charitas, &amp; charitas est substantia, siue in 
+      <lb ed="#G" n="24"/>Patre, siue in Filio, siue in Spiritu sancto veram  
+      <lb ed="#G" n="25"/>esse agnoscimus, quatenus de charitate 
+      i<lb ed="#G" n="26" break="no"/>la, quae in Dei essentia est: loquimur: non 
+      <lb ed="#G" n="27"/>autem quatenus charitas &amp; affectus qui in 
+      <lb ed="#G" n="28"/>nobis est, diceretur esse ipsa trium 
+      Persona<lb ed="#G" n="29" break="no"/>rum sessentia. Ex hac autem ipsa sententia 
+      ap<lb ed="#G" n="30" break="no"/>paret charitatem communiter tribui ab 
+      Au<lb ed="#G" n="31" break="no"/>gustino vt essentiale attributum Patri, &amp; Filio, 
+      <lb ed="#G" n="32"/>&amp; Spiritui sancto, adeo vt haec nihil 
+      Lombar<lb ed="#G" n="33" break="no"/>dum sustentet, qui ex huiusmodi sententiis 
+      <!--388.xml-->
+      <pb ed="#G" n="287"/>
+      
+               <lb ed="#G" n="1"/>efficit charitatis voce in sancta, scriptura solum 
+      <lb ed="#G" n="2"/>Spiritum sanctum intelligi.
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e556">
+               <lb ed="#G" n="3"/>Caeterum conclusio vel Augustini vel 
+      Lom<lb ed="#G" n="4" break="no"/>bardi, quae hoc modo nectitur, Si in donis Dei 
+      <lb ed="#G" n="5"/>nibil est maius charitate, &amp; nullum donum matus 
+      <lb ed="#G" n="6"/>Spiritu sancto, ergo Spiritus sanctus est charitas est 
+      <lb ed="#G" n="7"/>elumbis prorsus. Nam &amp; Filius ipse dicitur 
+      <lb ed="#G" n="8"/>donum Dei Ioan. 4. Vers. Io, &amp; eo nihil maius 
+      <lb ed="#G" n="9"/>esse potest. Ergo &amp; Filius est charitas, vti &amp; 
+      Spi<lb ed="#G" n="10" break="no"/>ritus sanctus. Itaque perperam scribit August. 
+      <lb ed="#G" n="11"/>lib. Is. Trinitat. cap. I7. non nisi Spiritum 
+      san<lb ed="#G" n="12" break="no"/>ctum in Trinitate Donum Dei appellari. Id 
+      <lb ed="#G" n="13"/>quod ante me in huiusmodi quodam argumen 
+      <lb ed="#G" n="14"/>to &amp; scripsit &amp; sensit Basis. lib. de Spiritu 
+      san<lb ed="#G" n="15" break="no"/>cto ad Amphiloch. cap. 34. E και δον μον καεισα¬ 
+      <lb ed="#G" n="16"/>το τοις ανάρωτοις, λ quoi Ie idis ψο&amp;x iqφioαsω ανλα 
+      <lb ed="#G" n="17"/>Qαῳ ηυ ῶνταν πυν παριδωκεν ωuλoν. Rom. 8. Vers. XX 
+      <lb ed="#G" n="18"/>Praeterea perspicue vitiosa est haec Lombardi 
+      <lb ed="#G" n="19"/>collectio. 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e596">
+               <lb ed="#G" n="20"/>Nullum Dei donum maius est charitate.
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e601">
+               <lb ed="#G" n="21"/>Nullum Dei donum maius est Spiritu sancto. 
+      <lb ed="#G" n="22"/>Ergo Spiritus sanctus est charitas. 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e608">
+               <lb ed="#G" n="23"/>Nam ex duabus propositionibus omnino 
+      <lb ed="#G" n="24"/>neganttibus efficit affrmantem 
+      conclusio<lb ed="#G" n="25" break="no"/>nem. Quod Dialecticorum regulis plane 
+      repu<lb ed="#G" n="26" break="no"/>gnat, &amp; est ἀσυλλόνιςoν. 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e619">
+               <lb ed="#G" n="27"/>AD CAP. V. 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e624">
+               <lb ed="#G" n="28"/>Non dicturi sumus. Arguta solutio, in qua 
+      <lb ed="#G" n="29"/>vt errorem Lombardus suum tueretur vim 
+      <lb ed="#G" n="30"/>etiam verbis affert. In eo enim totus est, vt do 
+      <lb ed="#G" n="31"/>ceat charitatem. esse ipsam Dei essentiam, non 
+      <lb ed="#G" n="32"/>autem attributum vel donum illius, 
+      quemad<lb ed="#G" n="33" break="no"/>modum sapientia, misericordia, iustitia, &amp; reli¬ 
+      <!--389.xml-->
+      <pb ed="#G" n="288"/>
+               <lb ed="#G" n="1"/>qua huiusmodi quae concedit esse Dei 
+      attribu<lb ed="#G" n="2" break="no"/>ta, vel dona. Huius tam alienae a veritate 
+      sen<lb ed="#G" n="3" break="no"/>tentiae fundamentum totum ex certarum 
+      quam<lb ed="#G" n="4" break="no"/>rundem svllabarum captatione petitum est, 
+      nem<lb ed="#G" n="5" break="no"/>pe quod non dicitur Deus charitas est nostra 
+      <lb ed="#G" n="6"/>quemadmodum dicitur &amp; Spes, &amp; misericordia, 
+      <lb ed="#G" n="7"/>&amp; sapientia nostra, &amp;c. Haec autem vt perspicue 
+      <lb ed="#G" n="8"/>confutemus, Primum Lombardum 
+      Lombar<lb ed="#G" n="9" break="no"/>do, siue Augustinum Augustino (quoniam ex 
+      <lb ed="#G" n="10"/>Augustino ista sumpsit Lombardus) 
+      opponi<lb ed="#G" n="11" break="no"/>mus. Nam hic cap. 2. huius Sectionis, &amp; 
+      Augu<lb ed="#G" n="12" break="no"/>stinus lib. de Lit, &amp; Spir. cap. 22. has Scripturae 
+      <lb ed="#G" n="13"/>phrases, vt plane inter se consentientes 
+      confe<lb ed="#G" n="14" break="no"/>runt, Charitas Dei, iustitia Dei, salus Dei, &amp; 
+      si<lb ed="#G" n="15" break="no"/>miles, ex quibus omnia haec esse Dei dona intel 
+      <lb ed="#G" n="16"/>ligitur. Ergo quod in Deo est iustitia, salus, 
+      <lb ed="#G" n="17"/>misericordia, idem quoque est charitas, 
+      nem<lb ed="#G" n="18" break="no"/>pe Dei attributum, vel donum: non autem 
+      vola<lb ed="#G" n="19" break="no"/>Deinde cap1y. huius Distinct. &amp; lib. 2. de doct. 
+      <lb ed="#G" n="20"/>Christian. cap. Io. charitas definitur esse motus 
+      <lb ed="#G" n="21"/>animi nostri ad fruendum Deo. Ergo 
+      chari<lb ed="#G" n="22" break="no"/>tas quae in nobis est, est effectum diuinae naturae 
+      <lb ed="#G" n="23"/>in nobis, non autem ipsa Dei goia. Tertio quis 
+      <lb ed="#G" n="24"/>vnquam fando audiuit aliam esse harum 
+      locutio<lb ed="#G" n="25" break="no"/>num, Deus est spes, vel sapientia mea: Et Deus est 
+      <lb ed="#G" n="26"/>dilectio, &amp; amor meus, explicandarum legem at 
+      <lb ed="#G" n="27"/>que rationem: vti enim dicitur, Deus spes 
+      no<lb ed="#G" n="28" break="no"/>stra, tum quod illius obiectum sit, tum etiam  
+      <lb ed="#G" n="29"/>efficiens caussa: sic &amp; idem Deus est dilectio seu 
+      <lb ed="#G" n="30"/>charitas nostra. est &amp; causa nostrae charitatis, &amp; 
+      il<lb ed="#G" n="31" break="no"/>lius finis atque etiam obiectum. Neque vero 
+      <lb ed="#G" n="32"/>Deus spes nostra esse potest, quin idem 
+      eodem<lb ed="#G" n="33" break="no"/>que modo sit charitas nostra, propterea quod 
+      <lb ed="#G" n="34"/>diligimus ea, quae speramus, &amp; dilectio a spe 
+      <!--390.xml-->
+      <pb ed="#G" n="289"/>
+               <lb ed="#G" n="1"/>diuelli nullo modo potest vt docet ipse Aug. 
+      <lb ed="#G" n="2"/>inEnchirid. cap. 2. &amp; 4. Denique cur non possit 
+      <lb ed="#G" n="3"/>Deus ex Ps. IG Vers. II. dici charitas nostra, vti 
+      <lb ed="#G" n="4"/>spes &amp; salus nostra, non video. Quare 
+      captiun<lb ed="#G" n="5" break="no"/>cula est tota haec tam arguta Lombardi solutio 
+      <lb ed="#G" n="6"/>atque distinctio. 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e735">
+               <lb ed="#G" n="7"/>AD CAP. VI
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e741">
+               <lb ed="#G" n="8"/>Etsi loquatur. Quaedam sunt hoc loco ab 
+      <lb ed="#G" n="9"/>isto praetermissa, quaedam immutata ex 
+      Augu<lb ed="#G" n="10" break="no"/>stino, verum sine ipsius autoris sententiae 
+      detri<lb ed="#G" n="11" break="no"/>mento. 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e752">
+               <lb ed="#G" n="12"/>Quocirca rectissime Spir, sanct. Hinc prima 
+      <lb ed="#G" n="13"/>totius huius erroris origo, &amp; occasio, quod non 
+      <lb ed="#G" n="14"/>fuerit animaduersa varia significatio huius 
+      vo<lb ed="#G" n="15" break="no"/>cis Spiritus, quae ex Hebraeorum idiotismo mo 
+      <lb ed="#G" n="16"/>do pro ipso autore donorum Spiritualium, mo 
+      <lb ed="#G" n="17"/>do pro donis ipsis spiritualibus accipitur. Quod 
+      <lb ed="#G" n="18"/>tamen praeclare distinxerat, docuerantque 
+      Pau<lb ed="#G" n="19" break="no"/>lus I. Corinth. I2. Vers. 4. 89. &amp;. Discrimtna autem,  
+      <lb ed="#G" n="20"/>sunt donorum, ait, sed idem Spiritus, &amp; discrimina 
+      <lb ed="#G" n="21"/>ministeriorum sunt, sed idem Spiritus: &amp; discrimina 
+      <lb ed="#G" n="22"/>facultatum sunt, sed idem Spiritus efficiens eas 
+      om<lb ed="#G" n="23" break="no"/>nes in quibusuis. Iste vero putat vnum quiddam  
+      <lb ed="#G" n="24"/>i dem apiouῳ esse &amp; autorem ipsum charitatis 
+      <lb ed="#G" n="25"/>nostrae: &amp; ipsummet donum creatum in nobis 
+      <lb ed="#G" n="26"/>.I. charitatem ipsam quam diligimus Deum vel 
+      <lb ed="#G" n="27"/>proximum. Sic peccatum dicitur &amp; Paena 
+      pec<lb ed="#G" n="28" break="no"/>cati siue multa: &amp; ipse reatus siue culpa 2. Cor.8 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e791">
+               <lb ed="#G" n="29"/>AD CAP. X. 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e796">
+               <lb ed="#G" n="30"/>Christo autem. Quaedam hic sunt 
+      praeter<lb ed="#G" n="31" break="no"/>missa non sine dispendio sensus. Itaque ea huic 
+      <lb ed="#G" n="32"/>loco ex ipso Augustino reddam. Quando autem  
+      <!--391.xml-->
+      <pb ed="#G" n="290"/>
+               <lb ed="#G" n="1"/>ait Ioannnes Baptista, non enim ad mensuram dat 
+      <lb ed="#G" n="2"/>Deus Spiritum, de ipso Dei Filio loquebatur, cui 
+      <lb ed="#G" n="3"/>non est datus Spiritus ad mensuram, quia in eo 
+      in<lb ed="#G" n="4" break="no"/>habitat omnis plenitudo diuinitatis. Neque enim 
+      <lb ed="#G" n="5"/>sine gratia &amp;c. Hoc tam necessarium non fuit 
+      <lb ed="#G" n="6"/>abscindendum. 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e822">
+               <lb ed="#G" n="7"/>AD CAP. XI 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e827">
+               <lb ed="#G" n="8"/>Vnde dilectio est. Locus ἀωεις δεονμωoς, ex 
+      <lb ed="#G" n="9"/>quo illud tantum colligi potest Charitatem Dei 
+      <lb ed="#G" n="10"/>de qua Paulus Galat. 2. Vers. 6 &amp; Roman. 8. Ver. 
+      <lb ed="#G" n="11"/>g. esse eam, qua nos Deum diligimus, quae &amp;  
+      <lb ed="#G" n="12"/>ipsa quoque a Deo est, siue a Spiritu sancto, 
+      <lb ed="#G" n="13"/>non autem a nobis. Verba Augustini haec sunt,  
+      <lb ed="#G" n="14"/>Postreme haec est fides, quae per dilectionem 
+      opera<lb ed="#G" n="15" break="no"/>tur, non per timorem: non formidando poenam, sed 
+      a<lb ed="#G" n="16" break="no"/>mando iustitiam. Vnde ergo ista dilectio, id est, 
+      cha<lb ed="#G" n="17" break="no"/>ritas, per quam fides operatur, nisi vnde illa fides, 
+      <lb ed="#G" n="18"/>&amp;c. Ergo de eo non agit August, vtrum eadem  
+      <lb ed="#G" n="19"/>sit vel numero, vel specie ea charitas qua nos 
+      <lb ed="#G" n="20"/>Deu diligimus, &amp; nos ipsos Deus: neque 
+      quic<lb ed="#G" n="21" break="no"/>quam habet cum isto Lombardi argumento 
+      ar<lb ed="#G" n="22" break="no"/>fine. Caeterum etsi August. non hic tantum, sed 
+      <lb ed="#G" n="23"/>&amp; Serm. 44. De verb. Euangelistae: itemque 
+      a<lb ed="#G" n="24" break="no"/>lij, vti Ambrosius, Prosper, Anselmus, &amp; similes 
+      <lb ed="#G" n="25"/>locum illum Pauli Roman. 8. Versi. 8. de ea 
+      cha<lb ed="#G" n="26" break="no"/>ritate interpretantur, qua Deum diligimus: 
+      ta<lb ed="#G" n="27" break="no"/>men &amp; series ipsius contextus apud Paulum, 
+      <lb ed="#G" n="28"/>&amp; verba ipsa Pauli eodem cap. versi 8. ostendunt 
+      <lb ed="#G" n="29"/>de ea charitate potius esse sumendum, qua Deus  
+      <lb ed="#G" n="30"/>nos in Christo diligit, atque complexus est. Id 
+      <lb ed="#G" n="31"/>quod etiam ex eodem Paulo confirmatur 
+      Ro<lb ed="#G" n="32" break="no"/>man. 8. Versi a9, &amp; I. Ioan, 4. Versi o. 
+      <!--392.xml-->
+      <pb ed="#G" n="291"/>
+      
+            </p>
+            <p xml:id="cv8jk9-e17913-d1e889">
+               <lb ed="#G" n="1"/>AD CAP. XVII 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e894">
+               <lb ed="#G" n="2"/>Charitas Dei. Primum quod per δεατοειαν 
+      <lb ed="#G" n="3"/>Qαι ὑωνλεσνν effatur Augustinus, iste per καταφααιν. 
+      <lb ed="#G" n="4"/>ltaque immutat genus ipsum loquendi, quo 
+      v<lb ed="#G" n="5" break="no"/>titur August. lib. De Morib Eccl. cap. Ii. Ait 
+      e<lb ed="#G" n="6" break="no"/>nim ille. Sin virtus illa dicta est, quae ipsius animi 
+      <lb ed="#G" n="7"/>nostri rectissima affectio est. Iste habet Hic dicta est 
+      <lb ed="#G" n="8"/>virtus, &amp;c. Deinde addit iste haec verba. Quae 
+      <lb ed="#G" n="9"/>coniungit nos Deo, qua eum diligimus, quae non 
+      <lb ed="#G" n="10"/>sunt apud Augustinum. Deinde omissae sunt 
+      vo<lb ed="#G" n="11" break="no"/>ces Pauli, Neque principatus, neque virtutes, ex 
+      <lb ed="#G" n="12"/>Rom in. 8. Versi 28, quas explicat Augustinus,  
+      <lb ed="#G" n="13"/>non autem charitatem Dei, vt tamen iste putat. 
+      <lb ed="#G" n="14"/>Ergo quod de qualibet virtute in genere dixit 
+      <lb ed="#G" n="15"/>Augustinus explicans, vti dixi, vocem illam Pau 
+      <lb ed="#G" n="16"/>linam δυνάμας, quae commodius Potestates 
+      ver<lb ed="#G" n="17" break="no"/>ti debuit: sed veteres Virtutes conuertebant) 
+      <lb ed="#G" n="18"/>iste ad vnam charitatem refert, quasi diceret 
+      <lb ed="#G" n="19"/>Paulus, Neque virtus nos separabit a charitate 
+      <lb ed="#G" n="20"/>Dei, id est, neque charitas a charitate nos separa 
+      <lb ed="#G" n="21"/>bit, quod est absurdissimum. Itaque &amp; sibi ipsi 
+      <lb ed="#G" n="22"/>&amp; Augustino in patrocinium a se tamen 
+      aduo<lb ed="#G" n="23" break="no"/>cato est iste contrarius. 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e944">
+               <lb ed="#G" n="24"/>AD CAP XVIII 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e949">
+               <lb ed="#G" n="25"/>I E: per hoc ipsam esse. Breuis sententia, in 
+      <lb ed="#G" n="26"/>qua tamen grauissime peccatum est, idque 
+      du<lb ed="#G" n="27" break="no"/>pliciter: primum quidem, quema dmodum in 
+      <lb ed="#G" n="28"/>cap. 4. huius ipsius Distinctionis N. 2. antea 
+      ob<lb ed="#G" n="29" break="no"/>seruauimus, in ipsa argumentandi forma. 
+      Ne<lb ed="#G" n="30" break="no"/>que enim sequitur, vt si nihil charitate est 
+      me<lb ed="#G" n="31" break="no"/>ius, ergo sit illa Spiritus sanctus potius, quam  
+      <lb ed="#G" n="32"/>Pater, vel Filius: sed vt charitas conceda tur 
+      es<lb ed="#G" n="33" break="no"/>se Deus, non recte tame inde concluditur illam  
+      <!--393.xml-->
+      <pb ed="#G" n="292"/>
+               <lb ed="#G" n="1"/>esse Spiritum Sanctum, &amp; non Patrem, vel 
+      Fi<lb ed="#G" n="2" break="no"/>lium: quoniam Dei appellatio trium 
+      Persona<lb ed="#G" n="3" break="no"/>rum diuinarum aequeconmuus, vel potius 
+      pro<lb ed="#G" n="4" break="no"/>pria. Sed neque hoc ipsum quod putat Lombardus 
+      <lb ed="#G" n="5"/>esse argumentum, verum est, &amp; firmum, 
+      nimi<lb ed="#G" n="6" break="no"/>rum quia nihil sit in homine charitate 
+      me<lb ed="#G" n="7" break="no"/>lius, ergo charitatem ipsam esse vere Deum. i 
+      <lb ed="#G" n="8"/>ipsam Deitatis essentia. Nam omnia attributa 
+      <lb ed="#G" n="9"/>Dei, qualis est charitas, vti antea docuimus, ab 
+      <lb ed="#G" n="10"/>ipsa destult seu ὑniα diuina distinguuntur. Dicitur 
+      <lb ed="#G" n="11"/>enim Deus esse sapientia, iustitia, misericordia, 
+      <lb ed="#G" n="12"/>&amp;c. propterea tamen nemo Orthodoxus 
+      iusti<lb ed="#G" n="13" break="no"/>tiam, &amp; sapientiam ab ipsa Dei essentia non 
+      di<lb ed="#G" n="14" break="no"/>stinxepit, quemadmiodum praeclare docet 
+      Basil<lb ed="#G" n="15" break="no"/>lib. I. contra Eunomium. Deinde quod de 
+      cha<lb ed="#G" n="16" break="no"/>ritate) dicitur. comparate &amp; κατατι duntaxat 
+      <lb ed="#G" n="17"/>Nihisest melius charitate, quum videlicet 
+      con<lb ed="#G" n="18" break="no"/>fertur &amp; comparatur cum sui generis rebus, id 
+      <lb ed="#G" n="19"/>est, cum reliquis Dei donis, sumitur ab isto, vt 
+      <lb ed="#G" n="20"/>ωτολῶς &amp; absolute dictum. Sic Paulus L. Corinthi 
+      <lb ed="#G" n="21"/>I8. Versuis dixit μόξωνδότυον ηακατα. Maxima 
+      ha<lb ed="#G" n="22" break="no"/>rum est charitas: Nec propterea tamen charitas 
+      e<lb ed="#G" n="23" break="no"/>rit Deus, vt vult iste: quia &amp; iipsa charitate (quae 
+      <lb ed="#G" n="24"/>est optimum donorum Dei) Deus ipse, illius 
+      <lb ed="#G" n="25"/>autor, melior est: &amp; charitas ista tantum 
+      do<lb ed="#G" n="26" break="no"/>rsum, cfeata tamen est in nobis qualitas, qualis 
+      <lb ed="#G" n="27"/>certe Deus esse nequaquam potest. Hoc primum 
+      <lb ed="#G" n="28"/>est. in hae sententia Lombardi insigne peccatum: 
+      <lb ed="#G" n="29"/>Alterum est, quod non tantum intorquet 
+      Au<lb ed="#G" n="30" break="no"/>gustini mentem, sed etiam prorsus euertit. Quod 
+      <lb ed="#G" n="31"/>enim de Deo ipso charitatis autore &amp; causa scri 
+      <lb ed="#G" n="32"/>psit aperte August. iste, magna vel incuria, vel 
+      <lb ed="#G" n="33"/>impudentia ad ipsam charitatem id est ad effectum  
+      <lb ed="#G" n="34"/>ipsum donum Dei traducit. Quod vt vel lippis 
+      <!--394.xml-->
+      <pb ed="#G" n="293"/>
+               <lb ed="#G" n="1"/>ipsis sit notum: en ipsamet Aug. verba ex lib. de 
+      <lb ed="#G" n="2"/>Morib. Eccl. cap. yt. Si igitur diligentibus Deum 
+      <lb ed="#G" n="3"/>omnia procedunt in bonum, &amp; summum bonum (quod 
+      <lb ed="#G" n="4"/>etiam optimum dicitur) non modo diligendum esse 
+      <lb ed="#G" n="5"/>nemo ambigit: sed ita diligendum, vt nihil amplius 
+      <lb ed="#G" n="6"/>diligere debeamus, idque significatur &amp; exprimitur 
+      <lb ed="#G" n="7"/>eo, quod dictum est, ex tota anima, &amp; ex toto corde, &amp; 
+      <lb ed="#G" n="8"/>ex tota mente. Quis, quaeso, dubitauerit his omnibus 
+      <lb ed="#G" n="9"/>canstitutis, &amp; firmissime creditis, nihil nobis aliud esse 
+      <lb ed="#G" n="10"/>optimum, ad quod adipiscendum, postpositis vaeterus, 
+      <lb ed="#G" n="11"/>festinare oporteat, quam Deum. Item si nulla res ib 
+      <lb ed="#G" n="12"/>eius charitate nos soparat, quid esse nonsolum melius,  
+      <lb ed="#G" n="13"/>sed etiam certius hoc bono, (nempe Deo)poteste Ica 
+      <lb ed="#G" n="14"/>Augustinus: iste vero &amp; haec verba Item sitollit, 
+      <lb ed="#G" n="15"/>&amp; dilucidam illam Augustini mentem cofundit,  
+      <lb ed="#G" n="16"/>&amp; ad charitatem nostram, id est, qua Deum 
+      dili<lb ed="#G" n="17" break="no"/>gimus tranffert. 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e1090">
+               <lb ed="#G" n="18"/>2 Vnde Augustinus. Maluit iste Augustini,  
+      <lb ed="#G" n="19"/>quam diui Pauli &amp; Spiritus sancti testimonio 
+      <lb ed="#G" n="20"/>vti, quo tamen vtitur suamque sententiam 
+      con<lb ed="#G" n="21" break="no"/>firmat August. ex I. Corintha2. 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e1101">
+               <lb ed="#G" n="22"/>AD CAP. XIX
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e1107">
+               <lb ed="#G" n="23"/>Per donum quod est. Quanquam quod 
+      im<lb ed="#G" n="24" break="no"/>mutatum est ab isto in Augustini verbis leuem 
+      <lb ed="#G" n="25"/>iacturam videtur afferre, tamen duo quaedam  
+      <lb ed="#G" n="26"/>ab Augustino dissentanea ex hoc Lombardi 
+      lo<lb ed="#G" n="27" break="no"/>co colligi possunt, ex quibus hoc vnum est, quod 
+      <lb ed="#G" n="28"/>August, explicans locum Pauli Ephesi 4 &amp; 
+      Psal<lb ed="#G" n="29" break="no"/>So. Dedit Christus dona vel donum hominibus osten 
+      <lb ed="#G" n="30"/>dit Doni nomine singulari numero prolato 
+      in<lb ed="#G" n="31" break="no"/>telligi Spiritum sanctum, qui datus est 
+      Aposto<lb ed="#G" n="32" break="no"/>lis: nomine vero Dona plurali numero 
+      signifi<lb ed="#G" n="33" break="no"/>cari ipsius Spiritus sancti dona. Alterum est quod 
+      <!--395.xml-->
+      <pb ed="#G" n="294"/>
+               <lb ed="#G" n="1"/>idem Augustinus eleganti quadam allusione 
+      <lb ed="#G" n="2"/>&amp; argutasquemadmodum solet) dixit, Per 
+      do<lb ed="#G" n="3" break="no"/>num dona data esse hominibu id es. per Spiritum 
+      san<lb ed="#G" n="4" break="no"/>ctum data esse dona hominibus. Haec August. 
+      <lb ed="#G" n="5"/>lste contra ex ista argutula phrasi hoc quod 
+      se<lb ed="#G" n="6" break="no"/>mel ab Augustino dictum est, velut perpetuum 
+      <lb ed="#G" n="7"/>locutionis genus in vsu esse eportere 
+      putat<lb ed="#G" n="8" break="no"/>Deinde hic per donum illud taquam per mediam  
+      <lb ed="#G" n="9"/>quandam &amp; subseruientem causam illa dona 
+      <lb ed="#G" n="10"/>reliqua hominibus dari innuit: tanquam non sit 
+      <lb ed="#G" n="11"/>Spiritus sanctus autor ipse, &amp; ἀηλιον πυμονικὸν isto 
+      <lb ed="#G" n="12"/>rum donorum, quae donat hominibus. Quod 
+      <lb ed="#G" n="13"/>ab Eusebianorum errore non procul abest, qui 
+      <lb ed="#G" n="14"/>Spiritum sanctum δοκὸν Filij esse contendebant. 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e1168">
+               <lb ed="#G" n="15"/>Censura.
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e1173">
+               <lb ed="#G" n="16"/>Multa sunt quae tum in ipso Lombardo, tum 
+      <lb ed="#G" n="17"/>eius inte rpretibus in hac Distinctione merito 
+      <lb ed="#G" n="18"/>reprehendero. Ac quidem in Lombardo, tum 
+      <lb ed="#G" n="19"/>ordinis in hac quaestione perturbationem: tum 
+      <lb ed="#G" n="20"/>dogmatum ac sententiarum, quas hoc loco, 
+      <lb ed="#G" n="21"/>si quo in alio, pertinaciter tuetur, falsitatem.  
+      <lb ed="#G" n="22"/>Ordinis igitur perturbatio in eo apparet, 
+      <lb ed="#G" n="23"/>quod cum cap. 2. quatuor quaedam αἰτήματα seu 
+      <lb ed="#G" n="24"/>postulata proposuerit, canque postea probare 
+      a<lb ed="#G" n="25" break="no"/>liquot rationibus connixus sit, neque quo illa 
+      <lb ed="#G" n="26"/>primum proposuit ordine, postea 
+      persecu<lb ed="#G" n="27" break="no"/>tus est: neque etiam quo alia ex aliis pendent. 
+      <lb ed="#G" n="28"/>Nam quartum postulatum ex secundo 
+      pen<lb ed="#G" n="29" break="no"/>det, cui proxime connectendum erat. 
+      Quam<lb ed="#G" n="30" break="no"/>obrem interpretes cum tantam in tam 
+      long<lb ed="#G" n="31" break="no"/>distinctione ordinis σοολυον, quae nihil aliud 
+      <!--396.xml-->
+      <pb ed="#G" n="295"/>
+               <lb ed="#G" n="1"/>quam Cymmerias tenebras pareret, 
+      animad<lb ed="#G" n="2" break="no"/>uerteret, ipsi totam in duo quaedam alia capita 
+      <lb ed="#G" n="3"/>aliterque distinxerunt. Et haec quidem de 
+      me<lb ed="#G" n="4" break="no"/>thodo Lombardi hoc loco.
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e1223">
+               <lb ed="#G" n="5"/>Dogmatum uero ieddς nullo modo negari 
+      <lb ed="#G" n="6"/>potest, quum ab ipsis Lombardi studiosissimis 
+      <lb ed="#G" n="7"/>interpretibus doctrina huius loci manifeste 
+      da<lb ed="#G" n="8" break="no"/>mnetur, quemadmodum in calce huius operis 
+      <lb ed="#G" n="9"/>(vbi Articuli in Magistro sententiarum 
+      con<lb ed="#G" n="10" break="no"/>damnati recensentur) apparet. Vnus modo 
+      Oc<lb ed="#G" n="11" break="no"/>can Quaestio. 2. hoc loco tentauit absurdissimae 
+      <lb ed="#G" n="12"/>&amp; faliissimae illius Lombardi sententiae, Quod 
+      <lb ed="#G" n="13"/>quae in nobis est charitas, est substantialiter Spiritus 
+      <lb ed="#G" n="14"/>sanctus, mitigationem atque excusatione 
+      quan<lb ed="#G" n="15" break="no"/>dam inuenire, quam tamen caeteri omnes 
+      scho<lb ed="#G" n="16" break="no"/>lastici ἀπαφαἰτατον, &amp; inexcusabilem esse 
+      iampri<lb ed="#G" n="17" break="no"/>dem iudicarunt: sed, quemadmodum ait 
+      Quin<lb ed="#G" n="18" break="no"/>tilianus, nullus est tam absurdus error, qui non 
+      <lb ed="#G" n="19"/>suum autorem, &amp; patronum tandem reperiat. 
+      <lb ed="#G" n="20"/>Et certe poterat vel Lombardus ipsecnisi 
+      pror<lb ed="#G" n="21" break="no"/>sus caecutiisset falsa illa sua, &amp; iam praeiudicata 
+      <lb ed="#G" n="22"/>sententia abreptus) per se animaduertere, quam  
+      <lb ed="#G" n="23"/>ἁτοπα hoc loco tueretur, cum tam multa sibi 
+      ad<lb ed="#G" n="24" break="no"/>uersari, &amp; aduersus suam illam sententiam 
+      ob<lb ed="#G" n="25" break="no"/>iici obseruaret, quae per tota nouem capita 
+      per<lb ed="#G" n="26" break="no"/>sequitur. Neque tamen omnia sui illius erroris 
+      <lb ed="#G" n="27"/>incommoda vidit, vt mox dicam : &amp; quae vidit,  
+      <lb ed="#G" n="28"/>eludit potius, quam dissoluit. In summa 
+      re<lb ed="#G" n="29" break="no"/>cte scribit Irenaeus libro quarto capite 
+      sexa<lb ed="#G" n="30" break="no"/>gesimotertio, eam demum esse veram &amp; 
+      ortho<lb ed="#G" n="31" break="no"/>doxam interpretationem Scripturae, quae 
+      ne<lb ed="#G" n="32" break="no"/>que absurdum &amp; repugnans quicquam cum 
+      <lb ed="#G" n="33"/>Dei verbo habeat, neque etiam blasphemum.
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e1288">
+      <!--397.xml-->
+               <pb ed="#G" n="296"/>
+               <lb ed="#G" n="1"/>Quod nobis de omni Christiano dogmate 
+      se<lb ed="#G" n="2" break="no"/>tiendum est. Cur, vero tam turpiter falleretur 
+      <lb ed="#G" n="3"/>Lombardus haec caussa est, quod quae in S. scri 
+      <lb ed="#G" n="4"/>ptura dicuntur τζοπικῶς &amp; metonymice, (qualis 
+      <lb ed="#G" n="5"/>est illa locutio, vbi caussa pro effecto ponitur: i 
+      <lb ed="#G" n="6"/>tem quum abstractum pro concreto, &amp; caetera 
+      <lb ed="#G" n="7"/>huiusmodi) primaeua, absoluta &amp; natiua 
+      signi<lb ed="#G" n="8" break="no"/>ficatione dici existimauit, quale illud, Deus est 
+      <lb ed="#G" n="9"/>charitas, I. Ioan. 4. Deinde quod hyperbolicas 
+      <lb ed="#G" n="10"/>quasdam Augustini phrases (quibus vir ille pius 
+      <lb ed="#G" n="11"/>commouet homines ad charitatem iste tanqua 
+      <lb ed="#G" n="12"/>simpliciter &amp; pure enuntiatas accepit. Quae res 
+      <lb ed="#G" n="13"/>&amp; ignorantia magnam fraudem &amp; huic : &amp; alijs 
+      <lb ed="#G" n="14"/>multis scriptis veterum saepe fecit. Denique 
+      <lb ed="#G" n="15"/>seipsum saepe in hac Distinctione refutat 
+      Lom<lb ed="#G" n="16" break="no"/>bardus, vt ex cap. 8. &amp;2 collatione facile quiuis 
+      <lb ed="#G" n="17"/>intelliget.
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e1332">
+               <lb ed="#G" n="18"/>Porro cur tantopere danandus sit error ille, 
+      <lb ed="#G" n="19"/>quem Lombardus ex falsis postulatis suis(sunt 
+      <lb ed="#G" n="20"/>enim illa quatuor, sed falsissima) tam 
+      pertinaci<lb ed="#G" n="21" break="no"/>ter tamen astruit, ratio est, eanque multiplex. Sed 
+      <lb ed="#G" n="22"/>primum quae sit sententia Lombardi, dicamus. 
+      <lb ed="#G" n="23"/>Est autem haec, Charitate, quae in nobis est, &amp; qua 
+      <lb ed="#G" n="24"/>tum Deum ipsum, tum proximum diligimus, esse 
+      sub<lb ed="#G" n="25" break="no"/>stantialiter ipsum Sp. S. non autem quendam affectum 
+      <lb ed="#G" n="26"/>a Dei Spiritu in nobis creatum &amp; nos commouentem. 
+      <lb ed="#G" n="27"/>Qua quid, obsecro, magis absurdum esse potesto 
+      <lb ed="#G" n="28"/>Primum enim repugnat S. Scripturae, quae 
+      do<lb ed="#G" n="29" break="no"/>cet ἐλασον, quae in nobis est, esse κuρτον ωονδματας. 
+      <lb ed="#G" n="30"/>. i. esse fructum Sp. S. non autem ipsummet vra¬ 
+      <lb ed="#G" n="31"/>μα. I. Sp. S. Galat. 8. Ver. 22. Et eadem Scriptura 
+      <lb ed="#G" n="32"/>vbique distinguit virtute &amp; dona Sp. S. ab ipso 
+      <lb ed="#G" n="33"/>Spiritu. Actor. I. Ver. 8. I. Corinth. I2. Spiritum 
+      <lb ed="#G" n="34"/>quidem ipsum sanctum habent pij, in se inha¬ 
+      <!--398.xml-->
+      <pb ed="#G" n="297"/>
+               <lb ed="#G" n="1"/>bitante. Roma. 8. Ver. I8. I. Cor. a2. Vers. I2. 
+      quo<lb ed="#G" n="2" break="no"/>niam in illis suam praesentiam peculiari Eνρpeiax 
+      <lb ed="#G" n="3"/>&amp; sanctificatione demostrat &amp; testatur: effecta 
+      <lb ed="#G" n="4"/>tamen &amp; dona ipsius propterea non sunt cum 
+      <lb ed="#G" n="5"/>ipso Spiritu confundenda, quod iste facit. 
+      Dein<lb ed="#G" n="6" break="no"/>de pugnat hic idem error cum Patrum 
+      apertis<lb ed="#G" n="7" break="no"/>simis sententiis, quas, ne longiores simus, hic 
+      <lb ed="#G" n="8"/>omittemus, cum vel ex huius Distinctionis 
+      cap<lb ed="#G" n="9" break="no"/>IO. I7. I8. satis cognosci possint. Sic enim 
+      scri<lb ed="#G" n="10" break="no"/>bunt omnes Aκατυν. i. Charitatem esse motum 
+      <lb ed="#G" n="11"/>animi in nobis a Dei Spiritu creatum &amp; insitum. 
+      <lb ed="#G" n="12"/>ltaque Maximus ille scriptor Graecus prima 
+      <lb ed="#G" n="13"/>Centuria sententiarum ex Christianis 
+      scriptori<lb ed="#G" n="14" break="no"/>bus collectarum sic eam definit, Aοατο μλς δ διῶξε¬ 
+      <lb ed="#G" n="15"/>σiς ψυλῆς ἁλαξῆ, κατ μάῆδόν ταν όντυν τῶς τοῳ Qεod vvo¬ 
+      <lb ed="#G" n="16"/>σεως τεπuα. item, ωκατοι μλῳ τικτει απα δεια. 
+      Chari<lb ed="#G" n="17" break="no"/>tas est animi affectus bonus, qua animus noster nihil 
+      <lb ed="#G" n="18"/>quicquam Dei cognitioni praefert. item, Charitatem  
+      <lb ed="#G" n="19"/>parit in nobis animus omni perturbatione vacuus. 
+      <lb ed="#G" n="20"/>Damasce. in Histor. Spiritus habitat in nobis 
+      ba<lb ed="#G" n="21" break="no"/>ptixatis, ait, nos illuminando, &amp; ad Dei imaginem 
+      <lb ed="#G" n="22"/>ac similitudine renouando. Denique vel duo haec 
+      <lb ed="#G" n="23"/>absurda, quae ex hoc errore Lombardi 
+      conse<lb ed="#G" n="24" break="no"/>quuntur, satis eum detestandum esse demostrant. 
+      <lb ed="#G" n="25"/>Primum quod facit Sp. S. motum tatum 
+      quen<lb ed="#G" n="26" break="no"/>dam, eumque creatum, qualis est charitas ea quae 
+      <lb ed="#G" n="27"/>est in nobis. Secundum, quod cum charitas in 
+      <lb ed="#G" n="28"/>nobis inerit, minime in nobismetipsis 
+      immura<lb ed="#G" n="29" break="no"/>bimur, sed erimus tatum vasa &amp; domicilium ωυαι¬ 
+      <lb ed="#G" n="30"/>Vάητὸν habitantis in nobis Sp. S. veluti quum in 
+      <lb ed="#G" n="31"/>dolium infunditur aqua, nulla dolij fit mutatio.  
+      <lb ed="#G" n="32"/>Quam etiam quaestionem tractat Occan in hac 
+      <lb ed="#G" n="33"/>Sectione. Denique quod tantopere vrget iste 
+      <lb ed="#G" n="34"/>Sp. S. esse donum Dei, vt alio nullo pene nomine, 
+      <!--399.xml-->
+      <pb ed="#G" n="298"/>
+      
+               <lb ed="#G" n="1"/>eum ornet, videat quo sensu id scribat, vt ne 
+      <lb ed="#G" n="2"/>Pneutomachorum seu Macedonianorum 
+      haereti<lb ed="#G" n="3" break="no"/>corum deliria in sinu fouere censeatur. Sp. quidem  
+      <lb ed="#G" n="4"/>sanctus dicitur Dei donum, quia gratis &amp; a 
+      pa<lb ed="#G" n="5" break="no"/>tre &amp; a Filio &amp; a seipso datur nobis: sed, vt ait 
+      <lb ed="#G" n="6"/>Basil. lib. de Sp. S. cap. 34. huiusmodi donum est,  
+      <lb ed="#G" n="7"/>quod ισους πυαῖς τῳ δεδωκότι πατζι σεμνύετυι, δῶξον  
+      <lb ed="#G" n="8"/>ξωῆς, δῶρον δυνάμεως &amp; qui ipse est caussa suorum 
+      <lb ed="#G" n="9"/>effectorum &amp; donorum. Et to: quidem vel erro- 
+      <lb ed="#G" n="10"/>res aperti, Vel naeui in hac Lombardi doctrina 
+      <lb ed="#G" n="11"/>deprehenduntur. 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e1478">
+               <lb ed="#G" n="12"/>In ipsis vero eius interpretibus: id est Scholasticis 
+      <lb ed="#G" n="13"/>non pauciora merito reprehenduntur hoc loco, 
+      <lb ed="#G" n="14"/>e quibus sunt haec nonnulla, quae, dicis tantum  
+      <lb ed="#G" n="15"/>causa, a nobis proponuntur.
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e1489">
+               <lb ed="#G" n="16"/>Primum quod omnes hunc Magistrum 
+      sen<lb ed="#G" n="17" break="no"/>tentiarum id est κυειῶν Theologiae suae δοξῶν vno 
+      con<lb ed="#G" n="18" break="no"/>sensu vocant, quem tamen &amp; hic, &amp; alibi 
+      turpis<lb ed="#G" n="19" break="no"/>sime lapsum esse ipsi &amp; agnoscunt, &amp; confitentur.
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e1500">
+               <lb ed="#G" n="20"/>Secundum, quod vnum tantum huius errorum 
+      <lb ed="#G" n="21"/>in hac Distinct. obseruant, quum tamen sint 
+      quam<lb ed="#G" n="22" break="no"/>plurimi, vti docuimus. Quot sunt enim hoc 
+      lo<lb ed="#G" n="23" break="no"/>co αἰτήματα, tot sunt ψευσματα. 
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e1511">
+               <lb ed="#G" n="24"/>Tertium, quod hunc ipsum errorem, nempe 
+      <lb ed="#G" n="25"/>Sp. S. esse substantialiter charitate, quae in nobis inest,  
+      <lb ed="#G" n="26"/>&amp; qua Deum uel proximum diligimus, magistrali 
+      <lb ed="#G" n="27"/>dumtaxat supercilio, &amp; praetoria autoritate 
+      dam<lb ed="#G" n="28" break="no"/>nant, nullis condemnationis sententiaeque suae 
+      <lb ed="#G" n="29"/>rationibus prolatis, quum tamen hic discipuli 
+      <lb ed="#G" n="30"/>in suum, magistrum agant.
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e1529">
+               <lb ed="#G" n="31"/>Quartum, quod praetermisso praecipuo huius Dist. 
+      <lb ed="#G" n="32"/>argumento, quod erat de Spir. S. in extraneas 
+      <lb ed="#G" n="33"/>quasdam quaestiones excurrunt, &amp; praeter casam 
+      in<lb ed="#G" n="34" break="no"/>tempestiue fugiunt, nempe vt disputent hoc loco de
+      <!--400.xml-->
+      <pb ed="#G" n="299"/>
+               <lb ed="#G" n="1"/>charitate, Vtrum meritoria sit: qua ratione 
+      me<lb ed="#G" n="2" break="no"/>ritoria: vtrum quanquam est meriti (vt isti impie 
+      <lb ed="#G" n="3"/>sentiunt) apud Deu nostri caussa, possit tamen 
+      <lb ed="#G" n="4"/>Deus sine charitate nos charos &amp; gratos habe 
+      <lb ed="#G" n="5"/>re: &amp; si nos gratos habet, vtrum de potestate 
+      ab<lb ed="#G" n="6" break="no"/>soluta, an ordinaria id faciat. Hae sunt hoc loco 
+      <lb ed="#G" n="7"/>interpretum Lombardi nugae. Denique ne non 
+      <lb ed="#G" n="8"/>satis materiae, etiam neglecto Lombardi argumeto, 
+      <lb ed="#G" n="9"/>ad insanas illas quaestiones congerendas ipsi ex 
+      <lb ed="#G" n="10"/>sese habere viderentur, accersunt in hunc locum 
+      <lb ed="#G" n="11"/>pueriles prorsus ματαολἰας quales sunt istae, 
+      v<lb ed="#G" n="12" break="no"/>bi quaerunt de incremento nostrae charitatis)
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e1571">
+               <lb ed="#G" n="13"/>Vtrum charitas quoad substantia &amp; 
+      ha<lb ed="#G" n="14" break="no"/>bitum, an tantum quoad affectum augeatur, quasi cha 
+      <lb ed="#G" n="15"/>ritas aliud sit, quam animi affectus &amp; qualitas.
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e1581">
+               <lb ed="#G" n="16"/>Vtrum homo mutetur, quum in eo 
+      cha<lb ed="#G" n="17" break="no"/>ritas augetur. Mutari non putant.
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e1588">
+               <lb ed="#G" n="18"/>Vtrum quum charitas augetur, aliquid ipsi 
+      <lb ed="#G" n="19"/>charitati addatur: Quis vero dubitat nifi 
+      bar<lb ed="#G" n="20" break="no"/>dus quispiam scholasticus: Negant tamen.
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e1597">
+               <lb ed="#G" n="21"/>Vtrum quod additur sit eiusdem species 
+      <lb ed="#G" n="22"/>cum charitate iam inhaerente, an alterius) Hac 
+      <lb ed="#G" n="23"/>difficillima esse quaestionem per plusquam sex 
+      <lb ed="#G" n="24"/>paginas ostendit <name xml:id="cv8jk9-e17913-Nd1e1607">Occan</name>. Nugae vero sunt ista.
+    </p>
+            <p xml:id="cv8jk9-e17913-d1e1611">
+               <lb ed="#G" n="25"/>Vtrum charitas in hac vita ad summum 
+      <lb ed="#G" n="26"/>gradum in nobis esse possit. Posse putant, falsum: 
+      <lb ed="#G" n="27"/>ltaque ex istis omnibus apparet verum esse quod 
+      <lb ed="#G" n="28"/>uit Psalmista, Abssus abyssum vocat: quodque 
+      <lb ed="#G" n="29"/>habet prouerbium vetus, Similes habent labra 
+      la<lb ed="#G" n="30" break="no"/>ctucas. Et tamen in istis nugis posita est,  
+      <lb ed="#G" n="31"/>si Deo placet, istorum 
+      homi<lb ed="#G" n="32" break="no"/>num 
+      Theolo<lb ed="#G" n="33" break="no"/>gia.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

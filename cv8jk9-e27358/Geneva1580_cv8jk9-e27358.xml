@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 30</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 30</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="495"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e27358"><!-- ld-d30 -->
+            <head xml:id="cv8jk9-e27358-Hd1e106">Distinctio 30</head>
+            <p xml:id="cv8jk9-e27358-d1e109">
+      <!--596.xml-->
+               <pb ed="#G" n="495"/>
+               <lb ed="#G" n="1"/>AD DISTINCT XXX 
+    </p>
+            <p xml:id="cv8jk9-e27358-d1e118">
+               <lb ed="#G" n="2"/>AD CAP. I. 
+    </p>
+            <p xml:id="cv8jk9-e27358-d1e123">
+               <lb ed="#G" n="3"/>Ergo. Augustinus habet, Ecce, sed non 
+      <lb ed="#G" n="4"/>mutat sententiam loci vocabulum a 
+      Lombar<lb ed="#G" n="5" break="no"/>do suppositum: 
+    </p>
+            <p xml:id="cv8jk9-e27358-d1e132">
+               <lb ed="#G" n="6"/>AD CAP. II 
+      <lb ed="#G" n="7"/>Quia non erat tempus. In hoc 
+      Augu<lb ed="#G" n="8" break="no"/>stini dicto inulta sunt a Lombardo pro sua in 
+      <lb ed="#G" n="9"/>bonos omnes autores Ecclesiasticos 
+      tyranni<lb ed="#G" n="10" break="no"/>de ausa: quaedam leuis, quaedam vero grauis 
+      <lb ed="#G" n="11"/>momenti. 
+    </p>
+            <p xml:id="cv8jk9-e27358-d1e149">
+               <lb ed="#G" n="12"/>Leuis momenti, vt hic pro Non enim iste sub. 
+      <lb ed="#G" n="13"/>stituit, Quia: proergo habet enim. Grauis, vt pro 
+      <lb ed="#G" n="14"/>auferri videatur supponit amoueatur. pro Simul 
+      <lb ed="#G" n="15"/>subiicit Similiter. 
+    </p>
+            <p xml:id="cv8jk9-e27358-d1e160">
+               <lb ed="#G" n="16"/>Qualiter etiam. Vulneratus est hoc loco 
+      <lb ed="#G" n="17"/>a Lombardo Augustinus, &amp; male acceptus. 
+      Trum<lb ed="#G" n="18" break="no"/>cat enim iste eam sacrae Scripturae autoritatem, 
+      <lb ed="#G" n="19"/>quam August. ex Ps. 9o. affert his verbis, Domi 
+      <lb ed="#G" n="20"/>ne, inquit, resugium factus es nobis. Deinde 
+      obscu<lb ed="#G" n="21" break="no"/>rat iste dilucidam Augustini orationem. 
+      Subii<lb ed="#G" n="22" break="no"/>cit enim August. Nefugium ergo nostrum Deus re 
+      <lb ed="#G" n="23"/>latiue dicitur. Ad nos enim refertur, &amp;c. 
+      Dispun<lb ed="#G" n="24" break="no"/>ctionem etiam illius loci Lombardici omnes 
+      <lb ed="#G" n="25"/>Codices peruertunt, &amp; Aelanue separant a 
+      ver<lb ed="#G" n="26" break="no"/>bo dicitur. Ita bonum illum &amp; senem &amp; Patrem  
+      <lb ed="#G" n="27"/>Augustinum misere tractat Lombardus. 
+    </p>
+            <p xml:id="cv8jk9-e27358-d1e189">
+               <lb ed="#G" n="28"/>Censura.
+    </p>
+            <p xml:id="cv8jk9-e27358-d1e194">
+               <lb ed="#G" n="29"/>Et haec quidem in istam Distinctionem satis esse 
+      <lb ed="#G" n="30"/>poterant: sed tamen, quia in ta breui disputatione 
+      <!--597.xml-->
+      <pb ed="#G" n="496"/>
+               <lb ed="#G" n="1"/>ingentes quaestionum moles ab istius autoris 
+      <lb ed="#G" n="2"/>interpretibus congeruntur, videndum est quid 
+      <lb ed="#G" n="3"/>&amp; vnde istae nascantur. Ex eo autem vno. 
+      oriun<lb ed="#G" n="4" break="no"/>tur omnes, quod neque satis seipsum 
+      explica<lb ed="#G" n="5" break="no"/>uit hoc loco Lombardus: neque susceptum 
+      ar<lb ed="#G" n="6" break="no"/>gumentum. Itaque tres quaestiones in illius 
+      ex<lb ed="#G" n="7" break="no"/>plicationem affert Durandus: G. autem Occan 
+      <lb ed="#G" n="8"/>quinque: alij etiam plures. In primis igitur haec 
+      <lb ed="#G" n="9"/>vitia in isto tractatu Lombardico, Vtrum Deo 
+      <lb ed="#G" n="10"/>aliquid ex tempore conueniat, vel ex tempore de eo 
+      <lb ed="#G" n="11"/>dicatur obseruari a quolibet possunt.
+    </p>
+            <p xml:id="cv8jk9-e27358-d1e229">
+               <lb ed="#G" n="12"/>Primum, crambe repetita, quae, vt dici solet, 
+      <lb ed="#G" n="13"/>mors est. Quae enim hic traduntur, supra Dist. 
+      <lb ed="#G" n="14"/>I8. cap. II. &amp; I2, magnam partem expedita 
+      tra<lb ed="#G" n="15" break="no"/>ctataque fuerant: vel saltem cum illis 
+      erantcon<lb ed="#G" n="16" break="no"/>iungenda. Ex quo fit, vt praeter repetitionem 
+      <lb ed="#G" n="17"/>etiam perturbatio ordinis insit in hac 
+      Distin<lb ed="#G" n="18" break="no"/>ctione.
+    </p>
+            <p xml:id="cv8jk9-e27358-d1e247">
+               <lb ed="#G" n="19"/>Secundum, quod quae generaliter de 
+      nomi<lb ed="#G" n="20" break="no"/>nibus iis, quae Deo ex tempore tribuuntur, dici 
+      <lb ed="#G" n="21"/>debuerunt, iste pene ad vnam tantum aut 
+      alte<lb ed="#G" n="22" break="no"/>ram Domini, Patris, &amp; Refugij appellationem 
+      <lb ed="#G" n="23"/>restringit. Atqui &amp; Saluator, &amp; Creator, &amp; Deus  
+      <lb ed="#G" n="24"/>meus veltuus dicitur ex tempore: &amp; infinita sunt 
+      <lb ed="#G" n="25"/>huiusmodi attributa, quae nonnisi ex tempore 
+      <lb ed="#G" n="26"/>Deo competunt, omnia nempe quae certum 
+      a<lb ed="#G" n="27" break="no"/>liquod in creaturis ipsis existentibus opus, aut 
+      <lb ed="#G" n="28"/>in eas beneficium Dei significant.
+    </p>
+            <p xml:id="cv8jk9-e27358-d1e272">
+               <lb ed="#G" n="29"/>Tertium, quod non satis distinxit, aut 
+      expo<lb ed="#G" n="30" break="no"/>suit iste cap. 2. dictum illud Augustini, 
+      Substan<lb ed="#G" n="31" break="no"/>tiam nostram mutari cum ex malis fimus boni. 
+      Du<lb ed="#G" n="32" break="no"/>bitatur enim, &amp; merito quidem, quid ista vox 
+      <lb ed="#G" n="33"/>Substantia, in hac sententia significet.
+    </p>
+            <p xml:id="cv8jk9-e27358-d1e285">
+               <lb ed="#G" n="34"/>Quartum, quod non soluit difficillimam illa 
+      <!--598.xml-->
+      <pb ed="#G" n="497"/>
+               <lb ed="#G" n="1"/>quaestionem, quae affertur aduersus sententiam  
+      <lb ed="#G" n="2"/>Augustini, licet verissimam, Quaedam ex tempore 
+      <lb ed="#G" n="3"/>tantum Deo conuenire, &amp; de eo dici. Ergo 
+      obii<lb ed="#G" n="4" break="no"/>ciunt, qui conmtra contendunt, illa ipsa, quae ex 
+      <lb ed="#G" n="5"/>tempore Deo conueniunt, cum secundum 
+      ra<lb ed="#G" n="6" break="no"/>tionem de Deo dicantur, non secundum rem, 
+      <lb ed="#G" n="7"/>id est, realiter competere Deo. Itaque Deus non di 
+      <lb ed="#G" n="8"/>cit realiter creator Petri Apostoli: realiter 
+      sal<lb ed="#G" n="9" break="no"/>uator Pauli, &amp; sic de caeteris. Quod certe ne 
+      <lb ed="#G" n="10"/>sentiri quidem posse videtur sine graui blasphe 
+      <lb ed="#G" n="11"/>mia. Hoc argumentum non dissoluit 
+      Lombar<lb ed="#G" n="12" break="no"/>dus: quod vt enodaret quinque longissimas &amp; 
+      <lb ed="#G" n="13"/>verbosissimas, suo more, quaestiones proponit 
+      <lb ed="#G" n="14"/>Occan. Responsio vero facilis est, quod 
+      quam<lb ed="#G" n="15" break="no"/>quam ea ratione &amp; mutatione, quae ipsis 
+      crea<lb ed="#G" n="16" break="no"/>turis duntaxataccidit, ista Deo conueniunt, 
+      ta<lb ed="#G" n="17" break="no"/>men non sequitur realiter, id est, vere non 
+      con<lb ed="#G" n="18" break="no"/>petere Deo. Exempli gratia, vt columna sit 
+      ali<lb ed="#G" n="19" break="no"/>cui dextra aut sinistra: vt Sol sit tibi supra xenith 
+      <lb ed="#G" n="20"/>aut non: vt ego morte Patris desinam appellari 
+      <lb ed="#G" n="21"/>Filius, nulla sit in columna, in Sole, in me Filio 
+      <lb ed="#G" n="22"/>mutatio: sed in homine ad columnam sese 
+      con<lb ed="#G" n="23" break="no"/>uertente: in te peregrinante vltra AEquatorem: 
+      <lb ed="#G" n="24"/>in Patre meo moriente: &amp; tamen reipsa dicitur 
+      <lb ed="#G" n="25"/>columna dextra aut sinistra: Sol reipsa supraxe 
+      <lb ed="#G" n="26"/>nith, aut non: ego Filius dici desino post morte 
+      <lb ed="#G" n="27"/>Patris. Quod idem de Deo fatendum est, etsi 
+      <lb ed="#G" n="28"/>nulla in eo mutatio contingat. Illa vero 
+      senten<lb ed="#G" n="29" break="no"/>tia quorundam, qui existimant, quae de Deo ex 
+      <lb ed="#G" n="30"/>tempore dicuntur, secundum essentiam ei 
+      com<lb ed="#G" n="31" break="no"/>petere, falsa est. Nam quae secundum essentiam  
+      <lb ed="#G" n="32"/>Deo competunt, illa ab aeterno eidem 
+      conue<lb ed="#G" n="33" break="no"/>niunt. Itaque in iis verissima est ista Damasceni 
+      <lb ed="#G" n="34"/>oratio lib. I. de Orthodoxa fide, cap. I8. Eτm ατα 
+      <!--599.xml-->
+      <pb ed="#G" n="498"/>
+               <lb ed="#G" n="1"/>γδ κδεν γνεται, κι απογινεται. A᾽ναλλοιωτος γαρ εςι, καὶ ἄ¬ 
+      <lb ed="#G" n="2"/>τξεπλος, καὶ ἀ χρη υθμβεγηκὸς ὀπι ἀυτῆ λεγειν. Sed 
+      huius<lb ed="#G" n="3" break="no"/>modi vocabula &amp; attributa, de quibus hic 
+      agi<lb ed="#G" n="4" break="no"/>mus, &amp; quae ex tempore conueniunt Deo, 
+      actio<lb ed="#G" n="5" break="no"/>nes Dei denotant ad extra, quarum etsi decretum  
+      <lb ed="#G" n="6"/>est ab aeterno in Deo : executio tamen earum  
+      <lb ed="#G" n="7"/>realis a Deo facta est in tempore, idcircoque: ab 
+      <lb ed="#G" n="8"/>ea Deus ex tempore talis, aut talis 
+      denomina<lb ed="#G" n="9" break="no"/>tur. Et haec quidem hactenus, 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

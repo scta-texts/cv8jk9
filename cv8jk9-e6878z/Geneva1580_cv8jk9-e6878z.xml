@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 2</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 2</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="33"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e6878z"><!-- ld-d2 -->
+            <head xml:id="cv8jk9-e6878z-Hd1e106">Distinctio 2</head>
+            <p xml:id="cv8jk9-e6878z-d1e109">
+               <lb ed="#G" n="6"/>AD DISTINCTIONIS II 
+      <lb ed="#G" n="7"/>CAP. I. 
+      <lb ed="#G" n="8"/>collatio.
+    </p>
+            <p xml:id="cv8jk9-e6878z-d1e118">
+               <lb ed="#G" n="9"/>I &amp;VOD Trinitas. hic ex Augustino 
+      car<lb ed="#G" n="10" break="no"/>ptim delibat, quae ad breuem huius argumenti 
+      <lb ed="#G" n="11"/>τρooρισμὸν, &amp; commendationem faciunt. Verum 
+      <lb ed="#G" n="12"/>haec oratio explicanda omnino videtur, 
+      Trini<lb ed="#G" n="13" break="no"/>tas est vnus &amp; solus Deus, id est, tres personae 
+      <lb ed="#G" n="14"/>sunt vna, &amp; eadem diuina essentia. Neque enim  
+      <lb ed="#G" n="15"/>ipsa trium cogitatio, ac ratio potest esse vnitas,  
+      <lb ed="#G" n="16"/>&amp; solitarium aliquid: sed ipsa Deitatis ratio in 
+      <lb ed="#G" n="17"/>tribus est vna. Ergo Trinitas ἀφαἰρελικὸν fημα 
+      <lb ed="#G" n="18"/>pro complexo, nempe pro personis tribus posi 
+      <lb ed="#G" n="19"/>tum est: Deus autem pro apαpinuo, nempe 
+      <lb ed="#G" n="20"/>pro diuina ipsa essentia, mira quidem in eadem  
+      <lb ed="#G" n="21"/>propositione ac sententia permutatione, ac 
+      ra<lb ed="#G" n="22" break="no"/>tione dicendi, sed &amp; vsitata, &amp; pro re tam 
+      arca<lb ed="#G" n="23" break="no"/>na etiam humili, vt &amp; abstracta pro concretis: 
+      <lb ed="#G" n="24"/>&amp; concreta pro abstractis ponantur. 
+      Huma<lb ed="#G" n="25" break="no"/>num enim in hoc mysterio explicando laborat 
+      <lb ed="#G" n="26"/>eloquium, vt ait idem August. Eigo recte 
+      <lb ed="#G" n="27"/>Boeth. Trinitas est numerositas: Substantia non 
+      <lb ed="#G" n="28"/>Trinitas continet vnitatem, Relatio multiplicat 
+      <lb ed="#G" n="29"/>Trinitatem. Secundo loco est notandum quod 
+      <lb ed="#G" n="30"/>Substantiae, &amp; Essentiae vocabulis, pro eodem 
+      v<lb ed="#G" n="31" break="no"/>tantur Augustinus, &amp; Boethius, &amp; pro coipso 
+      <lb ed="#G" n="32"/>quod Graeci ἐσαν tantum: non autem ζυον 
+      di<lb ed="#G" n="33" break="no"/>cunt:. Quanquam substantia ab essentia differre 
+      <!--133.xml-->
+      <pb ed="#G" n="34"/>
+      
+               <lb ed="#G" n="1"/>videtur, quod in substantia essentia 
+      conti<lb ed="#G" n="2" break="no"/>netur, &amp; praeter essentiam ipsam, quaecunque 
+      <lb ed="#G" n="3"/>naturaliter inhaerent essentiae. Tertium pro eo, 
+      <lb ed="#G" n="4"/>quod dixerat August. nisi mens per fidei iustitiam  
+      <lb ed="#G" n="5"/>nutrita vegetetur. hic substituit emundetur magis  
+      <lb ed="#G" n="6"/>Platonice loquens, &amp; sola initia, non etiam 
+      in<lb ed="#G" n="7" break="no"/>crementa istius cognitionis nostrae fidei Deo 
+      <lb ed="#G" n="8"/>tribuens, quae tamen vtraque August. accepta 
+      <lb ed="#G" n="9"/>fert Deo
+    </p>
+            <p xml:id="cv8jk9-e6878z-d1e199">
+               <lb ed="#G" n="10"/>CAP. IIII 
+      <lb ed="#G" n="11"/>I SI in illa natura Est locus pulcherrimus,  
+      <lb ed="#G" n="12"/>quem totum exscribere libuit, vt posset cum  
+      <lb ed="#G" n="13"/>isto commodius conferri. Quod nobis maxime in 
+      <lb ed="#G" n="14"/>ipso sanctarum scripturarum initio demonstratur, 
+      <lb ed="#G" n="15"/>ubi Deus dicit, Faciamus hominem ad imagi  
+      <lb ed="#G" n="16"/>nem, &amp; similitudine nostram. Quum enim in 
+      sin<lb ed="#G" n="17" break="no"/>gulari numero dicit, lmaginem, ostendit vnam 
+      na<lb ed="#G" n="18" break="no"/>turam esse, ad cuius imagine homo fienet. Quum 
+      ve<lb ed="#G" n="19" break="no"/>e ro dicit pluraliter Nostram, ostendit eundem Deum 
+      <lb ed="#G" n="20"/>ad cuius imaginem homo fiebat, non vnam esse 
+      per<lb ed="#G" n="21" break="no"/>sonam, Si enim in illa natura vna Patris, &amp; Filij, &amp; 
+      <lb ed="#G" n="22"/>Spiritus sancti vna esset persona, non diceretur ad 
+      <lb ed="#G" n="23"/>imaginem nostram: nec dixisset, faciamus, sed 
+      fa<lb ed="#G" n="24" break="no"/>ciam. Illud obiter annotare quoque libet illum 
+      <lb ed="#G" n="25"/>De fide ad Petrum Diaconum libellum, non 
+      <lb ed="#G" n="26"/>esseAugustini, sed Fulgentij Rupensis 
+      Episco<lb ed="#G" n="27" break="no"/>pi, qui, quemadmodum lsidorus scribit, vixit 
+      <lb ed="#G" n="28"/>sub Anastasio lmperatore 
+      Constantinopolita<lb ed="#G" n="29" break="no"/>no, id est, totis fere centum annis post 
+      Augu<lb ed="#G" n="30" break="no"/>stini excessum, vt ex eo satis intelligi possit 
+      ple<lb ed="#G" n="31" break="no"/>raque aliena, &amp; notha inserta, atque etiam saepe 
+      <lb ed="#G" n="32"/>impurissima ac pessima quaedam infarta esse 
+      <lb ed="#G" n="33"/>doctis, &amp; puris Augustini opusculis, vt cum  
+      <lb ed="#G" n="34"/>iudicio legantur. 
+    </p>
+            <p xml:id="cv8jk9-e6878z-d1e256">
+      <!--134.xml-->
+               <pb ed="#G" n="35"/>
+               <lb ed="#G" n="1"/>CAP. V
+    </p>
+            <p xml:id="cv8jk9-e6878z-d1e266">
+               <lb ed="#G" n="2"/>I APERTE ostendit falsa est in hac 
+      Epi<lb ed="#G" n="3" break="no"/>graphe horum verborum, Solitudo, &amp; 
+      Singulari<lb ed="#G" n="4" break="no"/>tas, distinctio. Nam sic discrimen constituitur 
+      <lb ed="#G" n="5"/>inter singulare &amp; solitarium in Trinitate: quum  
+      <lb ed="#G" n="6"/>tamen postea in ipso textu, &amp; infra distinct. 2s. 
+      <lb ed="#G" n="7"/>cap. 9. I. hoc ipso libro, Singularitas, vel Solitudo. 
+      <lb ed="#G" n="8"/>pro eodem ponatur. Quemadmodum re ipsa 
+      <lb ed="#G" n="9"/>idem &amp; vnum sunt in hoc aroumento, 
+      Singula<lb ed="#G" n="10" break="no"/>re, &amp; Solitarium: contraque. Ergo qui in 
+      Trini<lb ed="#G" n="11" break="no"/>tate singularitatem constituunt, quales 
+      Sabel<lb ed="#G" n="12" break="no"/>liam, siue Noetianinidem etiam in eadem 
+      Soli<lb ed="#G" n="13" break="no"/>tudinem, siue Solitarium inducunt, id est, 
+      vo<lb ed="#G" n="14" break="no"/>lunt non esse personarum diuinarum 
+      plurali<lb ed="#G" n="15" break="no"/>tatem. Etsi vero in lib. De Ecelesiasti. 
+      Dogma<lb ed="#G" n="16" break="no"/>tib. cap. 4. distinguitur Singularitas a Solitudine 
+      <lb ed="#G" n="17"/>in Trinitate, quoniam Sabellij error &amp; 
+      Orige<lb ed="#G" n="18" break="no"/>nis (quorum hic singularitatem: ille vero 
+      con<lb ed="#G" n="19" break="no"/>fusionem constituisse, id est, vnicam diuinam 
+      per<lb ed="#G" n="20" break="no"/>sonam duntaxat finxisse dicitur) diuersus fuisse 
+      <lb ed="#G" n="21"/>traditur ab errore Praxeae, &amp; Syluani, qui 
+      soli<lb ed="#G" n="22" break="no"/>tarium quiddam, &amp; accumulatum in Trinitate 
+      <lb ed="#G" n="23"/>fingunt, ista tamen distinctio verborum tantum 
+      <lb ed="#G" n="24"/>est, non autem rerum ipsarum, aut diuersa 
+      sen<lb ed="#G" n="25" break="no"/>tientium hominum opinio. fuit emm Praxeana 
+      <lb ed="#G" n="26"/>haeresis, seu Pentapolitana Sabellianae riuulus,  
+      <lb ed="#G" n="27"/>ac renouatio tantum: no autem ab ea alia, vel sen 
+      <lb ed="#G" n="28"/>su diuersa. Na quod Singularitatis in Trinitate 
+      <lb ed="#G" n="29"/>error, &amp; opinio tribintur Origeni ab isto 
+      Ec<lb ed="#G" n="30" break="no"/>clesiasticorum Dogmatum autore, fide historiae 
+      <lb ed="#G" n="31"/>prorsus caret, quum qui errores Origenis 
+      de<lb ed="#G" n="32" break="no"/>scripserunt, nihil quicquam tale de eo tradant.  
+      <lb ed="#G" n="33"/>neque eum in diuinarum personarum 
+      tol<lb ed="#G" n="34" break="no"/>leuda distinctione haereticum fuisse narrent,  
+      <!--135.xml-->
+      <pb ed="#G" n="36"/>
+      
+               <lb ed="#G" n="1"/>quae est propria huic loco istius vocabuli 
+      Sin<lb ed="#G" n="2" break="no"/>gularitas significatio, sed Origenem notat 
+      ve<lb ed="#G" n="3" break="no"/>lutArianisimi parentem, qui diuersus est ab isto 
+      <lb ed="#G" n="4"/>error. Multo vero minus etiam ex vtroque 
+      Hi<lb ed="#G" n="5" break="no"/>larij loco a Lombardo citato ista diuersa 
+      signi<lb ed="#G" n="6" break="no"/>ficatio inter voces has Singulare &amp; solitarium  
+      <lb ed="#G" n="7"/>(quoties ad tollendam, ac abrogandam 
+      perso<lb ed="#G" n="8" break="no"/>narum diuinarum distinctionem refertur) 
+      pro<lb ed="#G" n="9" break="no"/>bari, vel confirmari potest. Immo ipse Hilarius 
+      <lb ed="#G" n="10"/>lib. 9. De Trinitate, haec vocabula pro eodem  
+      <lb ed="#G" n="11"/>vsurpat: etsi hoc ipsum non est a Lobardo ob. 
+      <lb ed="#G" n="12"/>seruatu postea Dist. 2s. Porro &amp; ipsius δπρωφρῆς, 
+      <lb ed="#G" n="13"/>&amp; libelli de Ecclesiast. Dogmatib. Error ex 
+      ver<lb ed="#G" n="14" break="no"/>bis Tertulliani natus est, Singularitatem, &amp; So 
+      <lb ed="#G" n="15"/>litudinem, vt iste vocat, id est, Solitarium, &amp; 
+      Sin<lb ed="#G" n="16" break="no"/>gulare, tanquam duo quaedam absurda, eaque 
+      <lb ed="#G" n="17"/>distincta aduersus Praxeae sententiam profert,  
+      <lb ed="#G" n="18"/>sed suo more, Tertullianus vnum &amp; idem 
+      Rhe<lb ed="#G" n="19" break="no"/>torica varietate diuersis nominibus, &amp; 
+      appella<lb ed="#G" n="20" break="no"/>tionibus amplificans nominauit: cumtamen 
+      <lb ed="#G" n="21"/>reipsa sit vnicum tatum delirium Praxec, &amp;λoπο 
+      <lb ed="#G" n="22"/>enim ex Praxeana haeresi consequens est idem,  
+      <lb ed="#G" n="23"/>atque Sabelliani erroris. Caeterum in 
+      vna<lb ed="#G" n="24" break="no"/>quaque perfona diuina quiddam esse non 
+      ratio<lb ed="#G" n="25" break="no"/>ne quidem essentiae: sed modo ὑπάρξεως, &amp; 
+      alio<lb ed="#G" n="26" break="no"/>rum operum, singulare, ne ipse quidem 
+      Lom<lb ed="#G" n="27" break="no"/>bardus diffiteri potest, vt apparet ex distinct. 
+      <lb ed="#G" n="28"/>9. &amp; 2V. Inf. hoc ipso libro. Nam singulare 
+      <lb ed="#G" n="29"/>est Patri, quod generet: Filio quod genitus sit. 
+      <lb ed="#G" n="30"/>Spiritui sancto quod ex vtroque emanet. Quum 
+      <lb ed="#G" n="31"/>autem de tribus erroribus, nempe 
+      Singularita<lb ed="#G" n="32" break="no"/>te, Solitudine, &amp; Diuersitate epigraphe 
+      promis<lb ed="#G" n="33" break="no"/>sionem contineat: de duobus tamen duntaxat 
+      <lb ed="#G" n="34"/>praestationem habet nempe Solitudine &amp; Di¬ 
+      <!--136.xml-->
+      <pb ed="#G" n="37"/>
+               <lb ed="#G" n="1"/>uersitate. Neque potest quisquam ista 
+      Lombar<lb ed="#G" n="2" break="no"/>di legens vel animo concipere, qua in re 
+      Sin<lb ed="#G" n="3" break="no"/>gularitas ista a Solitudine in hac disputatione 
+      <lb ed="#G" n="4"/>differat.
+    </p>
+            <p xml:id="cv8jk9-e6878z-d1e431">
+               <lb ed="#G" n="5"/>2 SED Similitudo, &amp; Pluralitas Locus hic, 
+      <lb ed="#G" n="6"/>vt a Lombardo citatur obscurus est &amp; 
+      intrica<lb ed="#G" n="7" break="no"/>tus: quod fieri minime fuit necesse. Est enim  
+      <lb ed="#G" n="8"/>Nocti nocten &amp; tenebras addere: quoniam ipsa 
+      <lb ed="#G" n="9"/>Hilarij oratio per se iam obscura est. Itaque 
+      <lb ed="#G" n="10"/>totum locum transcribo, vt &amp; facilior sit huius 
+      <lb ed="#G" n="11"/>totius loci sensus: &amp; Similitudinis vocem hic 
+      <lb ed="#G" n="12"/>non eo modo accipi omnes intelligant, quo ab 
+      <lb ed="#G" n="13"/>hereticis Homousianis, &amp; Anomoianis (quales 
+      <lb ed="#G" n="14"/>Marcelliani, &amp; Acatiani fuerunt) postea 
+      sum<lb ed="#G" n="15" break="no"/>pta est. Sed neque etiam tantum pro qualita 
+      <lb ed="#G" n="16"/>tum vel naturalium, vel postea accedentium 
+      <lb ed="#G" n="17"/>paritate: sed pro ipsa adeo κσας ταυταταύι, quem.  
+      <lb ed="#G" n="18"/>admodum post Hilarij seculum apertissime 
+      lo<lb ed="#G" n="19" break="no"/>cuti sunt Patres. Sic igitur Hilarius lib. 2. Omnia 
+      <lb ed="#G" n="20"/>enim alius accepit a Patre, &amp; est Dei forma, &amp; i 
+      <lb ed="#G" n="21"/>mago substantiae eius. Eum enim qui est, ab eo 
+      <lb ed="#G" n="22"/>qui est imago substantiae, tantum ad subsistendi 
+      fi<lb ed="#G" n="23" break="no"/>dem, non etiam ad aliquam naturae 
+      dissimilitudi<lb ed="#G" n="24" break="no"/>nem intelligendam discernit. Patrem autem in 
+      <lb ed="#G" n="25"/>Filio: &amp; filium in Patre esse plenitudo Diuinitatis 
+      <lb ed="#G" n="26"/>perfecta est. Non enim diminutio Patris est 
+      Fi<lb ed="#G" n="27" break="no"/>lius: nec Filius imperfectus ( id est, minus quiddam  
+      <lb ed="#G" n="28"/>quam Pater )a Patre est. fmago sola non est, &amp; 
+      si<lb ed="#G" n="29" break="no"/>militudo non sibi est. Deo autem simile esse, nisi 
+      <lb ed="#G" n="30"/>quod ex se eric, non potest. Neque enim aliunde 
+      <lb ed="#G" n="31"/>est, quod in omnibus simile est: neque diuersitatem  
+      <lb ed="#G" n="32"/>duobus admisceri, alterius ad alterum similitudo 
+      <lb ed="#G" n="33"/>patitur, Neue quae sunt similia, dissimilia facias 
+      <!--137.xml-->
+      <pb ed="#G" n="38"/>
+      
+               <lb ed="#G" n="1"/>&amp; diuersa, similia permutes, neque sibi ex veritate 
+      <lb ed="#G" n="2"/>indiscreta disiungas. Quia, qui dixit: Faciamus 
+      ho<lb ed="#G" n="3" break="no"/>minem ad imaginem, &amp; similitudinem nostram,  
+      <lb ed="#G" n="4"/>inuicem esse sui similes (in eo quod 
+      similitudi<lb ed="#G" n="5" break="no"/>nem nostram dicit) ostendit. 2. Diuersus est 
+      con<lb ed="#G" n="6" break="no"/>sitendus. Apud Hilarium lib. 4. haec verba 
+      addun<lb ed="#G" n="7" break="no"/>tur, cognita per id quod nostram imaginem dicit, non 
+      <lb ed="#G" n="8"/>etiam imagines nostras, vnius in vtraque 
+      proprieta<lb ed="#G" n="9" break="no"/>te naturae. Vt tam eadem essentiae ratio in tribus 
+      <lb ed="#G" n="10"/>ostendatur ex eodem toto: quam personarum 
+      <lb ed="#G" n="11"/>distinctio. 
+    </p>
+            <p xml:id="cv8jk9-e6878z-d1e524">
+               <lb ed="#G" n="12"/>CAP. VI 
+      <lb ed="#G" n="13"/>I INlibro quoque Sapientiae. Sapientie liber 
+      <lb ed="#G" n="14"/>distinguitur ab omnibus Patribus, &amp; ab hoc 
+      i<lb ed="#G" n="15" break="no"/>pso a libro Prouerbiorum Solomonis: tum quod 
+      <lb ed="#G" n="16"/>Prouerbiorum liber certum autorem habet. 
+      <lb ed="#G" n="17"/>tum etiam quod procul dubio inter Canonicos 
+      <lb ed="#G" n="18"/>ξνδηαbικῶς S. Scripturae libros censendus est. At 
+      <lb ed="#G" n="19"/>Sapientiae liber, neque certum autorem haber,  
+      <lb ed="#G" n="20"/>vtcunque in δονρωφν &amp; titulo Solomonis nomen 
+      <lb ed="#G" n="21"/>praeferat, neque est Canonicus, neque etiam  
+      <lb ed="#G" n="22"/>Hebraice scriptus, vt mirum sit quum tam late 
+      <lb ed="#G" n="23"/>hi Libri, &amp; autoritate &amp; nomine differant 
+      Pro<lb ed="#G" n="24" break="no"/>uerbiorum librum ab hoc cum libro Sapientiae 
+      <lb ed="#G" n="25"/>confundi. Nam quae citantur hoc loco, ex 
+      Pro<lb ed="#G" n="26" break="no"/>uerb. cap. S desumpta sunt, &amp; fortassis est istud 
+      <lb ed="#G" n="27"/>hominis μνημονικὸν άμάριnμα. 
+    </p>
+            <p xml:id="cv8jk9-e6878z-d1e561">
+               <lb ed="#G" n="28"/>CAP. VIII 
+      <lb ed="#G" n="29"/>I AMBROSIVSaute lib. I. de Trin. Locus 
+      <lb ed="#G" n="30"/>est sumptus ex lib. I. de Fide ad Gratianum cap. 
+      <lb ed="#G" n="31"/>I. non autem ex cap. quinto, quanquam &amp; 
+      supe<lb ed="#G" n="32" break="no"/>riorAmbrosij loc, qui citatur hac ipsa Distinct. 
+      <!--138.xml-->
+      <pb ed="#G" n="39"/>
+               <lb ed="#G" n="1"/>supra cap. &amp; ex quinto cap. transcriptus erat: &amp; 
+      <lb ed="#G" n="2"/>est annotatum hic in margine ab aliquo sciolo, 
+      <lb ed="#G" n="3"/>(qui ne Ambrosium quidem inspexerat) 
+      Capi<lb ed="#G" n="4" break="no"/>te eodem. Cap. quinto: sed falso &amp; imperito. 
+      Er<lb ed="#G" n="5" break="no"/>go sic habet cap. I. libro I. Ambrosius: Si ergo 
+      <lb ed="#G" n="6"/>unus Deus, vnum nomen, vna potestas, vna est Tri 
+      <lb ed="#G" n="7"/>nitas. Denique ipse dicit: Ite, baptitate gentes 
+      <lb ed="#G" n="8"/>in nomine Patris, &amp; Filij, &amp; Spiritus sancti: In 
+      <lb ed="#G" n="9"/>nomine vtique, non in nominibus. Hactenus 
+      Am<lb ed="#G" n="10" break="no"/>brosius. Ex quo apparet verba haec, per nomina 
+      <lb ed="#G" n="11"/>tria, quae supponit, &amp; tres esse personas declarauit,  
+      <lb ed="#G" n="12"/>esse Lombardi &amp; praeter mentem Ambrosij 
+      in<lb ed="#G" n="13" break="no"/>teriecta, quum vnitatem totius essentiae 
+      diui<lb ed="#G" n="14" break="no"/>nae ex vocabulo Nomine, illic singulari nume 
+      <lb ed="#G" n="15"/>ro vsurpato colligant Patres. Reliqua vero 
+      <lb ed="#G" n="16"/>quae sequuntur sunt Ambrosij, nempe, Ipse 
+      e<lb ed="#G" n="17" break="no"/>tiam, &amp;c. quae sic apud Ambrosium extant, Ipse 
+      <lb ed="#G" n="18"/>etiam dicit, Ego &amp; Pater vnum sumus. Vnum 
+      <lb ed="#G" n="19"/>dixit, ne fiat discretio potestatis: Sumus addidit, vt 
+      <lb ed="#G" n="20"/>Patrem, Filiumque cognoscas, &amp;c. Addidit 
+      Lom<lb ed="#G" n="21" break="no"/>bardus vocem, Naturae. Sic enim ipse verba 
+      <lb ed="#G" n="22"/>Ambrosij refert, Ne fiat discretio potestatis 
+      na<lb ed="#G" n="23" break="no"/>turae. Quae vox quid sibi velit obscurum est: &amp; 
+      <lb ed="#G" n="24"/>mentem Ambrosij deprauat. Neque enim 
+      po<lb ed="#G" n="25" break="no"/>testatem naturae tantum esse eandem in Patre 
+      <lb ed="#G" n="26"/>&amp; Filio vult Ambrosius ( id quod etiam 
+      Se<lb ed="#G" n="27" break="no"/>miariani fatebantur) sed ipsam etiam ουσιαν &amp; 
+      <lb ed="#G" n="28"/>naturam: Et vox, Vnum, qua Christus vsus est,  
+      <lb ed="#G" n="29"/>refertur ad vnitatem Naturae, vt ipsemet 
+      Am<lb ed="#G" n="30" break="no"/>brosius loquitur, non tantum Potestatis. Quid 
+      <lb ed="#G" n="31"/>igitur ἐκαιξον, &amp; intempestiuum vocabulum tam  
+      <lb ed="#G" n="32"/>periculosum addere fuit necesse)
+    </p>
+            <p xml:id="cv8jk9-e6878z-d1e648">
+               <lb ed="#G" n="33"/>2 Vt Augustinus ait lib. de Trinitate. 
+      Hallu<lb ed="#G" n="34" break="no"/>cinatur Lombardus, qui ἀπoφανπκῶς ab Augu¬ 
+      <!--139.xml-->
+      <pb ed="#G" n="40"/>
+               <lb ed="#G" n="1"/>stino dici putet, quae ex lib. I. de Trinit. cap. &amp;. 
+      <lb ed="#G" n="2"/>hic refert &amp; transcribit: quum manifestissime 
+      <lb ed="#G" n="3"/>ἁμφινξοηλομλτoς, &amp; in rem ipsam inquirentis 
+      tan<lb ed="#G" n="4" break="no"/>tum, non affirmantis sint verba. Sic enim 
+      Au<lb ed="#G" n="5" break="no"/>gustinus ait: Quaero itaque de quo dicat alio 
+      lo<lb ed="#G" n="6" break="no"/>co, Quonia ex ipso, &amp; per ipsum, &amp; in ipso sunt 
+      <lb ed="#G" n="7"/>omnia, ipsi gloria in secula seculorum, Amen. 
+      <lb ed="#G" n="8"/>Si enim de Patre, &amp; Filio, &amp; Spiritu sancto, vt 
+      sin<lb ed="#G" n="9" break="no"/>gulis personis singula tribuantur ex ipso, id est, ex pa 
+      <lb ed="#G" n="10"/>tre: per ipsum, id est, per Filium: in ipso, id est, in 
+      Spi<lb ed="#G" n="11" break="no"/>ritu sancto: manifestum est, quod Pater, &amp; Filius, &amp; 
+      <lb ed="#G" n="12"/>Spiritus sanctus unus Deus est, (vbi vel ipso 
+      Augu<lb ed="#G" n="13" break="no"/>stino autore &amp; censore lib. I. Retract. cap. A 
+      reponen<lb ed="#G" n="14" break="no"/>dum est, Deus sunt) quando singulariter intulit ipsi 
+      <lb ed="#G" n="15"/>gloria. Deinde paulo post idem August. Si autem 
+      <lb ed="#G" n="16"/>hoc de Patre tantummodo intelligi volunt, &amp;c. Quod 
+      <lb ed="#G" n="17"/>vero Aug. vti &amp; Basilius lib. de Spiritu sancto, 
+      <lb ed="#G" n="18"/>&amp; veteres Patres tres illas ωαοπεωεις ad trium 
+      di<lb ed="#G" n="19" break="no"/>uinarum personarum distinctionem alibi 
+      refe<lb ed="#G" n="20" break="no"/>runt, id ex aliis ipsius Augustini libris, veluti 
+      <lb ed="#G" n="21"/>commentariis in Psal.8. sumendum fuit: non ex 
+      <lb ed="#G" n="22"/>illo dubio, &amp; in controuersiam reuocato libri 
+      <lb ed="#G" n="23"/>de Trinitate loco. Nam in Ps. S. initio aperte: 
+      <lb ed="#G" n="24"/>Quia &amp; quum dixisset Apostolus. Ex quo 
+      om<lb ed="#G" n="25" break="no"/>nia, per quem omnia, &amp; in quo oninia, 
+      Trinitm<lb ed="#G" n="26" break="no"/>tem ipsam insinuasse creditur, &amp;c. Nec semel 
+      tan<lb ed="#G" n="27" break="no"/>tum locum istum de Trinitate, tanquam 
+      asseue<lb ed="#G" n="28" break="no"/>rantis Augustini sententiam citat Lombardus,  
+      <lb ed="#G" n="29"/>sed &amp; postea quoque veluti infra hoc ipso 
+      li<lb ed="#G" n="30" break="no"/>bro Dist. 86 cap. g. E. Locus est ex Epistola Pau 
+      <lb ed="#G" n="31"/>li ad Rom. cap. II. Verses&amp; 
+    </p>
+            <p xml:id="cv8jk9-e6878z-d1e726">
+               <lb ed="#G" n="32"/>Censura in distinctionem secundam.
+    </p>
+            <p xml:id="cv8jk9-e6878z-d1e732">
+               <lb ed="#G" n="33"/>Pauca hic annotabimus, quod alibi recurrent,  
+      <!--140.xml-->
+      <pb ed="#G" n="41"/>
+               <lb ed="#G" n="1"/>quae hoc loco castiganda sunt. Quae vero dice 
+      <lb ed="#G" n="2"/>mus omnia ad caput &amp;. huius distinctionis prae 
+      <lb ed="#G" n="3"/>sertim pertinent. Primum igitur ἀσοολοὸν est,  
+      <lb ed="#G" n="4"/>quod ipsum totius Christianae religionis caput, 
+      <lb ed="#G" n="5"/>&amp; fundamentum praecipuum (quod est de vna 
+      <lb ed="#G" n="6"/>&amp; eadem in tribus personis, Patre, Filio, &amp; 
+      Spi<lb ed="#G" n="7" break="no"/>ritu sancto essentia diuina) probaturus, impro- 
+      <lb ed="#G" n="8"/>bati, &amp; dubij inter Christianos ipsos autoris ni 
+      <lb ed="#G" n="9"/>mirum Ecclesiastici testimonium affert, adeo vt 
+      <lb ed="#G" n="10"/>ex eo ipso nutatura &amp; vacillatura in ipso 
+      ingres<lb ed="#G" n="11" break="no"/>su sit nostra fides, si tam incerto fulcimento 
+      ni<lb ed="#G" n="12" break="no"/>tatur. Est enim ex Apocryphis libris non ἐucta¬ 
+      <lb ed="#G" n="13"/>πλκῶς Ecclesiasticus: in primis autem Cap. 
+      34<lb ed="#G" n="14" break="no"/>vnde hic locus a P. Lombardo citatur, est &amp; 
+      <lb ed="#G" n="15"/>mancum, &amp; lacerum, non modo in Latinis, sed 
+      <lb ed="#G" n="16"/>etiam in Graecis exemplaribus, quia multa 
+      de<lb ed="#G" n="17" break="no"/>sunt. Etsi vero sumptus videri potest ex 
+      Pro<lb ed="#G" n="18" break="no"/>uerb. 8, tamen ex isto Ecclesiastici loco tantum 
+      <lb ed="#G" n="19"/>Dei arcanum illustrare velle est, non ex fulgore 
+      <lb ed="#G" n="20"/>lucem: sed, quod ait ille, inepte fieri, ex fulgore 
+      <lb ed="#G" n="21"/>fumum dare. Deinde ista interpretatio capiteI. 
+      <lb ed="#G" n="22"/>versi I. Genes. Creauit Deus in principio, id est, in 
+      <lb ed="#G" n="23"/>Filio, coelum &amp; terram, est non tantum aliena 
+      <lb ed="#G" n="24"/>(quanquam eam veteres quidem Patres 
+      alicu<lb ed="#G" n="25" break="no"/>bi sequuti sunt, veluti Ambrosius, &amp; 
+      Augusti<lb ed="#G" n="26" break="no"/>nus )sed etiam dubia. Melius enim omnino 
+      Ba<lb ed="#G" n="27" break="no"/>silius ait, vt neque ἀτεMdἰτυτoς, neque ἀξωρως 
+      in<lb ed="#G" n="28" break="no"/>telligeretur esse hic mundus, diserte dictum 
+      es<lb ed="#G" n="29" break="no"/>se, in principio creatum esse coelum &amp; terram: non 
+      <lb ed="#G" n="30"/>tantum, quemadmodum tamen existimat 
+      Phi<lb ed="#G" n="31" break="no"/>lo, vt vox Principij significet ωραμυῳ κατ αεόμον, id 
+      <lb ed="#G" n="32"/>est, primam creationis diem. Ergo ex dubia ista 
+      <lb ed="#G" n="33"/>interpretatione &amp; patrocinio praestantissimam,  
+      <lb ed="#G" n="34"/>&amp; obscuram tamen humanis mentibus doctri¬ 
+      <!--141.xml-->
+      <pb ed="#G" n="42"/>
+               <lb ed="#G" n="1"/>nam confirmare, est eam incertiorem, quam  
+      <lb ed="#G" n="2"/>dudum, reddere.
+    </p>
+            <p xml:id="cv8jk9-e6878z-d1e823">
+               <lb ed="#G" n="3"/>Tertium, quod ex voce not (quae plurali 
+      <lb ed="#G" n="4"/>numero ab Hebraeis prolata, tamen cum 
+      ver<lb ed="#G" n="5" break="no"/>bo singulari Nοo coniungitur. Genes. I. 
+      Versicu<lb ed="#G" n="6" break="no"/>lo I.) Quod item ex trina benedictione, quae 
+      <lb ed="#G" n="7"/>in Psal. 69. Versi I. &amp; 6 &amp; 9. diuersis locis 
+      repe<lb ed="#G" n="8" break="no"/>titur, colligit Lombardus ad eiusdem articuli 
+      <lb ed="#G" n="9"/>tam vexati fidem faciendam, est iciunum &amp; 
+      e<lb ed="#G" n="10" break="no"/>xile, ne dicam ἀωροoδιονυωον, quum Hebraei, ex lin 
+      <lb ed="#G" n="11"/>guae suae vsu, in honorabilioribus personis 
+      de<lb ed="#G" n="12" break="no"/>signandis, alibi quoque pluralem numerum 
+      <lb ed="#G" n="13"/>pro singulari vsurpare soleant, non quidem 
+      a<lb ed="#G" n="14" break="no"/>licuius diuini mysterij significandi gratia, sed 
+      <lb ed="#G" n="15"/>dignitatis tantum illorum amplificandae causa: 
+      <lb ed="#G" n="16"/>&amp; trina illa benedictio sit duntaxat vehementis 
+      <lb ed="#G" n="17"/>precationis indicium, &amp; vbertas in eo Psalmos 
+      <lb ed="#G" n="18"/>non vllius mysterij arcana significatio, ac 
+      sa<lb ed="#G" n="19" break="no"/>cramentum. Confer cum cap. I. &amp; 2, nostrae 
+      su<lb ed="#G" n="20" break="no"/>nopseus infra.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

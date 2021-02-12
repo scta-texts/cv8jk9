@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 48</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 48</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="753"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e37318"><!-- ld-d48 -->
+            <head xml:id="cv8jk9-e37318-Hd1e106">Distinctio 48</head>
+            <p xml:id="cv8jk9-e37318-d1e109">
+               <lb ed="#G" n="9"/>AD DISTINCTIONEM 
+      <lb ed="#G" n="10"/>XLVIII 
+      <lb ed="#G" n="11"/>AD CAP. II
+    </p>
+            <p xml:id="cv8jk9-e37318-d1e118">
+               <lb ed="#G" n="12"/>I Voluisti &amp; approbasti. Videtur haec, 
+      quam<lb ed="#G" n="13" break="no"/>quam aliena interpretatio, sumpta tamen ex 
+      <lb ed="#G" n="14"/>Commentariis Augustini in Psalm. I28. vbi sic 
+      <lb ed="#G" n="15"/>scripsit, Tu cognouisti sessionem meam, &amp; 
+      resurre<lb ed="#G" n="16" break="no"/>ctionem meam. Quid hic sessio: Quid hic 
+      resurre<lb ed="#G" n="17" break="no"/>ctio: Qui sedet, hamiliat se. Sedit ergo Dominus 
+      <lb ed="#G" n="18"/>in passione, resurrexit in resurrectione. Tu, inquit, 
+      <lb ed="#G" n="19"/>hoc cognouisti, tu voluisti, tu approbasti secundum 
+      <lb ed="#G" n="20"/>voluntatem tuam factum est. Hactenus 
+      Augusti<lb ed="#G" n="21" break="no"/>nus. in animo habens procul dubio locum ex 
+      <lb ed="#G" n="22"/>Actis 4. Versi. 28, Vt facerent Iudaei quaecunque 
+      <lb ed="#G" n="23"/>manus, tua, &amp; consilium tuum prius definierat 
+      fa<lb ed="#G" n="24" break="no"/>cienda. Hebraea vero sic ad verbum habent, Tu 
+      <lb ed="#G" n="25"/>cognoscis sedere meum &amp; surgere meum, intelligis  
+      <lb ed="#G" n="26"/>cogitationem meam e longinquo, id est, totus tibi 
+      <lb ed="#G" n="27"/>sum perspectus, siue sedeam, siue surgam: 
+      quic<lb ed="#G" n="28" break="no"/>quid animo voluo &amp; cogito, iampridem tibi 
+      <lb ed="#G" n="29"/>notum est. Ergo de Dei prouidentia loquitur 
+      <!--855.xml-->
+      <pb ed="#G" n="754"/>
+               <lb ed="#G" n="1"/>Dauid, qua Deus omnia in nobis singulis po 
+      <lb ed="#G" n="2"/>tenter ἐκερνα, vt loquitur Paulus Ephei. I. Vers 
+      <lb ed="#G" n="3"/>22. Non autem agit Psalmus peculiariter de 
+      <lb ed="#G" n="4"/>morte Christi. 
+    </p>
+            <p xml:id="cv8jk9-e37318-d1e173">
+               <lb ed="#G" n="5"/>AD CAPVT 
+      <lb ed="#G" n="6"/>III 
+    </p>
+            <p xml:id="cv8jk9-e37318-d1e180">
+               <lb ed="#G" n="7"/>Qui occisus est. Augustinus habet, qui 
+      oc<lb ed="#G" n="8" break="no"/>cidi venerat. Nec enim occisus iam Christus 
+      <lb ed="#G" n="9"/>dixit Petro, Abi retro Sathana. Math. Io. 
+      versi<lb ed="#G" n="10" break="no"/>culoas. 
+    </p>
+            <p xml:id="cv8jk9-e37318-d1e192">
+               <lb ed="#G" n="11"/>AD CAP. V.
+      <lb ed="#G" n="12"/>Quia idipsum quidem. Iste, dum quaedam  
+      <lb ed="#G" n="13"/>Augustino detrahit, pulcherrimum locum 
+      ob<lb ed="#G" n="14" break="no"/>scurat, &amp; totam huius tam difficilis 
+      argumen<lb ed="#G" n="15" break="no"/>ti solutionem eneruat. 
+    </p>
+            <p xml:id="cv8jk9-e37318-d1e205">
+               <lb ed="#G" n="16"/>Primum autem omisit vocem, Quam. Ait 
+      e<lb ed="#G" n="17" break="no"/>nim Augustinus, Quam bonae, &amp;c. vt sit maior 
+      <lb ed="#G" n="18"/>istius ἐκαντῶπατoς vis &amp; lux. Sed hoc minimi est 
+      <lb ed="#G" n="19"/>momenti. Istud iam maioris, quod hic sic 
+      ha<lb ed="#G" n="20" break="no"/>bet Augustinus in Enchirid. cap. Iot. Quia 
+      id<lb ed="#G" n="21" break="no"/>ipsum quidem, sed ipse per eos bona, illi autem mala 
+      <lb ed="#G" n="22"/>voluntate fecerunt. Ergo docet Augustinus per 
+      <lb ed="#G" n="23"/>vocem id ipsum, rem seu actum quidem ipsum, quem 
+      <lb ed="#G" n="24"/>vocant, ex Dei voluntate euenisse. Actum enim 
+      <lb ed="#G" n="25"/>ipsum, non autem finem improborum vult Deus. 
+      <lb ed="#G" n="26"/>Voluntates igitur Dei, &amp; ludaeorum fuisse 
+      ratio<lb ed="#G" n="27" break="no"/>ne non quidem ipsius Actus, sed finis ab 
+      vtris<lb ed="#G" n="28" break="no"/>que spectati, dissimillimas, &amp; contrarias. Qui 
+      <lb ed="#G" n="29"/>vocabulum igitur tanti momenti tollit, vim &amp;  
+      <lb ed="#G" n="30"/>lucem totius istius sententiae demit. 
+    </p>
+            <p xml:id="cv8jk9-e37318-d1e240">
+               <lb ed="#G" n="31"/>Quod tamen facit Lombardus. Verba autem 
+      <!--856.xml-->
+      <pb ed="#G" n="755"/>
+               <lb ed="#G" n="1"/>quae sequuntur, Ita &amp; in Passione &amp; c. sunt 
+      Lon<lb ed="#G" n="2" break="no"/>bardi, non Augustini.
+    </p>
+            <p xml:id="cv8jk9-e37318-d1e253">
+               <lb ed="#G" n="3"/>Censura.
+    </p>
+            <p xml:id="cv8jk9-e37318-d1e258">
+               <lb ed="#G" n="4"/>Primum in hac distinctione vitium illud est,  
+      <lb ed="#G" n="5"/>quod in tam difficili, perplexo, &amp; paradoxo tra 
+      <lb ed="#G" n="6"/>ctatum, pulcherrimum illum S. Scripturae locum 
+      <lb ed="#G" n="7"/>ex Act. cap. 4. Vers. 29. &amp; 28. praetermisit, qui 
+      <lb ed="#G" n="8"/>totum hunc locum illustrare ac confirmare 
+      <lb ed="#G" n="9"/>potuit. Sic autem habet, Coacti sunt vere 
+      aduer<lb ed="#G" n="10" break="no"/>sus sanctum Filium tuum lesum, quem vnxisti, He 
+      <lb ed="#G" n="11"/>rodes &amp; Pontius Pilatus cum gentibus &amp; populis 
+      <lb ed="#G" n="12"/>lsrael: vt facerent quaecunque manus tua, &amp; 
+      consi<lb ed="#G" n="13" break="no"/>lium tuum prius definteratfacienda. Item ex lobi 
+      <lb ed="#G" n="14"/>cap. I. fuit probandum. Sathan enim &amp; Chaldaei 
+      <lb ed="#G" n="15"/>faciunt, idipsum, quod Deus fieri vult: non 
+      ta<lb ed="#G" n="16" break="no"/>men propterea bene agunt, nec vt Deo pareant: 
+      <lb ed="#G" n="17"/>eorumque propterea est Iniusta voluntas: Dei 
+      <lb ed="#G" n="18"/>vero iusta.
+    </p>
+            <p xml:id="cv8jk9-e37318-d1e293">
+               <lb ed="#G" n="19"/>Secundum vitium est in cap. 2. vbi iste negat 
+      <lb ed="#G" n="20"/>admittendum esse, Deum uoluisse vt ludaei 
+      occi<lb ed="#G" n="21" break="no"/>derent Christum, negat denique Deum voluisse cul 
+      <lb ed="#G" n="22"/>pam ludaeorum, quam tamen postea idem non audet 
+      <lb ed="#G" n="23"/>dicere Deum noluisse. Ergo primum intricata est,  
+      <lb ed="#G" n="24"/>&amp; ipsa sibi repugnans Lombardi oratio. 
+      Perin<lb ed="#G" n="25" break="no"/>de enim sonat, atque si diceret, voluit eam Deus  
+      <lb ed="#G" n="26"/>&amp; noluit. Deinde falsa est ista solutio. Deus 
+      e<lb ed="#G" n="27" break="no"/>nim hoc ipsum quod a ludaeis factum est, fieri 
+      <lb ed="#G" n="28"/>voluit, &amp; male a ludaeis fieri. Nec tamen 
+      pro<lb ed="#G" n="29" break="no"/>pterea iniusta aut mala est Dei voluntas. Hoc 
+      <lb ed="#G" n="30"/>enim ludaeorum peccatum Deus voluit, velut 
+      <lb ed="#G" n="31"/>poenam iustissimam aliorum eiusdem gentis 
+      <lb ed="#G" n="32"/>peccatorum. 
+    </p>
+            <p xml:id="cv8jk9-e37318-d1e327">
+      <!--857.xml-->
+               <pb ed="#G" n="756"/>
+               <lb ed="#G" n="1"/>Atque hanc nostram solutionem plane 
+      con<lb ed="#G" n="2" break="no"/>frmat Augustinus ipse lib. De gratia &amp; libero 
+      <lb ed="#G" n="3"/>Arbitrio, capite vigesimo, Inuenimus, inquit, 
+      a<lb ed="#G" n="4" break="no"/>liqua peccata etiam poenas esse aliorum 
+      peccato<lb ed="#G" n="5" break="no"/>rum. Et paulo post de Semei maledico in 
+      Da<lb ed="#G" n="6" break="no"/>uidem agens, de quo dixerat Dauid, Sinite eum 
+      <lb ed="#G" n="7"/>quoniam dixit illi Deus, &amp;c. ait Augustinus, No 
+      <lb ed="#G" n="8"/>iubendo dixit, vbi obedientia laudaretur: sed quod 
+      <lb ed="#G" n="9"/>eius CSemei videlicet) voluntatem proprio suo 
+      <lb ed="#G" n="10"/>vitio malam in hoc peccatum, iudicio suo iusto &amp; 
+      oc<lb ed="#G" n="11" break="no"/>culto, inclinauit, ideo dictum est, DIXIT EI D 
+      o<lb ed="#G" n="12" break="no"/>MINVS. Quod autem ait Damascenus libro 
+      <lb ed="#G" n="13"/>secundo de fide Orthodox. capite 
+      vigesimo<lb ed="#G" n="14" break="no"/>primo huiusmodi actiones esse Dei opera, o 
+      <lb ed="#G" n="15"/>μον κατ dδωκων, ἀλα δε τῳ σύηκῶρηοιν, supra 
+      dixi<lb ed="#G" n="16" break="no"/>mus, quomodo sit intelligendum, ne quis nudam 
+      <lb ed="#G" n="17"/>Dei permissionem hic cogitet.
+    </p>
+            <p xml:id="cv8jk9-e37318-d1e371">
+               <lb ed="#G" n="18"/>Tertio autem loco est obseruandum, ex eo 
+      <lb ed="#G" n="19"/>quod Magister iste quaedam paradoxa tractat,  
+      <lb ed="#G" n="20"/>discipulos in immensum postea istas aξαδiα¬ 
+      <lb ed="#G" n="21"/>τζicas, &amp; ατοπoiς sententias contra Pauli praeceptum 
+      <lb ed="#G" n="22"/>auxisse. Nam alij quodlibetarias Quaestiones 
+      <lb ed="#G" n="23"/>proponunt, vt Thomas: alij Centilogia, 
+      quem<lb ed="#G" n="24" break="no"/>admodum Occan: alij aliud scriptorum 
+      ge<lb ed="#G" n="25" break="no"/>nus, velut infinitum quoddam ineptarum di- 
+      <lb ed="#G" n="26"/>sputationum &amp; saepe blasphemarium pelagus,  
+      <lb ed="#G" n="27"/>quarum neque ad gloriam Dei, neque ad 
+      aedi<lb ed="#G" n="28" break="no"/>hcationem Ecclesiae, neque ad priuatam 
+      Chri<lb ed="#G" n="29" break="no"/>stiani cuiusquam institutionem vllus est vsus. 
+      <lb ed="#G" n="30"/>Quod autem huic loco quidam addunt 
+      quae<lb ed="#G" n="31" break="no"/>stionem istam, Vtrum oporteat Christianos 
+      <lb ed="#G" n="32"/>homines conformare suam voluntatem ad 
+      di<lb ed="#G" n="33" break="no"/>uinam, ita est certum, vt de eo nemo Christia¬ 
+      <!--858.xml-->
+      <pb ed="#G" n="757"/>
+               <lb ed="#G" n="1"/>nus dubitare possit, aut debeat: tam anxie 
+      ta<lb ed="#G" n="2" break="no"/>men &amp; varie istam quaestionem isti exagitant &amp;  
+      <lb ed="#G" n="3"/>vexant, vt quid in ea sequendum ac 
+      statuen<lb ed="#G" n="4" break="no"/>dum sit, ex horum scriptis definiri non possit. 
+      <lb ed="#G" n="5"/>Quod si mihi Verbis Hieronymi totam hanc 
+      <lb ed="#G" n="6"/>commentationem meam finire liceat, certe 
+      il<lb ed="#G" n="7" break="no"/>la vsurpabo, quae posteriore Apologia 
+      aduer<lb ed="#G" n="8" break="no"/>sus Ruffinum habet Hieronymus, i Nouit 
+      con<lb ed="#G" n="9" break="no"/>scientia tua, Petre Lombarde, quae addideris, quae 
+      <lb ed="#G" n="10"/>subtraxeris, quae in vtranque partem, vt tibi visum 
+      <lb ed="#G" n="11"/>fuerit, immutaris. Atque vtinam praecidisses mala¬ 
+      <lb ed="#G" n="12"/>&amp; non in assertionem malorum, tua multa posuisses. 
+      <lb ed="#G" n="13"/>Sed laus Deo Optimo Maximo, qui dedit, vt 
+      <lb ed="#G" n="14"/>ex his tot scopulis aliquando, magna ipsius 
+      mi<lb ed="#G" n="15" break="no"/>sericordia, enataremus: ac in tutum verbi 
+      i<lb ed="#G" n="16" break="no"/>psius portum appelleremus. Deum autem 
+      pre<lb ed="#G" n="17" break="no"/>camur, per Vnioenitum Filium suum Iesum 
+      <lb ed="#G" n="18"/>Christum, vt suam veritatem 
+      con<lb ed="#G" n="19" break="no"/>tra istorum mendacia 
+      tuea<lb ed="#G" n="20" break="no"/>tur, &amp; huic nostro 
+      <lb ed="#G" n="21"/>labori 
+      bene<lb ed="#G" n="22" break="no"/>dicat. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 7</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 7</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="124"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e11201"><!-- ld-d7 -->
+            <head xml:id="cv8jk9-e11201-Hd1e106">Distinctio 7</head>
+            <p xml:id="cv8jk9-e11201-d1e109">
+               <lb ed="#G" n="11"/>ADDISTINCTIONEMVII 
+      <lb ed="#G" n="12"/>CAP. I. 
+    </p>
+            <p xml:id="cv8jk9-e11201-d1e116">
+               <lb ed="#G" n="13"/>I SED potest esse ad aliquid. Deleo 
+      ver<lb ed="#G" n="14" break="no"/>bum Potest vt sua constet huic loco sententia, 
+      <lb ed="#G" n="15"/>quamquam &amp; interpretum, &amp; typographorum 
+      in<lb ed="#G" n="16" break="no"/>curia (qui toties hunc locum contrectarunt) ac 
+      <lb ed="#G" n="17"/>in omnibus exemplaribus, quotquot mihi 
+      vi<lb ed="#G" n="18" break="no"/>dere licuit, vox ista importuna Potest retenta est. 
+      <lb ed="#G" n="19"/>Ego igitur sic lego. Quia esse Patrem non est esse  
+      <lb ed="#G" n="20"/>aliquid: sed esse ad aliquid, vt in sequenti ostendetur, 
+      <lb ed="#G" n="21"/>Sic inf. hoc ipso libro Distinct. 28. cap. g. 
+      Prae<lb ed="#G" n="22" break="no"/>terea Basilius lib. I. cotra Eunomium docetA)uru¬ 
+      <lb ed="#G" n="23"/>παν non enuntiari de Deo in quaestione li is 
+      <lb ed="#G" n="24"/>Quid est Deus: sed in quaestione ἀπυς iς, id est,  
+      <lb ed="#G" n="25"/>quomodo est &amp; vbi Personarum relatio inter 
+      <lb ed="#G" n="26"/>se explicatur. 
+    </p>
+            <p xml:id="cv8jk9-e11201-d1e149">
+               <lb ed="#G" n="27"/>AD CAP. II 
+      <lb ed="#G" n="28"/>I PATRIS natura. Naturam Patris hic 
+      <lb ed="#G" n="29"/>interpretor Patris Personam, non essentiam  
+      <lb ed="#G" n="30"/>in abstracto. Sic Damasc. lib. I. cap. 8. de orthod. 
+      <lb ed="#G" n="31"/>fide dixit de Patre loquens quatenus Persona 
+      <!--226.xml-->
+      <pb ed="#G" n="125"/>
+      
+               <lb ed="#G" n="1"/>est a Filio distincta, E8ανλα το λαοοτῆς δι πατζις 
+      <lb ed="#G" n="2"/>συσνεωςφαμον τὸν Ie δά λuκoν. Quae significatio non 
+      <lb ed="#G" n="3"/>obseruata miros isti homini induit laqueos, dum 
+      <lb ed="#G" n="4"/>potentiam generandi, quam vocat, non Perso- 
+      <lb ed="#G" n="5"/>nae. I. Patris propria ac peculiarem, siue, vt 
+      lo<lb ed="#G" n="6" break="no"/>quuntur Graeci Theologici καετκληριςικμῳ fa 
+      <lb ed="#G" n="7"/>citised ipsius essentiae diuinae per se &amp; in 
+      abstra<lb ed="#G" n="8" break="no"/>cto confideratae velut essentialem &amp; 
+      commu<lb ed="#G" n="9" break="no"/>nem. Porro ista cogitatio multiplicis &amp; 
+      <lb ed="#G" n="10"/>longae istius Dei ex Deo propagationis &amp; 
+      se<lb ed="#G" n="11" break="no"/>riei (in qua Pater, Filius, Nepos, Pronepos esse 
+      <lb ed="#G" n="12"/>in diuinis posse fingitur) ex Valentinianorum  
+      <lb ed="#G" n="13"/>faedissimis lacunis hausta est, qui octoadas 
+      <lb ed="#G" n="14"/>deorum aliorum ex aliis nascentium induxe 
+      <lb ed="#G" n="15"/>tunt, vt docent Irenaeus, Epiphanius, &amp; ex his 
+      <lb ed="#G" n="16"/>postea Augustinus, quas extinctas haereses, &amp; 
+      <lb ed="#G" n="17"/>feliciter iam sepultas ex Orco reuocare 
+      nihile<lb ed="#G" n="18" break="no"/>rat necesse.
+    </p>
+            <p xml:id="cv8jk9-e11201-d1e206">
+               <lb ed="#G" n="19"/>Censura ad Dist. 7
+    </p>
+            <p xml:id="cv8jk9-e11201-d1e212">
+      y<lb ed="#G" n="20" break="no"/>Vel vna haec disputatio Lombardi illud 
+      <lb ed="#G" n="21"/>verissimum esse confirmat, Serutator 
+      maiesta<lb ed="#G" n="22" break="no"/>tis ab eo opprimetur. Habitat enim Deus lucem 
+      <lb ed="#G" n="23"/>inaccessam, quemadmodum ait Paulus t. 
+      Thi<lb ed="#G" n="24" break="no"/>moth. &amp;. Praesertim uero arcanum illud de 
+      <lb ed="#G" n="25"/>generatione Filij Dei ex Patre tantum 
+      om<lb ed="#G" n="26" break="no"/>nem humanum captum superat: sed &amp; 
+      An<lb ed="#G" n="27" break="no"/>gelicum. Quamobrem mature monuerant 
+      <lb ed="#G" n="28"/>Patres in huiusmodi argumenti tractatione 
+      <lb ed="#G" n="29"/>sobrie sapiendum, &amp; a curiosis 
+      quaestioni<lb ed="#G" n="30" break="no"/>bus abstinendum esse, quum nulla ex rebus 
+      <lb ed="#G" n="31"/>ereatis comparatio ad illius tam augusti 
+      myste<lb ed="#G" n="32" break="no"/>rij, &amp; ipsi Deo duntaxat noti rationem 
+      expli<lb ed="#G" n="33" break="no"/>dam satis apta duci possit, minimeque sit illud 
+      <lb ed="#G" n="34"/>ad nostras, vel ullas rerum creaturarum leges 
+      <!--227.xml-->
+      <pb ed="#G" n="126"/>
+      
+               <lb ed="#G" n="1"/>reuocandum, quod tamen Lombardus hic facit, &amp; 
+      <lb ed="#G" n="2"/>posteum istius loci interpretes omnes. Hilarius 
+      <lb ed="#G" n="3"/>lib. I2. de Trinitate, Non enim per haec quorum 
+      <lb ed="#G" n="4"/>creationem mente concepimus, comprehendi 
+      genera<lb ed="#G" n="5" break="no"/>tio eius potest, qui anterior his omnibus est. Augusti 
+      <lb ed="#G" n="6"/>nus de Agone Christ. ca. I6. Quia reuera magnum 
+      <lb ed="#G" n="7"/>est mente concepere generationem, quae non fit ex ali 
+      <lb ed="#G" n="8"/>quo tempore: sed aterna est, &amp;c. Magnum &amp; diffi- 
+      <lb ed="#G" n="9"/>cile est haec mente concipere, etiam si pacata &amp; 
+      tran<lb ed="#G" n="10" break="no"/>quilla sit. Itaque idem Hilarius libro v. 
+      bre<lb ed="#G" n="11" break="no"/>uiter quid in hoc arcano (quod saeramentum 
+      <lb ed="#G" n="12"/>vocat) tenendum esset docuerat his verbis. 
+      <lb ed="#G" n="13"/>Haec est verae natiuitatis intelligentia, &amp; fidei 
+      no<lb ed="#G" n="14" break="no"/>strae, quae ex naturae diuinae vnitate vnius 
+      indif<lb ed="#G" n="15" break="no"/>ferentisque diuinitatis veritatem in Patre, &amp; in 
+      <lb ed="#G" n="16"/>Filio confitetur, absolutissimum sacramentum. Istc 
+      <lb ed="#G" n="17"/>tamen ματαιολῶῶς insaniens circa quaestiones 
+      <lb ed="#G" n="18"/>&amp; κολμανας ingreditur Daedaleos labyrinthos,  
+      <lb ed="#G" n="19"/>quos resoluere, ac explicare non po:uit. Quod 
+      <lb ed="#G" n="20"/>hi illo iam seculo erant huiusmodi quaestiones 
+      <lb ed="#G" n="21"/>&amp; vulnera quaedam, quae fierent verissimae de 
+      <lb ed="#G" n="22"/>Filij natiuitate fidei, sic tamen, vti hoc loco 
+      fa<lb ed="#G" n="23" break="no"/>cit, ea tractare non debuit, quia melius non 
+      te<lb ed="#G" n="24" break="no"/>tigisse fuit. In summa quaestio est, vtrum 
+      <lb ed="#G" n="25"/>Potentia generandi, quae Patri tribuitur, Filio 
+      tri<lb ed="#G" n="26" break="no"/>buenda quoque sit. Respondet iste capite 2. 
+      Tri<lb ed="#G" n="27" break="no"/>buendam, quoque esse. Et quod non genuerit Filius, id 
+      <lb ed="#G" n="28"/>minime factum, quod non potuerit, sed quod non 
+      <lb ed="#G" n="29"/>oportuerit Filium gignere, ne prosapiae diuinae 
+      se<lb ed="#G" n="30" break="no"/>ries in immensum propagaretur. Quid obsecro 
+      <lb ed="#G" n="31"/>absurdius, &amp; Valentinianorum erroribus esse 
+      <lb ed="#G" n="32"/>potest magis consentaneum: Itaque haec 
+      Lom<lb ed="#G" n="33" break="no"/>bard. ipse cap. 4. nequaquam postca probauit. 
+      <lb ed="#G" n="34"/>Caeterum qui vel optime istius autoris &amp; re¬ 
+      <!--228.xml-->
+      <pb ed="#G" n="127"/>
+      
+               <lb ed="#G" n="1"/>sponsionis mentem tenere sibi videntur, fic eam 
+      il<lb ed="#G" n="2" break="no"/>fustrant &amp; exponsit, vt dicant, Potentia 
+      generan<lb ed="#G" n="3" break="no"/>di si ad proprietate referatur, non competit Filio: si ad 
+      <lb ed="#G" n="4"/>naturam, competit. Hinc vero natae sunt 
+      diuersa<lb ed="#G" n="5" break="no"/>rum opinionu inter istius scholae magistros my 
+      <lb ed="#G" n="6"/>riades. Huius enim responsionis tam ineptae, &amp;  
+      <lb ed="#G" n="7"/>certe falsissimae causa quum reddenda esset, 
+      cer<lb ed="#G" n="8" break="no"/>tatim eorum quisque, pro ingenij sui acumine 
+      <lb ed="#G" n="9"/>&amp; viuacitate, noua statim rationem coniicere 
+      con<lb ed="#G" n="10" break="no"/>natus est: atque receptam oppugnare. Denique 
+      <lb ed="#G" n="11"/>quum nihil firmi in superiorum solutionibus 
+      <lb ed="#G" n="12"/>posteriores cerneret, quasi re deplorata, eorum 
+      <lb ed="#G" n="13"/>alij hanc quaestione omnino praetermiserunt: alij 
+      <lb ed="#G" n="14"/>magis etiam inuoluerunt. Dicis igitur causa 
+      va<lb ed="#G" n="15" break="no"/>ria istorum hominum figmenta potius, quam 
+      cer<lb ed="#G" n="16" break="no"/>ta fundamenta proferamus. Primi igitur censent 
+      <lb ed="#G" n="17"/>potentiam generandi quum ad naturam refertur,  
+      <lb ed="#G" n="18"/>Filio quoque competere, quia tunc idem est Posse 
+      <lb ed="#G" n="19"/>generare, &amp; posse generari. Sic Lomb. ipse cap. &amp; 
+      <lb ed="#G" n="20"/>huius Dist. Alij dicunt potentiam istam generandi 
+      <lb ed="#G" n="21"/>esse relatione tantum, non essentiam, quia Patrem 
+      es<lb ed="#G" n="22" break="no"/>se alicuius est relatio. Tertij distinguunt inter 
+      <lb ed="#G" n="23"/>principium conmunicationis, &amp; principium 
+      produ<lb ed="#G" n="24" break="no"/>ctionis. Ergo potetiam generandi negat esse 
+      prin<lb ed="#G" n="25" break="no"/>cipium communicatioms. it illud principium, quo 
+      <lb ed="#G" n="26"/>Pater sese, suamque essentiam tota Filio comu 
+      <lb ed="#G" n="27"/>nicauit, Thom. in I. parte Quaest. 4I. artic. 2. 
+      di<lb ed="#G" n="28" break="no"/>ferte sic scribit &amp; repetit, Potentia 
+      generandiprin<lb ed="#G" n="29" break="no"/>cipaliter significat diuina potentipus. Ergo ait idem  
+      <lb ed="#G" n="30"/>Quaest. 48. artic. 6. Habet Filius eandem potentiam 
+      <lb ed="#G" n="31"/>quam Pater, sed cum alia ratione, Pater vt das: 
+      Fi<lb ed="#G" n="32" break="no"/>lias vt accipiens. Quae sententia quum sit 
+      absur<lb ed="#G" n="33" break="no"/>dissima a Guilielmo Occan est hoc loco in 
+      <lb ed="#G" n="34"/>Quaestione prima luculenter confutata.
+    </p>
+            <p xml:id="cv8jk9-e11201-d1e403">
+               <lb ed="#G" n="35"/>Lombardus ipse postea hoc ipso lib. Dist. a &amp; 
+      <!--229.xml-->
+      <pb ed="#G" n="128"/>
+      
+               <lb ed="#G" n="1"/>cap. 2. &amp; Distin. 27. cap. 2. &amp; 2, sentit generate 
+      <lb ed="#G" n="2"/>esse operationem proprietatis Personarum 
+      di<lb ed="#G" n="3" break="no"/>uinarum: non autem ipsius essentiae, quae 
+      com<lb ed="#G" n="4" break="no"/>munis est illistribus. Quidampliusr esset 
+      infini<lb ed="#G" n="5" break="no"/>tum omnes diuersas ac sibi ipsis etiam cuntrarias 
+      i<lb ed="#G" n="6" break="no"/>storum sententias de significatione gerundiui 
+      <lb ed="#G" n="7"/>Generandi, &amp; de significatione vocis Potenuia 
+      <lb ed="#G" n="8"/>persequi. Rem igitur ipsam potius in 
+      studioso<lb ed="#G" n="9" break="no"/>rum gratiam explico. Tribus maxime de causis 
+      <lb ed="#G" n="10"/>in hac quaestione dico peccatum esse ab isto. 
+      <lb ed="#G" n="11"/>Primum quod potentiam aliquam in diuina 
+      es<lb ed="#G" n="12" break="no"/>sentia statuit, non quidem docendi tantum 
+      gra<lb ed="#G" n="13" break="no"/>tia: sed potentiam meram, &amp; reipsa, qualis est in 
+      <lb ed="#G" n="14"/>rebus creatis, quae aliquid ex potentia 
+      praece<lb ed="#G" n="15" break="no"/>dente producunt, distinguiturque vere, ab ipsa 
+      <lb ed="#G" n="16"/>umpvg. I. ab efficiente virtute. Rationem afferunt 
+      <lb ed="#G" n="17"/>huius interpretes ex Metaphysic. 
+      Aristotelico<lb ed="#G" n="18" break="no"/>rum lib. g.cap. I2. quod potentia ista est 
+      princi<lb ed="#G" n="19" break="no"/>pium ipsissimum quo producitur aliquid. 
+      Ita<lb ed="#G" n="20" break="no"/>que qui illa potentia careat, nihil producere 
+      <lb ed="#G" n="21"/>posse. Verum aliud tradit Cyrillus Dialogo 2. 
+      <lb ed="#G" n="22"/>de Trinitate: docet enim Deum esse totum 
+      iri<lb ed="#G" n="23" break="no"/>vεων, non autem δυναυὸν illa philosophicam aut 
+      <lb ed="#G" n="24"/>Physicam. Nam illa regula Aristotelica sumpta 
+      <lb ed="#G" n="25"/>est ex rerum creatatum lege &amp; infirma natura. 
+      <lb ed="#G" n="26"/>cui Deitatem conferre, vel etiam subiicere, est 
+      <lb ed="#G" n="27"/>creaturas, &amp; creatorem pares inter se facere. Etsi 
+      <lb ed="#G" n="28"/>vero non quicquid potuit, potestve Deus, 
+      sta<lb ed="#G" n="29" break="no"/>tim in lucem &amp; actum producit, non idcirco 
+      ta<lb ed="#G" n="30" break="no"/>mem est aliud in diuina essentia potentia, aliud 
+      <lb ed="#G" n="31"/>actus, &amp; ista differentia, rerum potius ipsarum,  
+      <lb ed="#G" n="32"/>quas Deus producit, ratione spectatur, quam  
+      <lb ed="#G" n="33"/>ipsius Deist Secundum concedi nequaquam debet 
+      <!--230.xml-->
+      <pb ed="#G" n="129"/>
+      
+               <lb ed="#G" n="1"/>Filium habere potentiam generandi. Ratio est 
+      <lb ed="#G" n="2"/>quoniam ad Personarum diuinarum actiones 
+      <lb ed="#G" n="3"/>internas, seu opera ad intra, quae vocant, 
+      perti<lb ed="#G" n="4" break="no"/>net haec actio, quae ab istis vocatur, Potentia, 
+      <lb ed="#G" n="5"/>Quanqua enim communia &amp; inseparabilia sunt 
+      <lb ed="#G" n="6"/>totius Trinitatis opera ad extra propter 
+      ean<lb ed="#G" n="7" break="no"/>dem essentiae παυτολητα, virtutem, matestatem,  
+      <lb ed="#G" n="8"/>κεάτας, &amp;gloriam: non sunt tamen opera 
+      earun<lb ed="#G" n="9" break="no"/>dem Personarum ad intra communia, vt idem  
+      <lb ed="#G" n="10"/>Patri quod Filio competat. Sunt enim illa ope¬ 
+      <lb ed="#G" n="11"/>ξoφμσεων φαξακλκμσικdd. Proprietates vt 
+      loquum<lb ed="#G" n="12" break="no"/>turGraeci. Itaque quemadmodum ipsae 
+      Perso<lb ed="#G" n="13" break="no"/>nae diuinae non sunt vna &amp; eadem Persona, nec 
+      <lb ed="#G" n="14"/>comunicat Pater Personam suam Filio: ita nec 
+      <lb ed="#G" n="15"/>proprium suae Personae characterem, proprietatem 
+      <lb ed="#G" n="16"/>&amp; attributum quod est generare. Neque tamen 
+      <lb ed="#G" n="17"/>propterea est Filius imbecillior Patre, quia 
+      Pa<lb ed="#G" n="18" break="no"/>ter esse non potest: vt nec Pater impotentior est 
+      <lb ed="#G" n="19"/>Filio, quia Pater Filius esse non potest. Haec est 
+      <lb ed="#G" n="20"/>igitur breuis solutio totius huius quaestionis.
+    </p>
+            <p xml:id="cv8jk9-e11201-d1e531">
+               <lb ed="#G" n="21"/>Tertium perpetuo paralogismo iste &amp; fallit, &amp; 
+      <lb ed="#G" n="22"/>fallitur, dum ad sensu &amp; mentem verborum, quibus 
+      <lb ed="#G" n="23"/>Patres orthodoxi vtuntur, non attendit, ac ne 
+      qui<lb ed="#G" n="24" break="no"/>dem ipsorum vocabulorum significatum capit. Dicunt 
+      <lb ed="#G" n="25"/>Patres, Pater Deus de sua natura genuit Filium de 
+      <lb ed="#G" n="26"/>Fide ad Petr. cap. 2. Filius solus de Patre est 
+      essen<lb ed="#G" n="27" break="no"/>tialiter genitus. cap. I. Filius de natura Patris natus 
+      <lb ed="#G" n="28"/>est. cap. I2. Damascenus lib. I. cap. 8. de 
+      Ortho<lb ed="#G" n="29" break="no"/>doxa fide dicit, Generatio illa aeterna Filij est 
+      <lb ed="#G" n="30"/>ἁρνον φυνεως και κ δῆςμoμας ααιι τρηάνμοα, est naturae 
+      <lb ed="#G" n="31"/>ipsius opus, &amp; ex ipsa Patris essentia promanans. 
+      <lb ed="#G" n="32"/>lam ex his sic argumentatur iste, Pater genuit, 
+      <lb ed="#G" n="33"/>ergo ipsa essentia diuina per se considerata 
+      ge<lb ed="#G" n="34" break="no"/>nerat, nabetque generandi iguν. At illa essentia 
+      <!--231.xml-->
+      <pb ed="#G" n="130"/>
+               <lb ed="#G" n="1"/>diuina in Filio &amp; Spiritu sancto eadem est, &amp; 
+      <lb ed="#G" n="2"/>aeque potens. Ergo Filius &amp; Spiritus sanctus 
+      <lb ed="#G" n="3"/>generare possunt. Quid hac conclusione absur. 
+      <lb ed="#G" n="4"/>dius) Cum quae de Persona dicuntur, ad ipsam  
+      <lb ed="#G" n="5"/>essentiam per se consideratam referantur. Ergo 
+      <lb ed="#G" n="6"/>non animaduertit Lombardus semper sic 
+      Vete<lb ed="#G" n="7" break="no"/>res loqui de generatione hac diuina, vt eam ad 
+      <lb ed="#G" n="8"/>personalitatem, id est, Personam Patris: non ad 
+      <lb ed="#G" n="9"/>essentiam ipsius referant. Vnde dixit autor 
+      libel<lb ed="#G" n="10" break="no"/>lide Fide ad Petrum has phrases omnes tadem  
+      <lb ed="#G" n="11"/>exponens, Generare est opus Paternae proprietatus. 
+      <lb ed="#G" n="12"/>Cur igitur sic loquuntur Patres, Pater Deus do 
+      <lb ed="#G" n="13"/>sua natura genuit, Nimirum ne Filius ex nihilo 
+      <lb ed="#G" n="14"/>genitus a Patre censeatur: ne ex sola voluntate, 
+      <lb ed="#G" n="15"/>vt eaeterae res creatae: ne Filius alia esse essentia 
+      <lb ed="#G" n="16"/>diuina, quam Pater credatur, dicunt disertis 
+      ver<lb ed="#G" n="17" break="no"/>dis de natura, de essentia, essentialiter, natus est 
+      <lb ed="#G" n="18"/>Filius. Oenerare quidem Filium verbum &amp;  
+      <lb ed="#G" n="19"/>Deum non potuit Pater, nisi esset Deus : non 
+      <lb ed="#G" n="20"/>tamen, vti diximus, ipsa essentia diuina per se 
+      <lb ed="#G" n="21"/>copsiderata, idcirco generat. Itaque illa 
+      po<lb ed="#G" n="22" break="no"/>tentia generandi extra personam Patris nec est,  
+      <lb ed="#G" n="23"/>nec esse potest in ipsa essentia diuina, quoniam  
+      <lb ed="#G" n="24"/>est propriissimus ipsius Patris character. 
+      Dei<lb ed="#G" n="25" break="no"/>nique quod iste pro iusto suae responsionis 
+      fun<lb ed="#G" n="26" break="no"/>damento affert ex Augustino lib 2. cap. I2. ad 
+      <lb ed="#G" n="27"/>vers. Maximi. Arianum huiusinodi est, vt 
+      dete<lb ed="#G" n="28" break="no"/>stationem potius tam ineptae &amp; impiae 
+      senton<lb ed="#G" n="29" break="no"/>tiae contineat, quam veram istius quaestionis  
+      <lb ed="#G" n="30"/>explicationem ab Augustino factam, Vtrum 
+      <lb ed="#G" n="31"/>Filius generare possit. Sed iste non,. vidit se hac 
+      <lb ed="#G" n="32"/>Augustini sententia minime iuuari,
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

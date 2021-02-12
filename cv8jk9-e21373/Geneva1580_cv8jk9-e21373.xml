@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 21</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 21</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="359"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e21373"><!-- ld-d21 -->
+            <head xml:id="cv8jk9-e21373-Hd1e106">Distinctio 21</head>
+            <p xml:id="cv8jk9-e21373-d1e109">
+      <!--460.xml-->
+               <pb ed="#G" n="359"/>
+               <lb ed="#G" n="1"/>AD DISTINCT. XXI 
+      <lb ed="#G" n="2"/>AD CAP. I. 
+    </p>
+            <p xml:id="cv8jk9-e21373-d1e120">
+               <lb ed="#G" n="3"/>Solum Deum Patrem. Pauca ex 
+      Augusti<lb ed="#G" n="4" break="no"/>no sunt transcripta, vnica nempe haec sentetia, 
+      <lb ed="#G" n="5"/>Solum Patrem dicimus Patrem, non quia separatur 
+      <lb ed="#G" n="6"/>A Filio, sed quia non simul ambo Pater sunt. Quam  
+      <lb ed="#G" n="7"/>sententiam iste tamen neque sanam, neque 
+      sun<lb ed="#G" n="8" break="no"/>ceram referrespro more suo) potuit. Itaque &amp;  
+      <lb ed="#G" n="9"/>addidit quaedam, velut sed hoc dicentes significamus: 
+      <lb ed="#G" n="10"/>(quae esse Augustini ipsius putauit Thomas in 
+      <lb ed="#G" n="11"/>prima parte quaest. 32I. Artic, q. abisto deceptus) 
+      <lb ed="#G" n="12"/>&amp; alia corrupit, veluti quum sic scribit, Solum 
+      <lb ed="#G" n="13"/>Deum Patrem dicimus. Neque enim hoc dicit 
+      <lb ed="#G" n="14"/>Augustinus solum Deum dici Patrem, quoniam  
+      <lb ed="#G" n="15"/>nec de eo quaestio erat. Atque etiam aperte 
+      <lb ed="#G" n="16"/>Thomas in prima quaest. 2I. Artic. s. docet hanc 
+      <lb ed="#G" n="17"/>enuntiationem, Solus Deus est Pater, esse falsam,  
+      <lb ed="#G" n="18"/>cum homines etiam Patres recte appellari 
+      pos<lb ed="#G" n="19" break="no"/>sint. Hebr. I2. Sed disceptabatur de eo, 
+      quomo<lb ed="#G" n="20" break="no"/>do dicatur Pater solus, vel solus Pater. Aliud 
+      au<lb ed="#G" n="21" break="no"/>tem est dicere solum Deum esse Patrem : &amp; Patren 
+      <lb ed="#G" n="22"/>esse solum Patrem. Quamobrem etiam hic ipse 
+      <lb ed="#G" n="23"/>has velut diuersas &amp; dissimiles prorsus 
+      quae<lb ed="#G" n="24" break="no"/>stiones facit infra capite sequenti. Sed 
+      pro<lb ed="#G" n="25" break="no"/>pter additam illam de suo vocem Deum, hic 
+      <lb ed="#G" n="26"/>confundit.
+    </p>
+            <p xml:id="cv8jk9-e21373-d1e175">
+               <lb ed="#G" n="27"/>2 Solus enim Pater. Procul dubio manca 
+      <lb ed="#G" n="28"/>est oratio, vtcunque eam negligenter 
+      praeter<lb ed="#G" n="29" break="no"/>mittant omnes istius operis emendatores tum 
+      <lb ed="#G" n="30"/>noui, tum veteres, quae sic ex ipso Augustino 
+      <lb ed="#G" n="31"/>supplenda est, vt sit &amp; plana &amp; integra. Solus 
+      e<lb ed="#G" n="32" break="no"/>nim Pater, Pater est.
+    </p>
+            <p xml:id="cv8jk9-e21373-d1e191">
+      <!--461.xml-->
+               <pb ed="#G" n="360"/>
+               <lb ed="#G" n="1"/>AD CAP. II 
+    </p>
+            <p xml:id="cv8jk9-e21373-d1e201">
+               <lb ed="#G" n="2"/>Augustinus in libro vi. Restitue libro &amp;. 
+      <lb ed="#G" n="3"/>de Trinitate. Nam quae hic refert Lombardus,  
+      <lb ed="#G" n="4"/>extant eo libro sexto, capite nono in principio 
+      <lb ed="#G" n="5"/>capitis.  
+    </p>
+            <p xml:id="cv8jk9-e21373-d1e212">
+               <lb ed="#G" n="6"/>AD CAP. IIII
+    </p>
+            <p xml:id="cv8jk9-e21373-d1e217">
+               <lb ed="#G" n="7"/>Tanta pace vni adhaerens. Aliter apud 
+      Au<lb ed="#G" n="8" break="no"/>gustinum, vbi vis huius argumenti, quod latet 
+      <lb ed="#G" n="9"/>in voce pacis, explicatur: quae hic a Lombardo, 
+      <lb ed="#G" n="10"/>tanquam praecipuus totius huius 
+      ratiocinatio<lb ed="#G" n="11" break="no"/>nis neruus, inciditur. Sic igitur Augustinus. Et 
+      <lb ed="#G" n="12"/>ordo verborum est, vt te, &amp; quem misisti Iesum Chri 
+      <lb ed="#G" n="13"/>stum, cognoscant vnum verum Deum Coann. 
+      Iy<lb ed="#G" n="14" break="no"/>ver. S) Cur vero tacuit de Spiritu sancto: An 
+      quo<lb ed="#G" n="15" break="no"/>niam consequens est, vt vbicunque nominatur vnum 
+      <lb ed="#G" n="16"/>tanta pace vni adhaerens (vt per hanc vtrunque 
+      v<lb ed="#G" n="17" break="no"/>num sit )iam ex hoc intelligatur etiam ipsa pax, 
+      qua<lb ed="#G" n="18" break="no"/>uis non commemoretur) Pacis autem nomine 
+      <lb ed="#G" n="19"/>ταυτοταταύσας &amp; iνoτατα intelligit Augustins, quae 
+      <lb ed="#G" n="20"/>facit vt vnus sine alterius incurrente notione 
+      <lb ed="#G" n="21"/>&amp; intelligentia intelligi non possit, 
+      quemadmo<lb ed="#G" n="22" break="no"/>dum hunc ipsum locum explicans Basil. libro s. 
+      <lb ed="#G" n="23"/>contra Eunomium declarat, ἐκ ἀροριξωντο ωνdμα 
+      <lb ed="#G" n="24"/>τῆς δυωξως, ως ότυι, δυο ονoμάξει, &amp;Nα τουναντιον ινῶν μαῖ 
+      <lb ed="#G" n="25"/>δωnῶν Cν πατζι και μῶτο το δμα τo ἀXῶξIδον. I. Non 
+      se<lb ed="#G" n="26" break="no"/>parans Spiritum sanctum ab illis duobus, vt isti 
+      fa<lb ed="#G" n="27" break="no"/>ciunt, duos nominat: sed contra vniens eum, &amp; 
+      de<lb ed="#G" n="28" break="no"/>clarans in Patre, &amp; Filio Spiritum sanctum ab illis 
+      <lb ed="#G" n="29"/>separari non potest. Deinde illud quoque 
+      obser<lb ed="#G" n="30" break="no"/>uandum est in ipso Ioanne non esse vnum Deum, 
+      <lb ed="#G" n="31"/>Eνα ωεον, sed solum Deum, μονον Gεον, quam tamen 
+      <lb ed="#G" n="32"/>lectionem in sua interpretatione non retinet 
+      <lb ed="#G" n="33"/>Augustinus. Verior igitur illius Ioannis, seu 
+      <!--462.xml-->
+      <pb ed="#G" n="361"/>
+      
+               <lb ed="#G" n="1"/>Christi potius sententiae sensus est ex voce 
+      ann<lb ed="#G" n="2" break="no"/>Sονὸν (quae statim sequitur) vt intelligamus illic 
+      <lb ed="#G" n="3"/>opponi eum qui solus vere Deus est, falsis diis,  
+      <lb ed="#G" n="4"/>vti. I. Corinth. 8. Vers. 6 &amp; ostendi eam vnicam  
+      <lb ed="#G" n="5"/>&amp; veram nostrae salutis rationem esse, si in Christo 
+      <lb ed="#G" n="6"/>(qui est sols noster Mediator) cum cognoscam:. 
+      <lb ed="#G" n="7"/>Haec ratio salutis opponitur omnibus modis,  
+      <lb ed="#G" n="8"/>quos sibi homines fingunt, vt I. Cor. 2. V. 2. Act. 
+      <lb ed="#G" n="9"/>26 vers. I8. Atque hanc interpretationem 
+      con<lb ed="#G" n="10" break="no"/>firmat Cvrillus lib. Io. Thesauri, cap. &amp;. Sed ad 
+      <lb ed="#G" n="11"/>Lombardum, a quo cum sint praetermissa haec 
+      <lb ed="#G" n="12"/>omnia (ut per hanc vtrunque vnum sit) apparet 
+      <lb ed="#G" n="13"/>Augustini locum immutatum fuisse, &amp; 
+      fortissi<lb ed="#G" n="14" break="no"/>mum argumentum elumbe redditum.
+    </p>
+            <p xml:id="cv8jk9-e21373-d1e313">
+               <lb ed="#G" n="15"/>Censura.
+    </p>
+            <p xml:id="cv8jk9-e21373-d1e318">
+               <lb ed="#G" n="16"/>Quanquam iam saepius dictum a nobis id 
+      vi<lb ed="#G" n="17" break="no"/>deri potest, quia tamen in tam sancta (qualis est 
+      <lb ed="#G" n="18"/>sacra Theologia) venerandaque scientia nihil 
+      <lb ed="#G" n="19"/>frustra, vel ἀκρςῶς tractari debeat, est tamen 
+      <lb ed="#G" n="20"/>repetendum. Ergo in hac Distinctione vsum 
+      <lb ed="#G" n="21"/>finemque harum tot tamque multiplicium 
+      quae<lb ed="#G" n="22" break="no"/>stionum a Lombardo explicandum fuisse 
+      con<lb ed="#G" n="23" break="no"/>tendo, quo praetermisso, quis non videt hic iam  
+      <lb ed="#G" n="24"/>non δσεξεεων, sed λολμαάαν &amp; pugnam de verbis 
+      <lb ed="#G" n="25"/>&amp; vocabulis tantum tradi: Adeo vt ne quidem  
+      <lb ed="#G" n="26"/>huius loci sumi interpretes, quae sit vtilitas 
+      <lb ed="#G" n="27"/>harum disputationum, ipsi norint. Alij enim 
+      exi<lb ed="#G" n="28" break="no"/>stimant, cum supra dictum sit, solus Pater, vel 
+      so<lb ed="#G" n="29" break="no"/>lus Filius tantus est, quantum simul tres illae Perso 
+      <lb ed="#G" n="30"/>nae, fuisse necesse hoc velut corollarium addi, vt 
+      <lb ed="#G" n="31"/>dictio haec Solus explicaretur. Sic &amp; 
+      Lombar<lb ed="#G" n="32" break="no"/>dus ipse scripsit, &amp; posteum alij plerique, veluti 
+      <!--463.xml-->
+      <pb ed="#G" n="362"/>
+      
+               <lb ed="#G" n="1"/>
+               <name xml:id="cv8jk9-e21373-Nd1e363">Claudius Spinaeus</name>, &amp; <name xml:id="cv8jk9-e21373-Nd1e366">Arnoldus Vessaliensis</name>,  
+      <lb ed="#G" n="2"/>horum librorum abbreuiatores. Sic Durandus 
+      <lb ed="#G" n="3"/>quoque. Alij sentiunt ex ipsis Augustini 
+      fonti<lb ed="#G" n="4" break="no"/>bus deductas esse has quaestiones, cuius cum do 
+      <lb ed="#G" n="5"/>ctrinam pene perpetuam sequi velle videatur 
+      <lb ed="#G" n="6"/>Lombardus, fuisse quoque ei necesse, 
+      quemad<lb ed="#G" n="7" break="no"/>modum hae phrases explicantur apud August. 
+      <lb ed="#G" n="8"/>. Trinit. cap. 28. ita ab isto tradi. Tertij 
+      deni<lb ed="#G" n="9" break="no"/>que volunt in genere locutiones eas, in quibus 
+      <lb ed="#G" n="10"/>exclusiua dictio quaepiam vsurpatur de essentia 
+      <lb ed="#G" n="11"/>vel Personis diuinis, qualis est solus, tantum, 
+      v<lb ed="#G" n="12" break="no"/>nicus, dumtaxat, singularis, hic exponi: quam 
+      sen<lb ed="#G" n="13" break="no"/>tentiam sequitur Thomas in I. parte Quaest, I. 
+      <lb ed="#G" n="14"/>Artic. 2. &amp; 4. Occan censet ex tribus istis 
+      quae<lb ed="#G" n="15" break="no"/>stionibus, vnam tantum esse necessariam &amp; 
+      vti<lb ed="#G" n="16" break="no"/>lem scitu, nempe, quomodo haec enuntiatio sit 
+      <lb ed="#G" n="17"/>intelligenda, solus Pater est Deus: Duas vero 
+      re<lb ed="#G" n="18" break="no"/>liquas, quae tamen hic adduntur, esse superua. 
+      <lb ed="#G" n="19"/>caneas, qualis est haec, quomodo dicatur, solus 
+      <lb ed="#G" n="20"/>Pater, vel solus Filius, vel solus Spiritus sanctus. itum 
+      <lb ed="#G" n="21"/>&amp; haec, quo sensu hoc verum sit, Trinitatem 
+      so<lb ed="#G" n="22" break="no"/>lum esse Deum. Ergo cum ab huius 
+      disputatio<lb ed="#G" n="23" break="no"/>nis scopo aberrarit maxime Lombardus ipse, 
+      <lb ed="#G" n="24"/>a quo veram ipsius scripti explicationem 
+      ex<lb ed="#G" n="25" break="no"/>spectemus : Certe ex Graecis potius, quam 
+      La<lb ed="#G" n="26" break="no"/>tinis scriptoribus vsum harum quaestionum 
+      ma<lb ed="#G" n="27" break="no"/>ximum vberrimumquem esse cognoscet, qui 
+      di<lb ed="#G" n="28" break="no"/>ligenter illos euoluerit. Arreptae sunt igitur ab 
+      <lb ed="#G" n="29"/>Arianis hae Scripturae sacrae sentetiae, solus Deus  
+      <lb ed="#G" n="30"/>habet immortalitatem. I. Timoth. 6. Vers. I8. Vt 
+      <lb ed="#G" n="31"/>cognoscant te solum Deum, &amp; quem misisti Iesum 
+      <lb ed="#G" n="32"/>Christum. Ioann. r9. Versi 8. Nobis unus Deus est 
+      <lb ed="#G" n="33"/>Pater. I. Corinth. 8. Vers. 6 &amp; similes aliae. 
+      Ad<lb ed="#G" n="34" break="no"/>eo vt inde solum Patrem Deum esse collige¬ 
+      <!--464.xml-->
+      <pb ed="#G" n="363"/>
+      
+               <lb ed="#G" n="1"/>rent: Filio autem &amp; Spiritui sancto Deitatem  
+      <lb ed="#G" n="2"/>impie detraherent. Arianis successerunt hac 
+      no<lb ed="#G" n="3" break="no"/>stra aetate Valentiniani, Seruetani, &amp; alij 
+      Anti<lb ed="#G" n="4" break="no"/>trinitarij, qui solum Patrem αυτόφεον &amp; ωυτοξωον, 
+      <lb ed="#G" n="5"/>&amp; αὑτοδημάιρσμὸλν esse contenderunt: Filium 
+      au<lb ed="#G" n="6" break="no"/>tem &amp; Spiritum sanctum his epithetis spoliarunt,  
+      <lb ed="#G" n="7"/>quibus eum appellari posse blaspheme negant.  
+      <lb ed="#G" n="8"/>Ergo aduersus hos omnes valet harum quae 
+      <lb ed="#G" n="9"/>stionum svncera, atque vtilis explicatio, ex iuso 
+      <lb ed="#G" n="10"/>Dei verbo confirmata, qualemGraeci &amp; 
+      ortno<lb ed="#G" n="11" break="no"/>doxi Patres attulerunt. Non enim 
+      ostentatio<lb ed="#G" n="12" break="no"/>nis, inanisque tantum speculationis gratia, vt 
+      <lb ed="#G" n="13"/>iste facit: sed iugulandarum pessimarum 
+      hae<lb ed="#G" n="14" break="no"/>rescun caussa tractandae sunt traditaeque nobis 
+      <lb ed="#G" n="15"/>hae quaestiones a veteribus. Hoc igitur primum 
+      <lb ed="#G" n="16"/>omnium hoc loco reprehendendum censeo.
+    </p>
+            <p xml:id="cv8jk9-e21373-d1e481">
+               <lb ed="#G" n="17"/>Secundum, quod faciles omnino (si modo 
+      <lb ed="#G" n="18"/>commode doceantur) quaestiones iste sic 
+      in<lb ed="#G" n="19" break="no"/>uoluit &amp; obscuritate verborum, &amp; nulla 
+      per<lb ed="#G" n="20" break="no"/>spicua distinctione ad soluendum adhibita, vt 
+      <lb ed="#G" n="21"/>infinitae prope sententiae ad earum 
+      explicatio<lb ed="#G" n="22" break="no"/>nem postea sint ab interpretibus excogitatae, 
+      <lb ed="#G" n="23"/>quia vera caruerunt, nec ab isto suo 
+      praecepto<lb ed="#G" n="24" break="no"/>re sunt adiuti. Alij enim sic distinguunt, hanc 
+      <lb ed="#G" n="25"/>phrasin solus Pater est Deus, vt de virtute quidum 
+      <lb ed="#G" n="26"/>sermonis, id est, ex proprio germanoque sensu &amp; 
+      <lb ed="#G" n="27"/>significato verborum esse falsam. concedant: de 
+      <lb ed="#G" n="28"/>benigna tamen interpretatione velint esse 
+      ve<lb ed="#G" n="29" break="no"/>ram. Quod quid aliud est, quam nos posse ex 
+      <lb ed="#G" n="30"/>falso verum efficere, &amp; nostris commentis 
+      <lb ed="#G" n="31"/>mendacium in veritatem tandem commutare) 
+      <lb ed="#G" n="32"/>Alij dicunt, si vocabulum, Solus, 
+      categoremati<lb ed="#G" n="33" break="no"/>ce sumatur, falsam esse hanc enuntiationem, 
+      <lb ed="#G" n="34"/>Solus Pater est Deus. Sin autem svncategorema¬ 
+      <!--465.xml-->
+      <pb ed="#G" n="364"/>
+      
+               <lb ed="#G" n="1"/>tice, esse veram: sed &amp; hi eodem, verbis 
+      tan<lb ed="#G" n="2" break="no"/>tum immutatis, recidunt, quo priores illi. Nos 
+      <lb ed="#G" n="3"/>autem pro αἰτήματ Theologico sumamus, quod 
+      <lb ed="#G" n="4"/>scribit Augustinus in lib. de Inquisit. Trinitatis,  
+      <lb ed="#G" n="5"/>Nullatenus ad solam Patris Personam pertinet, dum 
+      <lb ed="#G" n="6"/>dicitur solus Deus, siue in nouo, siue in veteri 
+      Testa<lb ed="#G" n="7" break="no"/>mento. ωσε nσύμτασα Dεωτης δῶκῶς σοι ποτό μῖν &amp;ν πατζι, 
+      <lb ed="#G" n="8"/>πετε δε ενύξ, κωνεύματι ωρονηηορια ψνετυι. i. Nam  
+      <lb ed="#G" n="9"/>tota Deitas tibi nonnunquam nomine Patris: 
+      non<lb ed="#G" n="10" break="no"/>nunquam nomine Filij &amp; Spiritus sancti declaratur, 
+      <lb ed="#G" n="11"/>vt ait Basil. lib. 2. contra Eunomium. Ergo sic 
+      <lb ed="#G" n="12"/>locus Pauli I. Tim. &amp;. Sic locus Ioannis capite 
+      <lb ed="#G" n="13"/>I7. &amp; alij similes sunt explicandi, non 
+      anfractuo<lb ed="#G" n="14" break="no"/>se, vt iste facit. Et quod ad vocem Solus, μονoς 
+      Grae<lb ed="#G" n="15" break="no"/>ce: saepe pro Solitario accipitur (inquit 
+      Naxia<lb ed="#G" n="16" break="no"/>xenus in epistolis Basilij) saepe pro toto 
+      velv<lb ed="#G" n="17" break="no"/>niuerso. Ergo ambiguitate vocis luditur in 
+      <lb ed="#G" n="18"/>his omnibus propositionibus exagitandis, 
+      So<lb ed="#G" n="19" break="no"/>lus Pater est Deus. Trinitas est solus Deus: quum  
+      <lb ed="#G" n="20"/>vna tantum Persona intelligitur. Hoc erat a 
+      <lb ed="#G" n="21"/>Lombardo afferendum ad breuem harum 
+      quae<lb ed="#G" n="22" break="no"/>stionum dilucidamque solutionem.
+    </p>
+            <p xml:id="cv8jk9-e21373-d1e576">
+               <lb ed="#G" n="23"/>Tertium, debuit iste afferre alicuius 
+      ortho<lb ed="#G" n="24" break="no"/>doxi Patris testimonium, capite 2. huius 
+      Distin<lb ed="#G" n="25" break="no"/>ctionis, vt probaret, quod ait, occurrere in 
+      au<lb ed="#G" n="26" break="no"/>toribus has phrases, solus Pater est Deus, vel solus 
+      <lb ed="#G" n="27"/>Filius est Deus. Quum enim eas veras esse 
+      aper<lb ed="#G" n="28" break="no"/>te neget Augustinus, qua fronte iste eas 
+      <lb ed="#G" n="29"/>occurrere in probatorum 
+      scri<lb ed="#G" n="30" break="no"/>ptorum libris aito Sed 
+      <lb ed="#G" n="31"/>haec hactenus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

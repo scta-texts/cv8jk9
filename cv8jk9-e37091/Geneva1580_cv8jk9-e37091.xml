@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 47</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 47</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="745"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e37091"><!-- ld-d47 -->
+            <head xml:id="cv8jk9-e37091-Hd1e106">Distinctio 47</head>
+            <p xml:id="cv8jk9-e37091-d1e109">
+               <lb ed="#G" n="12"/>AD DISTINCTIONEM 
+      <lb ed="#G" n="13"/>XLVII 
+      <lb ed="#G" n="14"/>AD CAP. I.
+    </p>
+            <p xml:id="cv8jk9-e37091-d1e118">
+               <lb ed="#G" n="15"/>I Nihil enim. Locus hic a Lombardo 
+      an<lb ed="#G" n="16" break="no"/>notatur, velut exscriptus ex libro de Arbitrio.  
+      <lb ed="#G" n="17"/>ln quo certe vel lapsus est memoria, vel error 
+      <lb ed="#G" n="18"/>est librariorum. Libri de libero Arbitrio 
+      Au<lb ed="#G" n="19" break="no"/>gustini sunt tres, in quorum nullo haec 
+      senten<lb ed="#G" n="20" break="no"/>tia extat. Videtur autem non quoad verba, sed 
+      <lb ed="#G" n="21"/>quoad mentem sumpta ex libro vnico 
+      Augu<lb ed="#G" n="22" break="no"/>stini de Gratia &amp; libero Arbitrio, vbi cap. 2I. 
+      <lb ed="#G" n="23"/>par huic sententia extat: nisi quis fortassis ad 
+      <lb ed="#G" n="24"/>lib. I4. de Ciuitate Dei cap. 3y. hunc locum 
+      re<lb ed="#G" n="25" break="no"/>ferre malit. Legerim autem ipse hoc loco sic 
+      <lb ed="#G" n="26"/>(Vt ait Augustinus in Enchiridio. INam 
+      senten<lb ed="#G" n="27" break="no"/>tia haec quae sequitur, Etsi faciat contra eius 
+      vo<lb ed="#G" n="28" break="no"/>luntatem, tamen contra eius voluntatem, &amp;c. ex 
+      ca<lb ed="#G" n="29" break="no"/>pite too. Enchiridij transcripta est. Mihi 
+      assen<lb ed="#G" n="30" break="no"/>titur epitomista Lombardi Arnoldus vesaliensis.
+    </p>
+            <p xml:id="cv8jk9-e37091-d1e155">
+      <!--847.xml-->
+               <pb ed="#G" n="746"/>
+               <lb ed="#G" n="1"/>2 Et si faciat contra eius voluntatem. Locus 
+      <lb ed="#G" n="2"/>est ex Enchirid. Augustini cap. Ioo, sed ab isto 
+      <lb ed="#G" n="3"/>Vtam est malae fidei descriptor) immutatus. Na 
+      <lb ed="#G" n="4"/>pro praeter substituit contra, magnamque 
+      senten<lb ed="#G" n="5" break="no"/>tiae huic, alioquin pulcherrimae, parit 
+      obscuri<lb ed="#G" n="6" break="no"/>tatem. Ergo sic ait Augustinus agens de 
+      pec<lb ed="#G" n="7" break="no"/>catis hominum, Propterea nanque opera Donini 
+      <lb ed="#G" n="8"/>exquisita in omnes voluntates eius, vt miro &amp; inef- 
+      <lb ed="#G" n="9"/>fabili modo non fiat praeter eius voluntatem, quod 
+      e<lb ed="#G" n="10" break="no"/>tiam contra eius fit voluntatem: quia non fieret, si 
+      <lb ed="#G" n="11"/>non sineret, &amp;c. Fortasse ad illud Pauli alludens. 
+      <lb ed="#G" n="12"/>Roma. 4. Versic. I8. Credidit Abrabam in spe 
+      con<lb ed="#G" n="13" break="no"/>tra spem. 
+    </p>
+            <p xml:id="cv8jk9-e37091-d1e190">
+               <lb ed="#G" n="14"/>Aut de nobis, aut a nobis. Tota haec ex Au 
+      <lb ed="#G" n="15"/>gustini rapsodia mirum in modum ab isto 
+      con<lb ed="#G" n="16" break="no"/>fuse collecta est, quod neque capitum seriem,  
+      <lb ed="#G" n="17"/>ex quibus sua carpebat, obseruauit: neque 
+      ver<lb ed="#G" n="18" break="no"/>ba ipsa Augustini retinuit.
+    </p>
+            <p xml:id="cv8jk9-e37091-d1e204">
+               <lb ed="#G" n="19"/>Primum igitur haec verba, quae hic 
+      notaui<lb ed="#G" n="20" break="no"/>mus, ex capite roy. Enchiridij sumpta sunt. Sic 
+      <lb ed="#G" n="21"/>enim Augustinus, Vtrumlibet horum elegisset 
+      A<lb ed="#G" n="22" break="no"/>dam, Dei voluntas fieret, aut etiam ab illo: aut certe 
+      <lb ed="#G" n="23"/>de illo. Quae vero sequuntur, De nobis impletur, 
+      <lb ed="#G" n="24"/>&amp;c. sunt Lombardi, non autem Augustini
+    </p>
+            <p xml:id="cv8jk9-e37091-d1e220">
+               <lb ed="#G" n="25"/>Et haec sunt magna. Iam haec ex cap. 100 
+      <lb ed="#G" n="26"/>Enchirid. sumpta sunt. 
+      
+    </p>
+            <p xml:id="cv8jk9-e37091-d1e227">
+               <lb ed="#G" n="27"/>AD CAP. II 
+    </p>
+            <p xml:id="cv8jk9-e37091-d1e232">
+               <lb ed="#G" n="28"/>I Opera hominum. Discedit a mente 
+      Au<lb ed="#G" n="29" break="no"/>gustini. Nec quae sequuntur, quae ipse est, &amp;c. 
+      <lb ed="#G" n="30"/>sunt Augustini, sed Lombardi. Quae tamen sic 
+      <lb ed="#G" n="31"/>iste coniungit, quasi haec interpretatio sit ipsius 
+      <!--848.xml-->
+      <pb ed="#G" n="747"/>
+               <lb ed="#G" n="1"/>quoque August, vt suam illam de Permissione 
+      <lb ed="#G" n="2"/>Dei doctrinam ex Patribus probare videatur
+    </p>
+            <p xml:id="cv8jk9-e37091-d1e252">
+               <lb ed="#G" n="3"/>2 Gregorius super Genesin. Non extat iam  
+      <lb ed="#G" n="4"/>hoc Gregorij opus, vti ex Trittehemio 
+      colli<lb ed="#G" n="5" break="no"/>gitur. Nam quae in quinque libros Mosis scri 
+      <lb ed="#G" n="6"/>pserat Greoorius aemuli eius homines 
+      impro<lb ed="#G" n="7" break="no"/>bissimi post ipsius mortem extinguere conati 
+      <lb ed="#G" n="8"/>sunt, &amp; quotquot repererunt exemplaria, cre 
+      <lb ed="#G" n="9"/>marunt: de quo ipso loannnes Diaconus in illius 
+      <lb ed="#G" n="10"/>vita conqueritur. Sed ex hoc loco falsum ap 
+      <lb ed="#G" n="11"/>paret, quod idem Trittehemius scripsit, 
+      huius<lb ed="#G" n="12" break="no"/>modi Gregorij opus nunquam extitisse. 
+      Quo<lb ed="#G" n="13" break="no"/>modo enim ista ex eo citaret Lombardus, qui 
+      <lb ed="#G" n="14"/>totis aoo, annis Gregorij aetatem secutus est. 
+      <lb ed="#G" n="15"/>voces autem hae, Vnde mutare contendunt, vel 
+      <lb ed="#G" n="16"/>sunt corruptae, vel omnino obscurae. Deinde 
+      <lb ed="#G" n="17"/>quod ibidem additur, &amp; Consilio eius resistentes 
+      <lb ed="#G" n="18"/>obsequuntur prorsus falsum est. Nec enim ob. 
+      <lb ed="#G" n="19"/>sequitur Deo, qui Dei voluntati vel consilic 
+      <lb ed="#G" n="20"/>resistit. Et plane aliud est Dei voluntatem in 
+      <lb ed="#G" n="21"/>malis fieri, aliud a malis fieri. Fit igitur in 
+      ma<lb ed="#G" n="22" break="no"/>lis, dum Deo resistunt: Non fit autem ab iis. 
+      <lb ed="#G" n="23"/>ltaque Deo nequaquam obsequuntur. Est 
+      e<lb ed="#G" n="24" break="no"/>nim obsequium voluntatis nostrae ad alterius 
+      <lb ed="#G" n="25"/>iussum conformatio, &amp; inclinatio.
+    </p>
+            <p xml:id="cv8jk9-e37091-d1e304">
+               <lb ed="#G" n="26"/>Censura ad Distinctionem 
+      <lb ed="#G" n="27"/>XLVII
+    </p>
+            <p xml:id="cv8jk9-e37091-d1e312">
+               <lb ed="#G" n="28"/>Hic omnino breuior iam ero, quoniam 
+      su<lb ed="#G" n="29" break="no"/>pra dictum est de diuersis Scholasticorum in hac 
+      <!--849.xml-->
+      <pb ed="#G" n="748"/>
+               <lb ed="#G" n="1"/>quaestione sententiis. Duo ergo tantum anno. 
+      <lb ed="#G" n="2"/>tabo, vnum, hanc Distinctionem esse rapsodia 
+      <lb ed="#G" n="3"/>ex bonis Augustinis sententiis: sed pessime, 
+      <lb ed="#G" n="4"/>quemadmiodum demonstrauimus, consutam &amp;  
+      <lb ed="#G" n="5"/>consarcinatam.
+    </p>
+            <p xml:id="cv8jk9-e37091-d1e334">
+               <lb ed="#G" n="6"/>Alterum, pugnare Lombardum ipsum secum 
+      <lb ed="#G" n="7"/>cap. 2. dum explicans haec verba Augustini, 
+      Prae<lb ed="#G" n="8" break="no"/>ter aut contra voluntatem Dei, modo pro 
+      permis<lb ed="#G" n="9" break="no"/>sione illam voluntatem Dei accipit, modo pro 
+      <lb ed="#G" n="10"/>omnipotenti voluntate. Nec enim eadem 
+      vo<lb ed="#G" n="11" break="no"/>luntas est, quae in Deo dicitur Permittens, &amp; 
+      O<lb ed="#G" n="12" break="no"/>mnipotens, propterea quod haec Omnipotens 
+      <lb ed="#G" n="13"/>aeterna est, &amp; caussa rerum efficiens: illa vero 
+      <lb ed="#G" n="14"/>Permittens non item. Sed haec hactenus. Ad 
+      <lb ed="#G" n="15"/>finem enim huius libri propero.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

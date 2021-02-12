@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 3</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 3</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="55"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e7614t"><!-- ld-d3 -->
+            <head xml:id="cv8jk9-e7614t-Hd1e106">Distinctio 3</head>
+            <p xml:id="cv8jk9-e7614t-d1e109">
+      <!--154.xml-->
+               <pb ed="#G" n="55"/>
+      
+               <lb ed="#G" n="1"/>AD DISTINCT. III 
+      <lb ed="#G" n="2"/>CAP. I. 
+      <lb ed="#G" n="3"/>collatio. 
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e122">
+               <lb ed="#G" n="4"/>I Per creaturam. Manifesta primum 
+      pul<lb ed="#G" n="5" break="no"/>cherrimi loci deprauatio, quod κτον του κοσμςυ 
+      <lb ed="#G" n="6"/>(qua phrasi ex Hebraeorum idiotismo, Paulus 
+      <lb ed="#G" n="7"/>vniuersum hunc mundum complexus est)ad so 
+      <lb ed="#G" n="8"/>lum hominem hic restringit. Na quod παοα κπῶς, 
+      <lb ed="#G" n="9"/>id est, omnis creatura, apud Marcum cap. IG. V.Is 
+      <lb ed="#G" n="10"/>pro hominibus solum sumitur, idcirco fit quo id 
+      <lb ed="#G" n="11"/>requirit loci illius argumentum &amp; tractatio. 
+      A<lb ed="#G" n="12" break="no"/>gitur enim de praedicatione Euancelij, quae non 
+      <lb ed="#G" n="13"/>nisi hominibus &amp; κοκαῖς κπνεων, id est, ratione 
+      <lb ed="#G" n="14"/>vtentibus creaturis fieri potest, ac debet. Hic 
+      <lb ed="#G" n="15"/>autem Pauli locus alio spectat, nempe reddi 
+      ho<lb ed="#G" n="16" break="no"/>mines ipsos, qui Deum ignorant, inexcusabiles,  
+      <lb ed="#G" n="17"/>quod ex reb) coditis (veluti e coelo, &amp; pulcher 
+      <lb ed="#G" n="18"/>rimis, quae in eo sunt, svderibus, e terra, &amp; vario 
+      <lb ed="#G" n="19"/>terrae ornatu) Deus cognosci potuit. Ergo un¬ 
+      <lb ed="#G" n="20"/>οις τό κὸσμον perinde sonat, atque mundus ipse 
+      con<lb ed="#G" n="21" break="no"/>ditus: &amp; de toto mundo, ac singulis illius 
+      parti<lb ed="#G" n="22" break="no"/>bus intelligitur, quae sunt nobis &amp;ψευςα Ie δεαἰτον 
+      <lb ed="#G" n="23"/>σεὸν argumenta. Deinde altera est eiusdem loci 
+      <lb ed="#G" n="24"/>labes, quod κτισμς τῶ κὸσμον apud Paulum passiue 
+      <lb ed="#G" n="25"/>sumuntur pro rebus ipsis seu condito mundo, 
+      <lb ed="#G" n="26"/>ex quo intelligitur aliquem esse Deum. Hic vero 
+      <lb ed="#G" n="27"/>sumit actiue pro homine ipso intelligente. Na il 
+      <lb ed="#G" n="28"/>lud Per barbare redditu Proamo non rem ipsa, quae 
+      <lb ed="#G" n="29"/>agit, significat: sed instrumentum potius, per quod 
+      <lb ed="#G" n="30"/>agimus &amp; percipims, vti praeclare explicatur in 
+      <lb ed="#G" n="31"/>eodem argumeto lob. 2O. V. 2S. Sap. I2. V. I. &amp; g. Id 
+      <lb ed="#G" n="32"/>quod etia ex 2. M. Tullij lib. de Nat. deorum appa 
+      <lb ed="#G" n="33"/>ret, ex mundi nimirum huius cospectu intelligere 
+      <!--155.xml-->
+      <pb ed="#G" n="56"/>
+               <lb ed="#G" n="1"/>omnes homines, quantumuis verbi diuini ignaros,  
+      <lb ed="#G" n="2"/>aliquem esse Deum. Ergo hic duplex error in 
+      <lb ed="#G" n="3"/>citando Pauli loco admissus est: quem nos (
+      quo<lb ed="#G" n="4" break="no"/>niam obscurus est, &amp; in eundem locum iste 
+      ip<lb ed="#G" n="5" break="no"/>se hoc eodem capite bis impingit) recitamus. 
+      <lb ed="#G" n="6"/>Sic igitur habet: τα ταοξατα αυτούατῳ κτινεως κo¬ 
+      <lb ed="#G" n="7"/>σμον Cτυiς πτονημασι νοξμλυα νάπoξατυι, vτe αiδoς αVreῳ 
+      <lb ed="#G" n="8"/>δῶνωάμῆς, και πειOτυς ῶς το ἐενωι ωυroς δωτολνῆroiς. Id 
+      <lb ed="#G" n="9"/>est, Ipsius enim inuisibilia, dum ex rebusconditis 
+      in<lb ed="#G" n="10" break="no"/>telliguntur, ex creatione mundi perspiciuntur, 
+      aeter<lb ed="#G" n="11" break="no"/>na videlicet eius tum potentia, tum diuinitas: ad hoc 
+      <lb ed="#G" n="12"/>vt ipsi sint inexcusabiles.
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e220">
+               <lb ed="#G" n="13"/>2 Visibiles &amp; inuisibiles. Inepte profecto 
+      si<lb ed="#G" n="14" break="no"/>ue mente, siue verba Pauli spectes addita est vox 
+      <lb ed="#G" n="15"/>lnuisibiles a Lombardo. Paulus habet duntauat,  
+      <lb ed="#G" n="16"/>ἐκ τυς κνισεως κνόμου, &amp; ποιημασι, id est, ἐκ τῶν SMeno¬ 
+      <lb ed="#G" n="17"/>μλῶν, vt interpretatur Apostolus ad Hebraeos,  
+      <lb ed="#G" n="18"/>cap. II. Versi, tertio: nec addidit Paulus ἐκ τῶν do¬ 
+      <lb ed="#G" n="19"/>φἀτυν, aut ἐκ μι φαινσμενων, id est, ex inuisibilibus 
+      <lb ed="#G" n="20"/>Dei operib: inuisibilia Dei cognosci. Sed &amp; ab 
+      <lb ed="#G" n="21"/>Ambrosio ipso satis refutatur Lombardus, quem 
+      <lb ed="#G" n="22"/>tamen sequenti capite laudat. Habet enim Am  
+      <lb ed="#G" n="23"/>brosius: Deus, qui natura est inuisibilis, vt etiam  
+      <lb ed="#G" n="24"/>a visibilibus posset sciri, opus fecit quod opificem 
+      vi<lb ed="#G" n="25" break="no"/>sibilitate sua manifestauit.
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e251">
+               <lb ed="#G" n="26"/>Ad sensum autem Apostoli quod attinet, 
+      o<lb ed="#G" n="27" break="no"/>mnino praeter institutum &amp; sensum Pauli 
+      pu<lb ed="#G" n="28" break="no"/>tat Lombardus homines intellexisse opera Dei 
+      <lb ed="#G" n="29"/>inuisibilia per alia inuisibilia. Praeterea fallitur 
+      <lb ed="#G" n="30"/>iste, qui per illa visibilia Dei opera putat 
+      agni<lb ed="#G" n="31" break="no"/>tam fuisse ab hominibus non renatis S. 
+      Trini<lb ed="#G" n="32" break="no"/>tatem, aut illius vestigium. Nec enim eo 
+      colli<lb ed="#G" n="33" break="no"/>mat mens Pauli Rom. I. V. 3I, sed id tantum 
+      do<lb ed="#G" n="34" break="no"/>cet, quod est Ps. Ip. ex Sole, Luna, aliisque visibi¬ 
+      <!--156.xml-->
+      <pb ed="#G" n="57"/>
+      
+               <lb ed="#G" n="1"/>libus Dei creaturis ipsius potentiam &amp; 
+      aeterni<lb ed="#G" n="2" break="no"/>tatem fuisse, etiam ab illis non renatis 
+      homini<lb ed="#G" n="3" break="no"/>bus agnitam. Dei vero oα, ait Basilius, sine ipsius 
+      <lb ed="#G" n="4"/>verbo cognosci non potest.
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e287">
+               <lb ed="#G" n="5"/>Deus reuel auit illis. Hoc Reuelauit, inepte 
+      <lb ed="#G" n="6"/>est conuersum. Habet Paulus Rom. I. V. I9. 
+      Ipa<lb ed="#G" n="7" break="no"/>ripure, &amp; supra dixeratτ τνορὸν Oει φανερὸν δοιν ἐν ω
+      u<lb ed="#G" n="8" break="no"/>Aois, fd quod de Deo cognosci potest, manifestum illis 
+      <lb ed="#G" n="9"/>fecit Deus. (Est autem aliud reuelatio: aliud 
+      ma<lb ed="#G" n="10" break="no"/>nifesta, &amp; cuiuis homini exposita cognitio, ac 
+      <lb ed="#G" n="11"/>notitia. Reuelantur quae obscura &amp; tecta erant. 
+      <lb ed="#G" n="12"/>Manifestantur autem quae ad intuendum 
+      om<lb ed="#G" n="13" break="no"/>nibus proponuntur) Etsi vero vetus interpres 
+      <lb ed="#G" n="14"/>iφανiρωνe conuertit barbare Reuelauit, tamen a 
+      <lb ed="#G" n="15"/>mente Pauli noluit esse discessum: 
+      quemadmo<lb ed="#G" n="16" break="no"/>dum aperte facit hoc loco Lombardus. 
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e316">
+               <lb ed="#G" n="17"/>AD CAP. III 
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e321">
+               <lb ed="#G" n="18"/>Viderunt etiam. Illud Etiam additum est 
+      <lb ed="#G" n="19"/>August, non sine incommodo sententiae. Sc 
+      e<lb ed="#G" n="20" break="no"/>nim August. Diderunt quicquid mutabile est, non 
+      <lb ed="#G" n="21"/>esse summum Deum: &amp; ideo omnem animam, 
+      muta<lb ed="#G" n="22" break="no"/>bilesque Spiritus transcenderunt, quaerentes summum 
+      <lb ed="#G" n="23"/>Deum. Hunc eundem locum sicut habemus in 
+      <lb ed="#G" n="24"/>nostris exempl. citat Beda in suis Collectaneis,  
+      <lb ed="#G" n="25"/>ne quis vitio codicis deceptum Lombardum 
+      <lb ed="#G" n="26"/>existimet. 
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e343">
+               <lb ed="#G" n="27"/>Omniumque principium. Hoc quoque additum 
+      <lb ed="#G" n="28"/>est ad Aug. sed nullo sensus dispendio. Voluit 
+      e<lb ed="#G" n="29" break="no"/>nim Lombardus explicare quid summum Deum 
+      <lb ed="#G" n="30"/>esse significet.
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e354">
+               <lb ed="#G" n="31"/>Deinde viderunt. Est &amp; hic quoque locus 
+      <lb ed="#G" n="32"/>ex Aug. sumptus, sed misere truncatus, que 
+      eun<lb ed="#G" n="33" break="no"/>dem tamen verius ex autoris sententia citat 
+      Be<lb ed="#G" n="34" break="no"/>da in suis ad Rum. cap. I. Collectaneis, Sic habet 
+      <!--157.xml-->
+      <pb ed="#G" n="58"/>
+               <lb ed="#G" n="1"/>Augustinus. Deinde viderunt (iidem philosophi 
+      <lb ed="#G" n="2"/>nimirum) omnem speciem in re quacunque 
+      muta<lb ed="#G" n="3" break="no"/>bili, qua est, quicquid illud est, quoquo modo, &amp; 
+      qua<lb ed="#G" n="4" break="no"/>liscumque natura est, non esse posse, nisi ab illo, qui 
+      ve<lb ed="#G" n="5" break="no"/>re est, quia incommutabiliter est. Lombardus 
+      con<lb ed="#G" n="6" break="no"/>fundit argumentum Augustini, &amp; μξσον ταouλ
+      o<lb ed="#G" n="7" break="no"/>Mqμoν tollit. Probat enim August. id quod 
+      mu<lb ed="#G" n="8" break="no"/>tabile est, ab eo esse, qui vere est, quia quod vere 
+      <lb ed="#G" n="9"/>est, incommutabiliter est. Illud enim quod 
+      mu<lb ed="#G" n="10" break="no"/>tatur, vere non est: sed ab eo, quod est natura 
+      in<lb ed="#G" n="11" break="no"/>commutabile, habet esse, tanquam a fonte. 
+      Lom<lb ed="#G" n="12" break="no"/>bardus igitur pro illis Augustinianis substituit 
+      <lb ed="#G" n="13"/>haec sua. Deinde viderunt omne quod mutabile est,  
+      <lb ed="#G" n="14"/>non posse esse nisi ab illo, qui incomutabiliter &amp; sim.  
+      <lb ed="#G" n="15"/>pliciter est. Dixit Augustinus, Nisi ab illo qui 
+      ve<lb ed="#G" n="16" break="no"/>re est, quia incommutabiliter est. Illud etiam 
+      Sim<lb ed="#G" n="17" break="no"/>pliciter, etsi ex eodem Augustini loco 
+      transcri<lb ed="#G" n="18" break="no"/>ptum est, tamen vim optimi argumenti, quo 
+      ter<lb ed="#G" n="19" break="no"/>tio loco iidem illi philosophi vtebantur, elidit. 
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e411">
+               <lb ed="#G" n="20"/>AD CAP. V 
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e417">
+               <lb ed="#G" n="21"/>I Corporis speciem. Obiter annotare libuit,  
+      <lb ed="#G" n="22"/>vocabulum Speciem &amp; hoc loco, &amp; in 
+      disputatio<lb ed="#G" n="23" break="no"/>ne de Sacramentis apud August. &amp; illius seculi 
+      <lb ed="#G" n="24"/>eruditos Patres pro ipsa rei substantia, &amp; &amp;niudes 
+      <lb ed="#G" n="25"/>forma sumi: non autem pro externis rei 
+      acci<lb ed="#G" n="26" break="no"/>dentibus seu qualitatibus, qualis est, color, 
+      figu<lb ed="#G" n="27" break="no"/>ra, &amp;c. Nam Spiritibus tribuitur hoc loco 
+      spe<lb ed="#G" n="28" break="no"/>cies, qui colore, figura, &amp; huiusmodi 
+      acciden<lb ed="#G" n="29" break="no"/>tibus prorsus carent. Eodem significato &amp; 
+      Cy<lb ed="#G" n="30" break="no"/>prianus in lib. de Coena Domini: &amp; Ambrosius 
+      <lb ed="#G" n="31"/>in libris de Sacramentis, vocabuloSpecies vtuntur. 
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e443">
+               <lb ed="#G" n="32"/>AD CAP. VII 
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e448">
+               <lb ed="#G" n="33"/>Haec ergo tria. Ex August. libr. I4. de Trinit. 
+      <lb ed="#G" n="34"/>cap. 8. sumptus locus, qui in alium sensum ab isto 
+      <!--158.xml-->
+      <pb ed="#G" n="59"/>
+      
+               <lb ed="#G" n="1"/>detorquetur. Agit enim illic August. non in 
+      v<lb ed="#G" n="2" break="no"/>niuersum de trib. illis animae humanae 
+      faculta<lb ed="#G" n="3" break="no"/>tibus, quae memoria, intelligentia, &amp; amor, seu 
+      <lb ed="#G" n="4"/>affectus, seu voluntas dicuntur, &amp; quarum 
+      me<lb ed="#G" n="5" break="no"/>moria, &amp; amor sunt communes homini cum 
+      <lb ed="#G" n="6"/>brutis animantib. facultates: sed in ea duntaxat 
+      <lb ed="#G" n="7"/>animae humanae parte seu facultate vestigia Tri 
+      <lb ed="#G" n="8"/>nitatis quaerit August. quae ιεμονικὸν &amp; Aoνικὸ 
+      <lb ed="#G" n="9"/>μερoς vocatur, Verba Augustini sic habent, Nunc 
+      <lb ed="#G" n="10"/>uero ad eam iam peruenimus disputationem, vbi 
+      <lb ed="#G" n="11"/>principale mentis humanae (quo nouit Deum uel po 
+      <lb ed="#G" n="12"/>test nosse)considerandum suscepimus, vt in eo 
+      repe<lb ed="#G" n="13" break="no"/>riamus imaginem Dei, id est, Trinitatis. In qua ex 
+      <lb ed="#G" n="14"/>variis ipsius actionibus inter se indissolubili 
+      <lb ed="#G" n="15"/>nexu coniunctis, &amp; tamen proprias, 
+      distinctas<lb ed="#G" n="16" break="no"/>que actionum &amp; effectorum notas &amp; definitio  
+      <lb ed="#G" n="17"/>nes retinentibus, aliqua Trinitatis imago 
+      ap<lb ed="#G" n="18" break="no"/>paret, nempe quod mens illa nμονικν meminit 
+      <lb ed="#G" n="19"/>sui, intelligit se, dilligit se. Hic quoque cap. II 
+      <lb ed="#G" n="20"/>huius Distinctionis in verbis, Proprie vero mens 
+      <lb ed="#G" n="21"/>dicitur tacite agnoscit mentem humanam a 
+      re<lb ed="#G" n="22" break="no"/>liquis animarum generibus apud Augustinum,  
+      <lb ed="#G" n="23"/>in primisque in hoc ipso argumento, de 
+      Trini<lb ed="#G" n="24" break="no"/>tate, &amp; libris 14, &amp; ig. cap. 9. distinguendam, ne 
+      <lb ed="#G" n="25"/>subtilius argumentari hoc loco fortasse 
+      cui<lb ed="#G" n="26" break="no"/>quam 
+      videar
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e516">
+               <lb ed="#G" n="27"/>CAP. XIIII 
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e521">
+               <lb ed="#G" n="28"/>IVNDE potest. Leuis immutatio 
+      verbo<lb ed="#G" n="29" break="no"/>rum Augustini, no leuem huius autoris culpam  
+      <lb ed="#G" n="30"/>arguit. Hic legendum est, snde. Alias enim pror- 
+      <lb ed="#G" n="31"/>sus est hiulca huius loci oratio. Ergo iste 
+      di<lb ed="#G" n="32" break="no"/>stiaxit sententia Augustini, &amp; quod ille per 
+      <lb ed="#G" n="33"/>parenthesin intelligenter inseruerat, hic 
+      <!--159.xml-->
+      <pb ed="#G" n="60"/>
+               <lb ed="#G" n="1"/>propter dispunctionem temere immutatam,  
+      <lb ed="#G" n="2"/>obscure refert. Sic enim Augustinus: Quae tria 
+      <lb ed="#G" n="3"/>in sua mente naturaliter diuinitus instituta 
+      quis<lb ed="#G" n="4" break="no"/>quis viuaciter perspicit, &amp; quam magnum sit in ea 
+      <lb ed="#G" n="5"/>(unde potest etiam sempiterna, immutabilisqae 
+      na<lb ed="#G" n="6" break="no"/>tura recoli, conspici, concupisci )reminiscitur per me 
+      <lb ed="#G" n="7"/>moriam, intuetur, &amp;c. Primum praetermisit iste 
+      <lb ed="#G" n="8"/>vocem Sua, quae est apud Augustinum: vt doceat 
+      <lb ed="#G" n="9"/>quenque nostram in seipso habere illam 
+      Trini<lb ed="#G" n="10" break="no"/>tatis imaginem : &amp; vocis Quisquis 
+      significatio<lb ed="#G" n="11" break="no"/>nem tollit. Deinde continuam Augustini 
+      ora<lb ed="#G" n="12" break="no"/>tionem secat in duas. Lombardus enim ait, 
+      e<lb ed="#G" n="13" break="no"/>miniscitur enim, Augustinus autem. Quam 
+      ma<lb ed="#G" n="14" break="no"/>gnum sit in ea reminiscitur per memoriam. 
+      Deni<lb ed="#G" n="15" break="no"/>que verba haec. Quam magnum sit in ea Lombar 
+      <lb ed="#G" n="16"/>dus relinquit, hiulca prorsus oratione. 
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e576">
+               <lb ed="#G" n="17"/>CAP. XVIII 
+      <lb ed="#G" n="18"/>TMENS &amp; notitia. Plures ab Augustino 
+      <lb ed="#G" n="19"/>ex mentis seu auimae humanae facultatibus, 
+      ea<lb ed="#G" n="20" break="no"/>rumque actionibus similitudines &amp; imagines 
+      <lb ed="#G" n="21"/>ad Trinitatis diuinae explicationem afferuntur,  
+      <lb ed="#G" n="22"/>quae singulae per sese spectari &amp; tractari 
+      debe<lb ed="#G" n="23" break="no"/>bant: non autem confundi, vt hic, veluti, in 
+      me<lb ed="#G" n="24" break="no"/>moria, intelligentia, &amp; voluntate, quae in 
+      ea<lb ed="#G" n="25" break="no"/>dem hominis anima inest, insinuat Trinitatem  
+      <lb ed="#G" n="26"/>lib. Io, &amp; lib. I4. cap. 6. Mens enim, ait, sui cogita 
+      <lb ed="#G" n="27"/>tione se quodammodo in suo conspectu constituit. 
+      <lb ed="#G" n="28"/>Qignit ergo mens dese ipsa cogitans, intellectum 
+      <lb ed="#G" n="29"/>hunc &amp; recognitionem suam. Sed ita sibi mens 
+      no<lb ed="#G" n="30" break="no"/>ta est cogitando, quemadmodum notae sunt 
+      <lb ed="#G" n="31"/>res, quae memoria continentur. Ergo haec men 
+      <lb ed="#G" n="32"/>tis de sese cogitatio est velut memoria quaedam  
+      <lb ed="#G" n="33"/>quae gignit hanc seu conformationem, seu re¬ 
+      <!--160.xml-->
+      <pb ed="#G" n="61"/>
+               <lb ed="#G" n="1"/>cognitionem, seu intelligentiam sui. Haec autem  
+      <lb ed="#G" n="2"/>duo gignens &amp; genitum, id est, Mens &amp; 
+      Con<lb ed="#G" n="3" break="no"/>formatio mentis in ipsamente, dilectione ter 
+      <lb ed="#G" n="4"/>tia copulantur: quae dilectio nihil aliud est,  
+      <lb ed="#G" n="5"/>quam voluntas. Ergo in memoria. 
+      intelligen<lb ed="#G" n="6" break="no"/>tia, &amp; voluntate mentis humanae inest quaedam  
+      <lb ed="#G" n="7"/>Trinitatis imago, ait August. Haec prima est 
+      si<lb ed="#G" n="8" break="no"/>militudo. Secunda est quod earundem 
+      faculta<lb ed="#G" n="9" break="no"/>tum actiones quoque Trinitatis imaginem re 
+      <lb ed="#G" n="10"/>ferunt: (quas idem Augusti. lib. Is. cap. V. 
+      Tri<lb ed="#G" n="11" break="no"/>nitat. ab ipsis facultatibus distinguit) qualis est 
+      <lb ed="#G" n="12"/>conceptio mentis (quam tamen mente, ambigue 
+      <lb ed="#G" n="13"/>vocat Augustin) )Notitia, Amor. Amor quippe 
+      <lb ed="#G" n="14"/>ipse, &amp; notitia simulsunt in mente, quae se amat, &amp; 
+      <lb ed="#G" n="15"/>nouit, ait li. 9. de Trinit. cap. 8. Sicut aute duo quae 
+      <lb ed="#G" n="16"/>dam sunt mens &amp; amor eius, quum se amat, ita duo 
+      <lb ed="#G" n="17"/>quaedam sunt mens &amp; notitia eius, quum se nouit. 
+      <lb ed="#G" n="18"/>lgitur ipsa mens. i. conceptio &amp; amor, &amp; notitia eius 
+      <lb ed="#G" n="19"/>tria quaedam sunt, &amp; haec tria vnum sunt. Voluit 
+      <lb ed="#G" n="20"/>enim Augustinus, quemadmodum ipse 
+      loqui<lb ed="#G" n="21" break="no"/>tur, id quod est in Trinitate inuolutum, his tot 
+      <lb ed="#G" n="22"/>exemplis euoluere lib. 9. de Trinitat. cap. 4. 
+      </p>
+            <p xml:id="cv8jk9-e7614t-d1e668">
+               <lb ed="#G" n="23"/>CAP. XIX
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e673">
+               <lb ed="#G" n="24"/>I NOTITIA eius. Praetermissa ab isto 
+      <lb ed="#G" n="25"/>quaedam ex Augustino, alia vero trasposita, 
+      to<lb ed="#G" n="26" break="no"/>tum hunc, alias pulcherrimum locum de 
+      Tri<lb ed="#G" n="27" break="no"/>nitate, obscurant, tantum abest vt illustrent. Sic 
+      <lb ed="#G" n="28"/>igitur reddimus his tenebris suam ex ipso 
+      Au<lb ed="#G" n="29" break="no"/>gustino lucem lib. 9. de Trinit, cap. I2. Omnis 
+      <lb ed="#G" n="30"/>res, ait, quancunque cognoscimus, congenerat in 
+      no<lb ed="#G" n="31" break="no"/>bis notitiam sui. Ab vtroque enim notitia paritur a 
+      <lb ed="#G" n="32"/>cognoscente, &amp; cognito. Itaque mens quum seipsam  
+      <lb ed="#G" n="33"/>cognoscit, sola parens est notitiae suae. Cognitum 
+      <!--161.xml-->
+      <pb ed="#G" n="62"/>
+               <lb ed="#G" n="1"/>enim &amp; cognitor ipsa est. Quod ergo cognoscit 
+      <lb ed="#G" n="2"/>se, parem sui notitia gignit, quia non minus se 
+      no<lb ed="#G" n="3" break="no"/>uit, quam est: nec alterius essentiae est notitia eius,  
+      <lb ed="#G" n="4"/>non solum quia ipsa nouit, sed etiam quia 
+      scip<lb ed="#G" n="5" break="no"/>sam. Quid igitur de amore dicendum est, cur 
+      <lb ed="#G" n="6"/>non etiam, quum se amat, ipsum quoque amorem 
+      <lb ed="#G" n="7"/>sui genuisse videatur2 Cur enim amando se, non 
+      <lb ed="#G" n="8"/>genuisse dicatur amorem suum, sicut 
+      cognoscen<lb ed="#G" n="9" break="no"/>do se, genuit notitiam suam: Ergo notitiam 
+      tan<lb ed="#G" n="10" break="no"/>quam prolem nascentem deputamus. Est igitur 
+      <lb ed="#G" n="11"/>quaedam imago Trinitatis ipsa mens &amp; notitia 
+      e<lb ed="#G" n="12" break="no"/>ius, quae est proles eius : &amp; amor tertius: &amp; haec tria 
+      <lb ed="#G" n="13"/>vnum atque. vna substantia. Haec iam ex ipso 
+      <lb ed="#G" n="14"/>Augustino dilucida sunt: quae truncata, sunt 
+      <lb ed="#G" n="15"/>obscurissima.
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e734">
+               <lb ed="#G" n="16"/>Censura in Distinctionem 
+      <lb ed="#G" n="17"/>tertiam.  
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e741">
+               <lb ed="#G" n="18"/>Tria imprimis in hac Distinctione 
+      viden<lb ed="#G" n="19" break="no"/>tur digna reprehensione. Primum quod 
+      Pau<lb ed="#G" n="20" break="no"/>li locus Romanorum t. versiculo 2o. Ipsius 
+      e<lb ed="#G" n="21" break="no"/>nim ( Dei) inuisibilia ex rebus conditis 
+      intelli<lb ed="#G" n="22" break="no"/>guntur, &amp;c. pessime in alienum sensum 
+      de<lb ed="#G" n="23" break="no"/>torquetur. Agit enim duntaxat de generali 
+      <lb ed="#G" n="24"/>quadam de Deo notitia Paulus, ex qua 
+      cun<lb ed="#G" n="25" break="no"/>ctimortales (qui non omnino mente capti &amp; 
+      <lb ed="#G" n="26"/>destituti sunt) Deum aliquem esse 
+      intelle<lb ed="#G" n="27" break="no"/>xerunt, ideoque sunt inexcusabiles: iste 
+      au<lb ed="#G" n="28" break="no"/>tem ad specialem illam de Deo cognitionem 
+      <lb ed="#G" n="29"/>hunc locum refert, quae tantum vere fidelium 
+      <lb ed="#G" n="30"/>hominum propria est &amp; peculiaris, &amp; ex 
+      so<lb ed="#G" n="31" break="no"/>lo ipsius verbo habetur: nimirum, vt cogno¬ 
+      <!--162.xml-->
+      <pb ed="#G" n="63"/>
+               <lb ed="#G" n="1"/>scamus quis sit verus ille Deus, &amp; vt in vna &amp; 
+      <lb ed="#G" n="2"/>eadem essentia diuina sit Pater, Filius, &amp; 
+      Spi<lb ed="#G" n="3" break="no"/>ritus sanctus, id quod omnino &amp; a mente 
+      Pau<lb ed="#G" n="4" break="no"/>li, &amp; ab ipsa rerum veritate lprocul dubio est 
+      <lb ed="#G" n="5"/>alienissimum. Distinguit enim Paulus τ 
+      <lb ed="#G" n="6"/>ννωςὸν τον Oeς quod naturali quadam relicta 
+      no<lb ed="#G" n="7" break="no"/>bis luce intelligitur ex aspectu rerum 
+      visi<lb ed="#G" n="8" break="no"/>bilium, Romanorum t. Versu 19. ab ea Dei 
+      <lb ed="#G" n="9"/>notitia, quam idem appellat σοφιαν Oeῶ ἐνμν¬ 
+      <lb ed="#G" n="10"/>Sηριῳ I. Corinthiorum 2. versu y. quae ex sola 
+      <lb ed="#G" n="11"/>Dei reuelatione habetur, &amp; cognoscitur. 
+      Ita<lb ed="#G" n="12" break="no"/>que Paulus quum illa scriberet, habebat in 
+      <lb ed="#G" n="13"/>animo Psal. I9. &amp; IO4. &amp; huiusmodi 
+      quas<lb ed="#G" n="14" break="no"/>dam notitias communes &amp; generales, quae 
+      <lb ed="#G" n="15"/>Sap. cap. I8. explicantur: &amp; ab Augustino 
+      reci<lb ed="#G" n="16" break="no"/>tantur lib. Is. de Trinitate cap. y. Denique &amp;  
+      <lb ed="#G" n="17"/>quas Marcus Tulius Cicero libro 2. de 
+      Natu<lb ed="#G" n="18" break="no"/>ra deorum, homo nulla sanctae scripturae 
+      lu<lb ed="#G" n="19" break="no"/>ce instructus, tamen commemorat his verbis. 
+      <lb ed="#G" n="20"/>Itaque inter omnes omnium gentium sententias con 
+      <lb ed="#G" n="21"/>stat. Omnibus enim innatum est: &amp; in animo quasi 
+      <lb ed="#G" n="22"/>insculptum, esse deos. Quales sint, varium est. 
+      <lb ed="#G" n="23"/>nemo esse negat. Cleanthes quidem noster 4. de 
+      <lb ed="#G" n="24"/>causis dixit in animis hominum informatas deorum 
+      <lb ed="#G" n="25"/>esse notiones. Primam posuit eam, quae orta est 
+      <lb ed="#G" n="26"/>praesentione rerum futurarum. Alteram, quam 
+      re<lb ed="#G" n="27" break="no"/>perimus ex magnitudine commodorum, quae 
+      perci<lb ed="#G" n="28" break="no"/>piuntur &amp; coeli temperatione, faecunditate terrarum, 
+      <lb ed="#G" n="29"/>aliarumque commoditatum complurium copia. 
+      <lb ed="#G" n="30"/>Tertiam, quae terret animos fulminibus, 
+      tempestati<lb ed="#G" n="31" break="no"/>bus, nimbis, niuibus, grandinibus, vastitate, pestilentia 
+      <lb ed="#G" n="32"/>terraemotibus, &amp; saepe fremitibus, lapideisque 
+      imbri<lb ed="#G" n="33" break="no"/>bus, &amp;c. Quarta causam esse, eamque vel maximam  
+      <!--163.xml-->
+      <pb ed="#G" n="64"/>
+               <!-- text actually says 30 but is really 64 -->
+      
+               <lb ed="#G" n="1"/>aequabilitate motus, conuersionem caeli, Solis, Luna 
+      <lb ed="#G" n="2"/>siderumque distinctionem, varietatem, 
+      pulchritudi<lb ed="#G" n="3" break="no"/>nem, ordinem. Quarum rerum aspectus ipse satis 
+      in<lb ed="#G" n="4" break="no"/>dicaret, non esse fortuita. Sic enim Chrysippus 
+      ar<lb ed="#G" n="5" break="no"/>gumentabatur, Si est aliquid in rerumnatura, quod 
+      <lb ed="#G" n="6"/>hominis mens, quod ratio, quod vis, quod potestas 
+      hu<lb ed="#G" n="7" break="no"/>mana efficere non possit, est certe id, quod illud efficit. 
+      <lb ed="#G" n="8"/>bomine melius, &amp;c. Ide Cicero Tusc. I. tradit esse 
+      <lb ed="#G" n="9"/>nullam gente, quae non fateatur alique esse Deum: 
+      <lb ed="#G" n="10"/>Virgil quoque idem testatur. Nanque Deum ire 
+      <lb ed="#G" n="11"/>per omnes terrasque, tractusque, maris, coelumque 
+      <lb ed="#G" n="12"/>profundum. Item, Principio coelum &amp; terram, 
+      cam<lb ed="#G" n="13" break="no"/>posque liquentes, Lucentemque globum Lunae, 
+      Ti<lb ed="#G" n="14" break="no"/>taniaque astra Spiritus intus alit, &amp;c. Metamor. 
+      <lb ed="#G" n="15"/>phos. Sed &amp; Metamorphosi li. t. <name xml:id="cv8jk9-e7614t-Nd1e888">Ouideus</name> Naso.
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e892">
+               <lb ed="#G" n="16"/>Hanc Deus &amp; melior litem Natura diremit. 
+      <lb ed="#G" n="17"/>Nam coelo terras, &amp; terris abscidit vndas.
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e899">
+               <lb ed="#G" n="18"/>Et vt veniamus ad scriptores ipsos 
+      Ecclesia<lb ed="#G" n="19" break="no"/>sticos, &amp; nostros, Tertullianus in libello de 
+      <lb ed="#G" n="20"/>Testimonio animae: Iustinus Martyr. in lib. de 
+      <lb ed="#G" n="21"/>Monarchia: Athenagoras in Apologia 
+      huius<lb ed="#G" n="22" break="no"/>modi varia ex poetis &amp; philosophis testimonia 
+      <lb ed="#G" n="23"/>collegerunt (vt Eusebij libros de 
+      Praeparatio<lb ed="#G" n="24" break="no"/>ne Euangelica praetermittam) quibus efficitur,  
+      <lb ed="#G" n="25"/>ex ipsius mundi, tanquam lucidissimi diuinae 
+      <lb ed="#G" n="26"/>matestatis &amp; potentiae speculi, solo aspectu &amp; 
+      <lb ed="#G" n="27"/>fabrica infideles etiam homines intellexisse, esse 
+      <lb ed="#G" n="28"/>aliquem Deum. Quis autem is esset, aut vt ita 
+      <lb ed="#G" n="29"/>dicam, Qualis, id est, trinusene an vnus, ne per 
+      <lb ed="#G" n="30"/>insomnium quidem suspicati sunt. Haec enim  
+      <lb ed="#G" n="31"/>tam arcana, salutaris, &amp; distincta de Deo, 
+      eius<lb ed="#G" n="32" break="no"/>que natura cognitio, ex sola sacrae scripturae 
+      do<lb ed="#G" n="33" break="no"/>ctrina, &amp; Spiritus sancti lumine disci atque 
+      <lb ed="#G" n="34"/>haberi ab hominibus potest. Adeo quidem vt 
+      <!--164.xml-->
+      <pb ed="#G" n="65"/>
+      
+               <lb ed="#G" n="1"/>Augustinus in Quaest, Veter. &amp; Noui testam:ti, 
+      <lb ed="#G" n="2"/>Quaestione 8y. scribat inter ipsa primordia 
+      Ec<lb ed="#G" n="3" break="no"/>clesiae perspicue Trinitatis arcanum traditum  
+      <lb ed="#G" n="4"/>non fuisse. Thomas in prima secundae Quaest. 
+      <lb ed="#G" n="5"/>SX. D ipliciter fidei derogat, ait, qui Trinitatem  
+      <lb ed="#G" n="6"/>Personaram naturali ratione probare nititur i. quia 
+      <lb ed="#G" n="7"/>fides est de inuisibilibus, quae rationem humanam  
+      <lb ed="#G" n="8"/>saperant. 2. quia hac ratione exponit ludibrio ipsam  
+      <lb ed="#G" n="9"/>fidem Christianam: Idem Quaest. 29. artic. y. 
+      ne<lb ed="#G" n="10" break="no"/>gat proprietates diuinas ex creaturis cognosci 
+      <lb ed="#G" n="11"/>posse. Ergo etiam, teste ipso Thoma, nedum 
+      <lb ed="#G" n="12"/>Augustino, ex rebus conditis Deus trinus 
+      in<lb ed="#G" n="13" break="no"/>telligi, id est, hoc Dei inuisibile &amp; arcanum 
+      co<lb ed="#G" n="14" break="no"/>gnosci nequaquam potest, quicquid 
+      Lombar<lb ed="#G" n="15" break="no"/>dus ex Augustino se protulisse existimet. Nam  
+      <lb ed="#G" n="16"/>illa etia ἀφατα Oεo, quae cerni dicit Paulus, non 
+      <lb ed="#G" n="17"/>Dei essentia sunt, sed tantum ἀρετας vt Petrus 
+      <lb ed="#G" n="18"/>loquitur t. Epistola 2. versu 9. Neque obstat 
+      <lb ed="#G" n="19"/>quod Plato Epistola 2. ad Dionem, &amp; 
+      Trisme<lb ed="#G" n="20" break="no"/>gistus in Pimandro, Sectione prima, quaedam  
+      <lb ed="#G" n="21"/>de tanto mysterio cogitasse creduntur. Nam  
+      <lb ed="#G" n="22"/>eorum cogitationes de primo, secundo, &amp; 
+      ter<lb ed="#G" n="23" break="no"/>tio principio seu Deo (ut Plato loquitur:)Vel 
+      <lb ed="#G" n="24"/>de mente, verbo, &amp; Spiriru (quemadmodum 
+      <lb ed="#G" n="25"/>Trismegistus appellauit) sunt plane a 
+      Theolo<lb ed="#G" n="26" break="no"/>gicis istis dissimiles: quoniam isti tres deos 
+      se<lb ed="#G" n="27" break="no"/>paratos constituunt, qualia sunt tria eiusdem  
+      <lb ed="#G" n="28"/>speciei indiuidua: non autem vt vnam numero 
+      <lb ed="#G" n="29"/>&amp; eandem Trium essentiam agnoscant, quod 
+      <lb ed="#G" n="30"/>fides Christiana docet. Itaque quemadmodum 
+      <lb ed="#G" n="31"/>praeclare tradit Cyrillus libro I. contra 
+      sulia<lb ed="#G" n="32" break="no"/>num, καύύαοιν &amp; ὑφαῶιν in personis diuinis illi fin 
+      <lb ed="#G" n="33"/>xerunt: vnde &amp; Manichaeorum, &amp; 
+      Ariano<lb ed="#G" n="34" break="no"/>rum haereses postea emanarunt. Deinde ista 
+      <!--165.xml-->
+      <pb ed="#G" n="66"/>
+      
+               <lb ed="#G" n="1"/>ista sic Plato &amp; Trismegistus de tribus illis 
+      <lb ed="#G" n="2"/>suis deis meditabantur, vt ad hominum 
+      ra<lb ed="#G" n="3" break="no"/>tionem &amp; cogitationem referrent, 
+      existima<lb ed="#G" n="4" break="no"/>rentque reueram meditatione quadam κουῶν seu 
+      <lb ed="#G" n="5"/>verbum a mente fuisse productum, vti ex 
+      no<lb ed="#G" n="6" break="no"/>strae ipsorum mentis cogitatione vox 
+      progre<lb ed="#G" n="7" break="no"/>ditur: sicque Filium Dei Nῶυον τρoροεικὸν, non 
+      <lb ed="#G" n="8"/>autem ξδiαλιτὸν esse intelligebant &amp; 
+      doce<lb ed="#G" n="9" break="no"/>bant, qui fuit Arianorum &amp; postea 
+      Serueta<lb ed="#G" n="10" break="no"/>norum furor. Denique haec tota istorum 
+      ora<lb ed="#G" n="11" break="no"/>tio fuit idealis tantum, &amp; ex superstitiosa 
+      terna<lb ed="#G" n="12" break="no"/>rij numeri commendatione nata. Etsi quidam  
+      <lb ed="#G" n="13"/>censent hanc eorum sententiam ex veteri 
+      He<lb ed="#G" n="14" break="no"/>braeorum traditione, &amp; purae religionis 
+      reli<lb ed="#G" n="15" break="no"/>quiis extitisse.
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e1054">
+               <lb ed="#G" n="16"/>Secundum autem quod in hac Distinctione 
+      <lb ed="#G" n="17"/>reprehendendum puto, est in eo, quod 
+      Au<lb ed="#G" n="18" break="no"/>gustini Sanctissimi Patris, &amp; de tanto 
+      myste<lb ed="#G" n="19" break="no"/>rio verecunde ac reuerenter vbique 
+      loquen<lb ed="#G" n="20" break="no"/>tis mentem iste nequaquam perspexit, aut 
+      ob<lb ed="#G" n="21" break="no"/>seruauit. Nam varias quidem Trinitatis 
+      ima<lb ed="#G" n="22" break="no"/>gines piis proponit Augustinus totis libris 
+      <lb ed="#G" n="23"/>XV. de Trinitate, imprimisque a libro &amp;. ad 
+      <lb ed="#G" n="24"/>vltimu vsque: sed tamen eas tantum pingit iis,  
+      <lb ed="#G" n="25"/>qui iam ex Dei verbo istam doctrinam 
+      didi<lb ed="#G" n="26" break="no"/>cerunt, vt a nobis adhuc in istis terris 
+      versan<lb ed="#G" n="27" break="no"/>tibus, &amp; ab animo nondum plane iusto, sed 
+      <lb ed="#G" n="28"/>tamen iam ista intelligente per charitatem, (sic 
+      <lb ed="#G" n="29"/>euim Augustinus loquitur libro 18. capite 2.) 
+      <lb ed="#G" n="30"/>natura non tantum incorporalis, sed etiam 
+      in<lb ed="#G" n="31" break="no"/>commutabilis &amp; iusta (quae est Deus) 
+      quan<lb ed="#G" n="32" break="no"/>tum fieri potest, intelligeretur. Istas igitur 
+      <lb ed="#G" n="33"/>velut rudiores picturas piis proposuit: quas 
+      <lb ed="#G" n="34"/>tamen esse ab ipsa Trinitatis (cuius exprimen¬ 
+      <!--166.xml-->
+      <pb ed="#G" n="67"/>
+               <lb ed="#G" n="1"/>dae gratia afferuntur) natura dissimillimas 
+      do<lb ed="#G" n="2" break="no"/>cet idem libro 1g. de Trinitate capite, v. 
+      Ita<lb ed="#G" n="3" break="no"/>que capite is. idem sese excusat diligenter, 
+      <lb ed="#G" n="4"/>quod frustra quaerat incomprehensibilis rei 
+      <lb ed="#G" n="5"/>imagines in rebus creatis. Est enim Deus tam  
+      <lb ed="#G" n="6"/>immensus, vt nulla humana meditatione 
+      expri<lb ed="#G" n="7" break="no"/>mi possit capite 2. de Cognitio. verae vitae. Lom 
+      <lb ed="#G" n="8"/>bardus tamen ita aptas iudicat istas 
+      similitudi<lb ed="#G" n="9" break="no"/>nes, &amp; ita eas vrget, vt capite &amp;. huius 
+      Distin<lb ed="#G" n="10" break="no"/>ctionis, etiam eas ipsas (quas iciunas omnino, 
+      <lb ed="#G" n="11"/>&amp; duntaxat dicis causam, attulit Augustinus)
+      pu<lb ed="#G" n="12" break="no"/>tet praeclaram &amp; perspicuam tanti mysterij 
+      no<lb ed="#G" n="13" break="no"/>titiam dare: etsi tamen non sufficientem. 
+      Cer<lb ed="#G" n="14" break="no"/>te veteres &amp; orthodoxi Patres Graeci minime 
+      <lb ed="#G" n="15"/>tot similitudinibus vsi sunt, quibus 
+      Augusti<lb ed="#G" n="16" break="no"/>nus, quanquam in hoc argumento tum 
+      ad<lb ed="#G" n="17" break="no"/>uersus Sabellianos, tum etiam Arianos 
+      defen<lb ed="#G" n="18" break="no"/>dendo essent exercitatissimi, ne quid curiosum 
+      <lb ed="#G" n="19"/>nimirum in hoc tam augustum argumentum 
+      <lb ed="#G" n="20"/>inducerent. Apud Basilium &amp; Naxianxenum extat 
+      <lb ed="#G" n="21"/>tantum quaedam explicatio non prorsus 
+      abii<lb ed="#G" n="22" break="no"/>cienda illa quidem, cur vnigenitus Filius Dei 
+      <lb ed="#G" n="23"/>λοὸς a Ioanne capite. I. appelletur. quoniam 
+      il<lb ed="#G" n="24" break="no"/>li Filium nominatum esse κουον existimabant ad 
+      <lb ed="#G" n="25"/>sermonis humani similitudinem, tamen λοos 
+      <lb ed="#G" n="26"/>potius dictus videtur Messias exhibitus 
+      pro<lb ed="#G" n="27" break="no"/>pter praecedentia Prophetarum omnium de 
+      <lb ed="#G" n="28"/>eo vaticinia, quod is esset, de quo nota iam 
+      es<lb ed="#G" n="29" break="no"/>sent oracula, &amp; ad quem praecedentes omnes 
+      <lb ed="#G" n="30"/>promissiones tanquam ad suum fundamentum 
+      <lb ed="#G" n="31"/>spectarent. Apud Damascenum in lib. Curhomo 
+      <lb ed="#G" n="32"/>ad imaginem Dei, &amp;c, vbi hoc argumentum 
+      tracta<lb ed="#G" n="33" break="no"/>tur, nullae huiusmodi extant Trinitatis 
+      imagi<lb ed="#G" n="34" break="no"/>nes, quales depinxit Augustinus. Et certe 
+      <!--167.xml-->
+      <pb ed="#G" n="68"/>
+      
+               <lb ed="#G" n="1"/>nimio (ut vere dicam, quod sentio) 
+      argutan<lb ed="#G" n="2" break="no"/>di pruritu sibi in eo indulsisse videtur, vir ille 
+      <lb ed="#G" n="3"/>pius, sumpta tamen occasione ex vno quodam  
+      <lb ed="#G" n="4"/>Hilarij dicto libro 2. de Trinitate, 
+      quemadmo<lb ed="#G" n="5" break="no"/>dum fatetur Augustinus ipse, libro. 6. capite &amp;. 
+      <lb ed="#G" n="6"/>Dixerat Hilartus, AEternitas in Patre, species 
+      <lb ed="#G" n="7"/>in imagine seu Filio: vsus seu efficacitas in 
+      mune<lb ed="#G" n="8" break="no"/>re seu Spiriti sancto misso. Inde tanquan a 
+      car<lb ed="#G" n="9" break="no"/>ceribus emissus Augustinus primum 
+      Trinita<lb ed="#G" n="10" break="no"/>tis imaginem, quaesiuit in rebus omnibus, id 
+      <lb ed="#G" n="11"/>est, plantis, &amp; arboribus, &amp; brutis ipsis. Quid 
+      <lb ed="#G" n="12"/>ampliuss ln Sermo. I. de verbis Apostolicis in 
+      <lb ed="#G" n="13"/>Sole, &amp; igne quoque ipso, quo vtimur: nimirum 
+      <lb ed="#G" n="14"/>quod quaecunqne a Deo creata sunt, vnitatem  
+      <lb ed="#G" n="15"/>quandam habeant membrorum, item speciem, 
+      <lb ed="#G" n="16"/>&amp; ordinem. Deinde eiusdem inuisibilis &amp; 
+      in<lb ed="#G" n="17" break="no"/>corporei mysterij imaginem quaesiuit in ipsis 
+      <lb ed="#G" n="18"/>corporis sensibus, &amp; praesertim in visu, qui, vt 
+      <lb ed="#G" n="19"/>fiat, interuenit obiectum ipsum, actio oculi, &amp; 
+      <lb ed="#G" n="20"/>animi intentio. Hanc similitudinem prolixe 
+      <lb ed="#G" n="21"/>&amp; ad fastidium vsque persequitur toto pene 
+      <lb ed="#G" n="22"/>libro ri. de Trinitate. Postea ad ipsam hominis 
+      <lb ed="#G" n="23"/>animam in genere consideratam accedit, &amp; in 
+      <lb ed="#G" n="24"/>ea Trinitatis imaginem varie, multisque 
+      mo<lb ed="#G" n="25" break="no"/>dis reperit, nempe in his tribus, quae sunt in 
+      a<lb ed="#G" n="26" break="no"/>nima, Amans, Amor, Amatum. Deinde in ipso 
+      <lb ed="#G" n="27"/>AονικOμερτ animae peculiariter idem 
+      perseruta<lb ed="#G" n="28" break="no"/>tur, &amp; inquirit, veluti in mente, amore, &amp; 
+      no<lb ed="#G" n="29" break="no"/>titia, item in mente, intelligentia, &amp; volun 
+      <lb ed="#G" n="30"/>tate. Item in mente, notitia, &amp; amore. Item 
+      <lb ed="#G" n="31"/>in mente, verbo, &amp; dilectione: quae &amp; 
+      serupu<lb ed="#G" n="32" break="no"/>lose pertractat Augustinus, &amp; ita, vt saepe multa 
+      <lb ed="#G" n="33"/>absurda (quod tanti viri pace dictum sit) 
+      ha<lb ed="#G" n="34" break="no"/>beat, quale illud est, quod notitiam &amp; amo¬ 
+      <!--168.xml-->
+      <pb ed="#G" n="69"/>
+      
+               <lb ed="#G" n="1"/>rem in mente hominis putat esse substantias,  
+      <lb ed="#G" n="2"/>non autem δυνάμας ac qualitates naturales &amp; 
+      <lb ed="#G" n="3"/>congenitas menti. Vnde ex eodem 
+      Augu<lb ed="#G" n="4" break="no"/>stino libro i2. Trinitatis capitee. apparet 
+      tan<lb ed="#G" n="5" break="no"/>dem deuentum esse ad ineptissimas, &amp; 
+      omni<lb ed="#G" n="6" break="no"/>no tanta rei, maiestate indignas similitudines,  
+      <lb ed="#G" n="7"/>Veluti quum Trinitatis Personarum 
+      imagi<lb ed="#G" n="8" break="no"/>nem ponerent, &amp; quaererent in coniugio, vbi 
+      <lb ed="#G" n="9"/>est mas, foemina &amp; proles: &amp; libro 9. capite 
+      <lb ed="#G" n="10"/>q.in tribus annulis ex eodem auro confectis,  
+      <lb ed="#G" n="11"/>&amp; inter sese connexis. Quae similitudines ita 
+      <lb ed="#G" n="12"/>postea displicuerunt, vtcum hanc de 
+      Trinita<lb ed="#G" n="13" break="no"/>te doctrinam aliquot post Augustinum 
+      secu<lb ed="#G" n="14" break="no"/>lis Anselmus tractaret, eamque ex solis, 
+      natu<lb ed="#G" n="15" break="no"/>ralibus rationibus veram esse colligeret, 
+      hu<lb ed="#G" n="16" break="no"/>iusmodi tamen Augustinianis exemplis 
+      pror<lb ed="#G" n="17" break="no"/>sus abstineret, licet idem plenas &amp; to:as ex 
+      eo<lb ed="#G" n="18" break="no"/>dem paginas alibi describere non veretur. 
+      <lb ed="#G" n="19"/>Quod igitur in Augustino venia potius, quam  
+      <lb ed="#G" n="20"/>imitatione dignum fuit, Lombardus sedulo 
+      <lb ed="#G" n="21"/>ac studiose taquam κυειαν suae Theologiae δοξον  
+      <lb ed="#G" n="22"/>etiam rem ipsam obscurans proposuit hac 
+      Se<lb ed="#G" n="23" break="no"/>ctione. 
+    </p>
+            <p xml:id="cv8jk9-e7614t-d1e1308">
+               <lb ed="#G" n="24"/>Tertio reprehendo, quod memoriam, 
+      intelli<lb ed="#G" n="25" break="no"/>gentiam, &amp; voluntatem, earumque facultatum  
+      <lb ed="#G" n="26"/>actiones Lombardus scribit substantialiuer 
+      <lb ed="#G" n="27"/>inesse animae, tanquam eas ad trium Persona 
+      <lb ed="#G" n="28"/>rum diuinarum similitudinem tres quasdam  
+      <lb ed="#G" n="29"/>anmae &amp;olas distinctas constituat: quae tamen 
+      <lb ed="#G" n="30"/>sunt tantum δυνάμυις animae, neque etiam illius 
+      <lb ed="#G" n="31"/>uipn si proprie loquimur, quicquid de ea re 
+      qui<lb ed="#G" n="32" break="no"/>dam litigiose scribant. Sunt illae quidem gum κaαd 
+      <lb ed="#G" n="33"/>δυνάμεις, non accidentariae. Itaque aut 
+      ex<lb ed="#G" n="34" break="no"/>plicatam oportuit tam obscuram sententiam: 
+      <!--169.xml-->
+      <pb ed="#G" n="70"/>
+      
+               <lb ed="#G" n="1"/>aut Sabellianis venia danda videbitur, qui 
+      Tri<lb ed="#G" n="2" break="no"/>nitatem non τpα ἐνυτο σατα esse volunt, sed τpeis 
+      <lb ed="#G" n="3"/>δυνάμες eiusdem rei &amp; essentiae.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 28</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 28</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="469"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e26092"><!-- ld-d28 -->
+            <head xml:id="cv8jk9-e26092-Hd1e106">Distinctio 28</head>
+            <p xml:id="cv8jk9-e26092-d1e109">
+               <lb ed="#G" n="16"/>AD DISTINCT. XXVIII 
+      <lb ed="#G" n="17"/>AD CAP. I. 
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e116">
+               <lb ed="#G" n="18"/>Non est hoc dicere. Manifesta fraus. 
+      Ver<lb ed="#G" n="19" break="no"/>ba enim haec non sunt ipsius Augustini, sed 
+      A<lb ed="#G" n="20" break="no"/>rianorum, &amp; Eunomianorum haereticorum, qui 
+      <lb ed="#G" n="21"/>lngeniti vocabulum secudum essentiam dici de 
+      <lb ed="#G" n="22"/>Patre contendebant, ideoque Patrem a Filio 
+      es<lb ed="#G" n="23" break="no"/>sentia diuersum esse, quoniam Ingenitus de 
+      Fi<lb ed="#G" n="24" break="no"/>lio nequaquam enuntiaretur. Hoc idem 
+      Euno<lb ed="#G" n="25" break="no"/>mianorum argumentum refert hic ipse infra 
+      cap<lb ed="#G" n="26" break="no"/>A, &amp; Basil. lib. I. contra Eunomium, pene initio 
+      <lb ed="#G" n="27"/>libri, vbi tandem sic concludit, eικῳ δο τυν μον ἐσεαν 
+      <lb ed="#G" n="28"/>mo Oες αλῶνιτον όνωι, καό αἰτυς αῳ φαiυν: ψμbSτῳ α¬ 
+      <lb ed="#G" n="29"/>ληητον τυῳ κσιαν. Verba ipsa Augustini fideliter 
+      <lb ed="#G" n="30"/>recitata Lombardi fraudem ostendunt, &amp; quod 
+      <lb ed="#G" n="31"/>eos irrideat, &amp; caecos appellet Aug. qui genitum 
+      <!--571.xml-->
+      <pb ed="#G" n="470"/>
+      
+               <lb ed="#G" n="1"/>nonisi ad aliquid dici posse non vident. Item quod 
+      <lb ed="#G" n="2"/>pro lngenito non genitum substituit ipse. 
+      Ver<lb ed="#G" n="3" break="no"/>ba igitur Augustini sic habent cap. &amp;. lib. g. 
+      Tri<lb ed="#G" n="4" break="no"/>nitat. Si autem huic sic putant resistendum esse 
+      ser<lb ed="#G" n="5" break="no"/>moni, quod Pater quidem ad Filium, &amp; Filius ad 
+      <lb ed="#G" n="6"/>Patrem: Ingenitus tamen &amp; genitus ad seipsos 
+      di<lb ed="#G" n="7" break="no"/>cuntur, non ad alterutrum (Non enim hoc est dicere 
+      <lb ed="#G" n="8"/>lngenitum, quod est Patrem dicere, quia etsi Filium 
+      <lb ed="#G" n="9"/>non genuisset, nihil proh. beret eum dicere lngenitum, 
+      <lb ed="#G" n="10"/>&amp;si gignat quisque (.i, quispia Filiu no ex eo ipse est 
+      <lb ed="#G" n="11"/>lngenitus, quia geniti homines ex alijs hominibus 
+      gi<lb ed="#G" n="12" break="no"/>gnunt &amp; ipsi alios) Inquiunt ergo Pater ad Filium 
+      di<lb ed="#G" n="13" break="no"/>citur, &amp;c. Deinde Aug. eam ipsam distinct. 
+      repre<lb ed="#G" n="14" break="no"/>hendens, subiicit, Hoc si dicut, no intellioutde 
+      In<lb ed="#G" n="15" break="no"/>genito se aliquid, &amp;c. HaecAug. quae nostrae in hunc 
+      <lb ed="#G" n="16"/>Lombardi locum notae fidem faciunt.
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e188">
+               <lb ed="#G" n="17"/>Nunquid ergo aliud dicimus. Augustinus 
+      <lb ed="#G" n="18"/>lib. 9. cap. 9. Trinitatis, sic habet, Non ergo aliud 
+      <lb ed="#G" n="19"/>dicimus (per vocem, Non genitum, nimirum) 
+      <lb ed="#G" n="20"/>quam non Filium. Hic affrmantem Augustini 
+      <lb ed="#G" n="21"/>orationem perperam mutat in eam, quae 
+      inter<lb ed="#G" n="22" break="no"/>rogat, &amp; scrupulum animis relinquit.
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e204">
+               <lb ed="#G" n="23"/>Relatiue autem negamus. Et verba mutat, 
+      <lb ed="#G" n="24"/>&amp; neruos orationis Augustinianae incidit iste,  
+      <lb ed="#G" n="25"/>quonia vim argumentationis, dum 
+      praetermit<lb ed="#G" n="26" break="no"/>tit alterum membrum, sustulit. Sic igitur August. 
+      <lb ed="#G" n="27"/>&amp; perspicue, &amp; ex notiori ad ignotius nos 
+      de<lb ed="#G" n="28" break="no"/>ducens, nempe ex significatione vocis, Non 
+      Fi<lb ed="#G" n="29" break="no"/>lius, ad vocem Non genitus, de qua tota erat 
+      con<lb ed="#G" n="30" break="no"/>trouersia. Post enim haec verba, Atsi tantum 
+      va<lb ed="#G" n="31" break="no"/>let quod dicitur genitus, quantum valet quod dicitur 
+      <lb ed="#G" n="32"/>Filius: tantundem ergo valet quod dicitur non 
+      geni<lb ed="#G" n="33" break="no"/>tus, quantum valet quod dicitur non Filius. Subiicit 
+      <lb ed="#G" n="34"/>minorem propositionem &amp; conclusionem sta¬ 
+      <!--572.xml-->
+      <pb ed="#G" n="471"/>
+               <lb ed="#G" n="1"/>tim his verbis, Relatiue autem negamus dicendo non 
+      <lb ed="#G" n="2"/>Filius: Relatiue igitur negamus dicendo non 
+      geni<lb ed="#G" n="3" break="no"/>rus. Iste totum prius membrum istius 
+      postre<lb ed="#G" n="4" break="no"/>mae Augustini orationis praetermisit. Sic idem  
+      <lb ed="#G" n="5"/>iste postea mutat ita in ergo, etsi exiguo sensus 
+      <lb ed="#G" n="6"/>dispendio. Itaque non annotauimus. 
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e251">
+               <lb ed="#G" n="7"/>AD CAP. III 
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e256">
+               <lb ed="#G" n="8"/>Est unus ab uno. Multa hic a Lombardo 
+      <lb ed="#G" n="9"/>necessaria, &amp; cum hac Hilarij conclusione 
+      con<lb ed="#G" n="10" break="no"/>iuncta, sunt praetermissa, quae perspicuam 
+      Hila<lb ed="#G" n="11" break="no"/>rij mentem hic obscurant. Quamobrem totum 
+      <lb ed="#G" n="12"/>hunc locum suo nitori restituimus. Ait igitur 
+      <lb ed="#G" n="13"/>Hilarius lib. 4. ante finem, Est enim unigenitus 
+      <lb ed="#G" n="14"/>Deus, neque consortem vnigeniti nomen admittit: 
+      si<lb ed="#G" n="15" break="no"/>cut non recipit Innascibilis (in eo tantum, quod est 
+      <lb ed="#G" n="16"/>lnnascibilis yparticipem. Est ergo unus ab uno. 
+      Ne<lb ed="#G" n="17" break="no"/>que praeter innascibilem Deum Deus 
+      innascibi<lb ed="#G" n="18" break="no"/>lis alius est. Neque praeter vnigenitum Deum 
+      uni<lb ed="#G" n="19" break="no"/>genitus Deus quisqua est. Vterque itaque unus est 
+      <lb ed="#G" n="20"/>&amp; solus, proprietate videlicet in vnoquoque &amp; 
+      in<lb ed="#G" n="21" break="no"/>nascibilitatis, &amp; originis. Quid igitur, quantum:  
+      <lb ed="#G" n="22"/>que sit hic omissum vident omnes, &amp; tamen quam 
+      <lb ed="#G" n="23"/>necessarium, praeterquam quod de voce lngenito, 
+      <lb ed="#G" n="24"/>ne )po quidem hic ab Hilario dicitur, de qua 
+      ta<lb ed="#G" n="25" break="no"/>men tota est hic Lombardi quaestio, &amp; a qua voce 
+      <lb ed="#G" n="26"/>quidam Patres, vt exAmbrosio apparet, 
+      abstinue<lb ed="#G" n="27" break="no"/>runt. Praeterea verba haec scilicet ab ingenito ge 
+      <lb ed="#G" n="28"/>nitus, sunt Hilario addita, vt eum locum ad 
+      vo<lb ed="#G" n="29" break="no"/>cabulum lngenitus explicandum iste detorqueret, 
+      <lb ed="#G" n="30"/>Quod non animaduersum turpissime ipsum 
+      e<lb ed="#G" n="31" break="no"/>tiam Thomam fefellit, I. parte Quaest. Is. Art. 4. 
+      <lb ed="#G" n="32"/>in respons. Na haec verba putauit esse Hilarij, 
+      <lb ed="#G" n="33"/>Cod. non consulto. 
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e315">
+               <lb ed="#G" n="34"/>2 Significata ergo in Scripturis. Noξοδιονυσoς 
+      <!--573.xml-->
+      <pb ed="#G" n="472"/>
+      
+               <lb ed="#G" n="1"/>locus ad explicandam vocabuli sngenitus, (de 
+      <lb ed="#G" n="2"/>quo vno hic agitur) significationem siue de 
+      Pa<lb ed="#G" n="3" break="no"/>tre, siue de Filio dicatur. Agit enim Hilarius de 
+      <lb ed="#G" n="4"/>illo Angelo, qui Mosi in rubo apparuit, quem  
+      <lb ed="#G" n="5"/>docet fuisse Christum, etsi Angelus 
+      appellaba<lb ed="#G" n="6" break="no"/>tur. Haec sunt igitur ipsissima Hilarij verba, 
+      <lb ed="#G" n="7"/>Qui de rubo appuruit Dei Angelus Deus, &amp; quae 
+      <lb ed="#G" n="8"/>ei complacita sunt, Iosephcum benediceretur, 
+      optan<lb ed="#G" n="9" break="no"/>tur. Non ideo non Deus, quia Angelus Dei est: 
+      ne<lb ed="#G" n="10" break="no"/>que rursum Angelus Dei non idcirco, quia Deus  
+      <lb ed="#G" n="11"/>est: sed significata Personarum intelligentia, &amp; 
+      distin<lb ed="#G" n="12" break="no"/>cto innascibilitatis natiuitatisque sensu, ac 
+      manife<lb ed="#G" n="13" break="no"/>stata sacramentorum coelestium dispensatiome, non 
+      <lb ed="#G" n="14"/>solitarium Deum docuit opinandum, cum Angelum 
+      <lb ed="#G" n="15"/>&amp; Filium Dei Deum Dei Angeli &amp; Filij 
+      adora<lb ed="#G" n="16" break="no"/>bunt. Verba quoque haec, Discretio ergo vel 
+      di<lb ed="#G" n="17" break="no"/>stinctio, &amp;c. sunt ipsius Lombardi, non autem  
+      <lb ed="#G" n="18"/>Hilarij, vbi etiam pro naturae distinctio dicendum 
+      <lb ed="#G" n="19"/>erat Essentiae distinctio. 
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e365">
+               <lb ed="#G" n="20"/>AD CAP. IIII 
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e370">
+               <lb ed="#G" n="21"/>Quia essentia vel generatio. Quaedam sunt 
+      <lb ed="#G" n="22"/>hic &amp; addita &amp; praetermissa, contrario prorsus 
+      <lb ed="#G" n="23"/>vitio. Verba enim haec essentia &amp; vel, addita sut. 
+      <lb ed="#G" n="24"/>Omissa vero ista non porestatis est. Sic enim Ambr. 
+      <lb ed="#G" n="25"/>quia generatio non potestatis est, sed naturae. Quod 
+      i<lb ed="#G" n="26" break="no"/>psum eo studiosius fuit a Lombardo retinendum, 
+      <lb ed="#G" n="27"/>quod ipse Ambrosi eiusdem oper. de Sacram. 
+      In<lb ed="#G" n="28" break="no"/>carnat. cap. 9. haec ipsa verba quasi magni 
+      mo<lb ed="#G" n="29" break="no"/>menti repetit. Lombardus autem obscura haec 
+      expli<lb ed="#G" n="30" break="no"/>care conatus generatione pro essentia accepit: 
+      <lb ed="#G" n="31"/>potestatis voce sustulit. Sensus verus Ambrosij 
+      <lb ed="#G" n="32"/>hic est, Generatione, quae Patri tribuitur, non 
+      <lb ed="#G" n="33"/>spectare ad potestatis, sed ad naturae 
+      emanatio<lb ed="#G" n="34" break="no"/>nem, vt ex eo quod Pater generauit, illud tatum  
+      <!--574.xml-->
+      <pb ed="#G" n="473"/>
+      
+               <lb ed="#G" n="1"/>tolligi possit, eum similem sibi naturam ex sese 
+      <lb ed="#G" n="2"/>effudisse ab aeterno. Caeterum quod in hoc 
+      ca<lb ed="#G" n="3" break="no"/>pite negat lectum esse a se in S. Scriptura hoc 
+      vo<lb ed="#G" n="4" break="no"/>cabulum lngenitus, vt Ariano respondeat, idem  
+      <lb ed="#G" n="5"/>Ambrosius eodem opere cap. 9. alio modo 
+      iis<lb ed="#G" n="6" break="no"/>dem respondet, quae responsio non erat 
+      negli<lb ed="#G" n="7" break="no"/>genda, propterea quod Lombardus ex istis Am 
+      <lb ed="#G" n="8"/>brosij verbis sibi &amp; alijs serupulum iniicit, 
+      qua<lb ed="#G" n="9" break="no"/>si voce lngeniti vti sit periculosum, Aλλυνητοῳ 
+      Grae<lb ed="#G" n="10" break="no"/>ce. Patres tamen &amp; orthodoxi Scriptores, vt 
+      pa<lb ed="#G" n="11" break="no"/>trem a Filio distinguant, hoc vocabulo fere 
+      o<lb ed="#G" n="12" break="no"/>mnes vtuntur. Praeterea vocabulum Generans,  
+      <lb ed="#G" n="13"/>ipsemet Ambr. passim vsurpat. Sic igitur cap. 9. 
+      <lb ed="#G" n="14"/>Ambrosius. Ergo oocia, quod semper sit Deus, 
+      si<lb ed="#G" n="15" break="no"/>gnificat. Ingeniti autem, vt tu vis, vel geniti 
+      appel<lb ed="#G" n="16" break="no"/>latio, quid sit, declarat: hoc est, quod non ex alio sit 
+      <lb ed="#G" n="17"/>Pater, nec ex se Filius. Species hic videtur esse 
+      di<lb ed="#G" n="18" break="no"/>uersa. Species vtique distincta, sed indistincta 
+      Di<lb ed="#G" n="19" break="no"/>uinitas. Haec Ambrosi quae veram ad priorem 
+      <lb ed="#G" n="20"/>illam Arianorum obiectionem responsionem 
+      <lb ed="#G" n="21"/>solutionemque continent. 
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e453">
+               <lb ed="#G" n="22"/>2 Non oporteat. Meo quidem iudicio 
+      ne<lb ed="#G" n="23" break="no"/>gans particula Non delenda est, etsi eam omnes 
+      <lb ed="#G" n="24"/>Codices habent, lego igitur vt oporteat, &amp;c. 
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e463">
+               <lb ed="#G" n="25"/>AD CAP. V 
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e468">
+               <lb ed="#G" n="26"/>Quia non hoc. Aug. habet, quia haec non 
+      se<lb ed="#G" n="27" break="no"/>cundum substantiam dicuntur, quae iste pro more 
+      <lb ed="#G" n="28"/>commutauit, elegantiam, splendoremque 
+      ora<lb ed="#G" n="29" break="no"/>tionis Augustinianae ferre nequiens, sed σαOπος 
+      <lb ed="#G" n="30"/>suasque tenebras praeferens. 
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e481">
+               <lb ed="#G" n="31"/>AD CAP. VI 
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e486">
+               <lb ed="#G" n="32"/>I Eo quod est nata. Deleo &amp; hic &amp; apud Au¬ 
+      <!--575.xml-->
+      <pb ed="#G" n="474"/>
+               <lb ed="#G" n="1"/>gustinum vocem eo, quae est &amp; nihili, &amp; obscura. 
+      <lb ed="#G" n="2"/>vti in sequenti membro &amp; in his verbis, in 
+      alte<lb ed="#G" n="3" break="no"/>ro (quod est sapientia, )yox eo non est addita, &amp; 
+      re<lb ed="#G" n="4" break="no"/>cte. Caeterum &amp; in hoc quoque Augustini 
+      te<lb ed="#G" n="5" break="no"/>stimonio recitando, quaedam, pro Magistrali 
+      au<lb ed="#G" n="6" break="no"/>toritate, immutauit Lombardus, quae quoniam  
+      <lb ed="#G" n="7"/>antoris mentem non laedunt, non annotabo. 
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e510">
+               <lb ed="#G" n="8"/>AD CAP. VII 
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e515">
+               <lb ed="#G" n="9"/>Species. Hilarius habet, Imaginis species, 
+      <lb ed="#G" n="10"/>sic, Ona est enim imaginis, ad quam homo creatus 
+      <lb ed="#G" n="11"/>est, specias. Id est forma, quae nimirum in aliis 
+      <lb ed="#G" n="12"/>Personis vel indiuiduis, etiam eiusdem naturae, 
+      <lb ed="#G" n="13"/>diuersa tamen esse solet.
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e529">
+               <lb ed="#G" n="14"/>Censura. 
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e534">
+               <lb ed="#G" n="15"/>Multa sunt in hac Distinctione XXVIII 
+      <lb ed="#G" n="16"/>graui reprehensione dignissima, e quibus pauca 
+      <lb ed="#G" n="17"/>tantum quaedam (nam omnia persequi velle 
+      <lb ed="#G" n="18"/>esset infinitum) attingemus, vt omnes 
+      intelli<lb ed="#G" n="19" break="no"/>gant nos cum isto non summo iure agere, sed 
+      <lb ed="#G" n="20"/>benigne, multaque illi condonare.
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e550">
+               <lb ed="#G" n="21"/>Primum igitur inanis, aut saltem confusa 
+      e<lb ed="#G" n="22" break="no"/>iusdem rei repetitio hoc loco reprehendenda 
+      <lb ed="#G" n="23"/>est. Ac inanis, quod quae hic aguntur, supra hoc 
+      <lb ed="#G" n="24"/>ipso libro Distin. 8. sunt acta, si cum cap. 8. &amp; &amp; 
+      <lb ed="#G" n="25"/>huius Distinctionis illa quinta conferatur. Item 
+      <lb ed="#G" n="26"/>cum cap. 8. &amp; &amp;. Dist. I2. Confusa vero repetitio 
+      <lb ed="#G" n="27"/>est, quod si quippia diuersum deuisdem rebus &amp;  
+      <lb ed="#G" n="28"/>vocabulis hic tradi dicatur, Lombardus 
+      demon<lb ed="#G" n="29" break="no"/>strare illud debuit, distinctionemque afferre, ex 
+      <lb ed="#G" n="30"/>qua intelligeretur quid diuersum hic 
+      tradere<lb ed="#G" n="31" break="no"/>tur: &amp; cur iam acta ageret, atque retexeret. Agit 
+      <lb ed="#G" n="32"/>enim de Ingenito: atqui de eodem vocabulo 
+      <lb ed="#G" n="33"/>Disrinctione decimatertia antea disputarat. Quid 
+      <!--576.xml-->
+      <pb ed="#G" n="475"/>
+      
+               <lb ed="#G" n="1"/>igitur hic aliud molitur, aut docet, quam antea. 
+      <lb ed="#G" n="2"/>praesertim cum de nominibus Personalibus S. 
+      <lb ed="#G" n="3"/>Trinitatis antea tractauerits Ergo etiam ex ipsis 
+      <lb ed="#G" n="4"/>scholasticis perpauci, quid hic locus a 
+      superio<lb ed="#G" n="5" break="no"/>ri differat, vident, putantque hic eiusdem rei 
+      <lb ed="#G" n="6"/>esse tantum repetitionem. Sed illi mihi 
+      viden<lb ed="#G" n="7" break="no"/>tur melius, distinctiusque loqui, qui vocabula 
+      <lb ed="#G" n="8"/>Personis diuinis attributa(de quibus nunc 
+      agi<lb ed="#G" n="9" break="no"/>tur) a superioribus discrepare putant, quod 
+      su<lb ed="#G" n="10" break="no"/>perioribus epithetis &amp; nominibus eae 
+      proprie<lb ed="#G" n="11" break="no"/>tates significantur, quae sunt constitutiuae 
+      ipsa<lb ed="#G" n="12" break="no"/>rum Personarum diuinarum: His autem 
+      voca<lb ed="#G" n="13" break="no"/>bulis, quae nunc traduntur, velut Ingenitus vel 
+      <lb ed="#G" n="14"/>innascibilitas proprietates quidem Personarum 
+      <lb ed="#G" n="15"/>designantur, sed quae non sunt constitutiuae 
+      <lb ed="#G" n="16"/>ipsius personalitatis, etsi tamen habent in toto 
+      <lb ed="#G" n="17"/>suae significationis ambitu quandam 
+      relatio<lb ed="#G" n="18" break="no"/>nem ad alias personas. Sic Thomas, sic 
+      Duran<lb ed="#G" n="19" break="no"/>dus, sic Occan, sic alij. Nam quod distinguit 
+      <lb ed="#G" n="20"/>Augustinus lib. 8. Trinit. cap. 6 &amp; v. inter haec 
+      <lb ed="#G" n="21"/>duo Ingenitum, &amp; non genitum, quasi sint diuersi 
+      <lb ed="#G" n="22"/>significati, &amp; notionis vocabula, est argutiola 
+      <lb ed="#G" n="23"/>potius, quam solida &amp; vera doctrina. Nec Grae 
+      <lb ed="#G" n="24"/>ci Theologi inter ἀτηητον &amp; μν λυνηλὸν vsquam  
+      <lb ed="#G" n="25"/>distinxerunt, alias in hoc argumento 
+      exercita<lb ed="#G" n="26" break="no"/>tissimi, &amp; varie ab Eunomianis &amp; AEtianis 
+      hae<lb ed="#G" n="27" break="no"/>reticis vexati, maxime propter vnicam hane 
+      <lb ed="#G" n="28"/>Aλλυῆς vocem, quemadmodum ex Epiphanio,  
+      <lb ed="#G" n="29"/>&amp; Basilio apparet. Haec igitur praetermissio in 
+      <lb ed="#G" n="30"/>hac Distinctione reprehendenda est, cum esset 
+      <lb ed="#G" n="31"/>tam necessaria. 
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e652">
+               <lb ed="#G" n="32"/>Secundum huius ipsius loci vitium, est 
+      du<lb ed="#G" n="33" break="no"/>plex alia rerum necessariarum omissio. Ac 
+      pri<lb ed="#G" n="34" break="no"/>ma quidem generalis: secunda vero specialis. 
+      <!--577.xml-->
+      <pb ed="#G" n="476"/>
+      
+               <lb ed="#G" n="1"/>Generalis nempe, quod reliqua omnia 
+      vo<lb ed="#G" n="2" break="no"/>cabula, quibus Pater, &amp; Filius, &amp; Spiritus 
+      san<lb ed="#G" n="3" break="no"/>ctus, velut quibusdam peculiaribus cuique Per 
+      <lb ed="#G" n="4"/>sonae attributis, designari solent, iste 
+      praetermi<lb ed="#G" n="5" break="no"/>sit: erant tamen addenda, vt plenus esset huius 
+      <lb ed="#G" n="6"/>loci tractatus. Sed pro eo Lombardus 
+      peregri<lb ed="#G" n="7" break="no"/>nas quaestiones arcessit.
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e681">
+               <lb ed="#G" n="8"/>Specialis omissio est, quod cum ex professo 
+      <lb ed="#G" n="9"/>de Ingenito agat (quod Patri proprie tribuitur. 
+      <lb ed="#G" n="10"/>neque varia eius vocis significata distinguit. ne 
+      <lb ed="#G" n="11"/>que explicat, vtrum illud idem sit, quodquidam  
+      <lb ed="#G" n="12"/>Scriptores ecclesiastici Latini, veluti Hilarius,  
+      <lb ed="#G" n="13"/>conuertunt Innascibilis. Thomas enim inI 
+      <lb ed="#G" n="14"/>parte Quaest, 22. Artic. 4. ostendit Ingenitum dici 
+      <lb ed="#G" n="15"/>&amp; priuatiue &amp; negatiue, &amp; recte quidem, &amp; ea 
+      <lb ed="#G" n="16"/>ex Basilio habet lib. I. contra Eunomium. Sed 
+      <lb ed="#G" n="17"/>tamen cum de Patre dicitur (nam &amp; de Filio, 
+      <lb ed="#G" n="18"/>&amp; de Spiritu sancto ingenitus dicitur quodam  
+      <lb ed="#G" n="19"/>significato suo, nempe pro Principio caetera 
+      o<lb ed="#G" n="20" break="no"/>mnia praecedente) cum, inquam, de Patre dicitur 
+      <lb ed="#G" n="21"/>lngenitus, non tantum eam enuntiationem 
+      ex<lb ed="#G" n="22" break="no"/>cludit, quae fit inter Personas diuinas per 
+      mo<lb ed="#G" n="23" break="no"/>dum generationis: sed etiam eam, quae fit per 
+      <lb ed="#G" n="24"/>modum processionis, quanquam tamen aliter 
+      <lb ed="#G" n="25"/>scribit Thomas. Ergo in Patre in vniuersum 
+      <lb ed="#G" n="26"/>ostendit vox ista Patrem a nullo vllo modo 
+      es<lb ed="#G" n="27" break="no"/>se: quo iam significato neque Filio, neque 
+      Spi<lb ed="#G" n="28" break="no"/>rtiui sancto lngenitus competit. Damascenus 
+      di<lb ed="#G" n="29" break="no"/>stinguit inter Aλυοητον per duplex ur: &amp; Aνtnm 
+      <lb ed="#G" n="30"/>per simplex v. lib. I. De Orthodoxa Fide cap. 
+      o<lb ed="#G" n="31" break="no"/>quod Aλλοητας omnem emanationis 
+      cogitatio<lb ed="#G" n="32" break="no"/>nem siue diuinarum, siue creatarum rerum 
+      res<lb ed="#G" n="33" break="no"/>pectu excludit, &amp; ita proprie Patri conuenit. 
+      <lb ed="#G" n="34"/>Aτινunς vero tantum semouet eam emanatio¬  
+      <!--578.xml-->
+      <pb ed="#G" n="477"/>
+      
+               <lb ed="#G" n="1"/>nis cogitationem, quae rerum creatarum 
+      ratio<lb ed="#G" n="2" break="no"/>ne ac comparatione fit, &amp; tribus illis diuinis 
+      Per<lb ed="#G" n="3" break="no"/>sonis tribuitur. Cum igitur κηλαiα, vt ait Dion. 
+      <lb ed="#G" n="4"/>vel, vt loquitur Thomas, Fontalis deitas 
+      signifi<lb ed="#G" n="5" break="no"/>catur Ingeniti voce, Aλλνηα, Patri duntaxat con 
+      <lb ed="#G" n="6"/>cedi &amp; tribui debet. 
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e759">
+               <lb ed="#G" n="7"/>Caeterum vertunt, vti diximus Innascibilis 
+      <lb ed="#G" n="8"/>quidam Patres potius, quam Ingenitus, quia cum  
+      <lb ed="#G" n="9"/>Graeci Patres propter hanc vocem varie 
+      vexa<lb ed="#G" n="10" break="no"/>rentur, existimarunt Latini posse ex iis 
+      mole<lb ed="#G" n="11" break="no"/>stiis &amp; vexationibus seipsos redimere, si 
+      Auon<lb ed="#G" n="12" break="no"/>ron, non Ingenitum, sed innascibilem Latine 
+      red<lb ed="#G" n="13" break="no"/>derent. Itaque &amp; Basilius lib. I. contra Euno, &amp;  
+      <lb ed="#G" n="14"/>Ambrosi in loco hic a Lombardo citato vocem 
+      <lb ed="#G" n="15"/>lngeniti &amp; Aπλνuς retinendam non putant: &amp;  
+      <lb ed="#G" n="16"/>eadam raro Hilarius ipse vtitur. Sed frustra, nam  
+      <lb ed="#G" n="17"/>par vexatio ex voce lnnascibilis orietur: &amp; res 
+      <lb ed="#G" n="18"/>ipsa modo dextre explicetur, sine periculo vox 
+      <lb ed="#G" n="19"/>ipsa Ingenitus retineri &amp; debet &amp; potest, Iicet 
+      <lb ed="#G" n="20"/>non extet in Scripturis, quemadmodum neque 
+      vo<lb ed="#G" n="21" break="no"/>ces hae vcia, τζtας. I. Essentia &amp; Trinitas. In summa 
+      <lb ed="#G" n="22"/>Aλλνητoς &amp; Aλuνnoiaα essentiam deitatis no signi 
+      <lb ed="#G" n="23"/>ficant, vt falso Ariani interpretabantur. Et haec 
+      <lb ed="#G" n="24"/>quidem in voce lngeniri sunt hic ab isto 
+      praeter<lb ed="#G" n="25" break="no"/>missa: yalde tamen, vt omnes vident, necessaria 
+      <lb ed="#G" n="26"/>&amp; scitu digna. 
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e806">
+               <lb ed="#G" n="27"/>In vocabulis aute, quae Filio tribuuntur, 
+      prae<lb ed="#G" n="28" break="no"/>ter illud nomen personale, Filius, multa 
+      quo<lb ed="#G" n="29" break="no"/>que iste neglexit, quae nos ex Basilio breuiter 
+      <lb ed="#G" n="30"/>ostendemus, vt huius damni incommoditas 
+      ali<lb ed="#G" n="31" break="no"/>quo beneficio nostro studiosis compensetur. Ait 
+      <lb ed="#G" n="32"/>igitur Basil. lib. I. contra Eunom. 
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e822">
+               <lb ed="#G" n="33"/>Moνoλῆς ille &amp; AEternus Dei Filius, ios, non 
+      <lb ed="#G" n="34"/>autem τεκνὸν nominatur, quod τουνὸν habeat ni¬ 
+      <!--579.xml-->
+      <pb ed="#G" n="478"/>
+               <lb ed="#G" n="1"/>mis abiectam &amp; exilem de Filij Dei natiuitate 
+      <lb ed="#G" n="2"/>aeterna cogitationem.
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e838">
+               <lb ed="#G" n="3"/>Tεrruua non dicitur, quod vox ista etiam 
+      tri<lb ed="#G" n="4" break="no"/>buitur rebus brutis, vt vinum dicitur τυνημα vitis 
+      <lb ed="#G" n="5"/>Matb. 3o Versu 29. ποιnμα non dicitur, quod est 
+      <lb ed="#G" n="6"/>terum creatarum proprium, non item κiῶς. 
+      Di<lb ed="#G" n="7" break="no"/>citur autem Filius lmago Patris, Angelus Dei, 
+      <lb ed="#G" n="8"/>Character Personae Patris, Seruus. Porro autem ex 
+      <lb ed="#G" n="9"/>eo, quod Eiξῶν. i. Imago Patris dicitur Filius,  
+      <lb ed="#G" n="10"/>quidam perperam colligere conati sunt nihil 
+      <lb ed="#G" n="11"/>esse ζυπὸςαλὸν Filium: sed perperam colligunt. 
+      <lb ed="#G" n="12"/>lmago enim, &amp; Angelus, &amp; Seruus dicitur Filius.  
+      <lb ed="#G" n="13"/>qua carnem assumpsit, &amp; homo factus est, &amp; est 
+      <lb ed="#G" n="14"/>Deus in carnemanifestatus. I. Timothia . Ver. &amp; 
+      <lb ed="#G" n="15"/>Ioa. I. Ver. I4. &amp; haec quidem tot sunt hic omissa.
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e869">
+               <lb ed="#G" n="16"/>Tertium vitium huius Distinctionis est, quod 
+      <lb ed="#G" n="17"/>probationes ad hoc tam augustum 
+      argumen<lb ed="#G" n="18" break="no"/>tum tractandum sumit prorsus ineptas &amp; ἀωρos¬ 
+      <lb ed="#G" n="19"/>δεoνυνuς, praesertim ex Hilario, cui addit vocem 
+      <lb ed="#G" n="20"/>lngenitus &amp; genitus, vt ad suum argumentum 
+      <lb ed="#G" n="21"/>hominem intorqueat. Atqui Thomas praeclare 
+      <lb ed="#G" n="22"/>in I. part. Quaest. S2. Derogatur fidei Christiana, 
+      <lb ed="#G" n="23"/>quum aliquis ad probandam fidem inducit rationes. 
+      <lb ed="#G" n="24"/>quae non sunt cogentes. Cedit enim in irrisionem 
+      <lb ed="#G" n="25"/>infidelium. 
+    </p>
+            <p xml:id="cv8jk9-e26092-d1e893">
+               <lb ed="#G" n="26"/>Quartum denique vitium est argutiola illa 
+      <lb ed="#G" n="27"/>inter has phrases, Est Pater, &amp; Pater est, 
+      quan<lb ed="#G" n="28" break="no"/>quam ex Augustini ψεττολἰα sumpta est. Sed 
+      <lb ed="#G" n="29"/>ab isto, qui magistrum se profitetur, iudicium 
+      <lb ed="#G" n="30"/>procul dubio fuit, &amp; hic, &amp; in aliis rebus 
+      adhi<lb ed="#G" n="31" break="no"/>bendum. Et haec hactenus 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

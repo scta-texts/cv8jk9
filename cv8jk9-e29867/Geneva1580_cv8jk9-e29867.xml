@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 35</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 35</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="569"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e29867"><!-- ld-d35 -->
+            <head xml:id="cv8jk9-e29867-Hd1e106">Distinctio 35</head>
+            <p xml:id="cv8jk9-e29867-d1e109">
+      <!--670.xml-->
+               <pb ed="#G" n="569"/>
+               <lb ed="#G" n="1"/>AD DISTINCTIONEM 
+      <lb ed="#G" n="2"/>XXXV. 
+      <lb ed="#G" n="3"/>AD CAP. V. 
+    </p>
+            <p xml:id="cv8jk9-e29867-d1e122">
+               <lb ed="#G" n="4"/>Haec visibilia. Addit hoc loco 
+      Lombar<lb ed="#G" n="5" break="no"/>dus vocem, Visibilia, ad Augustini verba, 
+      prae<lb ed="#G" n="6" break="no"/>ter, imo contra ipsius Augustini mentem, cum 
+      <lb ed="#G" n="7"/>de inuisibilibus loquatur Augustinus. Sic enim 
+      <lb ed="#G" n="8"/>habet, Huius vniuersae Dei creaturae multa non 
+      no<lb ed="#G" n="9" break="no"/>uimus, siue quae in coelis sunt altius quam vt noster 
+      <lb ed="#G" n="10"/>sensus eo possit pertingere: siue quae in regionibus 
+      <lb ed="#G" n="11"/>terrarum fortassis inhabitabilibus: siue quae deorsum 
+      <lb ed="#G" n="12"/>latent, vel in profundo abyssi, vel in occultis finibus 
+      <lb ed="#G" n="13"/>terrae. Haec igitur antequam fierent, &amp;c. Ita scilicet 
+      <lb ed="#G" n="14"/>bona fide pulcherrimum Augustini locum 
+      re<lb ed="#G" n="15" break="no"/>praesentat Lombardus. Atque id fortasse vitio 
+      li<lb ed="#G" n="16" break="no"/>brarij videretur factum, nisi ipsemet 
+      Lombar<lb ed="#G" n="17" break="no"/>dus hoc ipso capite sic concluderet, Ecce hic 
+      ha<lb ed="#G" n="18" break="no"/>bes, quod haec visibilia, &amp;c. Vbi hanc ipsam vocem 
+      <lb ed="#G" n="19"/>quasi ex Augustino repetit. 
+    </p>
+            <p xml:id="cv8jk9-e29867-d1e159">
+               <lb ed="#G" n="20"/>2 Ipsi autem Deo. Quaedam interiecta 
+      prae<lb ed="#G" n="21" break="no"/>termisit iste: sed potuit. Itaque non reprehendo. 
+    </p>
+            <p xml:id="cv8jk9-e29867-d1e166">
+               <lb ed="#G" n="22"/>AD CAP. VI
+    </p>
+            <p xml:id="cv8jk9-e29867-d1e172">
+               <lb ed="#G" n="23"/>I Ideo, inquit, mecum. Haec omnia. Ideo, 
+      in<lb ed="#G" n="24" break="no"/>quit, mecum est, quia apud Deum nihil praeterist, 
+      ni<lb ed="#G" n="25" break="no"/>hil fuiurum est, quanquam sunt vera, sunt tamen 
+      <lb ed="#G" n="26"/>ad Augustinum addita. Sic esim habet ille. ET 
+      <lb ed="#G" n="27"/>SPECIES ACRIMECVM EST. 
+      Pulchri<lb ed="#G" n="28" break="no"/>tudo agri, vbertas omnium in terra gignentium, me¬ 
+      <!--671.xml-->
+      <pb ed="#G" n="570"/>
+               <lb ed="#G" n="1"/>cum est, inquit. Quomodo cum illo: Vtrum &amp; 
+      an<lb ed="#G" n="2" break="no"/>tequam fierent. Cum illo enim erant, oc. adeo. 
+      <lb ed="#G" n="3"/>vt tota haec sententia sit ad hunc locum &amp; 
+      sco<lb ed="#G" n="4" break="no"/>pum tralatitia. 
+    </p>
+            <p xml:id="cv8jk9-e29867-d1e201">
+               <lb ed="#G" n="5"/>Futura, &amp;ei. Magna tum detractio, tum 
+      <lb ed="#G" n="6"/>huius loci labes a Lombardo facta est. 
+      Acqui<lb ed="#G" n="7" break="no"/>dem detractio, quod quaedam omnino 
+      necessa<lb ed="#G" n="8" break="no"/>ria ex Augustino praetermisit. Labes autem,  
+      <lb ed="#G" n="9"/>quia mutauit vocem Vt in Et, magna sensus 
+      <lb ed="#G" n="10"/>iniuria. Sic igitur habet Augustinus ipse, Cum  
+      <lb ed="#G" n="11"/>illo (Deo) enim erant omnia futura, &amp; cum illo 
+      <lb ed="#G" n="12"/>sunt omnia praeterita: futura ita, vt nonei 
+      detra<lb ed="#G" n="13" break="no"/>hantur omnia praeterita. Ergo &amp; praeterita &amp; 
+      <lb ed="#G" n="14"/>futura in Deo esse docet Augustinus, 
+      acqui<lb ed="#G" n="15" break="no"/>dem ita, vt licet in eo futura sint, praeterita 
+      ta<lb ed="#G" n="16" break="no"/>men esse, in eodem non desinant: &amp; ita 
+      praete<lb ed="#G" n="17" break="no"/>rita sunt in eo, vt etiam sint in eo, quod 
+      absur<lb ed="#G" n="18" break="no"/>dum esse videbatur, in eodem pectore esse o 
+      <lb ed="#G" n="19"/>mnia, id est, &amp; praeterita &amp; futura, id est, 
+      futu<lb ed="#G" n="20" break="no"/>rae res quoque in eo sint, vt &amp; praeteritae. Non 
+      <lb ed="#G" n="21"/>tamen propterea praeterita &amp; futura illic 
+      con<lb ed="#G" n="22" break="no"/>fundit Augustinus, quemadmodum putat 
+      Lom<lb ed="#G" n="23" break="no"/>bardus. 
+    </p>
+            <p xml:id="cv8jk9-e29867-d1e245">
+               <lb ed="#G" n="24"/>Ineffabili. Augustinus, Ineffabilis 
+      sa<lb ed="#G" n="25" break="no"/>pientiae Dei. 
+    </p>
+            <p xml:id="cv8jk9-e29867-d1e252">
+               <lb ed="#G" n="26"/>Censura ad Distinctionem 
+      <lb ed="#G" n="27"/>XXXV 
+    </p>
+            <p xml:id="cv8jk9-e29867-d1e259">
+               <lb ed="#G" n="28"/>Expectat fortasse lector, vt in toto sequenti 
+      <lb ed="#G" n="29"/>tractatu (qui superioris velut appendix 
+      quae<lb ed="#G" n="30" break="no"/>dam tantum est) maiori, quam antea, diligetia, 
+      <lb ed="#G" n="31"/>&amp; fide versetur Lombardus. Frustrabitur, seque 
+      <!--672.xml-->
+      <pb ed="#G" n="571"/>
+               <lb ed="#G" n="1"/>deceptum tandem comperiet. Nam sui 
+      perpe<lb ed="#G" n="2" break="no"/>tuo similis est, &amp; antiquum obtinet, eademque vi 
+      <lb ed="#G" n="3"/>tia postea quoque admittit, quae supra, vt in 
+      no<lb ed="#G" n="4" break="no"/>stris in singulas sequentes distinctiones 
+      ani<lb ed="#G" n="5" break="no"/>maduersionibus apparebit. Verum in hoc 
+      dif<lb ed="#G" n="6" break="no"/>ficili, arduo, &amp; venerando certe de Sancta &amp; 
+      in<lb ed="#G" n="7" break="no"/>effabili Trinitate diuino argumento minime 
+      <lb ed="#G" n="8"/>ex hoc Hacci Horatij dicto excusetur 
+      Lombar<lb ed="#G" n="9" break="no"/>dus, Opere in magno fas est obrepere somnum, 
+      quo<lb ed="#G" n="10" break="no"/>niam in qualibet huius disputationis parte 
+      ne<lb ed="#G" n="11" break="no"/>gligentiadolo malo aequiparatur. Cuius nostrae 
+      <lb ed="#G" n="12"/>&amp; nimium quidem verae accusationis fidem 
+      fa<lb ed="#G" n="13" break="no"/>ciet vel vna haec Distinctio, ne calumniari hunc 
+      <lb ed="#G" n="14"/>scriptorem videamur. 
+    </p>
+            <p xml:id="cv8jk9-e29867-d1e305">
+               <lb ed="#G" n="15"/>Multa sunt igitur, quae in hac sunt graui 
+      re<lb ed="#G" n="16" break="no"/>prehensione dignissima, e quibus haec tantum  
+      <lb ed="#G" n="17"/>selegimus, quae, proponeremus.
+    </p>
+            <p xml:id="cv8jk9-e29867-d1e315">
+               <lb ed="#G" n="18"/>Primum, quod, etsi serie rationemque 
+      conne<lb ed="#G" n="19" break="no"/>xionis totius sequentis argumenti cum toto 
+      antece<lb ed="#G" n="20" break="no"/>dente reddere videatur: tamen non reddit. Vno 
+      ta<lb ed="#G" n="21" break="no"/>tum verbulo iste ait se iam quaedam tradere, quae 
+      <lb ed="#G" n="22"/>specialem tractatum effsagitant. Iam enim se ea quae 
+      <lb ed="#G" n="23"/>generaliter &amp; communiter ad diuinam essentiam 
+      <lb ed="#G" n="24"/>pertinent explicasse. Atqui &amp; haec ipsa, quae sequum 
+      <lb ed="#G" n="25"/>tur, ad essentia diuinam pertinet, atque etiam triu 
+      il<lb ed="#G" n="26" break="no"/>larum Personarum diuinarum sunt conmunia, quod vel 
+      <lb ed="#G" n="27"/>ex ipso primo huius Dist. capite facile quiuis 
+      <lb ed="#G" n="28"/>intelliget. Est igitur alia ordinis ratio, haec nempe, 
+      <lb ed="#G" n="29"/>Quod cum supra de ipsa diuina essentia tum per 
+      <lb ed="#G" n="30"/>sese, tum ex eius comparatione ad ipsas Personas,  
+      <lb ed="#G" n="31"/>quibus singulis inest tota, dictum sit: conseques 
+      <lb ed="#G" n="32"/>erat, vt de eiusdem essentialib: attributis 
+      dissere<lb ed="#G" n="33" break="no"/>retur: per quae omnium creaturarum causa Des esse 
+      <lb ed="#G" n="34"/>cognoscitur. Sed &amp; haec ipsa attributa diuina na¬ 
+      <!--673.xml-->
+      <pb ed="#G" n="572"/>
+               <lb ed="#G" n="1"/>turam explicant clarius nobis: &amp; ad creaturas ita 
+      <lb ed="#G" n="2"/>comparant, vt ineffabili modo eam eminentiorem, 
+      <lb ed="#G" n="3"/>imo toto genere a creaturis diuersam ac 
+      dissi<lb ed="#G" n="4" break="no"/>milem esse verissime demonstrent. Hoc igitur 
+      <lb ed="#G" n="5"/>tam necessarium connexum in ipso ingressu 
+      o<lb ed="#G" n="6" break="no"/>peris praetermissum, &amp; scriptoris vitium est, &amp; 
+      <lb ed="#G" n="7"/>merito reprehendendum.
+    </p>
+            <p xml:id="cv8jk9-e29867-d1e374">
+               <lb ed="#G" n="8"/>Secundum, quod iterum in ipso limine 
+      im<lb ed="#G" n="9" break="no"/>pingit. Itaque indignus est nauta, cum in ipso 
+      <lb ed="#G" n="10"/>portu bis naufragium faciat, &amp; oram soluens 
+      <lb ed="#G" n="11"/>statim aberret. Cum enim tria tantum sint 
+      <lb ed="#G" n="12"/>velut fundamenta totius futurae disputationis,  
+      <lb ed="#G" n="13"/>nempe vt explicetur. 
+      <lb ed="#G" n="14"/>Quae sit Dei, TScientia 
+      <lb ed="#G" n="15"/>q Potentia, &amp; 
+      <lb ed="#G" n="16"/>Voluntas, quemadmodum 
+      e<lb ed="#G" n="17" break="no"/>tiam in prima parte Primae luculenter Thomas 
+      <lb ed="#G" n="18"/>Aquinas tradit: iste tamen septem fundamenta 
+      <lb ed="#G" n="19"/>proponit, causam nimirum cum effectis 
+      con<lb ed="#G" n="20" break="no"/>fundens: fundamenta cum reliquis partibus, &amp;  
+      <lb ed="#G" n="21"/>ita omnia permiscens. Nam quod iste ait cap. I. 
+      <lb ed="#G" n="22"/>omnia ex vna Dei scientia pendere, falsum est. 
+      <lb ed="#G" n="23"/>idque apparet ex eo, quod peraeque ad Dei vel 
+      <lb ed="#G" n="24"/>voluntatem, vel potentiam illa septem referri 
+      <lb ed="#G" n="25"/>possunt, atque ad scientiam, nisi distincte 
+      singu<lb ed="#G" n="26" break="no"/>la attributa illa explicemus, suisque 
+      definitio<lb ed="#G" n="27" break="no"/>nibus circumscribamus, &amp; non generaliter con 
+      <lb ed="#G" n="28"/>sideremus, vti facit ipse.
+    </p>
+            <p xml:id="cv8jk9-e29867-d1e422">
+               <lb ed="#G" n="29"/>Tertium vitium est, quod breuem illam 
+      at<lb ed="#G" n="30" break="no"/>tributorum a se propositorum definitionem  
+      <lb ed="#G" n="31"/>praetermittit in quibusdam. Non omittit &amp; 
+      Prae<lb ed="#G" n="32" break="no"/>scientiae, &amp; volunttis, &amp; potentiae definitiones, quas 
+      <lb ed="#G" n="33"/>tamen, vt reliquorum, afferre debuit. 
+    </p>
+            <p xml:id="cv8jk9-e29867-d1e435">
+               <lb ed="#G" n="34"/>Quartum, quod curiosam quaestionem in¬ 
+      <!--674.xml-->
+      <pb ed="#G" n="573"/>
+               <lb ed="#G" n="1"/>uehit, quam Academico more vexat, ac 
+      tan<lb ed="#G" n="2" break="no"/>dem pessime soluit &amp; obscurissime, vnius vocis 
+      <lb ed="#G" n="3"/>Nunc omissione facta ca. 2. Sic enim scribendum 
+      <lb ed="#G" n="4"/>fuit, vt perspicue obiectionem solueret, Sin 
+      au<lb ed="#G" n="5" break="no"/>tem ea ratione id dicis, quod non sit in eo scientia, 
+      <lb ed="#G" n="6"/>qua nunc praescit futura: vel quod ipse non sit Deus,  
+      <lb ed="#G" n="7"/>qui nunc est futurorum praescius, falsa est 
+      intelligen<lb ed="#G" n="8" break="no"/>tia: Vox Nunc vtrobique omissa inexplicatam  
+      <lb ed="#G" n="9"/>relinquit quaestionem a Lombardo 
+      proposi<lb ed="#G" n="10" break="no"/>ta: sed iste perinde securus est, quasi pecudibus 
+      <lb ed="#G" n="11"/>&amp; truncis scriberet, non hominibus. 
+    </p>
+            <p xml:id="cv8jk9-e29867-d1e468">
+               <lb ed="#G" n="12"/>Quintum vitiumlest, quod falsa multa 
+      conti<lb ed="#G" n="13" break="no"/>net haec Distinctio. Primum confundit Disposi 
+      <lb ed="#G" n="14"/>tione (quae est ordinis &amp; collocationis decretum 
+      <lb ed="#G" n="15"/>cum prouidentia, quae est ipsius rei &amp; finis 
+      eius<lb ed="#G" n="16" break="no"/>dem constitutio &amp; decretum. 2 Confundit 
+      <lb ed="#G" n="17"/>cap. I. praescientiam, &amp; prouidentiam.s 
+      Pro<lb ed="#G" n="18" break="no"/>uidentiam non constituit in rebus omnibus 
+      <lb ed="#G" n="19"/>sed tantum in iis, quae Deus ipse regit. Itaque in 
+      <lb ed="#G" n="20"/>eo diuersam a scientia Dei facit, quod scientia 
+      <lb ed="#G" n="21"/>sit de omnibus. 4 Prouidentiam tantum in 
+      <lb ed="#G" n="22"/>temporalibus constituit: scientiam etiam in 
+      <lb ed="#G" n="23"/>aeternis. 
+    </p>
+            <p xml:id="cv8jk9-e29867-d1e497">
+               <lb ed="#G" n="24"/>Infinita pene alia praetermitto ne molestus 
+      <lb ed="#G" n="25"/>sim. Hoc tamen vnum dissimulare non possum,  
+      <lb ed="#G" n="26"/>perperam ab isto locum Ioannis Omne quod 
+      sa<lb ed="#G" n="27" break="no"/>ctum est, in eo vita erat cap. I. Ioan. explicari cap. 
+      <lb ed="#G" n="28"/>g. huius Distinctionis. Primum quoniam iste 
+      <lb ed="#G" n="29"/>refert generaliter ad diuinam essentiam, quod 
+      <lb ed="#G" n="30"/>Ioannes de vna κος &amp; Filij Dei Persona dixit. 
+      <lb ed="#G" n="31"/>Secundo, quod iste tribuit eandem vitam Deo 
+      <lb ed="#G" n="32"/>ibsi, quam Ioannnes rebus, id est, hominibus a 
+      <lb ed="#G" n="33"/>Deo creatis inesse, &amp;a Filio Dei fiuere ait. 
+      Ter<lb ed="#G" n="34" break="no"/>tio quod iste metitur rationem &amp; fundamentum  
+      <!--675.xml-->
+      <pb ed="#G" n="574"/>
+               <lb ed="#G" n="1"/>istius vitae, quam esse datam ait Ioannnes, ex eo 
+      <lb ed="#G" n="2"/>quod illae res in Dei scientia essent. Ioannnes 
+      au<lb ed="#G" n="3" break="no"/>tem docet eam vitam inesse in rebus a Deo, 
+      <lb ed="#G" n="4"/>quoniam extra Deum ipsum &amp; sint, &amp; subsistant. 
+      <lb ed="#G" n="5"/>Quod autem hic interpretes addunt de Ideum, 
+      <lb ed="#G" n="6"/>&amp; vtrum illae sint in Deo, non modo remotum 
+      <lb ed="#G" n="7"/>est ab hoc argumento: sed etiam a Deo prorsus,  
+      <lb ed="#G" n="8"/>vt docet in Enchiridio Augustinus, alienum. 
+      Il<lb ed="#G" n="9" break="no"/>lud modo teneamus, &amp; Deum scire, &amp; decreto 
+      <lb ed="#G" n="10"/>suo regere singula &amp; vniuersa: &amp; cum scire 
+      sin<lb ed="#G" n="11" break="no"/>gula dicitur, illa scire distincte, non autem 
+      con<lb ed="#G" n="12" break="no"/>fuse. Hic breuior sum, quia haec eadem saepius 
+      <lb ed="#G" n="13"/>recurrent.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

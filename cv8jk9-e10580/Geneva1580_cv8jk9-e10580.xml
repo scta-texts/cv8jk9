@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 6</title>
+            <author ref="#LambertusDaneau">Lambertus Daneau</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 6</title>
+               <date when="2021-02-12">February 12, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="G" n="Geneva1580">Geneva 1580</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-12" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#G" n="111"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="cv8jk9-e10580"><!-- ld-d6 -->
+            <head xml:id="cv8jk9-e10580-Hd1e106">Distinctio 6</head>
+            <p xml:id="cv8jk9-e10580-d1e109">
+               <lb ed="#G" n="13"/>AD DISTINCT VI 
+      <lb ed="#G" n="14"/>Inscriptionem.
+    </p>
+            <p xml:id="cv8jk9-e10580-d1e116">. 
+      <lb ed="#G" n="15"/>Et an idem Pater. Fecerunt verba 
+      Augu<lb ed="#G" n="16" break="no"/>stini, quae &amp; lib. I8. de Trinitate. cap. 2o &amp; in 
+      li<lb ed="#G" n="17" break="no"/>bro &amp;. Quaestion. 9. extant, habentque diserte 
+      <lb ed="#G" n="18"/>(Vtrum Deus Pater volens, aut nolens sit Deus) 
+      <lb ed="#G" n="19"/>vt dilucidioris orationis gratia hic adderem haec 
+      <lb ed="#G" n="20"/>verba, Idem Pater. Id quod etiam ex fine cap. I. 
+      <lb ed="#G" n="21"/>&amp; cap. s. Inscriptione, vbi haec eadem 
+      repetun<lb ed="#G" n="22" break="no"/>tur, satis intelligi potest, addenda fuisse. Alias 
+      <lb ed="#G" n="23"/>enim &amp; obscurus est sensus, &amp; indefinita 
+      pro<lb ed="#G" n="24" break="no"/>positio. Nam ad Filium quoque referri 
+      pote<lb ed="#G" n="25" break="no"/>rat, Vtrum volens an nolens sit Deus, quod tamen 
+      <lb ed="#G" n="26"/>de Patre solo quaerit, proponitque ex August. 
+      <lb ed="#G" n="27"/>Lombardus. Ergo pertinet haec quaestio ad 
+      ge<lb ed="#G" n="28" break="no"/>nerationis (quae in solo Patre spectatur) 
+      ratio<lb ed="#G" n="29" break="no"/>ne explicanda, &amp; confirmanda: etsi de Filio, &amp;  
+      <lb ed="#G" n="30"/>Spiritu sancto idem (si per se &amp; quatenus vnus 
+      <lb ed="#G" n="31"/>Deus sunt spectentur) sentiendum est, &amp; 
+      respon<lb ed="#G" n="32" break="no"/>dendum, quod de Patre Deo respondet pius ille 
+      <lb ed="#G" n="33"/>Pater, nempe neutrum nolentem esse Deum. 
+      <!--211.xml-->
+      <pb ed="#G" n="112"/>
+            </p>
+            <p xml:id="cv8jk9-e10580-d1e164">
+               <lb ed="#G" n="1"/>Vnigenitum Dei. Ex ipso codice, vnde haec 
+      <lb ed="#G" n="2"/>transcripta sunt, sic est restituenda huius loci 
+      <lb ed="#G" n="3"/>series, &amp; oratio, quemadmodum fecimus, 
+      Vni<lb ed="#G" n="4" break="no"/>genitum Dei verbum Filium Dei esse natura. Quae 
+      <lb ed="#G" n="5"/>etsi in speciem sunt Ieuia, tamen admonemus,  
+      <lb ed="#G" n="6"/>nequis receptam iam lectionem, imo vel apiceni 
+      <lb ed="#G" n="7"/>quidem in isto autore temere a nobis 
+      immuta<lb ed="#G" n="8" break="no"/>tum fuisse calumnietur.
+    </p>
+            <p xml:id="cv8jk9-e10580-d1e184">
+               <lb ed="#G" n="9"/>Propter quod mutabilis. Procul dubio 
+      cor<lb ed="#G" n="10" break="no"/>rupta est vulgaris lectio, qualis in impressis 
+      Au<lb ed="#G" n="11" break="no"/>gustini codicibus extat, quae ex hoc loco 
+      emen<lb ed="#G" n="12" break="no"/>danda est: Na huius loci argumento sic est 
+      re<lb ed="#G" n="13" break="no"/>ponenda, videlicet ideo, quia nos aliquid 
+      aliquan<lb ed="#G" n="14" break="no"/>do volumus, quod antea no volebamus, propter quod 
+      <lb ed="#G" n="15"/>(vel propter quae) ista mutabilis intelligitur natura 
+      <lb ed="#G" n="16"/>nostra. Vulgo legitur, sed corruptissime, quae, no 
+      <lb ed="#G" n="17"/>proptor ista, nullo sensu. 
+    </p>
+            <p xml:id="cv8jk9-e10580-d1e207">
+               <lb ed="#G" n="18"/>CAP. III 
+      <lb ed="#G" n="19"/>Ad verba in margine ipsius capitis 
+      <lb ed="#G" n="20"/>annotata. 
+    </p>
+            <p xml:id="cv8jk9-e10580-d1e216">
+               <lb ed="#G" n="21"/>Quod neque consilio. Quicunque ista ex 
+      <lb ed="#G" n="22"/>libro Hilarij trascripsit, audacissime &amp; pro 
+      Ma<lb ed="#G" n="23" break="no"/>gistrali supercilio partim quaedam temere 
+      ad<lb ed="#G" n="24" break="no"/>didit, partim diuersissimos locos confudit. 
+      Ad<lb ed="#G" n="25" break="no"/>didit enim haec verba manifestissime, Noque 
+      <lb ed="#G" n="26"/>consilio, quae nusquam leguntur apudHilarium:  
+      <lb ed="#G" n="27"/>&amp; perperam. hic ex mente Hilarij 
+      coniungun<lb ed="#G" n="28" break="no"/>tur, velut svnonima. Est enim aliud Hilario 
+      <lb ed="#G" n="29"/>hoc loco Voluntas, aliud Consilium: &amp; alia 
+      quae<lb ed="#G" n="30" break="no"/>stio, Vtrum voluntate Pater Filium genuerit, an 
+      con<lb ed="#G" n="31" break="no"/>silio. Anathematixat enim Synodus Sardica, &amp;  
+      <lb ed="#G" n="32"/>cum ea Hilarius ipse eos, qui negant Patrem  
+      <lb ed="#G" n="33"/>voluntate generasse Filium, quae eadem tamen 
+      <!--212.xml-->
+      <pb ed="#G" n="113"/>
+               <lb ed="#G" n="1"/>Synodus, vnaque Hilarius pro haereticis eos 
+      <lb ed="#G" n="2"/>habent, qui contendunt Filium natum esse consi 
+      <lb ed="#G" n="3"/>lio Patris, id est, ex superueniente Patri noua 
+      <lb ed="#G" n="4"/>quadam deliberatione. Est enim consilium 
+      <lb ed="#G" n="5"/>superueniens voluntas ex deliberatione noua, 
+      <lb ed="#G" n="6"/>nouisque causis nos commouentibus 
+      conce<lb ed="#G" n="7" break="no"/>pta. Ergo in his primum peceatum est hoc 
+      lo<lb ed="#G" n="8" break="no"/>co, quod ista vocabula Voluntas, &amp; Consilium 
+      <lb ed="#G" n="9"/>sint confusa. Deinde, quod verba, Eos qui 
+      di<lb ed="#G" n="10" break="no"/>eunt de non extantibus esse Filium Dei, sunt 
+      pror<lb ed="#G" n="11" break="no"/>sus in hoc argumento peregrina, &amp; ἐωρoς δονυσα, 
+      <lb ed="#G" n="12"/>cum de hoc haeresis capite nequaquam iam 
+      a<lb ed="#G" n="13" break="no"/>gatur, &amp; ex alienissimo huic errore &amp; loco in 
+      <lb ed="#G" n="14"/>nunc traducta sint. Qui enim ex non 
+      extanti<lb ed="#G" n="15" break="no"/>bus Filium Dei esse dicunt, ij sunt Ariani siue 
+      <lb ed="#G" n="16"/>Ariomanitae, quemadmodum Epiphanius 
+      vo<lb ed="#G" n="17" break="no"/>cat. Qui vero Dei consilio &amp; superueniente 
+      <lb ed="#G" n="18"/>voluntate eundem Filium natum esse conten 
+      <lb ed="#G" n="19"/>dunt, ij sunt Eunomiani a superioribus 
+      dissi<lb ed="#G" n="20" break="no"/>miles &amp; tempore &amp; errore. Quanquam idem  
+      <lb ed="#G" n="21"/>Hilarius lib. contra Constantium Augustum  
+      <lb ed="#G" n="22"/>docet etiam ante Eunomium in Synodo 
+      Se<lb ed="#G" n="23" break="no"/>leucia, Christum appellatum fuisse Filium 
+      vo<lb ed="#G" n="24" break="no"/>suntatis Patris, potius quam ipsius diuinitatis. 
+      <lb ed="#G" n="25"/>Ergo locus ipse apud Hilarium sic scriptus ap 
+      <lb ed="#G" n="26"/>paret, vt distincte duarum Synodorum, nempe 
+      <lb ed="#G" n="27"/>Sardicae, &amp; Syrmiensis posterioris diuersa 
+      ca<lb ed="#G" n="28" break="no"/>pita recitentur, quae hic tamen nulla 
+      distinctio<lb ed="#G" n="29" break="no"/>ne permiscentur. Est quidem verum repetita 
+      <lb ed="#G" n="30"/>fuisse in illa Syrmiensi Synodo Sardicae capita, 
+      <lb ed="#G" n="31"/>&amp; decreta: sed alia quoque Syrmij addita sunt. 
+      <lb ed="#G" n="32"/>Ergo damnatio eorum, oui ex non extantibus 
+      <lb ed="#G" n="33"/>Filium esse dicunt, &amp; Sardicae &amp; Syrmiensis 
+      sv<lb ed="#G" n="34" break="no"/>nodi est commune decretum. Item &amp; illud, 
+      <!--213.xml-->
+      <pb ed="#G" n="114"/>
+      
+               <lb ed="#G" n="1"/>vt pro haereticis habeantur, qui Filium negant 
+      <lb ed="#G" n="2"/>Patris voluntate genitum. Sed propria est 
+      so<lb ed="#G" n="3" break="no"/>lius Syrmiensis Synodi huius rei, &amp; orationis 
+      <lb ed="#G" n="4"/>explicatio. Nam ambiguum est, si quis vel 
+      con<lb ed="#G" n="5" break="no"/>cedat, vel etiam neget, Patrem genuisse Filium 
+      <lb ed="#G" n="6"/>voluntate: quia vtrunque sic intelligi potest, vt 
+      <lb ed="#G" n="7"/>vel haereticum sit, vel orthodoxum. 
+      Quamob<lb ed="#G" n="8" break="no"/>rem ad totam huius orationis 
+      qupigoniartollen<lb ed="#G" n="9" break="no"/>dam, sic ait ipsa Synodus cap. 34. Si quis 
+      volun<lb ed="#G" n="10" break="no"/>tate Dei, tanquam vnum aliquid de creatura factum 
+      <lb ed="#G" n="11"/>dicat Filium, anathema sit. Ecce quo sensu 
+      nege<lb ed="#G" n="12" break="no"/>tur, &amp; pie quidem, Filium voluntate Patris esse 
+      <lb ed="#G" n="13"/>genitum. Sequitur postea in eadem Synodo 
+      <lb ed="#G" n="14"/>cap. 34. Si quis nolente Patre natum dicat Filium, 
+      <lb ed="#G" n="15"/>anathema sit. Non coactus Pater, &amp;c, sed αox, vt 
+      <lb ed="#G" n="16"/>voluit, sine tempore &amp; impassibiliter ex se 
+      unigeni<lb ed="#G" n="17" break="no"/>tum demonstrauit. Ecce quo sensu a Patre 
+      vo<lb ed="#G" n="18" break="no"/>lente genitum esse Filium concedant Synodus 
+      <lb ed="#G" n="19"/>&amp; Hilarius, qui idem hos ipsos canonas postea 
+      <lb ed="#G" n="20"/>exponit, quos marginalis annotatio huius 
+      capi<lb ed="#G" n="21" break="no"/>tis perperam confudit.
+    </p>
+            <p xml:id="cv8jk9-e10580-d1e375">
+               <lb ed="#G" n="22"/>Quia cum Patre semper. Sumptus est hic 
+      <lb ed="#G" n="23"/>locus ex commentaruis Hieronum. in 
+      Episto<lb ed="#G" n="24" break="no"/>lam Pauli ad Ephesi cap. I. V. S. qui etsi argutiola 
+      <lb ed="#G" n="25"/>Hieronimi continet, tamen pulcherrime cum 
+      <lb ed="#G" n="26"/>toto isto aroumento conuenit: sed quia mite 
+      <lb ed="#G" n="27"/>truncatus est, &amp; obscure ab isto redditus, duxi 
+      <lb ed="#G" n="28"/>operaepretium totum apponere, Differentiam,  
+      <lb ed="#G" n="29"/>ait Hieronumus, Graeci sermonis τεοοξισας &amp; oε
+      i<lb ed="#G" n="30" break="no"/>Nεντoς, Latinus sermo non explicat. Superior quippe 
+      <lb ed="#G" n="31"/>sermo ad eos refertur, qui antea non fuerut: &amp; 
+      prius<lb ed="#G" n="32" break="no"/>quam fierent, de ijs cogitatum est, &amp; postea 
+      substite<lb ed="#G" n="33" break="no"/>runt. Inferior uero de eo, auem nulla cogitatio, nul¬ 
+      <!--214.xml-->
+      <pb ed="#G" n="115"/>
+               <lb ed="#G" n="1"/>la voluntas praecessit, sed semper fuit, &amp; nunquam,  
+      <lb ed="#G" n="2"/>vt esset, accepit exordium. Vnde recte nunc de hus, 
+      <lb ed="#G" n="3"/>qui cum ante non essent. postea substiterunt, dicitur 
+      <lb ed="#G" n="4"/>πξοoάNεντες. De Filio vero, hoc est, de Domino 
+      <lb ed="#G" n="5"/>nostro Tesu Christo in alio loco scriptum est ἐειδενroς,  
+      <lb ed="#G" n="6"/>quia semper cum Patre fuit: &amp; nunquam eum, vt 
+      <lb ed="#G" n="7"/>esset, voluntas Paterna praecessit. Ex quo 
+      colli<lb ed="#G" n="8" break="no"/>gitur semper Patrem, semper Filium fuisse: &amp; in 
+      <lb ed="#G" n="9"/>quibus aeternitas coaequalis est eandem esse 
+      na<lb ed="#G" n="10" break="no"/>turam. Haec Hieronymus quae omittenda non 
+      <lb ed="#G" n="11"/>fuerunt.
+    </p>
+            <p xml:id="cv8jk9-e10580-d1e432">
+               <lb ed="#G" n="12"/>Censura ad Distinctionem 
+      <lb ed="#G" n="13"/>seutam.  
+    </p>
+            <p xml:id="cv8jk9-e10580-d1e439">
+               <lb ed="#G" n="14"/>Haec est conclusio totius huius 
+      disputatio<lb ed="#G" n="15" break="no"/>nis a Lombardo capite primo facta. Ex 
+      praedi<lb ed="#G" n="16" break="no"/>ctis docetur, non esse concedendum, quod Deus 
+      vo<lb ed="#G" n="17" break="no"/>luntate vel necessitate: vel volens vel nolens 
+      go<lb ed="#G" n="18" break="no"/>nuerit Filium. Quam ipse postea explicans 
+      ca<lb ed="#G" n="19" break="no"/>pite tertio, ait se intelligere de Voluntate 
+      praece<lb ed="#G" n="20" break="no"/>dente vel accedente vol efficiente. Dicamus 
+      er<lb ed="#G" n="21" break="no"/>go, ait, Quia Pater sicut sapiens, ita volens genuit 
+      <lb ed="#G" n="22"/>Filium: sed non voluntate praecedenti vel 
+      acceden<lb ed="#G" n="23" break="no"/>ti. Haec ille. Primum vero neque recte, neque 
+      <lb ed="#G" n="24"/>etiam ex Patrum orthodoxorum sententia 
+      i<lb ed="#G" n="25" break="no"/>sta dicuntur vel explicantur. Et quidem  
+      <lb ed="#G" n="26"/>non recte, quia &amp; Voluntate praecedente, &amp; 
+      ac<lb ed="#G" n="27" break="no"/>cedente: sed non noua, non in tempore: item 
+      ne<lb ed="#G" n="28" break="no"/>cessitato, sed non coactione tamen Pater 
+      Fi<lb ed="#G" n="29" break="no"/>lium genuit. Ac voluntate genuit, quoniam  
+      <lb ed="#G" n="30"/>Sardicae Synodi ( quam probat merito Hila 
+      <lb ed="#G" n="31"/>rius) haec verba sunt, vti supra docuimus,  
+      <lb ed="#G" n="32"/>quod eos anathematixat sancta &amp; Catholica 
+      Ec<lb ed="#G" n="33" break="no"/>clesia, qui negant quod Pater Filium voluntate  
+      <!--217.xml-->
+      <pb ed="#G" n="116"/>
+               <lb ed="#G" n="1"/>genuit. Itaque Basilius libro secundo contra 
+      <lb ed="#G" n="2"/>Eunomium, eum damnat, quod vellet Patrem  
+      <lb ed="#G" n="3"/>ἁωαναρι τυς &amp; δύωμναφεια, ἀτοι τοις ανάλκῆς ωεςiς vν¬ 
+      <lb ed="#G" n="4"/>ξεηνύμλυον, id est, Sine animi voluntate, vi 
+      consequu<lb ed="#G" n="5" break="no"/>tionis ac necessitatis cogentis genuisse Filium. 
+      Et<lb ed="#G" n="6" break="no"/>go recte conceditur Patrem genuisse Fllium 
+      vo<lb ed="#G" n="7" break="no"/>luntate. Necessitate etiam genuit Filium 
+      Pa<lb ed="#G" n="8" break="no"/>ter, quia omnino necesse est Patrem genuisse, 
+      <lb ed="#G" n="9"/>vel gignere Filium. Praeterea omnia quae sunt 
+      <lb ed="#G" n="10"/>in Deo, sunt actus &amp; necessitas, vt loquuntur 
+      <lb ed="#G" n="11"/>in scholis. Sed tamen non coactione, non vi, 
+      <lb ed="#G" n="12"/>non denique cogente necessitate genuit, id est, 
+      <lb ed="#G" n="13"/>quum nollet Pater, vt explicat idem Hilarius,  
+      <lb ed="#G" n="14"/>fed genuit tamen secundum voluntatem, &amp; 
+      se<lb ed="#G" n="15" break="no"/>cundum naturam. Quamobrem quod addit 
+      i<lb ed="#G" n="16" break="no"/>ste tanquam ex Patrum mente eam 
+      volunta<lb ed="#G" n="17" break="no"/>tem in geheratione Filij excludi &amp; temoueris 
+      <lb ed="#G" n="18"/>quae praecedens sit, vel accedens, ad generationem 
+      <lb ed="#G" n="19"/>Filij, omnino Patribus ipsis ignotum est, &amp; per 
+      <lb ed="#G" n="20"/>se falsum. Subsequentem enim, &amp; 
+      superuente<lb ed="#G" n="21" break="no"/>tem Patri voluntatem potius excludunt 
+      ortho<lb ed="#G" n="22" break="no"/>doxi Patres, quam praecedentem nostri 
+      intelle<lb ed="#G" n="23" break="no"/>ctus ratione, aut etiam generationi ipsi 
+      acce<lb ed="#G" n="24" break="no"/>dentem &amp; concurrentem quam Thomas 
+      ap<lb ed="#G" n="25" break="no"/>pellauit Concomitatem. Ista enim in Deo 
+      tem<lb ed="#G" n="26" break="no"/>pore sunt coaeterna velle &amp; generare. Ergo eo 
+      <lb ed="#G" n="27"/>duntaxat sensu Filium voluntate genitum esse 
+      <lb ed="#G" n="28"/>negarunt orthodoxi Patres, quo Eunomius 
+      di<lb ed="#G" n="29" break="no"/>xerat, nempe quod temooris discrimen 
+      pone<lb ed="#G" n="30" break="no"/>ret inter existentiam Personae Patris, &amp; 
+      Perso<lb ed="#G" n="31" break="no"/>nae Filij: &amp; quo sensu velle allquid dicimur, 
+      <lb ed="#G" n="32"/>quod antea non volebamus, vt docet 
+      Augusti<lb ed="#G" n="33" break="no"/>nus libro is. de Trinitate. capite 2o. Denique 
+      <!--218.xml-->
+      <pb ed="#G" n="117"/>
+      
+               <lb ed="#G" n="1"/>roluntatem Patres excludunt, qua quνήματα (vt 
+      <lb ed="#G" n="2"/>impius Eunomius loquebatur) id est, 
+      creatu<lb ed="#G" n="3" break="no"/>rae a Deo in tempore productae sunt. Non 
+      au<lb ed="#G" n="4" break="no"/>tem omnino, &amp; αοκῶς negant Patrem 
+      volen<lb ed="#G" n="5" break="no"/>tem generasse Filium κῶρον, aut Patris 
+      volunta<lb ed="#G" n="6" break="no"/>te Filium esse genitum. Quanquam enim ab 
+      ae<lb ed="#G" n="7" break="no"/>terno Deus ea quoque ipsa voluit, &amp; decreuit, 
+      <lb ed="#G" n="8"/>quae sex diebus postea, certoque tempore 
+      pro<lb ed="#G" n="9" break="no"/>duxit, &amp; creauit: tamen quia huiusmodi 
+      volun<lb ed="#G" n="10" break="no"/>tatis implementum, vt ait Basilius, non fuit ab 
+      <lb ed="#G" n="11"/>aeterno, dicitur haec voluntas esse (sed 
+      executio<lb ed="#G" n="12" break="no"/>nis ratione) posterior ipso Deo. Illa vero, qua 
+      <lb ed="#G" n="13"/>Filium genuit Pater, est aeterna, &amp; coaeua ipsius 
+      <lb ed="#G" n="14"/>Patris existentiae, naturae, ac diuinae essentiae, &amp;  
+      <lb ed="#G" n="15"/>quoad volitionem Patris, &amp; quoad executionem, 
+      <lb ed="#G" n="16"/>&amp; ipsam Filij emanationem. Nam ex ipsa 
+      pa<lb ed="#G" n="17" break="no"/>tris essentia Filius natus est: caetera non item. 
+      <lb ed="#G" n="18"/>Nec potuit ille esse Deus, quin Pater esset: 
+      po<lb ed="#G" n="19" break="no"/>tuit tamen esse Deus, &amp; non creator. Thomas 
+      <lb ed="#G" n="20"/>in prima parte Quaest. ataartic. 2. distinguit 
+      ali<lb ed="#G" n="21" break="no"/>ter hanc Dei voluntatem, nempe in eam, quae 
+      <lb ed="#G" n="22"/>est concomitantia tantum, &amp; eam quae est 
+      prin<lb ed="#G" n="23" break="no"/>cipium operationis. Sed hanc Thomae 
+      distin<lb ed="#G" n="24" break="no"/>ctionem explodit, ita omnia funt apud istos 
+      in<lb ed="#G" n="25" break="no"/>certa, Ocean. Durandus ait Filium a Patre 
+      ge<lb ed="#G" n="26" break="no"/>nitum per modum productionis &amp; 
+      naturae<lb ed="#G" n="27" break="no"/>non autem per modum merae voluntatis: quia 
+      <lb ed="#G" n="28"/>voluntas se habet, ait, aequaliter ad opposita. 
+      Me<lb ed="#G" n="29" break="no"/>lius omnino, &amp; ad has quaestiones tollendas 
+      a<lb ed="#G" n="30" break="no"/>ptius est, si dicamus, Pater volens genuit Filium, 
+      <lb ed="#G" n="31"/>non autem, Pater voluntate genuit Filium. Et in 
+      <lb ed="#G" n="32"/>Synodo Voluntate, pro volens ponitur. Hinc 
+      i<lb ed="#G" n="33" break="no"/>igitur apparet, quam longe &amp; a sensu, &amp; a ver¬ 
+      <!--219.xml-->
+      <pb ed="#G" n="118"/>
+      
+               <lb ed="#G" n="1"/>bis Patrum abfuerit iste, vtque illi ipsi, quos pro 
+      <lb ed="#G" n="2"/>se Lombardus citat, contra istius loci 
+      determi<lb ed="#G" n="3" break="no"/>nationem diserte faciant.
+    </p>
+            <p xml:id="cv8jk9-e10580-d1e647">
+               <lb ed="#G" n="4"/>Secundo, in huius Distinctionis, capite 
+      secun<lb ed="#G" n="5" break="no"/>do est duplex paralogismus. Prior est ab 
+      igno<lb ed="#G" n="6" break="no"/>ratione Elenchi, quum iste nimiru sic 
+      arguta<lb ed="#G" n="7" break="no"/>tur, Idem est Deo velle &amp; esse, quia simplicissima 
+      <lb ed="#G" n="8"/>est Dei essentia. Ergo si Deus natura genuit, &amp; 
+      <lb ed="#G" n="9"/>voluntate. Quod enim de essentia proprie 
+      di<lb ed="#G" n="10" break="no"/>citur, transfert ad actionem, &amp; voluntatem, id 
+      <lb ed="#G" n="11"/>est, ad rem definitione &amp; notione ab essentia. 
+      <lb ed="#G" n="12"/>diuersam. Alter paralogismus est ab ambiguo, 
+      <lb ed="#G" n="13"/>sic, Si voluntate Patris Filius est genitus, 
+      ergo<lb ed="#G" n="14" break="no"/>est voluntatis Filius. Quae enim est ista 
+      absurdi<lb ed="#G" n="15" break="no"/>tas: quum, Voluntas non causam, ipsam 
+      agen<lb ed="#G" n="16" break="no"/>tem, sed τζοαρεῶν in caussa agente designeta 
+      <lb ed="#G" n="17"/>Ergo non est vosuntatis Filius, sed volentis 
+      <lb ed="#G" n="18"/>Filius.
+    </p>
+            <p xml:id="cv8jk9-e10580-d1e683">
+               <lb ed="#G" n="19"/>Tertio loco falsa est illa, vt suo loco 
+      docebi<lb ed="#G" n="20" break="no"/>tur distinctio inter scientiam Dei, &amp; 
+      praedesti<lb ed="#G" n="21" break="no"/>nationem, vt Praedestinatio sit tantum de bonis: 
+      <lb ed="#G" n="22"/>Scientia de omnibus, Vide Cyrillum Dialogo 2. 
+      <lb ed="#G" n="23"/>de Trinitate. Colophonis vero loco addam  
+      <lb ed="#G" n="24"/>Eunomij verba, vt intelligatur ipsum (quem 
+      <lb ed="#G" n="25"/>summum dialecticum fuisse testantur, omnes,  
+      <lb ed="#G" n="26"/>in primisque post Basilium Augustinus) non 
+      <lb ed="#G" n="27"/>tam absurde collegisse, quam Lonbardus 
+      fa<lb ed="#G" n="28" break="no"/>cit, Filius est voluntate, ergo est voluntatis Filius. 
+      <lb ed="#G" n="29"/>Haec igitur fuerunt illius verba non 
+      incolora<lb ed="#G" n="30" break="no"/>ta, sed tamen fraudis &amp; blasphemiae plena, quae 
+      <lb ed="#G" n="31"/>ex libro secundo Basilij aduersus Eunomium a 
+      <lb ed="#G" n="32"/>me transcripta sunt: Exi δe i8σα τι δοδλυνηδεισα 
+      <lb ed="#G" n="33"/>τζο πζιν πυν πνGμνIα Qεςd κα HαIεSς. τυο δυσιαν τcuuod 
+      <lb ed="#G" n="34"/>μλυνηύς μλο ξκ, δυσαν τζο τις itas συφάνεως ctνας δe δo¬ 
+      <!--220.xml-->
+      <pb ed="#G" n="119"/>
+      
+               <lb ed="#G" n="1"/>τηδμσαν τόο πάντῶν τωμντ&amp; Hress. Est Filij 
+      essen<lb ed="#G" n="2" break="no"/>ria genita ante omnia consilio Dei &amp; Patris. 
+      Essen<lb ed="#G" n="3" break="no"/>tiam Filij, genitam quidem esse oportet, cum non 
+      es<lb ed="#G" n="4" break="no"/>setante suam ipsius constitutionem, sed esse 
+      geni<lb ed="#G" n="5" break="no"/>tam ante omnia consilio (sententia vPatris. Ergo 
+      <lb ed="#G" n="6"/>non vsus est voce Sεληματος vVel ξουλλνεως 
+      Euno<lb ed="#G" n="7" break="no"/>mius, sed πῶμῆς vocabulo (quod voluntatem  
+      <lb ed="#G" n="8"/>cum Hilario interpretatur Augustinus) quod 
+      <lb ed="#G" n="9"/>magis tectam fraudem habebat, &amp; de nouo 
+      su<lb ed="#G" n="10" break="no"/>peruenientis Patri voluntatis significationem 
+      <lb ed="#G" n="11"/>continebat. Vnde, nisi κῶuν Patris Filius 
+      na<lb ed="#G" n="12" break="no"/>tus esse concederetur, colligebat impius ille 
+      <lb ed="#G" n="13"/>Filium ατἐαρεrως esse ex Patre natum.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>
