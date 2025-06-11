@@ -87,15 +87,15 @@
             <p xml:id="cv8jk9-e31738-d1e170">
                <lb ed="#G" n="24"/>Cum, inquit, decedant. Quaedam in initio 
       <lb ed="#G" n="25"/>istius sententiae sunt immutata: sic enim habet 
-      <lb ed="#G" n="26"/>Augustinus, Ibi nouit omnia Deus, quae fecit per 
-      i<lb ed="#G" n="27" break="no"/>psam, &amp; ideo cum decedant, &amp;c. Illa vero priora 
+      <lb ed="#G" n="26"/><ref xml:id="cv8jk9-e31738-Ra24ghl" corresp="#cv8jk9-e31738-Qavn234">Augustinus</ref>, <quote xml:id="cv8jk9-e31738-Qavn234" source="http://scta.info/resource/adt-l6-d1e826@220-232">Ibi nouit omnia Deus, quae fecit per 
+      i<lb ed="#G" n="27" break="no"/>psam, &amp; ideo cum decedant</quote>, &amp;c. Illa vero priora 
       <lb ed="#G" n="28"/>omnia ad finem iste reiecit: sed leui dispendio. 
       <lb ed="#G" n="29"/>Hoc grauius est, quod quaedam substraxit. 
-      <lb ed="#G" n="30"/>Sic igitur Augustinus, Sed potius facta sunt vel 
-      <lb ed="#G" n="31"/>mutabilia, quia immutabiliter a Deo sciuntur. 
+      <lb ed="#G" n="30"/>Sic igitur <ref xml:id="cv8jk9-e31738-Rf1a2d2" corresp="#cv8jk9-e31738-Qgkj667">Augustinus</ref>, <quote xml:id="cv8jk9-e31738-Qgkj667" source="http://scta.info/resource/adt-l6-d1e826@256-268">Sed potius facta sunt vel 
+      <lb ed="#G" n="31"/>mutabilia, quia immutabiliter a Deo sciuntur</quote>. 
       <!--721.xml-->
       <pb ed="#G" n="620"/>
-               <lb ed="#G" n="1"/>Illud enim, Vel mutabilia non minimi est 
+      <lb ed="#G" n="1"/>Illud enim, <quote xml:id="cv8jk9-e31738-Qss4s55" source="http://scta.info/resource/adt-l6-d1e826@262-263">Vel mutabilia</quote> non minimi est 
       mo<lb ed="#G" n="2" break="no"/>menti ad hoc, quod iam tractatur, argumentum, 
       <lb ed="#G" n="3"/>Atque etiam difficilem quaestionem tollit, vtrum 
       <lb ed="#G" n="4"/>sit in rebus humanis contingentia. 
