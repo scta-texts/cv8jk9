@@ -1,0 +1,1583 @@
+{
+  "cv8jk9-e3vadd": {
+    "cv8jk9-e3vadd-d1e109": [
+      {
+        "candidate_id": "IIcor1_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e871dd": {
+    "cv8jk9-e871dd-d1e2322": [
+      {
+        "candidate_id": "IIcor3_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "Imac13_39",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "Isam5_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "act23_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "act26_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "act2_29",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "mt27_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "mt28_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "rom11_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "sir47_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ],
+    "cv8jk9-e871dd-d1e2605": [
+      {
+        "candidate_id": "IIchr18_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is IItim3_17, Itim1_5"
+      },
+      {
+        "candidate_id": "IItim2_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is IItim3_17, Itim1_5"
+      },
+      {
+        "candidate_id": "gen23_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is IItim3_17, Itim1_5"
+      },
+      {
+        "candidate_id": "qoh9_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is IItim3_17, Itim1_5"
+      },
+      {
+        "candidate_id": "tit1_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is IItim3_17, Itim1_5"
+      },
+      {
+        "candidate_id": "tit3_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is IItim3_17, Itim1_5"
+      },
+      {
+        "candidate_id": "Itim1_5",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "paraphrase"
+      },
+      {
+        "candidate_id": "IItim3_17",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ]
+  },
+  "cv8jk9-e5843f": {
+    "cv8jk9-e5843f-d1e262": [
+      {
+        "candidate_id": "ap10_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is rom1_20"
+      },
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "paraphrase via Augustine"
+      }
+    ]
+  },
+  "cv8jk9-e6878z": {
+    "cv8jk9-e6878z-d1e199": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "trinitarian formula 'Patris et Filii et Spiritus sancti' only, no quotation"
+      },
+      {
+        "candidate_id": "gen1_26",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e6878z-d1e431": [
+      {
+        "candidate_id": "ap1_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is gen1_26"
+      },
+      {
+        "candidate_id": "gen1_26",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e6878z-d1e561": [
+      {
+        "candidate_id": "io10_30",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "paraphrase via Ambrose"
+      }
+    ],
+    "cv8jk9-e6878z-d1e648": [
+      {
+        "candidate_id": "Icor8_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is rom11_36"
+      },
+      {
+        "candidate_id": "Ipetr4_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is rom11_36"
+      },
+      {
+        "candidate_id": "Ipetr5_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is rom11_36"
+      },
+      {
+        "candidate_id": "ap1_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is rom11_36"
+      },
+      {
+        "candidate_id": "ap7_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is rom11_36"
+      },
+      {
+        "candidate_id": "rom16_27",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is rom11_36"
+      },
+      {
+        "candidate_id": "IItim4_18",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is rom11_36"
+      },
+      {
+        "candidate_id": "Itim1_17",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is rom11_36"
+      },
+      {
+        "candidate_id": "col1_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is rom11_36"
+      },
+      {
+        "candidate_id": "gal1_5",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is rom11_36"
+      },
+      {
+        "candidate_id": "hebr13_21",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is rom11_36"
+      },
+      {
+        "candidate_id": "phil4_20",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is rom11_36"
+      },
+      {
+        "candidate_id": "rom11_36",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ]
+  },
+  "cv8jk9-e7614t": {
+    "cv8jk9-e7614t-d1e122": [
+      {
+        "candidate_id": "act17_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "ap10_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e8799f": {
+    "cv8jk9-e8799f-d1e186": [
+      {
+        "candidate_id": "ap19_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "same phrase in 1 Tim 6:15, the fuller match; encoded as Itim6_15"
+      },
+      {
+        "candidate_id": "Itim6_15",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ]
+  },
+  "cv8jk9-e9208d": {
+    "cv8jk9-e9208d-d1e517": [
+      {
+        "candidate_id": "Ith1_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ],
+    "cv8jk9-e9208d-d1e750": [
+      {
+        "candidate_id": "io11_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "is1_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "sir40_27",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ],
+    "cv8jk9-e9208d-d1e1008": [
+      {
+        "candidate_id": "Iio3_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lemma 'Ex Deo natus est' from Lombard's text, not a verse quotation"
+      },
+      {
+        "candidate_id": "Iio4_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lemma 'Ex Deo natus est' from Lombard's text, not a verse quotation"
+      },
+      {
+        "candidate_id": "Iio5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lemma 'Ex Deo natus est' from Lombard's text, not a verse quotation"
+      }
+    ],
+    "cv8jk9-e9208d-d1e1124": [
+      {
+        "candidate_id": "io1_1",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "via Hilary"
+      }
+    ]
+  },
+  "cv8jk9-e10580": {
+    "cv8jk9-e10580-d1e439": [
+      {
+        "candidate_id": "IIreg20_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "IIreg20_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "Isam9_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e11719": {
+    "cv8jk9-e11719-d1e168": [
+      {
+        "candidate_id": "sap11_25",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is rom11_36"
+      },
+      {
+        "candidate_id": "col1_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is rom11_36"
+      },
+      {
+        "candidate_id": "rom11_36",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "via Bernard"
+      }
+    ],
+    "cv8jk9-e11719-d1e322": [
+      {
+        "candidate_id": "ex3_14",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e11719-d1e389": [
+      {
+        "candidate_id": "ex3_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is ex3_14"
+      },
+      {
+        "candidate_id": "ex3_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is ex3_14"
+      },
+      {
+        "candidate_id": "ier42_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is ex3_14"
+      },
+      {
+        "candidate_id": "zac4_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is ex3_14"
+      },
+      {
+        "candidate_id": "zac6_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is ex3_14"
+      },
+      {
+        "candidate_id": "ex3_14",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e11719-d1e526": [
+      {
+        "candidate_id": "io16_13",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e11719-d1e615": [
+      {
+        "candidate_id": "io1_1",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps43_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is io1_1, io20_28"
+      },
+      {
+        "candidate_id": "ps5_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is io1_1, io20_28"
+      },
+      {
+        "candidate_id": "ps83_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is io1_1, io20_28"
+      },
+      {
+        "candidate_id": "io20_28",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e11719-d1e830": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "trinitarian formula 'Patris et Filii et Spiritus sancti' only, no quotation"
+      }
+    ],
+    "cv8jk9-e11719-d1e852": [
+      {
+        "candidate_id": "ex3_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is ex3_14"
+      },
+      {
+        "candidate_id": "ex3_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is ex3_14"
+      },
+      {
+        "candidate_id": "ier42_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is ex3_14"
+      },
+      {
+        "candidate_id": "zac4_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is ex3_14"
+      },
+      {
+        "candidate_id": "zac6_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is ex3_14"
+      },
+      {
+        "candidate_id": "ex3_14",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e11719-d1e1229": [
+      {
+        "candidate_id": "lc16_26",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "sir24_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "sir37_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e13330": {
+    "cv8jk9-e13330-d1e116": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "trinitarian formula 'Patris et Filii et Spiritus sancti' only, no quotation"
+      }
+    ],
+    "cv8jk9-e13330-d1e174": [
+      {
+        "candidate_id": "Icor9_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "act1_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ],
+    "cv8jk9-e13330-d1e231": [
+      {
+        "candidate_id": "ps14_1",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is53_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e13330-d1e406": [
+      {
+        "candidate_id": "act13_33",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "same words; Chrysostom is discussing Ps 2:7 (encoded ps2_7)"
+      },
+      {
+        "candidate_id": "hebr5_5",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "same words; Chrysostom is discussing Ps 2:7 (encoded ps2_7)"
+      },
+      {
+        "candidate_id": "ps2_7",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "Chrysostom discussing 'Dauidis dictum'"
+      },
+      {
+        "candidate_id": "hebr1_5",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "via Chrysostom"
+      }
+    ],
+    "cv8jk9-e13330-d1e474": [
+      {
+        "candidate_id": "bar6_50",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ],
+    "cv8jk9-e13330-d1e562": [
+      {
+        "candidate_id": "Iio2_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ],
+    "cv8jk9-e13330-d1e826": [
+      {
+        "candidate_id": "Iio5_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ],
+    "cv8jk9-e13330-d1e1136": [
+      {
+        "candidate_id": "is53_8",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ]
+  },
+  "cv8jk9-e14479": {
+    "cv8jk9-e14479-d1e192": [
+      {
+        "candidate_id": "Icor12_13",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "paraphrase"
+      },
+      {
+        "candidate_id": "eph4_3",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e14479-d1e662": [
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ]
+  },
+  "cv8jk9-e15096": {
+    "cv8jk9-e15096-d1e162": [
+      {
+        "candidate_id": "io5_19",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io16_13",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase via Didymus"
+      },
+      {
+        "candidate_id": "io5_30",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ]
+  },
+  "cv8jk9-e15553": {
+    "cv8jk9-e15553-d1e195": [
+      {
+        "candidate_id": "io4_34",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is io7_16"
+      },
+      {
+        "candidate_id": "io5_30",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is io7_16"
+      },
+      {
+        "candidate_id": "io6_38",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is io7_16"
+      },
+      {
+        "candidate_id": "io9_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is io7_16"
+      },
+      {
+        "candidate_id": "io6_39",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is io7_16"
+      },
+      {
+        "candidate_id": "io14_24",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is io7_16"
+      },
+      {
+        "candidate_id": "io7_16",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e15553-d1e430": [
+      {
+        "candidate_id": "io17_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e15999": {
+    "cv8jk9-e15999-d1e178": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "trinitarian formula 'Patris et Filii et Spiritus sancti' only, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e16306": {
+    "cv8jk9-e16306-d1e358": [
+      {
+        "candidate_id": "io7_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is io5_31"
+      },
+      {
+        "candidate_id": "io8_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is io5_31"
+      },
+      {
+        "candidate_id": "io5_31",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io8_14",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is io5_31"
+      }
+    ],
+    "cv8jk9-e16306-d1e416": [
+      {
+        "candidate_id": "gal3_5",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "Danaeus's own Latin rendering of the Greek"
+      }
+    ],
+    "cv8jk9-e16306-d1e586": [
+      {
+        "candidate_id": "Iio3_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "est9_31",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e16908": {
+    "cv8jk9-e16908-d1e120": [
+      {
+        "candidate_id": "mt1_18",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc1_35",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e16908-d1e616": [
+      {
+        "candidate_id": "sap7_27",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ]
+  },
+  "cv8jk9-e17913": {
+    "cv8jk9-e17913-d1e116": [
+      {
+        "candidate_id": "IIpetr1_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is Iio4_7"
+      },
+      {
+        "candidate_id": "IIth2_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is Iio4_7"
+      },
+      {
+        "candidate_id": "Iio3_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is Iio4_7"
+      },
+      {
+        "candidate_id": "Iio4_7",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "paraphrase"
+      },
+      {
+        "candidate_id": "Iio5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is Iio4_7"
+      }
+    ],
+    "cv8jk9-e17913-d1e227": [
+      {
+        "candidate_id": "IIcor1_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is rom5_5"
+      },
+      {
+        "candidate_id": "IItim1_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is rom5_5"
+      },
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "MS cites Rom. 8"
+      }
+    ],
+    "cv8jk9-e17913-d1e361": [
+      {
+        "candidate_id": "IIcor1_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ],
+    "cv8jk9-e17913-d1e624": [
+      {
+        "candidate_id": "IIcor1_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ],
+    "cv8jk9-e17913-d1e796": [
+      {
+        "candidate_id": "col2_9",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io3_34",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e17913-d1e894": [
+      {
+        "candidate_id": "rom8_35",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "MS paraphrases Rom 8:38-39 ('neque virtus nos separabit a charitate Dei'), not 8:35"
+      }
+    ],
+    "cv8jk9-e17913-d1e949": [
+      {
+        "candidate_id": "Isam12_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is mc12_30"
+      },
+      {
+        "candidate_id": "mc12_30",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "paraphrase via Augustine; could equally be Mt 22:37"
+      },
+      {
+        "candidate_id": "mc12_33",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "encoded as mc12_30"
+      }
+    ],
+    "cv8jk9-e17913-d1e1107": [
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ],
+    "cv8jk9-e17913-d1e1223": [
+      {
+        "candidate_id": "IIcor1_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ],
+    "cv8jk9-e17913-d1e1332": [
+      {
+        "candidate_id": "IIcor1_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e19760": {
+    "cv8jk9-e19760-d1e182": [
+      {
+        "candidate_id": "io10_30",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "trinitarian formula 'Patris et Filii et Spiritus sancti' only, no quotation"
+      },
+      {
+        "candidate_id": "phil2_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e19760-d1e305": [
+      {
+        "candidate_id": "io10_30",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e19760-d1e715": [
+      {
+        "candidate_id": "ios9_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ],
+    "cv8jk9-e19760-d1e997": [
+      {
+        "candidate_id": "eph4_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e20886": {
+    "cv8jk9-e20886-d1e272": [
+      {
+        "candidate_id": "io1_18",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "allusion"
+      }
+    ]
+  },
+  "cv8jk9-e21373": {
+    "cv8jk9-e21373-d1e217": [
+      {
+        "candidate_id": "io17_3",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "reordered via Augustine"
+      }
+    ],
+    "cv8jk9-e21373-d1e318": [
+      {
+        "candidate_id": "io17_3",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Itim6_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor8_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e21373-d1e481": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "trinitarian formula 'Patris et Filii et Spiritus sancti' only, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e23132": {
+    "cv8jk9-e23132-d1e330": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "trinitarian formula 'Patris et Filii et Spiritus sancti' only, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e23827": {
+    "cv8jk9-e23827-d1e315": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "trinitarian formula 'Patris et Filii et Spiritus sancti' only, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e24629": {
+    "cv8jk9-e24629-d1e459": [
+      {
+        "candidate_id": "Ireg15_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is io20_17, mt5_45"
+      },
+      {
+        "candidate_id": "Isam19_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is io20_17, mt5_45"
+      },
+      {
+        "candidate_id": "gen45_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is io20_17, mt5_45"
+      },
+      {
+        "candidate_id": "lc15_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is io20_17, mt5_45"
+      },
+      {
+        "candidate_id": "mt10_32",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is io20_17, mt5_45"
+      },
+      {
+        "candidate_id": "mt10_33",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is io20_17, mt5_45"
+      },
+      {
+        "candidate_id": "mt5_45",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io20_17",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ]
+  },
+  "cv8jk9-e25370": {
+    "cv8jk9-e25370-d1e158": [
+      {
+        "candidate_id": "io1_1",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e25370-d1e672": [
+      {
+        "candidate_id": "io6_46",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "cv8jk9-e26092": {
+    "cv8jk9-e26092-d1e838": [
+      {
+        "candidate_id": "lc21_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e26837": {
+    "cv8jk9-e26837-d1e195": [
+      {
+        "candidate_id": "ier3_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "qoh11_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ],
+    "cv8jk9-e26837-d1e384": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "trinitarian formula 'Patris et Filii et Spiritus sancti' only, no quotation"
+      },
+      {
+        "candidate_id": "sir48_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e27618": {
+    "cv8jk9-e27618-d1e116": [
+      {
+        "candidate_id": "ap1_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ],
+    "cv8jk9-e27618-d1e392": [
+      {
+        "candidate_id": "ier48_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e28326": {
+    "cv8jk9-e28326-d1e167": [
+      {
+        "candidate_id": "eph4_3",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ]
+  },
+  "cv8jk9-e28691": {
+    "cv8jk9-e28691-d1e533": [
+      {
+        "candidate_id": "act7_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e29867": {
+    "cv8jk9-e29867-d1e122": [
+      {
+        "candidate_id": "sap9_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "col1_20",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e30281": {
+    "cv8jk9-e30281-d1e132": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "trinitarian formula 'Patris et Filii et Spiritus sancti' only, no quotation"
+      },
+      {
+        "candidate_id": "col1_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "rom11_36",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "Ambrose's exposition of the terms ex ipso/per ipsum/in ipso; discussion of words, not a quotation"
+      }
+    ],
+    "cv8jk9-e30281-d1e201": [
+      {
+        "candidate_id": "IIreg23_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is ps144_15"
+      },
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "trinitarian formula 'Patris et Filii et Spiritus sancti' only, no quotation"
+      },
+      {
+        "candidate_id": "rom11_36",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "Ambrose's exposition of the terms ex ipso/per ipsum/in ipso; discussion of words, not a quotation"
+      },
+      {
+        "candidate_id": "ps144_15",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e30281-d1e363": [
+      {
+        "candidate_id": "prov23_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e30807": {
+    "cv8jk9-e30807-d1e322": [
+      {
+        "candidate_id": "lc4_1",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e30807-d1e365": [
+      {
+        "candidate_id": "io17_24",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e30807-d1e640": [
+      {
+        "candidate_id": "sap8_1",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ]
+  },
+  "cv8jk9-e31738": {
+    "cv8jk9-e31738-d1e236": [
+      {
+        "candidate_id": "rom10_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS quotes Io 12:38; encoded as io12_38"
+      },
+      {
+        "candidate_id": "is53_1",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "MS quotes Io 12:38 (which cites Is 53:1); encoded as io12_38"
+      },
+      {
+        "candidate_id": "io12_38",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e31738-d1e325": [
+      {
+        "candidate_id": "gen23_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e32205": {
+    "cv8jk9-e32205-d1e339": [
+      {
+        "candidate_id": "hab1_13",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "cited as lemma of Jerome's commentary"
+      }
+    ],
+    "cv8jk9-e32205-d1e476": [
+      {
+        "candidate_id": "deut25_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is mt10_29"
+      },
+      {
+        "candidate_id": "iudic8_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is mt10_29"
+      },
+      {
+        "candidate_id": "mt10_29",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps105_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is mt10_29"
+      }
+    ]
+  },
+  "cv8jk9-e32802": {
+    "cv8jk9-e32802-d1e156": [
+      {
+        "candidate_id": "lc3_8",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "identical wording; encoded as mt3_9"
+      },
+      {
+        "candidate_id": "mt3_9",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "identical wording in Lc 3:8"
+      }
+    ],
+    "cv8jk9-e32802-d1e616": [
+      {
+        "candidate_id": "rom14_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is rom9_20"
+      },
+      {
+        "candidate_id": "rom9_20",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e32802-d1e871": [
+      {
+        "candidate_id": "tob2_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e33808": {
+    "cv8jk9-e33808-d1e118": [
+      {
+        "candidate_id": "rom9_12",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom9_11",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "cv8jk9-e34338": {
+    "cv8jk9-e34338-d1e160": [
+      {
+        "candidate_id": "iac5_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "Augustine's 'est est, non non' is an allusion only"
+      },
+      {
+        "candidate_id": "mt5_37",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "Augustine's 'est est, non non' is an allusion only"
+      },
+      {
+        "candidate_id": "IIcor1_19",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "Augustine's 'est et non ... est est, non non' is an allusion only"
+      }
+    ]
+  },
+  "cv8jk9-e34875": {
+    "cv8jk9-e34875-d1e118": [
+      {
+        "candidate_id": "gal4_15",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ]
+  },
+  "cv8jk9-e35264": {
+    "cv8jk9-e35264-d1e147": [
+      {
+        "candidate_id": "act17_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      },
+      {
+        "candidate_id": "ap10_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e35543": {
+    "cv8jk9-e35543-d1e421": [
+      {
+        "candidate_id": "rom12_2",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "lemma"
+      }
+    ],
+    "cv8jk9-e35543-d1e471": [
+      {
+        "candidate_id": "ps110_2",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e35543-d1e541": [
+      {
+        "candidate_id": "mt6_10",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ]
+  },
+  "cv8jk9-e36367": {
+    "cv8jk9-e36367-d1e258": [
+      {
+        "candidate_id": "col1_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is col1_16, io1_3"
+      },
+      {
+        "candidate_id": "deut5_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is col1_16, io1_3"
+      },
+      {
+        "candidate_id": "eph1_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is col1_16, io1_3"
+      },
+      {
+        "candidate_id": "ex20_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is col1_16, io1_3"
+      },
+      {
+        "candidate_id": "col1_16",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_10",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "Augustine's 'per ipsum factus est' (angel/worm), not a quotation of Io 1:10"
+      },
+      {
+        "candidate_id": "sap9_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared phrase only; the quotation in this paragraph is col1_16, io1_3"
+      },
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "Danaeus's rendering of the Greek"
+      }
+    ],
+    "cv8jk9-e36367-d1e720": [
+      {
+        "candidate_id": "IIchr18_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e37091": {
+    "cv8jk9-e37091-d1e155": [
+      {
+        "candidate_id": "ps110_2",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e37091-d1e312": [
+      {
+        "candidate_id": "Isam17_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental vocabulary overlap, no quotation"
+      }
+    ]
+  },
+  "cv8jk9-e37318": {
+    "cv8jk9-e37318-d1e118": [
+      {
+        "candidate_id": "act4_28",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "paraphrase"
+      },
+      {
+        "candidate_id": "ps138_2",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "cv8jk9-e37318-d1e258": [
+      {
+        "candidate_id": "act4_28",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act4_27",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  }
+}
