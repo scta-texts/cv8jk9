@@ -1,0 +1,78 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-04T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "beca58dced3fdddbf5ee09ea4d8a6adc05f1038d",
+    "generation_method": "hierarchical",
+    "scope": "Ancestor levels above the item for the Book I Prologue and Book I Distinction 37, comprising partial Book I and whole-work entries built from them. The EDF encodes no Book II, so Book II Distinction 44 is not represented."
+  },
+
+  "cv8jk9-fu2vva": {
+    "summary": "This summary of Daneau's commentary on Book I rests on only two of its fifty items, the Prologue and Distinction 37, and does not describe the other distinctions. In those two items Daneau's commentary is a Reformed critique of Lombard more than an exposition of him. On the Prologue he gives a short scholium outlining Lombard's purpose (defence against heresy, explanation of hard questions, exposition of the sacraments), his promise to draw doctrine from Scripture and the approved Fathers, and his division of the work into four books. One barbed aside, that Daneau wishes Lombard had kept that promise, sets the standard by which he judges him. Distinction 37, on how God is in things, applies that standard in detail. A chapter-by-chapter audit shows Lombard misattributing, truncating and rewording texts of Gregory, Augustine, Hilary and Ambrose, and faults later scholastics for trusting him without checking the sources. A closing Censura then judges the distinction a confused digression that omits the edifying use of the doctrine, proves by allegory, and teaches falsehoods about divine mutability and God's presence in devils, with Daneau often siding with Thomas, Durandus or Ockham against Lombard. On this evidence Book I combines humanist source criticism with doctrinal censure. Whether the same pattern holds across the unexamined distinctions cannot be judged from these inputs.",
+    "claims": [
+      "Daneau measures Lombard against Lombard's own stated aim of grounding doctrine in Scripture and the approved Fathers, and finds him wanting.",
+      "In Distinction 37 Lombard's patristic citations are frequently misattributed, truncated or altered, and later scholastics repeat them uncritically.",
+      "Theology should proceed by firm proofs rather than allegory and should be ordered to edification.",
+      "God is present in all things by essence, presence and power, but is not to be said to be in the devils or the impious, and his essence is neither mutable by affection nor confused with creatures."
+    ],
+    "concepts": [
+      "Reformed censure of the Sentences",
+      "fidelity to patristic sources",
+      "textual criticism",
+      "purpose of the Sentences",
+      "divine omnipresence",
+      "essence, presence and power",
+      "divine immutability",
+      "edification as the end of theology",
+      "critique of allegorical proof"
+    ],
+    "_metadata": {
+      "level": "liber",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "cv8jk9-e5769a",
+        "cv8jk9-e30807"
+      ],
+      "partial": true,
+      "coverage": "2 of 50 direct children have interpretations",
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-v1",
+      "generated_at": "2026-10-04T00:00:00Z",
+      "source_commit": "beca58dced3fdddbf5ee09ea4d8a6adc05f1038d",
+      "source_structure": "scta-projectfiles/cv8jk9.xml"
+    }
+  },
+
+  "cv8jk9": {
+    "summary": "This summary of Lambertus Daneau's Commentarius in Libros Sententiarum (Geneva 1580) rests only on its Book I entry, which itself covers just the Prologue and Distinction 37. The Epistola and Prolegomena have no interpretations, and the rest of Book I is uncovered. Within that narrow base the commentary appears as a Reformed critical reading of Lombard rather than a scholastic commentary in the usual sense. Daneau takes Lombard's own promise to teach from Scripture and the approved Fathers as the standard of judgement. He checks Lombard's patristic citations against the originals and exposes misattributions, truncations and rewordings, and he faults scholastic successors for relying on Lombard instead of the sources. In formal censures he also judges Lombard's method, his proofs and his doctrine: digression and confusion, neglect of edifying use, allegorical proof, and errors about divine immutability and God's presence in the wicked. He readily cites Thomas, Durandus or Ockham where they correct their master. How far this pattern characterises the rest of the work cannot be established from the present inputs.",
+    "claims": [
+      "Daneau's commentary judges Lombard by Lombard's own standard of fidelity to Scripture and the Fathers.",
+      "The commentary combines humanist source criticism of patristic citations with doctrinal and methodological censure.",
+      "Daneau uses later scholastics selectively, citing them where they correct Lombard and blaming them where they repeat his errors uncritically."
+    ],
+    "concepts": [
+      "Reformed reception of the Sentences",
+      "humanist textual criticism",
+      "authority of the Fathers",
+      "theological censure",
+      "edification",
+      "divine omnipresence"
+    ],
+    "_metadata": {
+      "level": "work",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "cv8jk9-fu2vva"
+      ],
+      "partial": true,
+      "coverage": "1 of 3 direct children have interpretations",
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-v1",
+      "generated_at": "2026-10-04T00:00:00Z",
+      "source_commit": "beca58dced3fdddbf5ee09ea4d8a6adc05f1038d",
+      "source_structure": "scta-projectfiles/cv8jk9.xml"
+    }
+  }
+}

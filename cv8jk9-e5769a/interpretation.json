@@ -1,0 +1,53 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-04T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "beca58dced3fdddbf5ee09ea4d8a6adc05f1038d",
+    "generation_method": "hierarchical"
+  },
+
+  "cv8jk9-e5769a": {
+    "summary": "Daneau's treatment of Lombard's Prologue to Book I is a single scholium: a brief, lemma-by-lemma outline of what the Prologue says, with one critical aside. In Daneau's outline, Lombard apologises for undertaking so great a work, relying on divine help and his brethren's requests. He gives the work a threefold purpose: to shield students against heretics, to explain difficult theological questions, and to unfold the nature of the sacraments. He answers detractors who prefer their own opinion to the truth. He promises doctrine drawn from God's word and the approved Fathers. He divides the work into four books. He says he rarely speaks in his own person, and he submits himself to correction. Daneau's only intervention, the remark that he wishes Lombard had kept his promise of scriptural and patristic fidelity, anticipates the textual censure of Lombard's use of authorities that drives the commentary in later distinctions.",
+    "claims": [
+      "Lombard presents the Sentences as a defence against heresy, an explanation of hard theological questions, and an exposition of the sacraments.",
+      "Lombard promises doctrine grounded in Scripture and the approved Fathers, a promise Daneau judges he did not fulfil."
+    ],
+    "concepts": [
+      "scholium",
+      "purpose of the Sentences",
+      "authority of Scripture and the Fathers",
+      "division of the work",
+      "fidelity to sources"
+    ],
+    "_metadata": {
+      "level": "prologus",
+      "generation_method": "descendant_summaries",
+      "input_ids": ["cv8jk9-e5769a-d1e109"]
+    }
+  },
+
+  "cv8jk9-e5769a-d1e109": {
+    "summary": "A scholium on Lombard's Prologue to Book I that summarises its successive sections under their opening words. Lombard excuses himself for attempting so arduous and vast a work, and says he is driven by hope of divine help and by his brethren's requests, which charity obliges him to satisfy. The work has a threefold use and end: to arm students against heretics, to explain difficult theological questions, and to unfold the nature of the sacraments. Lombard answers the calumnies of those who would rather follow their own opinion than the truth and so will not accept the doctrine of these books. He promises doctrine gathered from the eternal Word of God and the received, approved writings of the Fathers, and Daneau adds pointedly that he wishes Lombard had done so. Lombard divides the work into four books, says he seldom speaks in his own person because he does not wish to depart from the Fathers, and declares that he will patiently bear correction. Apart from the one barbed aside, the paragraph is descriptive. It sets up the standard of fidelity to Scripture and the Fathers by which Daneau judges Lombard throughout the commentary.",
+    "claims": [
+      "Lombard's stated purpose for the Sentences is threefold: defence against heresy, explanation of difficult questions, and exposition of the sacraments.",
+      "Lombard claims to draw his doctrine from Scripture and the approved Fathers, a claim Daneau doubts he made good.",
+      "Lombard divides his work into four books and presents himself mainly as a compiler of patristic opinion, open to correction."
+    ],
+    "concepts": [
+      "scholium",
+      "prologue",
+      "defence against heresy",
+      "authority of Scripture and the Fathers",
+      "division into four books",
+      "compiler's modesty",
+      "fidelity to sources"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e5769a-Hd1e106"]
+    }
+  }
+}

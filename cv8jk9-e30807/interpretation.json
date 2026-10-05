@@ -1,0 +1,544 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-04T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "beca58dced3fdddbf5ee09ea4d8a6adc05f1038d",
+    "generation_method": "hierarchical"
+  },
+
+  "cv8jk9-e30807": {
+    "summary": "Daneau's commentary on Distinction 37 of Book I, on how God is in things, has two parts. The first is a chapter-by-chapter philological audit of Lombard's patristic citations, written to show that Lombard misquotes, truncates and rewrites his authorities. A Gregory text cannot be found in Gregory at all, and Thomas and Durandus are blamed for repeating it on Lombard's word. Parentheses and key reasons are dropped from Augustine, Hilary and Ambrose, so that their arguments lose force or change meaning, notably where Ambrose explains how spirits are in place 'by the property of their substance' and where Augustine denies that God fills place by a stone-like immobility. Single words are altered ('quia' to 'quae', 'adesse potest' to 'adest', 'in caelis' glossed as 'in sanctis'), and some changes are judged harmless or even corrective. Daneau repeatedly sets out the genuine texts so that readers can judge. The second part, the Censura, names five faults of the distinction. It is a long digression, with a further digression inside it. It confuses two questions Durandus rightly separates: how God is in creatures, and how he differs from them in this. It omits the edifying use of the doctrine, which Thomas had to supply against Manichaeans, Aristotelians and Platonists. It proves by allegory. And it asserts falsehoods: that the divine essence is moved by affection and cognition, that change by affection is change in time, and, by implication, that God is in the devils. On the last point Daneau sides with Thomas against Lombard and closes with Ockham's warning that 'God is everywhere by essence' needs careful explanation, lest it suggest confusion or hypostatic union with creatures.",
+    "claims": [
+      "Lombard's citations of the Fathers in this distinction are frequently misattributed, truncated or altered, often to the detriment of the original argument.",
+      "Later scholastics such as Thomas and Durandus are culpable for repeating Lombard's citations without consulting the original sources.",
+      "Distinction 37 is a lengthy digression from Lombard's proper subject and treats confusedly two questions that should be kept distinct: how God is in creatures, and how God differs from creatures in this respect.",
+      "Theological disputation should be ordered to edification, and Lombard fails to state the use of this doctrine.",
+      "Allegorical readings of Scripture cannot serve as firm proofs in doctrinal treatment.",
+      "The divine essence is not moved by affection or cognition, and change by affection is distinct from change in time.",
+      "God should not be said to be 'in' the devils or the impious, although he sustains their nature.",
+      "The formula that God is everywhere by essence must be explained so as to exclude both confusion with creatures and hypostatic union with them."
+    ],
+    "concepts": [
+      "divine omnipresence",
+      "God in things by essence, presence and power",
+      "spiritual beings in place",
+      "indwelling of God in the saints",
+      "textual criticism of patristic authorities",
+      "misattribution",
+      "digression and method",
+      "edification as the end of theology",
+      "allegorical argument",
+      "divine immutability",
+      "change by affection vs. change in time",
+      "God's presence in the wicked and in demons",
+      "Reformed censure of scholastic theology"
+    ],
+    "_metadata": {
+      "level": "distinctio",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "cv8jk9-e30807-d1e109",
+        "cv8jk9-e30807-d1e118",
+        "cv8jk9-e30807-d1e163",
+        "cv8jk9-e30807-d1e207",
+        "cv8jk9-e30807-d1e241",
+        "cv8jk9-e30807-d1e306",
+        "cv8jk9-e30807-d1e322",
+        "cv8jk9-e30807-d1e342",
+        "cv8jk9-e30807-d1e347",
+        "cv8jk9-e30807-d1e365",
+        "cv8jk9-e30807-d1e431",
+        "cv8jk9-e30807-d1e436",
+        "cv8jk9-e30807-d1e462",
+        "cv8jk9-e30807-d1e467",
+        "cv8jk9-e30807-d1e506",
+        "cv8jk9-e30807-d1e511",
+        "cv8jk9-e30807-d1e530",
+        "cv8jk9-e30807-d1e535",
+        "cv8jk9-e30807-d1e546",
+        "cv8jk9-e30807-d1e551",
+        "cv8jk9-e30807-d1e580",
+        "cv8jk9-e30807-d1e585",
+        "cv8jk9-e30807-d1e602",
+        "cv8jk9-e30807-d1e607",
+        "cv8jk9-e30807-d1e640",
+        "cv8jk9-e30807-d1e736",
+        "cv8jk9-e30807-d1e756",
+        "cv8jk9-e30807-d1e765",
+        "cv8jk9-e30807-d1e789",
+        "cv8jk9-e30807-d1e822",
+        "cv8jk9-e30807-d1e861",
+        "cv8jk9-e30807-d1e929",
+        "cv8jk9-e30807-d1e953",
+        "cv8jk9-e30807-d1e1031"
+      ]
+    }
+  },
+
+  "cv8jk9-e30807-d1e109": {
+    "summary": "A rubric opening Daneau's annotations on Distinction 37 and announcing that the first comments concern Lombard's first chapter.",
+    "claims": [],
+    "concepts": ["rubric", "commentary structure"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-Hd1e106"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e118": {
+    "summary": "Daneau attacks the authority Lombard attributes to 'blessed Gregory' at the start of the distinction. The marginal note is right that the passage occurs nowhere in Gregory, so it is a slip of memory. Daneau sets it beside other misattributions in the Sentences, such as a text given as Ambrose's and one 'from an uncertain author' that in fact belongs to Cassiodorus. He then turns the point against the scholastics: Thomas (Summa I, q. 8, a. 2) and Durandus repeat the citation as Gregory's, trusting Lombard without consulting Gregory, which Daneau calls supine negligence. He also rejects the claim that the text can be found in a Gregorian homily on the Song of Songs as a fabrication.",
+    "claims": [
+      "The passage Lombard ascribes to Gregory is not found in Gregory's works.",
+      "Thomas and Durandus negligently repeat the misattribution by relying on Lombard rather than the original source.",
+      "The claim that the passage occurs in a homily of Gregory on the Song of Songs is false."
+    ],
+    "concepts": ["misattribution", "verification of sources", "scholastic dependence on Lombard", "lapsus memoriae"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e109"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e163": {
+    "summary": "Daneau restores an Augustine passage that Lombard has altered and partly omitted ('Cum Deus sit'). In the original Augustine argues from a sound, which sounds equally in itself yet is grasped unequally by different hearers, to God. All the more can God, incorporeal and immutably living, be wholly present to all things and wholly to each. Augustine adds in a parenthesis that God is not stretched out through stretches of time like a sound and needs no place of air in order to be present. Lombard dropped the whole parenthesis and changed 'can be present' (adesse potest) to 'is present' (adest), which Daneau says deflates the force of Augustine's argument.",
+    "claims": [
+      "Lombard omitted Augustine's parenthesis denying that God is extended in time or needs place in order to be present.",
+      "Changing 'adesse potest' to 'adest' destroys the argumentative force of Augustine's analogy from sound.",
+      "God, being incorporeal and immutable, can be wholly present to all things and wholly to each."
+    ],
+    "concepts": ["divine omnipresence", "whole presence in each part", "analogy of sound", "textual alteration", "incorporeality"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e109", "cv8jk9-e30807-d1e118"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e207": {
+    "summary": "Daneau explains why the Hilary passage 'that he may be where his own things are' is obscure in Lombard: Lombard truncated it. Hilary gave the reason that by God's 'own things' (sua) nothing other than God himself is meant, and this reason makes the passage clear. Lombard also obscures Hilary's later statement that God does not cease to be in all things through his own, because he drops Hilary's immediate gloss that God's own things are nothing other than what he himself is. The paragraph shows how Lombard's truncations hide the identity between God's 'own things' and God's essence.",
+    "claims": [
+      "Lombard's truncation of Hilary makes the statement that God is 'where his own things are' unintelligible.",
+      "For Hilary, God's 'own things' (sua) are nothing other than God himself."
+    ],
+    "concepts": ["divine omnipresence", "divine simplicity", "textual truncation", "God's 'sua'"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e163"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e241": {
+    "summary": "Daneau quotes the full Ambrose passage behind 'Cum omnis creatura' and charges Lombard with two faults. In the original Ambrose argues that every creature is bounded by the limits of its nature. Even invisible creatures that cannot be enclosed by place or bounds are 'enclosed by the property of their substance', so the Holy Spirit, whose power is uncircumscribed and who is in all things and everywhere, cannot be a creature. First, Lombard omits this parenthesis, which neatly explains how angels and souls are in place. Lombard himself later failed to explain this, and his disciples render it in the barbarous term 'definitively', where Ambrose wrote elegantly of 'the property of substance'. Second, Lombard changes Ambrose's 'quia' to 'quae'. This either removes Ambrose's argument or restricts the Spirit's presence to power and efficacy, although Lombard himself said at the start of the chapter that the Father and the Son are everywhere by essence, presence and power.",
+    "claims": [
+      "Ambrose explains how spiritual creatures are in place, namely by the property of their substance, and Lombard omits this explanation.",
+      "The scholastic language of spirits being in place 'definitive' is a barbarous substitute for Ambrose's formula.",
+      "Changing 'quia' to 'quae' either suppresses Ambrose's argument for the Spirit's divinity or wrongly restricts the Spirit's presence to power and efficacy.",
+      "The Holy Spirit, like the Father and the Son, is present everywhere by essence, presence and power."
+    ],
+    "concepts": ["divinity of the Holy Spirit", "circumscription", "spiritual beings in place", "esse definitive", "essence, presence and power", "textual alteration"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e163", "cv8jk9-e30807-d1e306"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e306": {
+    "summary": "A short source note on the preceding Ambrose passage. Daneau traces Ambrose's arguments to the Greek writers on the Holy Spirit, Basil and Didymus, and notes that Augustine later imitated them in several places, especially in Book III of his work against the Arian Maximinus.",
+    "claims": [
+      "Ambrose's arguments about the Holy Spirit's uncircumscribed presence derive from Basil and Didymus.",
+      "Augustine took up the same arguments, especially in his anti-Arian writing against Maximinus."
+    ],
+    "concepts": ["source criticism", "Greek patristic pneumatology", "anti-Arian argument"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e241"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e322": {
+    "summary": "Daneau sets Ambrose's actual wording beside Lombard's version of 'Et quod plus est'. Ambrose says the Spirit filled the world and, what surpasses the whole world, filled Jesus, the redeemer of the whole world, and supports this with the Gospel statement that Jesus returned from the Jordan full of the Holy Spirit. Daneau ends by asking with what fidelity Lombard substituted his own words for Ambrose's.",
+    "claims": [
+      "In Ambrose, the Spirit's filling of Christ is presented as greater than its filling of the world.",
+      "Lombard substituted his own wording for Ambrose's."
+    ],
+    "concepts": ["Holy Spirit filling the world", "Christ full of the Spirit", "textual fidelity"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e241"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e342": {
+    "summary": "A rubric marking the start of Daneau's annotations on Lombard's second chapter.",
+    "claims": [],
+    "concepts": ["rubric", "commentary structure"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": []
+    }
+  },
+
+  "cv8jk9-e30807-d1e347": {
+    "summary": "Daneau notes small changes Lombard makes to an Augustine text on the soul's being somewhere: Augustine has 'alicubi' where Lombard writes 'in aliis', and Lombard adds the word 'operatur', which is not in Augustine. Daneau concedes that the addition may not be against Augustine's mind. He judges, however, that explaining the soul's being somewhere as 'operating' is weaker and colder than Augustine's own phrasing.",
+    "claims": [
+      "Lombard alters Augustine's wording and adds 'operatur', which is absent from the source.",
+      "Explaining the soul's location through operation is a weaker account than Augustine's."
+    ],
+    "concepts": ["location of the soul", "presence by operation", "textual alteration"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e342"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e365": {
+    "summary": "Daneau judges that the Augustine passage behind 'Non satis fuit dicere' has been so dislocated by Lombard as to be barely recognisable, and rather than list every change he transcribes it in full. In it Augustine comments on Christ's prayer that his disciples be 'with me', not merely 'where I am'. The wretched too can be where Christ is, since he is everywhere, but only the blessed are with him, because they can be blessed only from him. Augustine illustrates this with a blind man standing in the light, who is not with the light. So the unbeliever, or even a believer not yet fit to behold wisdom, is not with Christ by sight, though the faithful are with him by faith. Daneau marks Lombard's omissions and substitutions within the text and concludes that what Lombard took can hardly pass for Augustine's.",
+    "claims": [
+      "Lombard's version of this Augustine passage is so altered that it can scarcely be recognised as Augustine's.",
+      "Being where Christ is differs from being with Christ: all are in the former condition, only the blessed in the latter.",
+      "The faithful are with Christ by faith, though not yet by sight."
+    ],
+    "concepts": ["being with Christ", "omnipresence vs. beatific presence", "faith and sight", "analogy of the blind man and light", "textual corruption"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e342", "cv8jk9-e30807-d1e347"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e431": {
+    "summary": "A rubric marking the start of Daneau's annotations on Lombard's third chapter.",
+    "claims": [],
+    "concepts": ["rubric", "commentary structure"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": []
+    }
+  },
+
+  "cv8jk9-e30807-d1e436": {
+    "summary": "Daneau observes that the words following 'Modo secundum fidem' are not Augustine's, though they agree with his mind, and that in the passages against Maximinus from which they are taken Augustine never mentions angels. Since Lombard brings in angels as God's temple, he should have added 'blessed' to specify which angels he meant. The devil's angels are never, now or in the future, God's temple, unless Lombard wishes to pass over to Origen's camp.",
+    "claims": [
+      "The text Lombard presents under Augustine's name here is not Augustine's own wording.",
+      "Augustine's source passages against Maximinus do not mention angels.",
+      "Only the blessed angels, not the devil's angels, are or will be God's temple; holding otherwise implies Origen's error."
+    ],
+    "concepts": ["God's temple", "blessed and fallen angels", "Origenism", "attribution"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e431"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e462": {
+    "summary": "A rubric marking the start of Daneau's annotations on Lombard's fourth chapter.",
+    "claims": [],
+    "concepts": ["rubric", "commentary structure"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": []
+    }
+  },
+
+  "cv8jk9-e30807-d1e467": {
+    "summary": "On 'In caelis, id est, in sanctis', Daneau separates pardonable from intolerable changes to an Augustine text. Replacing 'nullis angustiis' with 'alicubi angustiis', and condensing Augustine's 'a dwelling where the grace of his love is recognised' into 'by the dwelling of grace', may be overlooked. Lombard's gloss of 'in the heavens' as 'in the saints' cannot be tolerated. Augustine does say that God is in the heavens as in his temple and that we are God's temple, whether now or in heaven, but he never restricts the word 'heavens' to the persons of the saints, as Lombard does here and later.",
+    "claims": [
+      "Some of Lombard's verbal changes to Augustine are minor and excusable.",
+      "Interpreting 'in caelis' as 'in sanctis' misrepresents Augustine, who does not restrict 'heavens' to the saints."
+    ],
+    "concepts": ["God in the heavens", "saints as God's temple", "indwelling by grace", "interpretive restriction"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e462", "cv8jk9-e30807-d1e929"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e506": {
+    "summary": "A rubric marking the start of Daneau's annotations on Lombard's fifth chapter.",
+    "claims": [],
+    "concepts": ["rubric", "commentary structure"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": []
+    }
+  },
+
+  "cv8jk9-e30807-d1e511": {
+    "summary": "Daneau argues that Lombard's transposition of the little word 'non' has made obscure a passage that is plain in Augustine. He quotes the original: it is a marvellous thing that God dwells in some who do not yet know him and does not dwell in some who do know him.",
+    "claims": [
+      "Lombard's displacement of 'non' renders Augustine's statement obscure.",
+      "According to Augustine, God may dwell in some who do not yet know him and not dwell in some who do."
+    ],
+    "concepts": ["divine indwelling", "knowledge of God and grace", "textual transposition"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e506"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e530": {
+    "summary": "A rubric marking the start of Daneau's annotations on Lombard's seventh chapter.",
+    "claims": [],
+    "concepts": ["rubric", "commentary structure"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": []
+    }
+  },
+
+  "cv8jk9-e30807-d1e535": {
+    "summary": "A brief parallel-source note: what Lombard cites from Chrysostom (a Greek phrase, garbled in this witness) is also found in John Damascene, On the Orthodox Faith, Book I, chapter 2.",
+    "claims": [
+      "The Chrysostom text cited by Lombard has a parallel in Damascene's De fide orthodoxa I.2."
+    ],
+    "concepts": ["parallel sources", "Greek patristic tradition"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e530"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e546": {
+    "summary": "A rubric marking the start of Daneau's annotations on Lombard's eighth chapter.",
+    "claims": [],
+    "concepts": ["rubric", "commentary structure"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": []
+    }
+  },
+
+  "cv8jk9-e30807-d1e551": {
+    "summary": "On 'Sed actionibus', Daneau notes that in an earlier citation from Augustine's De agone christiano Lombard had only rearranged the order, but here he omits words that should not have been left out. Augustine says that we do not approach him who is everywhere present by moving through places, but by good zeal and good morals. Lombard therefore departs from Augustine's words and also from his sense, because Augustine holds that we approach God only by good actions, not by any actions whatever. Daneau confirms this with Bernard's saying that God is approached by faith, not by foot.",
+    "claims": [
+      "Lombard departs from both the words and the sense of Augustine in this passage.",
+      "We approach the omnipresent God not by local motion but by good dispositions and good conduct, not by any actions whatever.",
+      "God is approached by faith, not by bodily movement."
+    ],
+    "concepts": ["approach to God", "spiritual vs. local motion", "good works", "faith"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e546"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e580": {
+    "summary": "A rubric marking the start of Daneau's annotations on Lombard's ninth chapter.",
+    "claims": [],
+    "concepts": ["rubric", "commentary structure"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": []
+    }
+  },
+
+  "cv8jk9-e30807-d1e585": {
+    "summary": "A minor textual note: where Lombard reads 'condidit', Augustine has 'substituit', unless Daneau's copy is faulty. Daneau judges that Lombard changed the word without any loss of sense.",
+    "claims": [
+      "Lombard's substitution of 'condidit' for Augustine's 'substituit' does not harm the sense."
+    ],
+    "concepts": ["textual variant", "harmless alteration"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e580"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e602": {
+    "summary": "A rubric marking the start of Daneau's annotations on Lombard's fourteenth chapter.",
+    "claims": [],
+    "concepts": ["rubric", "commentary structure"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": []
+    }
+  },
+
+  "cv8jk9-e30807-d1e607": {
+    "summary": "Daneau identifies the source of 'Ita Deus sine labore' as Augustine's letter to Dardanus, assembled by Lombard from different parts of that letter. Much intervening material is omitted and some words are changed, but without harm to Augustine's meaning. In one case Lombard even corrects the text: he reads 'fumus' (smoke) rightly, where the received text of Augustine has the corrupt 'humus', because 'humor and air' follow. Those who keep the old reading wrongly take Augustine to be listing the four elements, when he is illustrating his point with a similitude.",
+    "claims": [
+      "This passage is a compilation from various parts of Augustine's letter to Dardanus.",
+      "Lombard's changes here do not damage Augustine's sense.",
+      "'Fumus' is the correct reading, and 'humus' in the received text of Augustine is a corruption.",
+      "Augustine is offering an illustrative similitude, not enumerating the four elements."
+    ],
+    "concepts": ["textual criticism", "conjectural emendation", "similitude", "four elements", "Letter to Dardanus"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e602", "cv8jk9-e30807-d1e640"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e640": {
+    "summary": "Daneau's longest single correction, on 'Sed immobilitate'. He argues that Lombard has mutilated Augustine's text in wording and in sense. In wording, Lombard turns Augustine's question 'where is it?' into the assertion 'it is everywhere', adds 'local' to 'motion', and rewrites other words by his own 'dictatorial' authority. In sense, Augustine expressly denies that God is everywhere by a kind of immobility, as a mass of stone fills a place, and Lombard affirms exactly this. Lombard also drops Augustine's qualification that he speaks of the Word 'not yet having assumed flesh', which offers a fine explanation and an easy answer to various objections. To justify the censure Daneau quotes the Augustine commentary on the Psalms at length. Wisdom 'reaches from end to end mightily', yet not as an immobile stone mass, nor by a motion that touches one place while leaving another; its 'swiftness' makes it always everywhere and enclosed nowhere. He leaves impartial readers to judge what Lombard's text has in common with Augustine's.",
+    "claims": [
+      "Lombard distorts this Augustine passage in both wording and sense.",
+      "Augustine denies that God is everywhere by an immobility like a stone mass filling a place, whereas Lombard affirms it.",
+      "Lombard omits Augustine's specification that he speaks of the Word before the incarnation.",
+      "God's wisdom is everywhere always and enclosed nowhere, neither by spatial filling nor by successive motion."
+    ],
+    "concepts": ["divine omnipresence", "immobility vs. local presence", "Wisdom reaching from end to end", "velocity of divine wisdom", "Word before incarnation", "textual mutilation"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e602", "cv8jk9-e30807-d1e607"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e736": {
+    "summary": "On 'Quam ille', Daneau admits that the changes are slight ('ipse' to 'ille', 'abusive' to 'improprie'). He nevertheless takes them as evidence of Lombard's audacity and 'tyranny' in handling good authors. He also notes the omission of Augustine's words explaining that God is said to be in his temple because of what is present to it, which should not have been left out.",
+    "claims": [
+      "Even Lombard's minor verbal changes display an unwarranted liberty with authoritative texts.",
+      "Lombard omits Augustine's explanation of why God is said to be in his temple."
+    ],
+    "concepts": ["textual alteration", "authority of the Fathers", "God in his temple"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e640"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e756": {
+    "summary": "A heading marking the turn from chapter-by-chapter textual annotation to Daneau's 'Censura', his doctrinal and methodological critique of the distinction as a whole.",
+    "claims": [],
+    "concepts": ["censura", "commentary structure"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e765"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e765": {
+    "summary": "The introduction to the Censura. Daneau says that his textual observations already show how full of faults the distinction is. Since it also contains other incomparable errors, he will select and note some of them for the benefit of candidates in true Christian theology. He justifies going beyond criticism with Plato's dictum that it is not enough for honest men to censure others unless they also set out their own view.",
+    "claims": [
+      "The distinction contains substantive errors beyond the textual corruptions already noted.",
+      "Criticism should be accompanied by a positive statement of the correct view."
+    ],
+    "concepts": ["censure", "theological education", "constructive criticism"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e756"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e789": {
+    "summary": "First fault: on Lombard's own testimony elsewhere, the whole distinction, though the longest of all, is a mere digression from the subject at hand. It is longer than the three preceding or following distinctions that actually treat the proposed argument. Within this digression there is a further digression of three whole chapters, so that it is a detour within a detour and darkness is added to darkness.",
+    "claims": [
+      "Distinction 37 is a digression from Lombard's proper subject, as Lombard himself indicates.",
+      "The distinction contains a further digression of three chapters within the digression.",
+      "The distinction's length is disproportionate to its relevance."
+    ],
+    "concepts": ["digression", "method", "order of exposition"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e765"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e822": {
+    "summary": "Second fault: confusion. Lombard never says distinctly what he intends. Daneau approves Durandus, who teaches that the disputation must be divided into two heads if everything is not to be confused. The first is how and in what sense God is said to be in his creatures by essence, presence and power. The second is how, in that very respect, God differs from spiritual and corporeal creatures. Lombard treats both confusedly and does not divide his chapters between them, which Daneau mocks as a fine method.",
+    "claims": [
+      "Lombard does not state his purpose clearly, and so confuses the argument.",
+      "The topic should be divided into two questions: how God is in creatures by essence, presence and power, and how God differs from creatures in this respect.",
+      "Durandus's division of the material is correct."
+    ],
+    "concepts": ["method", "essence, presence and power", "God and creatures in place", "division of the question"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e789"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e861": {
+    "summary": "Third fault: Lombard leaves out the use of this long disputation. For Daneau every theological treatment must, following Paul, be referred to edification, lest theology become 'mataeology' (vain talk). He supports this with Plato on the self-hatred of those who labour at useless things and with 1 Timothy 1:4 on questions that breed disputes rather than edification. Daneau notes that Thomas, sensing his master's negligence, supplied the use himself (Summa I, q. 8), with an implied rebuke of Lombard. The doctrine refutes the Manichaeans, who deny that all essences come from God; the Aristotelians, who deny that God's power is present everywhere; and the Platonists, who teach that some things were made by angels rather than by God's power. God's essence is present to all things to give them being, his power to give them strength, and his presence to give them operation. So 'God is everywhere' is to be understood of the way a cause is in its effects.",
+    "claims": [
+      "Theology must be ordered to edification, and disputations without a stated use risk becoming vain speculation.",
+      "Lombard fails to give the use of the doctrine of divine omnipresence.",
+      "The doctrine of God's presence in things refutes Manichaean, Aristotelian and Platonist errors about creation and providence.",
+      "God is in all things by essence giving being, by power giving powers, and by presence giving operation.",
+      "'God is everywhere' should be understood as the presence of a cause in its effects."
+    ],
+    "concepts": ["edification", "use of doctrine", "mataeology", "essence, presence and power", "causal presence", "anti-Manichaean argument", "creation by God alone"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e822"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e929": {
+    "summary": "Fourth fault: Lombard's kind of proof is allegorical. In several chapters he takes 'heavens', including in the Lord's Prayer, to mean the just. Daneau answers with Jerome's principle that an allegorical sense can be denied as easily as it is asserted, and insists that in doctrinal treatments nothing but what is firm and solid should be brought forward.",
+    "claims": [
+      "Allegorical interpretations cannot serve as proofs in doctrinal argument.",
+      "Lombard's reading of 'heavens' as 'the just' is an allegorical and therefore non-probative interpretation."
+    ],
+    "concepts": ["allegorical interpretation", "theological proof", "literal sense", "method"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e467", "cv8jk9-e30807-d1e861"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e953": {
+    "summary": "Fifth fault: outright falsehood, in three counts. First, Lombard says that the divine essence, though illocal and uncircumscribable, is 'moved' by affection and cognition. This would make God mutable in time by Lombard's own definition in the next chapter, so he is neither consistent nor true. Second, that definition is itself false. Blessed angels and human minds are affected by joy and sorrow (as at the repentance of a sinner, Luke 15) without being changed in time, since they suffer no detriment from the passage of time. Change by affection and change in time are entirely different kinds of change, which Lombard confuses, and Daneau supports the distinction with Augustine. Third, it follows necessarily from Lombard's position, falsely and dangerously, that God is even in the devils, a conclusion one of his disciples puts into verse: 'God alone is everywhere, with no distinction of things'.",
+    "claims": [
+      "The divine essence is not moved by affection or cognition, and saying so makes God mutable.",
+      "Lombard's own definition of temporal change contradicts his account of the divine essence.",
+      "Change by affection is distinct from change in time: angels and souls undergo the former without the latter.",
+      "Lombard's teaching implies the false and dangerous conclusion that God is in the devils."
+    ],
+    "concepts": ["divine immutability", "change by affection", "change in time", "temporal mutation", "God's presence in demons", "internal consistency"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e929", "cv8jk9-e30807-d1e1031"]
+    }
+  },
+
+  "cv8jk9-e30807-d1e1031": {
+    "summary": "Daneau answers the last falsehood with Thomas, who corrects his master. It should not be granted absolutely that God is in demons. God sustains their nature, which is angelic and good insofar as it is a nature, but he neither causes, fosters nor approves their vice. God's essence is everywhere without being confused with the things it is in, yet God is not therefore to be said to be in the devils. Scripture does not use that idiom for God's general presence; it uses it of the pious, whom God governs by his Holy Spirit. The objection from Acts 17, that even the impious live and move in God, states a truth, but it does not license saying that God is in the wicked, still less in devils. Such language suggests a fellowship between God and evil foreign to his purity, against the Psalm. Daneau closes the distinction with a point from Ockham that Lombard did not foresee. Some separate God's being everywhere by power from his being everywhere by essence, granting the first and denying the second. The formula 'God is everywhere by essence' therefore needs explanation, lest the divine essence be thought confused with creatures or hypostatically united to them, both of which are false.",
+    "claims": [
+      "It is not to be granted absolutely that God is in demons, though God sustains their nature.",
+      "God sustains the natures of evil beings without causing, fostering or approving their vice.",
+      "Scripture speaks of God being 'in' someone only of the pious, whom he governs by his Spirit, not of his general presence.",
+      "That all live and move in God does not justify saying that God is in the wicked or in devils.",
+      "'God is everywhere by essence' must be explained so as to exclude confusion with creatures and hypostatic union with them."
+    ],
+    "concepts": ["God's presence in demons", "conservation of nature", "evil and divine causality", "scriptural idiom", "divine purity", "presence by power vs. by essence", "hypostatic union", "non-confusion of God and creatures"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["cv8jk9-e30807-d1e953", "cv8jk9-e30807-d1e861"]
+    }
+  }
+}
