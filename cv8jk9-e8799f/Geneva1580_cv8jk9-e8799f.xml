@@ -98,7 +98,7 @@
       <!--174.xml-->
       <pb ed="#G" n="75"/>
                <lb ed="#G" n="1"/>proprie nominatus est, nec Filius, nec Spiritus 
-      san<lb ed="#G" n="2" break="no"/>ctus: sed <quote source="http://scta.info/resource/Itim6_15@5-13">beatus, &amp; solus potens, Rex regum, &amp; 
+      san<lb ed="#G" n="2" break="no"/>ctus: sed <quote xml:id="cv8jk9-e8799f-Qd1e194" source="http://scta.info/resource/Itim6_15@5-13">beatus, &amp; solus potens, Rex regum, &amp; 
       Do<lb ed="#G" n="3" break="no"/>minus dominantium</quote>: quod est vnus, solus &amp; verus 
       <lb ed="#G" n="4"/>Deus ipsa Trinitas. Hic obscure, id est, Vnus &amp;  
       <lb ed="#G" n="5"/>solus verus Deus, qui est ipsa Trinitas. Hic enim 
@@ -137,7 +137,7 @@
                <pb ed="#G" n="76"/>
                <lb ed="#G" n="1"/>Non tres Deos. Longe commodius ad 
       re<lb ed="#G" n="2" break="no"/>futandum superiorem errorem recitaret iste, quae 
-      <lb ed="#G" n="3"/><ref>idem Augustinus eodem lib. 2. cap. 9.</ref> I. 
+      <lb ed="#G" n="3"/><ref xml:id="cv8jk9-e8799f-Rd1e279">idem Augustinus eodem lib. 2. cap. 9.</ref> I. 
       sequen<lb ed="#G" n="4" break="no"/>ti habet, propterea quod cap. 8. eo proprie 
       spe<lb ed="#G" n="5" break="no"/>ctat, vt doceat quae substantialiter de Deo 
       di<lb ed="#G" n="6" break="no"/>cuntur, aequaliter de singulis illis Personis 
